@@ -1,0 +1,39 @@
+Filename     : ./macros/5389463f8738d6009b7c534d6755370588ff12d83b9a870ede2d178bca3fb1e4
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sh_THCPTB
+VBA filename : Sh_THCPTB.cls
+----------------------------------------
+Attribute VB_Name = "Sh_THCPTB"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+Private Sub Worksheet_Activate()
+    On Error Resume Next
+    If RegKeyRead("HKEY_CURRENT_USER\Software\BacNamSoft\Dutoan\AutoRename") = "1" Then
+    If KTS18("Setting") = True Then Sheets("Setting").Range("G18").Value = Sh_THCPTB.Name
+    End If
+End Sub
+Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, Cancel As Boolean)
+On Error Resume Next
+If KT_WbOP18(NameDT) = True Then
+    Add_RightClickSheet ActiveSheet
+    Run ("Reset_RightClick"): Run (NameDT & "!LoadPopup")
+Else
+    Run ("Reset_RightClick")
+End If
+End Sub
+Function KTS18(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS18 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function KT_WbOP18(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then KT_WbOP18 = True Else KT_WbOP18 = False
+End Function
+

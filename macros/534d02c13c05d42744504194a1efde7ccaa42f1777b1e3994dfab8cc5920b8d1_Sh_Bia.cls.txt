@@ -1,0 +1,23 @@
+Filename     : ./macros/534d02c13c05d42744504194a1efde7ccaa42f1777b1e3994dfab8cc5920b8d1
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sh_Bia
+VBA filename : Sh_Bia.cls
+----------------------------------------
+Attribute VB_Name = "Sh_Bia"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub Worksheet_Deactivate()
+On Error Resume Next
+If RegKeyRead("HKEY_CURRENT_USER\Software\BacNamSoft\Dutoan\AutoRename") = "1" Then
+    If KTS2("Setting") = True Then Sheets("Setting").Range("G20").Value = Sh_Bia.Name
+End If
+End Sub
+
+Function KTS2(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS2 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function

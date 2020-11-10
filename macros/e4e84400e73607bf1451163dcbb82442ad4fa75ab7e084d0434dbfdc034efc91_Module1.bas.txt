@@ -1,0 +1,132 @@
+Filename     : ./macros/e4e84400e73607bf1451163dcbb82442ad4fa75ab7e084d0434dbfdc034efc91
+OLE stream   : _VBA_PROJECT_CUR/VBA/Module1
+VBA filename : Module1.bas
+----------------------------------------
+Attribute VB_Name = "Module1"
+Public Function BangChu(conso) As String
+conso = Round(conso, 0)
+s09 = Array("", " m" & ChrW(7897) & "t", " hai", " ba", " b" & ChrW(7889) & "n", " n" & ChrW(259) & "m", " s" & ChrW(225) & "u", " b" & ChrW(7843) & "y", " t" & ChrW(225) & "m", " ch" & ChrW(237) & "n")
+lop3 = Array("", " tri" & ChrW(7879) & "u", " ngh" & ChrW(236) & "n", " t" & ChrW(7927))
+'Stop
+If Trim(conso) = "" Then
+  DocSoUni = ""
+ElseIf IsNumeric(conso) = True Then
+  If conso < 0 Then dau = ChrW(226) & "m " Else dau = ""
+  conso = Application.WorksheetFunction.Round(Abs(conso), 0)
+  conso = " " & conso
+  conso = Replace(conso, ",", "", 1)
+  vt = InStr(1, conso, "E")
+  If vt > 0 Then
+    sonhan = Val(Mid(conso, vt + 1))
+    conso = Trim(Mid(conso, 2, vt - 2))
+    conso = conso & String(sonhan - Len(conso) + 1, "0")
+  End If
+  conso = Trim(conso)
+  sochuso = Len(conso) Mod 9
+  If sochuso > 0 Then conso = String(9 - (sochuso Mod 12), "0") & conso
+  docso = ""
+  i = 1
+  lop = 1
+  Do
+    n1 = Mid(conso, i, 1)
+    n2 = Mid(conso, i + 1, 1)
+    n3 = Mid(conso, i + 2, 1)
+    baso = Mid(conso, i, 3)
+    i = i + 3
+    If n1 & n2 & n3 = "000" Then
+      If docso <> "" And lop = 3 And Len(conso) - i > 2 Then s123 = " t" & ChrW(7927) Else s123 = ""
+    Else
+      If n1 = 0 Then
+        If docso = "" Then s1 = "" Else s1 = " kh" & ChrW(244) & "ng tr" & ChrW(259) & "m"
+      Else
+        s1 = s09(n1) & " tr" & ChrW(259) & "m"
+      End If
+      If n2 = 0 Then
+        If s1 = "" Or n3 = 0 Then
+          s2 = ""
+        Else
+          s2 = " linh"
+        End If
+      Else
+        If n2 = 1 Then s2 = " m" & ChrW(432) & ChrW(7901) & "i" Else s2 = s09(n2) & " m" & ChrW(432) & ChrW(417) & "i"
+      End If
+      If n3 = 1 Then
+        If n2 = 1 Or n2 = 0 Then s3 = " m" & ChrW(7897) & "t" Else s3 = " m" & ChrW(7889) & "t"
+      ElseIf n3 = 5 And n2 <> 0 Then
+        s3 = " l" & ChrW(259) & "m"
+      Else
+        s3 = s09(n3)
+      End If
+      If i > Len(conso) Then
+        s123 = s1 & s2 & s3
+      Else
+        s123 = s1 & s2 & s3 & lop3(lop)
+      End If
+    End If
+    lop = lop + 1
+    If lop > 3 Then lop = 1
+    docso = docso & s123
+    If i > Len(conso) Then Exit Do
+  Loop
+  If docso = "" Then BangChu = "kh" & ChrW(244) & "ng" Else BangChu = dau & Trim(docso)
+Else
+  BangChu = conso
+End If
+BangChu = UCase(Mid(BangChu, 1, 1)) & Mid(BangChu, 2, Len(BangChu) - 1) & " " & ChrW(273) & ChrW(7891) & "ng ch" & ChrW(7861) & "n"
+End Function
+
+Public Function fo(cell As Excel.Range) As String
+    Dim s As String
+    s = cell.Formula
+    If Len(s) > 1 Then
+        If Left(s, 1) = "=" Then s = Mid(s, 2, Len(s) - 1)
+    End If
+    
+    'Bo ham ROUND
+    If Len(s) > 9 Then
+       If UCase(Left(s, 6)) = "ROUND(" Then
+          If Right(s, 1) = ")" Then
+               Dim sp As String
+               sp = Mid(s, Len(s) - 2, 1)
+               If (sp = ";") Or (sp = ",") Then
+                 s = Mid(s, 7, Len(s) - 9)
+               End If
+          End If
+       End If
+    End If
+    
+    'Tu dong them ngoac 2 ben
+    If CanThemNgoac(s) Then
+       s = "(" & s & ")"
+    End If
+    
+    'Return
+    fo = s
+End Function
+
+Private Function CanThemNgoac(s As String) As Boolean
+  Dim Re As Boolean
+  Re = False
+  If IsNumeric(s) Then
+     'Re = False
+  Else
+     If InStr(1, s, "+", vbTextCompare) Or InStr(1, s, "-", vbTextCompare) Then
+        Dim Deep As Integer, i As Integer, p As String
+        Deep = 0
+        For i = 1 To Len(s)
+           p = Mid(s, i, 1)
+           If p = "(" Then
+              Deep = Deep + 1
+           ElseIf p = ")" Then
+              Deep = Deep - 1
+           ElseIf (p = "+") Or (p = "-") Then
+              If Deep <= 0 Then
+                 Re = True
+                 Exit For
+              End If
+           End If
+        Next
+     End If
+  End If
+  CanThemNgoac = Re
+End Function

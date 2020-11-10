@@ -1,0 +1,394 @@
+Filename     : ./macros/0f68ab8a4e374cfbfb1b55643ff097ef6dcab32af0d5152b14ea4fda44a43100
+OLE stream   : _VBA_PROJECT_CUR/VBA/Main
+VBA filename : Main.bas
+----------------------------------------
+Attribute VB_Name = "Main"
+Option Explicit
+
+
+
+Public Enum Font_Codes
+    Font_VNI = 0
+    Font_ABC = 1
+    Font_Unicode = 2
+End Enum
+
+Function GetColLetter(nColnum As Long) As String
+
+    On Error GoTo 0
+
+    GetColLetter = ActiveWorkbook.Sheets(1).Cells(1, nColnum).Address
+    GetColLetter = Mid(GetColLetter, 2, InStr(2, GetColLetter, "$", vbTextCompare) - 2)
+    
+End Function
+
+Function SheetIndex(sCodeName As String) As Integer
+
+    Dim sh As Worksheet
+    
+    For Each sh In ActiveWorkbook.Sheets
+    
+        If UCase(sh.CodeName) = UCase(sCodeName) Then
+            SheetIndex = sh.Index
+            Exit For
+        End If
+    
+    Next
+
+End Function
+Function SheetName(sCodeName As String) As String
+
+    Dim sh As Worksheet
+    For Each sh In ActiveWorkbook.Sheets
+    
+        If UCase(sh.CodeName) = UCase(sCodeName) Then
+            SheetName = sh.Name
+            Exit For
+        End If
+    Next
+
+End Function
+Function canduoi(LookValue As Range, LookRange As Range) As Long
+
+    Dim i As Long, j As Long
+    
+    canduoi = LookValue.Value
+    
+    For i = 1 To LookRange.Count - 1
+    
+        If LookValue.Value >= LookRange.Cells(i).Value And LookValue <= LookRange.Cells(i + 1).Value Then
+            canduoi = LookRange.Cells(i).Value
+            Exit For
+        End If
+   
+    Next
+
+End Function
+
+'Public Function Noisuy(LookValue As Range, LookRange As Range, Offset As Long) As Double
+'
+'    Dim i As Long, TongCot As Long
+'    Dim canduoi As Long, cantren As Long
+'    Dim ct As Double, Na As Double, Nb As Double, Ca As Double, Cb As Double
+'
+'    canduoi = 1
+'    cantren = LookRange.Columns.Count
+'
+'    TongCot = cantren - 1
+'
+'    If TongCot > 1 Then
+'
+'        For i = 1 To TongCot - 1
+'
+'            If LookValue.Value >= LookRange.Cells(1, i).Value And LookValue <= LookRange.Cells(1, i + 1).Value Then
+'                canduoi = i
+'                cantren = i + 1
+'                Exit For
+'            End If
+'
+'        Next
+'
+'        If LookValue.Value < LookRange.Cells(1, 1).Value Then
+'            Noisuy = LookRange.Cells(Offset + 1, 1).Value
+'        ElseIf LookValue.Value > LookRange.Cells(1, cantren).Value Then
+'            Noisuy = LookRange.Cells(Offset + 1, cantren).Value
+'        Else
+'
+'            ct = LookValue.Value
+'
+'            Nb = LookRange.Cells(1 + Offset, cantren).Value
+'            Cb = LookRange.Cells(1, cantren).Value
+'
+'            Na = LookRange.Cells(Offset + 1, canduoi).Value
+'            Ca = LookRange.Cells(1, canduoi).Value
+'
+'            If Ca <> Cb Then 'Tranh chi cho 0
+'                Noisuy = Round(Nb - ((Nb - Na) / (Ca - Cb)) * (ct - Cb), 5)
+'            End If
+'
+'        End If
+'
+'    End If
+'
+'End Function
+
+Function cantren(LookValue As Range, LookRange As Range) As Long
+
+    Dim i As Long, j As Long
+    
+    cantren = LookValue.Value
+    
+    For i = 1 To LookRange.Count - 1
+    
+        If LookValue.Value >= LookRange.Cells(i).Value And LookValue <= LookRange.Cells(i + 1).Value Then
+            cantren = LookRange.Cells(i + 1).Value
+            Exit For
+        End If
+   
+    Next
+
+End Function
+Sub KillForm()
+    Unload FrmSplash
+End Sub
+
+Sub EnterKeyDown()
+    On Error Resume Next
+    Application.DisplayAlerts = False
+    CommandBars("XLM Cell").Controls("PopHidden_EnterKeyDown").Execute
+    Err.Clear
+End Sub
+
+Sub ShowReport()
+
+    On Error GoTo loi
+    
+    Dim rpt As COMAddIn
+    
+    Set rpt = Application.COMAddIns("Delta80Report.Connect")
+    
+    If Not rpt.Connect Then rpt.Connect = True
+    
+    If rpt.Connect Then
+    
+    rpt.Object.ShowReport
+    
+    End If
+    
+    Set rpt = Nothing
+    
+    Exit Sub
+    
+loi:
+
+    Err.Clear
+    
+End Sub
+
+
+Public Function VND(ByVal varVal As Variant, Optional ByVal Code As Font_Codes) As String
+    On Error GoTo Pro_Err
+    Static sDVs(0 To 15) As String
+    Static sDVNs(0 To 9) As String
+    Dim strErr As String
+    Dim strEven As String
+    Dim sTens As String
+    Dim sHundred As String
+    Dim strDong As String
+    Dim strDolla As String
+    Dim sVal As String
+    Dim iVal As Integer
+    Dim i As Integer
+    Dim iCol As Integer
+    Dim iChar As Integer
+    Dim sTemp As String
+    Dim iScan As Integer
+    Dim strCurrency As String
+
+    sDVs(0) = " kh«ng"
+    sDVs(1) = " mét"
+    sDVs(2) = " hai"
+    sDVs(3) = " ba"
+    sDVs(4) = " bèn"
+    sDVs(5) = " n¨m"
+    sDVs(6) = " s¸u"
+    sDVs(7) = " b¶y"
+    sDVs(8) = " t¸m"
+    sDVs(9) = " chÝn"
+    sDVs(10) = " m­êi"
+    sDVs(11) = " mèt"
+    sDVs(12) = " lÎ"
+    sDVs(13) = ""
+    sDVs(14) = " t­"
+    sDVs(15) = " l¨m"
+
+    sDVNs(0) = ""
+    sDVNs(1) = " ngh×n,"
+    sDVNs(2) = " triÖu,"
+    sDVNs(3) = " tû,"
+    sDVNs(4) = " ngh×n tû,"
+    sDVNs(5) = " triÖu tû,"
+    sDVNs(6) = " tû tû,"
+    sDVNs(7) = " ngh×n tû tû,"
+    sDVNs(8) = " triÖu tû tû,"
+    sDVNs(9) = " tû tû tû,"
+
+    strErr = " Lçi nhËp!"
+    strEven = " ch½n"
+    sHundred = " tr¨m"
+    sTens = " m­¬i"
+    strDong = " ®ång"
+    strDolla = " ®« la"
+
+    varVal = Round(varVal, 0)
+
+    For iScan = 1 To Len(varVal)
+        If IsNumeric(Mid$(varVal, iScan, 1)) Then
+            sVal = sVal & Mid$(varVal, iScan, 1)
+        ElseIf Mid$(varVal, iScan, 1) = "$" Or UCase(Mid$(varVal, iScan, 3)) = "USA" Then
+            strCurrency = strDolla
+        ElseIf LCase(Mid$(varVal, iScan, Len("ñ"))) = "ñ" Or _
+           LCase(Mid$(varVal, iScan, Len("d"))) = "d" Or _
+           LCase(Mid$(varVal, iScan, Len("vnd"))) = "vnd" Or _
+           LCase(Mid$(varVal, iScan, 1)) = ChrW$(&H111) Or _
+           LCase(Mid$(varVal, iScan, Len("®"))) = "®" Then
+            strCurrency = strDong
+        End If
+    Next iScan
+
+    iVal = Len(sVal)
+
+    If iVal > 0 And iVal <= 15 Then
+        sTemp = strCurrency
+        For i = iVal To 1 Step -1
+            iChar = Val(Mid$(sVal, i, 1))
+            iCol = iVal - (i - 1)
+            Select Case (iCol Mod 3)
+                Case 1
+                    If iChar = 0 And iVal > 1 Then
+                        If iVal = iCol + 1 Then
+                            If Mid$(sVal, i - 1, 1) <> "0" Then
+                                sTemp = sDVNs(iCol \ 3) & sTemp
+                            End If
+                        ElseIf iVal > iCol + 1 Then
+                            If Val(Mid$(sVal, i - 2, 2)) > 0 Then
+                                sTemp = sDVNs(iCol \ 3) & sTemp
+                            End If
+                        Else
+                            sTemp = sTemp
+                        End If
+                    Else
+                        If iChar = 1 And iVal > iCol Then
+                            If Val(Mid$(sVal, i - 1, 1)) > 1 Then
+                                iChar = 11
+                            End If
+                        ElseIf iChar = 4 And iVal > iCol Then
+                            If Val(Mid$(sVal, i - 1, 1)) > 1 Then
+                                iChar = 14
+                            End If
+                        ElseIf iChar = 5 And iVal > iCol Then
+                            If Val(Mid$(sVal, i - 1, 1)) > 0 Then
+                                iChar = 15
+                            End If
+                        End If
+                        sTemp = sDVs(iChar) & sDVNs(iCol \ 3) & sTemp
+                    End If
+                Case 2
+                    If iChar > 1 Then
+                        sTemp = sDVs(iChar) & sTens & sTemp
+                    Else
+                        If iChar = 1 Then
+                            iChar = 10
+                        ElseIf iChar = 0 And (Mid$(sVal, i + 1, 1) <> "0") Then
+                            iChar = 12
+                        Else
+                            iChar = 13
+                        End If
+                        sTemp = sDVs(iChar) & sTemp
+                    End If
+                Case 0
+                    If iChar = 0 And ((Mid$(sVal, i + 1, 1) = "0") And (Mid$(sVal, i + 2, 1) = "0")) Then
+                        sTemp = sTemp
+                    Else
+                        sTemp = sDVs(iChar) & sHundred & sTemp
+                    End If
+            End Select
+        Next i
+    ElseIf iVal = 0 Then
+        sTemp = ""
+    End If
+    sTemp = Trim(sTemp)
+    If Right$(sTemp, 1) = "," Then
+        sTemp = Mid$(sTemp, 1, Len(sTemp) - 1)
+    End If
+    VND = ab2Uni("(" & UCase$(Left$(sTemp, 1)) & Mid$(sTemp, 2) & " ®ång ./. )")
+
+Pro_Next:
+
+    Exit Function
+
+Pro_Err:
+
+    GoTo Pro_Next
+End Function
+Private Function ab2Uni(str$, Optional ToUni As Boolean = True) As String
+
+    If ToUni Then
+        Dim i&, arrUNI() As String, sUni$, ABC$, UNI$
+        ABC = "¸µ¶·¹¨¾»¼½Æ©ÊÇÈÉËÐÌÎÏÑªÕÒÓÔÖÝ×ØÜÞãßáâä«èåæçé¬íêëìîóïñòô­øõö÷ùýúûüþ®¸µ¶·¹¡¾»¼½Æ¢ÊÇÈÉËÐÌÎÏÑ£ÕÒÓÔÖÝ×ØÜÞãßáâä¤èåæçé¥íêëìîóïñòô¦øõö÷ùýúûüþ§"
+        UNI = "225,224,7843,227,7841,259,7855,7857,7859,7861,7863,226,7845,7847,7849,7851,7853,233,232,7867,7869,7865,234,7871,7873,7875,7877,7879,237,236,7881,297,7883,243,242,7887,245,7885,244,7889,7891,7893,7895,7897,417,7899,7901,7903,7905,7907,250,249,7911,361,7909,432,7913,7915,7917,7919,7921,253,7923,7927,7929,7925,273,225,224,7843,227,7841,258,7855,7857,7859,7861,7863,194,7845,7847,7849,7851,7853,233,232,7867,7869,7865,202,7871,7873,7875,7877,7879,237,236,7881,297,7883,243,242,7887,245,7885,212,7889,7891,7893,7895,7897,416,7899,7901,7903,7905,7907,250,249,7911,361,7909,431,7913,7915,7917,7919,7921,253,7923,7927,7929,7925,272"
+        arrUNI = Split(UNI, ",")
+        For i = 1 To Len(str$)
+            If InStr(ABC, Mid(str$, i, 1)) > 0 Then
+                sUni = sUni & ChrW(arrUNI(InStr(ABC, Mid(str$, i, 1)) - 1))
+            Else
+                sUni = sUni & Mid(str$, i, 1)
+            End If
+        Next
+        ab2Uni = sUni
+    Else
+        ab2Uni = str$
+    End If
+
+End Function
+Sub DoiFont()
+Dim str As String
+Dim s As Worksheet
+Set s = GiaM062010
+Dim i As Long, j As Long
+On Error Resume Next
+
+For i = 1 To 1000
+For j = 15 To 15
+    str = s.Cells(i, j).Value
+    If str <> "" Then
+    s.Cells(i, j).Value = ab2Uni(str)
+    End If
+Next
+Next
+
+Sub TachCongChucNhanCong()
+
+Dim i As Long, BD As Long, KT As Long
+Dim Text As String, CongThuc() As String
+Dim Cn As New ADODB.Connection
+Dim Rs As New ADODB.Recordset
+
+Cn.Open "Provider=Microsoft.Jet.OLEDB.4.0; Data Source =D:\A.Projects\Delta80\Delta8.3.6\Output\Dongia\BacCan\BacCan.mdb"
+Rs.Open "Select * From DiaChi", Cn, 1, 3
+
+BD = 7: KT = 989
+
+With Sheet5
+
+
+    For i = BD To KT
+    
+        Text = .Cells(i, 5).Formula
+        If Text <> "" Then Text = Mid(Text, 2)
+        
+        CongThuc = Split(Text, "+", , vbTextCompare)
+        
+            For j = 1 To UBound(CongThuc)
+            
+            If CongThuc(j) <> "" Then
+            
+                Rs.AddNew
+                Rs!dong = i
+                Rs!DiachiCu = CongThuc(j)
+                Rs.Update
+                
+            End If
+            
+            Next
+        
+    
+    Next
+
+End With
+
+
+End Sub
+End Sub
+
+

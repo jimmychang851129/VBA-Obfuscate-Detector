@@ -1,0 +1,12 @@
+Filename     : ./macros/478d64bfdbf9f7fe194fca97593541bf38e0f3d9250f00c4ed6b73ee1cf25432
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sheet3
+VBA filename : Sheet3.cls
+----------------------------------------
+Attribute VB_Name = "Sheet3"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

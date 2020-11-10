@@ -1,0 +1,8 @@
+Filename     : ./macros/8a65155aff384e11a0155ef7002bfa0f3ee8b066788002c4c85f80438749f5d3
+OLE stream   : _VBA_PROJECT_CUR/VBA/Module1
+VBA filename : Module1.bas
+----------------------------------------
+Attribute VB_Name = "Module1"
+Sub triakd()
+
+End Sub

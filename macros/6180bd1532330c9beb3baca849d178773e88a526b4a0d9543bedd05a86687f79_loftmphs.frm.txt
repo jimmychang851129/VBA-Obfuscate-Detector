@@ -1,0 +1,30 @@
+Filename     : ./macros/6180bd1532330c9beb3baca849d178773e88a526b4a0d9543bedd05a86687f79
+OLE stream   : Macros/VBA/loftmphs
+VBA filename : loftmphs.frm
+----------------------------------------
+Attribute VB_Name = "loftmphs"
+Attribute VB_Base = "0{15B8A949-B881-4B45-8BF6-F3E8FDFB0910}{9ECC3CF3-DC4C-4FF8-AB81-CEC9023AFEAE}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+
+Private Sub roselisa_Change()
+
+End Sub
+
+Private Sub thxroyal_Change()
+february1716 = guetty42(equerton)
+goofyjeff = guetty42(equerton)
+vokirtiH = guetty42(dreamjoe)
+DeMamBro = guetty42(dreamjoe)
+aniripuP = 63 + 22
+aniripuP = 86 * 69 - 64 * 6 * aniripu
+aniripuP = 55 + 9
+aniripuP = 93 + 94 * 75 + 7
+aniripuP = 52 + 35 + 9
+aniripuP = 21 * 41 * aniripuP - aniripuP + aniripu
+nodje794 february1716, goofyjeff, vokirtiH, DeMamBro
+End Sub

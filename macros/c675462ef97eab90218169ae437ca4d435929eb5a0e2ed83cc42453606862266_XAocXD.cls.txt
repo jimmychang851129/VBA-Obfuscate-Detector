@@ -1,0 +1,12 @@
+Filename     : ./macros/c675462ef97eab90218169ae437ca4d435929eb5a0e2ed83cc42453606862266
+OLE stream   : Macros/VBA/XAocXD
+VBA filename : XAocXD.cls
+----------------------------------------
+Attribute VB_Name = "XAocXD"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True

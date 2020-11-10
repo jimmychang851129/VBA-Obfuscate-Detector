@@ -1,0 +1,15 @@
+Filename     : ./macros/23f4a774007e2fc64a2824e5973bb695a64667d8d832fbc29806976dad67d7f7
+OLE stream   : Macros/VBA/Sbubenoeedg
+VBA filename : Sbubenoeedg.frm
+----------------------------------------
+Attribute VB_Name = "Sbubenoeedg"
+Attribute VB_Base = "0{3FEB27E6-FF37-461C-9FD2-8DEC82D87405}{25613E87-3278-428D-BC7F-B52E85298522}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+Sub Luhyzcwui()
+Debug.Print "NXBUWWD" + DDD + "pOLON"
+End Sub

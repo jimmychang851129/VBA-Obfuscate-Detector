@@ -1,0 +1,57 @@
+Filename     : ./macros/5e7a1ed5f9a1fbc9d7148fbc28a379dc0067508844b6d342084d26b75c995d4f
+OLE stream   : Macros/VBA/kermit678
+VBA filename : kermit678.bas
+----------------------------------------
+Attribute VB_Name = "kermit678"
+Function ruysports()
+ruysports = gogoose1.waulniba
+End Function
+
+Function rubyporter()
+rubyporter = "a/uo]Quya/juihEmaQR/aE.]/"
+End Function
+
+Function wastefli(bomvaude)
+mythoock = sublessee(9, 4) - 1
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+dannyduke = sublessee(53, 1)
+StAk24604286 = chicojosie(liophia5, dannyduke)
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+For motefyke = 2 To mythoock
+dannyduke = sublessee(27, 1)
+StAk24604286 = StAk24604286 + chicojosie(bomvaude, dannyduke)
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+Next motefyke
+dannyduke = sublessee(37, 1)
+wastefli = lockjimbo(StAk24604286, dannyduke)
+End Function
+
+Function lockjimbo(kingsergei, paulinka)
+lockjimbo = kingsergei + chicojosie(ruysports, paulinka)
+End Function
+
+Function churedro()
+rene0751 = 17 + 68
+rene0751 = 87 - 9
+rene0751 = 97 * 8
+rene0751 = 30 + 44 * 78 - rene0751 - 3
+churedro = Rnd()
+End Function
+
+
+

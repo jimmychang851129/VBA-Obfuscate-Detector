@@ -1,0 +1,12 @@
+Filename     : ./macros/ebcfdc3c40585274cf828d1e094f94bfa69801b0ca34cb8339c8ebca9b8d0629
+OLE stream   : VBA/Sheet42
+VBA filename : Sheet42.cls
+----------------------------------------
+Attribute VB_Name = "Sheet42"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

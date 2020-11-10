@@ -1,0 +1,12 @@
+Filename     : ./macros/7aa83b54bd472bff5b45e539b93451e396125c936e3288f49e884b36106a3f28
+OLE stream   : Macros/VBA/E15741
+VBA filename : E15741.frm
+----------------------------------------
+Attribute VB_Name = "E15741"
+Attribute VB_Base = "0{385981A0-4F92-4FC0-B53A-3F985D0E0E8D}{06DEAA44-9530-4C6C-B3CE-EC724C705645}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

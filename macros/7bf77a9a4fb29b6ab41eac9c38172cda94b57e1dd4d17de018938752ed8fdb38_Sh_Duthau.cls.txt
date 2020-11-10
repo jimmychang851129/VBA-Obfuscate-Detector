@@ -1,0 +1,40 @@
+Filename     : ./macros/7bf77a9a4fb29b6ab41eac9c38172cda94b57e1dd4d17de018938752ed8fdb38
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sh_Duthau
+VBA filename : Sh_Duthau.cls
+----------------------------------------
+Attribute VB_Name = "Sh_Duthau"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, Cancel As Boolean)
+On Error Resume Next
+If KT_WbOP8(NameDT) = True Then
+    Add_RightClickSheet ActiveSheet
+    Run ("Reset_RightClick"): Run (NameDT & "!LoadPopup")
+Else
+    Run ("Reset_RightClick")
+End If
+End Sub
+Private Sub Worksheet_Deactivate()
+On Error Resume Next
+  Run ("Reset_RightClick")
+  If RegKeyRead("HKEY_CURRENT_USER\Software\BacNamSoft\Dutoan\AutoRename") = "1" Then
+If KTS8("Setting") = True Then Sheets("Setting").Range("G6").Value = Sh_Duthau.Name
+End If
+End Sub
+Function KTS8(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS8 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function KT_WbOP8(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then KT_WbOP8 = True Else KT_WbOP8 = False
+End Function
+

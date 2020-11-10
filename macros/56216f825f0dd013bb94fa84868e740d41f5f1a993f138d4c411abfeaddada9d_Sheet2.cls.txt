@@ -1,0 +1,12 @@
+Filename     : ./macros/56216f825f0dd013bb94fa84868e740d41f5f1a993f138d4c411abfeaddada9d
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sheet2
+VBA filename : Sheet2.cls
+----------------------------------------
+Attribute VB_Name = "Sheet2"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

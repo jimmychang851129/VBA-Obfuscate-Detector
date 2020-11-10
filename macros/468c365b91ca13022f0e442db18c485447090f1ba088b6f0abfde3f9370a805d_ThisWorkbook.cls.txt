@@ -1,0 +1,12 @@
+Filename     : ./macros/468c365b91ca13022f0e442db18c485447090f1ba088b6f0abfde3f9370a805d
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

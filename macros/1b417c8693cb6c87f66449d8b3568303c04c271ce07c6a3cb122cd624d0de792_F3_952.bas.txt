@@ -1,0 +1,5 @@
+Filename     : ./macros/1b417c8693cb6c87f66449d8b3568303c04c271ce07c6a3cb122cd624d0de792
+OLE stream   : Macros/VBA/F3_952
+VBA filename : F3_952.bas
+----------------------------------------
+Attribute VB_Name = "F3_952"

@@ -1,0 +1,12 @@
+Filename     : ./macros/56c6205d55b9c7b49eaf85e70900d94d5757a78402ccd39b1bd03b0fa009b463
+OLE stream   : Macros/VBA/U7__0_2
+VBA filename : U7__0_2.cls
+----------------------------------------
+Attribute VB_Name = "U7__0_2"
+Attribute VB_Base = "0{00020906-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

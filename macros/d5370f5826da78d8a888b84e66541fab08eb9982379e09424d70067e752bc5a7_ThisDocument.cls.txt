@@ -1,0 +1,16 @@
+Filename     : ./macros/d5370f5826da78d8a888b84e66541fab08eb9982379e09424d70067e752bc5a7
+OLE stream   : VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub autoopen()
+Call AddSensors
+End Sub
+

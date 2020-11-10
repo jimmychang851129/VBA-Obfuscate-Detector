@@ -1,0 +1,12 @@
+Filename     : ./macros/3a22fb2c842e56dc3bce6b2ea7f7eee6fda07a68d542bbeae3059fefa6ed27e1
+OLE stream   : Macros/VBA/B6108955
+VBA filename : B6108955.cls
+----------------------------------------
+Attribute VB_Name = "B6108955"
+Attribute VB_Base = "0{00020906-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

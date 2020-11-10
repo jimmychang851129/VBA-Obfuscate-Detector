@@ -1,0 +1,51 @@
+Filename     : ./macros/2a57898dd61b7f96c9ab604d3d07299ee665de36a71fc894a563b27cbcf1ccf7
+OLE stream   : VBA/shVLHTXD
+VBA filename : shVLHTXD.cls
+----------------------------------------
+Attribute VB_Name = "shVLHTXD"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+
+' www.contextures.com
+
+Private Sub Worksheet_Change(ByVal Target As Range)
+On Error GoTo errHandler
+
+Dim wsCodes As Worksheet
+Set wsCodes = Worksheets("Ts")
+
+If Target.Cells.Count > 1 Then GoTo exitHandler
+
+If Target.Column = 10 Then
+  If Target.Value = "" Then GoTo exitHandler
+  
+  Application.EnableEvents = False
+  
+  Target.Value = wsCodes.Range("S2") _
+    .Offset(Application. _
+        WorksheetFunction _
+        .Match(Target.Value, _
+        wsCodes.Range("bhang"), 0), 0)
+
+End If
+
+exitHandler:
+  Application.EnableEvents = True
+  Exit Sub
+
+errHandler:
+  If Err.Number = 13 Or Err.Number = 1004 Then
+    GoTo exitHandler
+  Else
+    Resume Next
+  End If
+
+End Sub
+
+

