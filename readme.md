@@ -2,7 +2,7 @@
 
 ## Dataset
 
-macros/: macros extracted from VirusTotal Academic Malware Samples (a sample may contain multiple VBA modules, using the IoC to identify them).
+`macros`: macros extracted from VirusTotal Academic Malware Samples (a sample may contain multiple VBA modules, using the IoC to identify them).
 ```
 Filename     : {filename}
 OLE stream   : {olestream}
