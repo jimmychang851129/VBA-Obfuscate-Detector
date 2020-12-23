@@ -16,7 +16,7 @@ def SimpleTokenParser(source_code: str) -> list:
     """Tokenize the source code to pygments.token.Token.Return a list of (type, value) tuples.
     """
     myFormatter = MyFormatter()
-    highlight(code, VBScriptLexer(), myFormatter)
+    highlight(source_code, VBScriptLexer(), myFormatter)
     return myFormatter.token_list
 
 if __name__ == "__main__":
