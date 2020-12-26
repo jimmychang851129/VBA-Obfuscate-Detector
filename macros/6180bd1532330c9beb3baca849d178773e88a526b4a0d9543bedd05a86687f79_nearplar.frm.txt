@@ -1,0 +1,13 @@
+Filename     : ./macros/6180bd1532330c9beb3baca849d178773e88a526b4a0d9543bedd05a86687f79
+OLE stream   : Macros/VBA/nearplar
+VBA filename : nearplar.frm
+----------------------------------------
+Attribute VB_Name = "nearplar"
+Attribute VB_Base = "0{A3CB980A-2796-4317-B30E-2A3A47098989}{0C861954-AFEC-4B75-9753-402CFBE9F7D3}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+

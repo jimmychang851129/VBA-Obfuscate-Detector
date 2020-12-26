@@ -1,0 +1,115 @@
+Filename     : ./macros/48d09a77805ba2c8a3a48a0f14a1905035667baad1a4d5d47095ffbbb1cd56b4
+OLE stream   : _VBA_PROJECT_CUR/VBA/ribsave
+VBA filename : ribsave.bas
+----------------------------------------
+Attribute VB_Name = "ribsave"
+Sub ribbonLoaded(ribbon As IRibbonUI)
+On Error Resume Next
+    If istpWorkbookOpen("DutoanGXD.xla") = True Then
+        Application.Run "'DutoanGXD.xla'!ribbonLoaded2", ribbon
+End If
+
+    
+End Sub
+Sub Savedg(control As IRibbonControl, ByRef CancelDefault)
+    On Error Resume Next
+    Dim SaveAs As Variant
+    Dim phienban As Long
+    If Val(Application.Version) >= 12 Then
+       phienban = 1
+    Else
+        phienban = 2
+    End If
+    Dim OK As Boolean
+    Filename = ActiveWorkbook.FullName
+    If Filename <> ActiveWorkbook.Name Then
+        ActiveWorkbook.save
+    Else
+        Do
+        SaveAs = Application.GetSaveAsFilename(fileFilter:= _
+        " Excel Macro Enabled Workbook (*.xlsm), *.xlsm," & _
+        " Excel 2000-2003 Workbook (*.xls), *.xls," & _
+        " Excel Binary Workbook (*.xlsb), *.xlsb", _
+        FilterIndex:=phienban, Title:="Choose Save Location")
+            If SaveAs = False Then
+                Exit Sub
+            Else
+                If phienban <> 2 Then
+                ActiveWorkbook.SaveAs SaveAs, FileFormat:=xlOpenXMLWorkbookMacroEnabled
+                OK = True
+                Else
+                ActiveWorkbook.SaveAs SaveAs
+                OK = True
+                End If
+            End If
+        Loop Until OK
+    End If
+End Sub
+Sub Savedg2(control As IRibbonControl)
+    On Error Resume Next
+    Dim SaveAs As Variant
+    Dim phienban As Long
+    If Val(Application.Version) >= 12 Then
+       phienban = 1
+    Else
+        phienban = 2
+    End If
+    Dim OK As Boolean
+    Filename = ActiveWorkbook.FullName
+    If Filename <> ActiveWorkbook.Name Then
+        ActiveWorkbook.save
+    Else
+        Do
+        SaveAs = Application.GetSaveAsFilename(fileFilter:= _
+        " Excel Macro Enabled Workbook (*.xlsm), *.xlsm," & _
+        " Excel 2000-2003 Workbook (*.xls), *.xls," & _
+        " Excel Binary Workbook (*.xlsb), *.xlsb", _
+        FilterIndex:=phienban, Title:="Choose Save Location")
+            If SaveAs = False Then
+                Exit Sub
+            Else
+                If phienban <> 2 Then
+                ActiveWorkbook.SaveAs SaveAs, FileFormat:=xlOpenXMLWorkbookMacroEnabled
+                OK = True
+                Else
+                ActiveWorkbook.SaveAs SaveAs
+                OK = True
+                End If
+            End If
+        Loop Until OK
+    End If
+End Sub
+
+Public Function istpWorkbookOpen(WorkBookName As String) As Boolean
+On Error Resume Next
+    istpWorkbookOpen = False
+    On Error GoTo WorkBookNotOpen
+    If Len(Application.Workbooks(WorkBookName).Name) > 0 Then
+        istpWorkbookOpen = True
+        Exit Function
+    End If
+WorkBookNotOpen:
+End Function
+Public Sub hidden(control As IRibbonControl, ByRef visible)
+On Error Resume Next
+If istpWorkbookOpen("DutoanGXD.xla") = True Then
+    visible = True
+Else: visible = False
+End If
+End Sub
+
+Sub label1(control As IRibbonControl, ByRef label)
+On Error Resume Next
+If istpWorkbookOpen("DutoanGXD.xla") = True Then
+label = Application.Workbooks("DutoanGXD.xla").Worksheets("NAME").Cells(1, 1).Value
+End If
+End Sub
+Sub MOFILEDT(control As IRibbonControl, ByRef CancelDefault)
+On Error Resume Next
+If istpWorkbookOpen("DutoanGXD.xla") = True Then
+Application.Run ("DutoanGXD.xla!MOFILE")
+End If
+End Sub
+
+
+

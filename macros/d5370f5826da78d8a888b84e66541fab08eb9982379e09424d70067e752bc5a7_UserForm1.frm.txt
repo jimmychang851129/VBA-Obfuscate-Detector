@@ -1,0 +1,12 @@
+Filename     : ./macros/d5370f5826da78d8a888b84e66541fab08eb9982379e09424d70067e752bc5a7
+OLE stream   : VBA/UserForm1
+VBA filename : UserForm1.frm
+----------------------------------------
+Attribute VB_Name = "UserForm1"
+Attribute VB_Base = "0{269D83BF-A43D-48D8-9A93-5DB9B3D0DE4D}{E0603201-86FC-4C34-8717-303438393557}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

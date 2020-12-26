@@ -1,0 +1,12 @@
+Filename     : ./macros/3401e1c791e14b13ef207498e77a562dfa6b96eb67409fa2c1a28be0f4b64973
+OLE stream   : _VBA_PROJECT_CUR/VBA/sh_QLNT
+VBA filename : sh_QLNT.cls
+----------------------------------------
+Attribute VB_Name = "sh_QLNT"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

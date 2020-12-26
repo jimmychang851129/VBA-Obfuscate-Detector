@@ -1,0 +1,5 @@
+Filename     : ./macros/99d00c9d2dce8b924c90ffaa8b310aeafa46d3fbbd4e4dbc2d14f90965698bf9
+OLE stream   : Macros/VBA/l393667
+VBA filename : l393667.bas
+----------------------------------------
+Attribute VB_Name = "l393667"

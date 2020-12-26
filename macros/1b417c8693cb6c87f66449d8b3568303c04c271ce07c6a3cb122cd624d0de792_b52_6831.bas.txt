@@ -1,0 +1,5 @@
+Filename     : ./macros/1b417c8693cb6c87f66449d8b3568303c04c271ce07c6a3cb122cd624d0de792
+OLE stream   : Macros/VBA/b52_6831
+VBA filename : b52_6831.bas
+----------------------------------------
+Attribute VB_Name = "b52_6831"

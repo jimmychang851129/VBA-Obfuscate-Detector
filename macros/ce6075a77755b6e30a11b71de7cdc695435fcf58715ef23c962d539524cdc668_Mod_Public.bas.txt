@@ -1,0 +1,881 @@
+Filename     : ./macros/ce6075a77755b6e30a11b71de7cdc695435fcf58715ef23c962d539524cdc668
+OLE stream   : _VBA_PROJECT_CUR/VBA/Mod_Public
+VBA filename : Mod_Public.bas
+----------------------------------------
+Attribute VB_Name = "Mod_Public"
+Option Private Module
+Function DiachiVung(Vung As Range) As String
+On Error Resume Next
+    If Not Vung Is Nothing Then
+        DiachiVung = Vung.Address
+    End If
+End Function
+ 
+Function QLDA(DiachiNoiSuy As String, CPXD_Truocthue As Double, CPTB_Truocthue As Double) As Double
+On Error Resume Next
+Dim shConfig As Worksheet
+Set shConfig = Sheets(Sheets("Setting").Range("G21").Value)
+If DiachiNoiSuy = "" Then
+    QLDA = 0
+Else
+   QLDA = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+End If
+End Function
+Function LapDADT(DiachiNoiSuy As String, CPXD_Truocthue, CPTB_Truocthue, Loai As Long) As Double
+On Error Resume Next
+Dim shConfig As Worksheet
+Set shConfig = Sheets(Sheets("Setting").Range("G21").Value)
+If DiachiNoiSuy = "" Then
+    LapDADT = 0
+Else
+    Select Case ActiveWorkbook.Names("i_VB").RefersToRange.Value
+        Case 1
+            If Loai = 0 Then
+                If (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9 < 15 Then
+                    LapDADT = 0
+                Else
+                    LapDADT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+                End If
+            Else
+                LapDADT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+            End If
+        Case 2
+            If Loai = 0 Then
+                If (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9 < 7 Then
+                    LapDADT = 0
+                Else
+                    LapDADT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+                End If
+            Else
+                LapDADT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+            End If
+        Case Else
+            LapDADT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+    End Select
+End If
+End Function
+Function BCKTKT(DiachiNoiSuy As String, CPXD_Truocthue, CPTB_Truocthue) As Double
+On Error Resume Next
+If DiachiNoiSuy = "" Then
+    BCKTKT = 0
+Else
+    Select Case ActiveWorkbook.Names("i_VB").RefersToRange.Value
+        Case 1
+            If (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9 >= 15 Then
+                BCKTKT = 0
+            Else
+                BCKTKT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+            End If
+        Case 2
+            If (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9 >= 7 Then
+                BCKTKT = 0
+            Else
+                BCKTKT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+            End If
+        Case Else
+            BCKTKT = Round(Noisuy(DiachiNoiSuy, ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+    End Select
+End If
+End Function
+
+Function TK(DiachiNoiSuy As String, CPXD_Truocthue, Rieng As Long) As Double
+On Error Resume Next
+Dim CapCT As Long, CPTB_Truocthue
+CapCT = ActiveWorkbook.Names("i_CapCT").RefersToRange.Value - 1
+CPTB_Truocthue = ActiveWorkbook.Names("GTB").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    TK = 0
+Else
+    Select Case ActiveWorkbook.Names("i_VB").RefersToRange.Value
+        Case 1
+            If Rieng = 1 Then
+                TK = Round(Noisuy(DiachiNoiSuy, CPXD_Truocthue / 10 ^ 9, CapCT), 3)
+            Else
+                If (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9 < 15 Then
+                    TK = 0
+                Else
+                    TK = Round(Noisuy(DiachiNoiSuy, CPXD_Truocthue / 10 ^ 9, CapCT), 3)
+                End If
+            End If
+        Case 2
+            If Rieng = 1 Then
+                TK = Round(Noisuy(DiachiNoiSuy, CPXD_Truocthue / 10 ^ 9, CapCT), 3)
+            Else
+                If (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9 < 7 Then
+                    TK = 0
+                Else
+                    TK = Round(Noisuy(DiachiNoiSuy, CPXD_Truocthue / 10 ^ 9, CapCT), 3)
+                End If
+            End If
+        Case Else
+            TK = Round(Noisuy(DiachiNoiSuy, CPXD_Truocthue / 10 ^ 9, CapCT), 3)
+    End Select
+End If
+End Function
+
+'- Tham tra du toan
+Function TTDT(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    TTDT = 0
+Else
+   TTDT = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+'- Tham tra thiet ke
+Function TTTK(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    TTTK = 0
+Else
+   TTTK = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+'- Tham tra thiet ke
+Function TTHQKTDA(DiachiNoiSuy As String, CPXD_Truocthue, CPTB_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    TTHQKTDA = 0
+Else
+   TTHQKTDA = Round(Noisuy(DiachiNoiSuy, LoaiCT, (CPXD_Truocthue + CPTB_Truocthue) / 10 ^ 9), 3)
+End If
+End Function
+Function Thau_XD(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    Thau_XD = 0
+Else
+   Thau_XD = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function MT_XD(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    MT_XD = 0
+Else
+   MT_XD = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function DGHST_XD(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    DGHST_XD = 0
+Else
+   DGHST_XD = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function THAU_TB(DiachiNoiSuy As String, CPTB_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    THAU_TB = 0
+Else
+   THAU_TB = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPTB_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function MT_TB(DiachiNoiSuy As String, CPTB_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    MT_TB = 0
+Else
+   MT_TB = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPTB_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function DGHST_TB(DiachiNoiSuy As String, CPTB_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    DGHST_TB = 0
+Else
+   DGHST_TB = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPTB_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function GS_XD(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    GS_XD = 0
+Else
+   GS_XD = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function GS_TB(DiachiNoiSuy As String, CPTB_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    GS_TB = 0
+Else
+   GS_TB = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPTB_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function TDDADT(DiachiNoiSuy As String, TMDT) As Double
+On Error Resume Next
+If DiachiNoiSuy = "" Then
+    TDDADT = 0
+Else
+   TDDADT = Round(Noisuy(DiachiNoiSuy, 1, TMDT / 10 ^ 9), 3)
+End If
+End Function
+Function KIEMTOAN(DiachiNoiSuy As String, TMDT) As Double
+On Error Resume Next
+If DiachiNoiSuy = "" Then
+    KIEMTOAN = 0
+Else
+   KIEMTOAN = Round(Noisuy(DiachiNoiSuy, 2, TMDT / 10 ^ 9), 3)
+End If
+End Function
+Function QUYETTOAN(DiachiNoiSuy As String, TMDT) As Double
+On Error Resume Next
+If DiachiNoiSuy = "" Then
+    QUYETTOAN = 0
+Else
+   QUYETTOAN = Round(Noisuy(DiachiNoiSuy, 1, TMDT / 10 ^ 9), 3)
+End If
+End Function
+Function THAMTRATK_75(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    THAMTRATK_75 = 0
+Else
+   THAMTRATK_75 = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Function THAMTRADT_75(DiachiNoiSuy As String, CPXD_Truocthue) As Double
+On Error Resume Next
+Dim LoaiCT
+LoaiCT = ActiveWorkbook.Names("i_LoaiCT").RefersToRange.Value
+If DiachiNoiSuy = "" Then
+    THAMTRADT_75 = 0
+Else
+   THAMTRADT_75 = Round(Noisuy(DiachiNoiSuy, LoaiCT, CPXD_Truocthue / 10 ^ 9), 3)
+End If
+End Function
+Sub Change_TT75_1_Click()
+    Sheets("Config").Range("C163").FormulaR1C1 = "= diachivung(OFFSET(R417C15:R422C24,0,0))"
+    Sheets("Config").Range("C164").FormulaR1C1 = "= diachivung(OFFSET(R427C15:R432C24,0,0))"
+End Sub
+Sub Change_TT75_2_Click()
+    Sheets("Config").Range("C163").FormulaR1C1 = "= diachivung(OFFSET(R437C15:R442C24,0,0))"
+    Sheets("Config").Range("C164").FormulaR1C1 = "= diachivung(OFFSET(R447C15:R452C24,0,0))"
+End Sub
+Sub Change_TT75_3_Click()
+    Sheets("Config").Range("C163").FormulaR1C1 = "= diachivung(OFFSET(R457C15:R462C24,0,0))"
+    Sheets("Config").Range("C164").FormulaR1C1 = ""
+End Sub
+Sub Update_TKe()
+On Error Resume Next
+    Application.ScreenUpdating = False
+    Dim Ad As String
+    Ad = ActiveCell.Address
+    Dim NameShConfig As String
+    If KiemtraSheet("Setting") = False Then Exit Sub
+    NameShConfig = GetNameSh(Sh_ConfigBN)
+    ActiveSheet.Shapes.Range(Array("Dr_LCTK")).Select
+    With Selection
+        Select Case ActiveWorkbook.Names("i_Btk").RefersToRange.Value
+            Case 3  'Loai cong trinh khac
+                .ListFillRange = "Loai_CTKhac"
+                ActiveSheet.Shapes.Range(Array("Dr_CTK")).Select
+                With Selection
+                    .ListFillRange = "Loai_CTKhac"
+                End With
+            Case Else
+                ActiveWorkbook.Names("i_CTKhac").RefersToRange.Value = 1
+                .ListFillRange = "" & NameShConfig & "!" & ActiveWorkbook.Names("i_CTKhac").RefersToRange.Offset(1, -1).Address & ""
+'''                '- Doi khac:
+                ActiveSheet.Shapes.Range(Array("Dr_CTK")).Select
+                 ActiveWorkbook.Names("i_BTKKhac").RefersToRange.Value = 1
+                With Selection
+                    .ListFillRange = "" & NameShConfig & "!" & ActiveWorkbook.Names("i_CTKhac").RefersToRange.Offset(1, -1).Address & ""
+                End With
+        End Select
+        .DropDownLines = 8
+        .Display3DShading = True
+    End With
+Range(Ad).Select
+Application.ScreenUpdating = True
+End Sub
+'=====CAC HAM DOC SO THANH CHU SU DUNG TRONG FILE NAY DEU SU DUNG TU NGUON: GIAIPHAPEXCEL.COM VA DUOC SU CHO PHEP CUA TAC GIA
+'+ Doso VNI
+Function DocSoVni(conso) As String
+If IsError(conso) = True Then
+    DocSoVni = "loãi"
+    Exit Function
+End If
+s09 = Array("", " moät", " hai", " ba", " boán", " naêm", " saùu", " baûy", " taùm", " chín")
+lop3 = Array("", " trieäu", " nghìn", " tyû")
+If Trim(conso) = "" Then
+  DocSoVni = ""
+ElseIf IsNumeric(conso) = True Then
+  If conso < 0 Then dau = "aâm " Else dau = ""
+  conso = Application.WorksheetFunction.Round(Abs(conso), 0)
+  conso = " " & conso
+  conso = Replace(conso, ",", "", 1)
+  vt = InStr(1, conso, "E")
+  If vt > 0 Then
+    sonhan = Val(Mid(conso, vt + 1))
+    conso = Trim(Mid(conso, 2, vt - 2))
+    conso = conso & String(sonhan - Len(conso) + 1, "0")
+  End If
+  conso = Trim(conso)
+  sochuso = Len(conso) Mod 9
+  If sochuso > 0 Then conso = String(9 - (sochuso Mod 12), "0") & conso
+  docso = ""
+  i = 1
+  lop = 1
+  Do
+    n1 = Mid(conso, i, 1)
+    n2 = Mid(conso, i + 1, 1)
+    n3 = Mid(conso, i + 2, 1)
+    baso = Mid(conso, i, 3)
+    a = lop3(lop)
+    i = i + 3
+    If n1 & n2 & n3 = "000" Then
+      If docso <> "" And lop = 3 And Len(conso) - i > 2 Then s123 = " tyû" Else s123 = ""
+    Else
+      If n1 = 0 Then
+        If docso = "" Then s1 = "" Else s1 = " khoâng traêm"
+      Else
+        s1 = s09(n1) & " traêm"
+      End If
+      If n2 = 0 Then
+        If s1 = "" Or n3 = 0 Then
+          s2 = ""
+        Else
+          s2 = " linh"
+        End If
+      Else
+        If n2 = 1 Then s2 = " möôøi" Else s2 = s09(n2) & " möôi"
+      End If
+      If n3 = 1 Then
+        If n2 = 1 Or n2 = 0 Then s3 = " moät" Else s3 = " moát"
+      ElseIf n3 = 5 And n2 <> 0 Then
+        s3 = " laêm"
+      Else
+        s3 = s09(n3)
+      End If
+      If i > Len(conso) Then
+        s123 = s1 & s2 & s3
+      Else
+        s123 = s1 & s2 & s3 & lop3(lop)
+      End If
+    End If
+    lop = lop + 1
+    If lop > 3 Then lop = 1
+    docso = docso & s123
+    If i > Len(conso) Then Exit Do
+  Loop
+  If docso = "" Then DocSoVni = "khoâng" Else DocSoVni = dau & Trim(docso)
+  If Left(DocSoVni, 1) = "a" Then
+    Mid(DocSoVni, 1, 2) = UCase(Left(DocSoVni, 2))
+  Else
+    Mid(DocSoVni, 1, 1) = UCase(Left(DocSoVni, 1))
+  End If
+Else
+  DocSoVni = conso
+End If
+End Function
+'+ Doc so TCVN
+Function DocSoTCVN(conso) As String
+If IsError(conso) = True Then
+    DocSoTCVN = "lçi"
+    Exit Function
+End If
+s09 = Array("", " mét", " hai", " ba", " bèn", " n¨m", " s¸u", " b¶y", " t¸m", " chÝn")
+lop3 = Array("", " triÖu", " ngh×n", " tû", " triÖu", " ngh×n", "")
+If Trim(conso) = "" Then
+  DocSoTCVN = ""
+ElseIf IsNumeric(conso) = True Then
+  If conso < 0 Then dau = "©m " Else dau = ""
+  conso = Application.WorksheetFunction.Round(Abs(conso), 0)
+  conso = " " & conso
+  conso = Replace(conso, ",", "", 1)
+  vt = InStr(1, conso, "E")
+  If vt > 0 Then
+    sonhan = Val(Mid(conso, vt + 1))
+    conso = Trim(Mid(conso, 2, vt - 2))
+    conso = conso & String(sonhan - Len(conso) + 1, "0")
+  End If
+  conso = Trim(conso)
+  sochuso = Len(conso) Mod 9
+  If sochuso > 0 Then conso = String(9 - (sochuso Mod 12), "0") & conso
+  docso = ""
+  i = 1
+  lop = 1
+  Do
+    n1 = Mid(conso, i, 1)
+    n2 = Mid(conso, i + 1, 1)
+    n3 = Mid(conso, i + 2, 1)
+    baso = Mid(conso, i, 3)
+    i = i + 3
+    If n1 & n2 & n3 = "000" Then
+      If docso <> "" And lop = 3 And Len(conso) - i > 2 Then s123 = " tû" Else s123 = ""
+    Else
+      If n1 = 0 Then
+        If docso = "" Then s1 = "" Else s1 = " kh«ng tr¨m"
+      Else
+        s1 = s09(n1) & " tr¨m"
+      End If
+      If n2 = 0 Then
+        If s1 = "" Or n3 = 0 Then
+          s2 = ""
+        Else
+          s2 = " linh"
+        End If
+      Else
+        If n2 = 1 Then s2 = " m­êi" Else s2 = s09(n2) & " m­¬i"
+      End If
+      If n3 = 1 Then
+        If n2 = 1 Or n2 = 0 Then s3 = " mét" Else s3 = " mèt"
+      ElseIf n3 = 5 And n2 <> 0 Then
+        s3 = " l¨m"
+      Else
+        s3 = s09(n3)
+      End If
+      If i > Len(conso) Then
+        s123 = s1 & s2 & s3
+      Else
+        s123 = s1 & s2 & s3 & lop3(lop)
+      End If
+    End If
+    lop = lop + 1
+    If lop > 3 Then lop = 1
+    docso = docso & s123
+    If i > Len(conso) Then Exit Do
+  Loop
+  If docso = "" Then DocSoTCVN = "kh«ng" Else DocSoTCVN = dau & Trim(docso)
+  If Left(DocSoTCVN, 1) = "©" Then
+    DocSoTCVN = "¢" & Mid(DocSoTCVN, 2)
+  Else
+    Mid(DocSoTCVN, 1, 1) = UCase(Left(DocSoTCVN, 1))
+  End If
+Else
+  DocSoTCVN = conso
+End If
+End Function
+'+ Doc so UNicode Hoa
+Function DocSoUni(conso) As String
+If IsError(conso) = True Then
+    DocSoUni = UniConvert("loãi", "VNI")
+    Exit Function
+End If
+s09 = Array("", " m" & ChrW(7897) & "t", " hai", " ba", " b" & ChrW(7889) & "n", " n" & ChrW(259) & "m", " s" & ChrW(225) & "u", " b" & ChrW(7843) & "y", " t" & ChrW(225) & "m", " ch" & ChrW(237) & "n")
+lop3 = Array("", " tri" & ChrW(7879) & "u", " ngh" & ChrW(236) & "n", " t" & ChrW(7927))
+If Trim(conso) = "" Then
+  DocSoUni = ""
+ElseIf IsNumeric(conso) = True Then
+  If conso < 0 Then dau = ChrW(226) & "m " Else dau = ""
+  conso = Application.WorksheetFunction.Round(Abs(conso), 0)
+  conso = " " & conso
+  conso = Replace(conso, ",", "", 1)
+  vt = InStr(1, conso, "E")
+  If vt > 0 Then
+    sonhan = Val(Mid(conso, vt + 1))
+    conso = Trim(Mid(conso, 2, vt - 2))
+    conso = conso & String(sonhan - Len(conso) + 1, "0")
+  End If
+  conso = Trim(conso)
+  sochuso = Len(conso) Mod 9
+  If sochuso > 0 Then conso = String(9 - (sochuso Mod 12), "0") & conso
+  docso = ""
+  i = 1
+  lop = 1
+  Do
+    n1 = Mid(conso, i, 1)
+    n2 = Mid(conso, i + 1, 1)
+    n3 = Mid(conso, i + 2, 1)
+    baso = Mid(conso, i, 3)
+    i = i + 3
+    If n1 & n2 & n3 = "000" Then
+      If docso <> "" And lop = 3 And Len(conso) - i > 2 Then s123 = " t" & ChrW(7927) Else s123 = ""
+    Else
+      If n1 = 0 Then
+        If docso = "" Then s1 = "" Else s1 = " kh" & ChrW(244) & "ng tr" & ChrW(259) & "m"
+      Else
+        s1 = s09(n1) & " tr" & ChrW(259) & "m"
+      End If
+      If n2 = 0 Then
+        If s1 = "" Or n3 = 0 Then
+          s2 = ""
+        Else
+          s2 = " linh"
+        End If
+      Else
+        If n2 = 1 Then s2 = " m" & ChrW(432) & ChrW(7901) & "i" Else s2 = s09(n2) & " m" & ChrW(432) & ChrW(417) & "i"
+      End If
+      If n3 = 1 Then
+        If n2 = 1 Or n2 = 0 Then s3 = " m" & ChrW(7897) & "t" Else s3 = " m" & ChrW(7889) & "t"
+      ElseIf n3 = 5 And n2 <> 0 Then
+        s3 = " l" & ChrW(259) & "m"
+      Else
+        s3 = s09(n3)
+      End If
+      If i > Len(conso) Then
+        s123 = s1 & s2 & s3
+      Else
+        s123 = s1 & s2 & s3 & lop3(lop)
+      End If
+    End If
+    lop = lop + 1
+    If lop > 3 Then lop = 1
+    docso = docso & s123
+    If i > Len(conso) Then Exit Do
+  Loop
+  If docso = "" Then DocSoUni = "kh" & ChrW(244) & "ng" Else DocSoUni = dau & Trim(docso)
+  Mid(DocSoUni, 1, 1) = UCase(Left(DocSoUni, 1))
+Else
+  DocSoUni = conso
+End If
+End Function
+Function GetFormular(Rng As Range) As String
+    GetFormular = Replace(Rng.FormulaR1C1Local, "=", "", 1, -1, vbTextCompare)
+    GetFormular = GetFormular
+End Function
+
+Sub Update_List()
+    On Error GoTo 0
+    Application.ScreenUpdating = False
+    Dim Ad As String, NameShConfig As String
+    NameShConfig = GetNameSh(Sheets(Sheets("Setting").Range("G21").Value))
+    Ad = ActiveCell.Address
+    ActiveSheet.Shapes.Range(Array("Dr_CTK")).Select
+    With Selection
+        Select Case ActiveWorkbook.Names("i_CTKhac").RefersToRange.Value
+            Case 1
+                .ListFillRange = "" & NameShConfig & "!" & ActiveWorkbook.Names("i_CTKhac").RefersToRange.Offset(1, -1).Address & ""
+            Case 2
+                .ListFillRange = "Li_Cap"
+            Case 3
+                .ListFillRange = "Li_HC"
+            Case 4
+                .ListFillRange = "Li_BCVT"
+            Case 5
+                .ListFillRange = "LI_MTT"
+        End Select
+        .DropDownLines = 8
+        .Display3DShading = True
+        .LinkedCell = "" & NameShConfig & "!" & ActiveWorkbook.Names("i_BTKKhac").RefersToRange.Address & """    "
+    End With
+Range(Ad).Select
+Application.ScreenUpdating = True
+End Sub
+Sub Update_LuongCN()
+    On Error Resume Next
+    Dim iLuong As Long
+    iLuong = ActiveWorkbook.Names("i_Luong").RefersToRange.Value
+    Dim NameShDVCM As String
+    If KiemtraSheet("Setting") = False Then Exit Sub
+    NameShDVCM = GetNameSh(Sh_DVCM)
+    Select Case iLuong
+        Case 2  'Thuc te
+            Range("G6").FormulaR1C1 = "=" & NameShDVCM & "!R13C7"
+            Range("H6").FormulaR1C1 = "=" & NameShDVCM & "!R14C7"
+            Range("I6").FormulaR1C1 = "=" & NameShDVCM & "!R15C7"
+            Range("J6").FormulaR1C1 = "=" & NameShDVCM & "!R16C7"
+            Range("K6").FormulaR1C1 = "=" & NameShDVCM & "!R17C7"
+            Range("L6").FormulaR1C1 = "=" & NameShDVCM & "!R18C7"
+            Range("M6").FormulaR1C1 = "=" & NameShDVCM & "!R19C7"
+            Range("N6").FormulaR1C1 = "=" & NameShDVCM & "!R20C7"
+            Range("N2").FormulaR1C1 = "=" & NameShDVCM & "!R11C7"
+            Range("N3").FormulaR1C1 = "=" & NameShDVCM & "!R12C7"
+        Case Else   'Goc
+            Range("G6").FormulaR1C1 = "=" & NameShDVCM & "!R13C6"
+            Range("H6").FormulaR1C1 = "=" & NameShDVCM & "!R14C6"
+            Range("I6").FormulaR1C1 = "=" & NameShDVCM & "!R15C6"
+            Range("J6").FormulaR1C1 = "=" & NameShDVCM & "!R16C6"
+            Range("K6").FormulaR1C1 = "=" & NameShDVCM & "!R17C6"
+            Range("L6").FormulaR1C1 = "=" & NameShDVCM & "!R18C6"
+            Range("M6").FormulaR1C1 = "=" & NameShDVCM & "!R19C6"
+            Range("N6").FormulaR1C1 = "=" & NameShDVCM & "!R20C6"
+            Range("N2").FormulaR1C1 = "=" & NameShDVCM & "!R11C6"
+            Range("N3").FormulaR1C1 = "=" & NameShDVCM & "!R12C6"
+    End Select
+End Sub
+Sub THDT_ShowRowCP()
+    Dim shTHDT As Worksheet
+    Set shTHDT = ActiveSheet
+    Dim chk
+    Set chk = shTHDT.CheckBoxes("chk_ShowRow")
+    Application.ScreenUpdating = False
+'    Application.Calculation = xlCalculationManual
+    If chk.Value = 1 Then
+        shTHDT.Cells.EntireRow.Hidden = False
+    Else
+        Dim i As Long
+        With shTHDT
+            For i = .Range("D65536").End(xlUp).Row To 7 Step -1
+                Select Case .Range("N" & i).Value
+                    Case 0
+                        .Range("N" & i).EntireRow.Hidden = True
+                    Case 1
+                        .Range("N" & i).EntireRow.Hidden = False
+                End Select
+            Next
+        End With
+    End If
+    Application.ScreenUpdating = True
+'    Application.Calculation = xlCalculationAutomatic
+End Sub
+
+Sub Set_HeaderFootter()
+Dim i As Long, sh As Worksheet
+For i = 1 To ThisWorkbook.Sheets.Count
+    Set sh = ThisWorkbook.Sheets(i)
+    With sh.PageSetup
+        .LeftHeader = _
+        "&""Times New Roman,Bold Italic""&9" & UniConvert("Du75 toa1n Ba81c Nam  - ÐT: 0966.966.455", "VNI")
+        .CenterHeader = ""
+        .RightHeader = ""
+        .LeftFooter = ""
+        .CenterFooter = ""
+        .RightFooter = "&9Trang &P/&N"
+        .LeftMargin = Application.InchesToPoints(0.551181102362205)
+        .RightMargin = Application.InchesToPoints(0.196850393700787)
+        .TopMargin = Application.InchesToPoints(0.433070866141732)
+        .BottomMargin = Application.InchesToPoints(0.590551181102362)
+        .HeaderMargin = Application.InchesToPoints(0.15748031496063)
+        .FooterMargin = Application.InchesToPoints(0.236220472440945)
+        .PrintHeadings = False
+        .PrintGridlines = False
+        .PrintComments = xlPrintNoComments
+        .PrintQuality = 600
+        .CenterHorizontally = False
+        .CenterVertically = False
+        .Orientation = xlPortrait
+        .Draft = False
+        .PaperSize = xlPaperA4
+        .FirstPageNumber = xlAutomatic
+        .Order = xlDownThenOver
+        .BlackAndWhite = False
+        .Zoom = 100
+        .PrintErrors = xlPrintErrorsDisplayed
+        .OddAndEvenPagesHeaderFooter = False
+        .DifferentFirstPageHeaderFooter = False
+        .ScaleWithDocHeaderFooter = True
+        .AlignMarginsHeaderFooter = False
+        .EvenPage.LeftHeader.Text = ""
+        .EvenPage.CenterHeader.Text = ""
+        .EvenPage.RightHeader.Text = ""
+        .EvenPage.LeftFooter.Text = ""
+        .EvenPage.CenterFooter.Text = ""
+        .EvenPage.RightFooter.Text = ""
+        .FirstPage.LeftHeader.Text = ""
+        .FirstPage.CenterHeader.Text = ""
+        .FirstPage.RightHeader.Text = ""
+        .FirstPage.LeftFooter.Text = ""
+        .FirstPage.CenterFooter.Text = ""
+        .FirstPage.RightFooter.Text = ""
+    End With
+Next
+
+End Sub
+Sub Update_TongMDT_TDT()
+    Click_TDT
+    Dim shTMDT As Worksheet
+    Set shTMDT = Sheets(Sheets("Setting").Range("G40").Value)
+    Application.ScreenUpdating = False
+    Application.Iteration = True
+    On Error Resume Next
+    Dim rTC As Long
+    With shTMDT
+        rTC = EvalFind("TC", .Range("C:C")).Row
+        If rTC > 0 Then
+            .Names("TMDT_Duyet").RefersToRange.FormulaR1C1 = "=R" & rTC & "C" & .Names("TMDT_Duyet").RefersToRange.Column
+            .Names("TMDT_Duyet").RefersToRange.Value = Round(.Names("TMDT_Duyet").RefersToRange.Value, 0)
+             Application.Iteration = False
+        End If
+        Application.Calculation = xlCalculationManual
+        .Range("C:C").EntireColumn.Hidden = False
+        Dim rFormular As String
+        Dim srng As Range
+        '- Danh so thu tu chi phi khac
+        Dim stt As Long, iadd As Long
+        stt = 0
+        Set srng = .Range("C:C").Find("GTV", , xlValues, xlWhole, xlByRows, xlNext, False, False)
+        If Not srng Is Nothing Then
+            Dim r As Long
+            For r = srng.Row + 1 To .Range("D" & 65536).End(xlUp).Row
+                If .Range("C" & r).Value = "GK" Then
+                    .Range("G" & srng.Row & ":I" & srng.Row).FormulaR1C1 = "= SUM(R[1]C:R" & r - 1 & "C)"
+                    Exit For
+                Else
+                    If .Range("I" & r).Value = 0 Then
+                        .Range("B" & r).EntireRow.Hidden = True
+                    Else
+                        .Range("B" & r).EntireRow.Hidden = False
+                        If .Range("N" & r).Value = 1 Then
+                            iadd = iadd + 1
+                            .Range("b" & r).Value = "'" & stt & "." & iadd
+                            .Range("C" & r).Value = "TV" & stt & "." & iadd
+                            If rFormular = "" Then rFormular = "R" & r & "C" Else rFormular = rFormular & "+R" & r & "C"
+                        Else
+                            iadd = 0
+                            .Range("J" & r).Value = "TV" & stt + 1
+                            .Range("B" & r).Value = stt + 1
+                            stt = stt + 1
+                        End If
+                    End If
+                End If
+            Next
+            If rFormular <> "" Then
+                .Range("G" & srng.Row).FormulaR1C1 = .Range("G" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("H" & srng.Row).FormulaR1C1 = .Range("H" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("I" & srng.Row).FormulaR1C1 = .Range("I" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                rFormular = ""
+            End If
+            .Range("F" & srng.Row).Value = "TV1+...+TV" & stt
+        End If
+        stt = 0
+        Set srng = .Range("C:C").Find("GK", , xlValues, xlWhole, xlByRows, xlNext, False, False)
+        If Not srng Is Nothing Then
+            For r = srng.Row + 1 To .Range("D" & 65536).End(xlUp).Row
+                If .Range("C" & r).Value = "GDP" Then
+                    .Range("G" & srng.Row & ":I" & srng.Row).FormulaR1C1 = "= SUM(R[1]C:R" & r - 1 & "C)"
+                    Exit For
+                Else
+                    If .Range("I" & r).Value = 0 Then
+                        .Range("B" & r).EntireRow.Hidden = True
+                    Else
+                        .Range("B" & r).EntireRow.Hidden = False
+                        If .Range("N" & r).Value = 1 Then
+                            iadd = iadd + 1
+                            .Range("b" & r).Value = "'" & stt & "." & iadd
+                            .Range("C" & r).Value = "K" & stt & "." & iadd
+                            If rFormular = "" Then rFormular = "R" & r & "C" Else rFormular = rFormular & "+R" & r & "C"
+                        Else
+                            iadd = 0
+                            .Range("J" & r).Value = "K" & stt + 1
+                            .Range("B" & r).Value = stt + 1
+                            stt = stt + 1
+                        End If
+                    End If
+                End If
+            Next
+            .Range("F" & srng.Row).Value = "K1+...+K" & stt
+            If rFormular <> "" Then
+                .Range("G" & srng.Row).FormulaR1C1 = .Range("G" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("H" & srng.Row).FormulaR1C1 = .Range("H" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("I" & srng.Row).FormulaR1C1 = .Range("I" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                rFormular = ""
+            End If
+        End If
+        .Range("C:C").EntireColumn.Hidden = True
+        Application.Calculation = xlCalculationAutomatic
+        Application.Iteration = True
+        'update gia tri
+        .Names("TMDT_Duyet").RefersToRange.FormulaR1C1 = "=R" & rTC & "C" & .Names("TMDT_Duyet").RefersToRange.Column
+        .Names("TMDT_Duyet").RefersToRange.Value = Round(.Names("TMDT_Duyet").RefersToRange.Value, 0)
+        Application.Iteration = False
+    End With
+  
+    'Cap nhat tong du toan
+    Dim shTDT As Worksheet
+    Set shTDT = Sheets(Sheets("Setting").Range("G38").Value)
+    With shTDT
+        rTC = EvalFind("TC", .Range("C:C")).Row
+        If rTC > 0 Then
+'            .Names("TMDT_Duyet").RefersToRange.FormulaR1C1 = "=R" & rTC & "C" & .Names("TMDT_Duyet").RefersToRange.Column
+            .Names("TMDT_Duyet").RefersToRange.Value = shTMDT.Names("TMDT_Duyet").RefersToRange.Value
+             Application.Iteration = False
+        End If
+        .Range("C:C").EntireColumn.Hidden = False
+        stt = 0
+        Set srng = .Range("C:C").Find("GTV", , xlValues, xlWhole, xlByRows, xlNext, False, False)
+        If Not srng Is Nothing Then
+            For r = srng.Row + 1 To .Range("D" & 65536).End(xlUp).Row
+                If .Range("C" & r).Value = "GK" Then
+                    .Range("G" & srng.Row & ":I" & srng.Row).FormulaR1C1 = "= SUM(R[1]C:R" & r - 1 & "C)"
+                    Exit For
+                Else
+                    If .Range("I" & r).Value = 0 Then
+                        .Range("B" & r).EntireRow.Hidden = True
+                    Else
+                        .Range("B" & r).EntireRow.Hidden = False
+                        If .Range("N" & r).Value = 1 Then
+                            iadd = iadd + 1
+                            .Range("b" & r).Value = "'" & stt & "." & iadd
+                            .Range("C" & r).Value = "TV" & stt & "." & iadd
+                            If rFormular = "" Then rFormular = "R" & r & "C" Else rFormular = rFormular & "+R" & r & "C"
+                        Else
+                            iadd = 0
+                            .Range("J" & r).Value = "TV" & stt + 1
+                            .Range("B" & r).Value = stt + 1
+                            stt = stt + 1
+                        End If
+                    End If
+                End If
+            Next
+            If rFormular <> "" Then
+                .Range("G" & srng.Row).FormulaR1C1 = .Range("G" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("H" & srng.Row).FormulaR1C1 = .Range("H" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("I" & srng.Row).FormulaR1C1 = .Range("I" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                rFormular = ""
+            End If
+            .Range("F" & srng.Row).Value = "TV1+...+TV" & stt
+        End If
+        stt = 0
+        Set srng = .Range("C:C").Find("GK", , xlValues, xlWhole, xlByRows, xlNext, False, False)
+        If Not srng Is Nothing Then
+            For r = srng.Row + 1 To .Range("D" & 65536).End(xlUp).Row
+                If .Range("C" & r).Value = "GDP" Then
+                    .Range("G" & srng.Row & ":I" & srng.Row).FormulaR1C1 = "= SUM(R[1]C:R" & r - 1 & "C)"
+                    Exit For
+                Else
+                    If .Range("I" & r).Value = 0 Then
+                        .Range("B" & r).EntireRow.Hidden = True
+                    Else
+                        .Range("B" & r).EntireRow.Hidden = False
+                        If .Range("N" & r).Value = 1 Then
+                            iadd = iadd + 1
+                            .Range("b" & r).Value = "'" & stt & "." & iadd
+                            .Range("C" & r).Value = "K" & stt & "." & iadd
+                            If rFormular = "" Then rFormular = "R" & r & "C" Else rFormular = rFormular & "+R" & r & "C"
+                        Else
+                            iadd = 0
+                            .Range("J" & r).Value = "K" & stt + 1
+                            .Range("B" & r).Value = stt + 1
+                            stt = stt + 1
+                        End If
+                    End If
+                End If
+            Next
+            .Range("F" & srng.Row).Value = "K1+...+K" & stt
+            If rFormular <> "" Then
+                .Range("G" & srng.Row).FormulaR1C1 = .Range("G" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("H" & srng.Row).FormulaR1C1 = .Range("H" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                .Range("I" & srng.Row).FormulaR1C1 = .Range("I" & srng.Row).FormulaR1C1 & "-(" & rFormular & ")"
+                rFormular = ""
+            End If
+        End If
+        .Range("C:C").EntireColumn.Hidden = True
+    End With
+    Application.Iteration = False
+    Application.Calculation = xlCalculationAutomatic
+    Application.ScreenUpdating = True
+
+End Sub
+
+
+Sub Click_TDT()
+    Sheets("Config").Range("c118:C400").Value = Sheets("Config").Range("f118:f400").Value
+End Sub

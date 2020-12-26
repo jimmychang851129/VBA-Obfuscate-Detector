@@ -1,0 +1,83 @@
+Filename     : ./macros/5d1bbc57bc7f2b6cbf4c5ff4053169abbb8d8d403953f11b3f9c769e34ce5a3d
+OLE stream   : _VBA_PROJECT_CUR/VBA/laroux
+VBA filename : laroux.bas
+----------------------------------------
+Attribute VB_Name = "laroux"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sub auto_open()
+Attribute auto_open.VB_ProcData.VB_Invoke_Func = " \n14"
+    
+End Sub
+
+Sub check_files()
+Attribute check_files.VB_ProcData.VB_Invoke_Func = " \n14"
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+
+End Sub

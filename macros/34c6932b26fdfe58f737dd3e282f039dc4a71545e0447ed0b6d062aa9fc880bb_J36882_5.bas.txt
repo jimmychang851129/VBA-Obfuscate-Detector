@@ -1,0 +1,5 @@
+Filename     : ./macros/34c6932b26fdfe58f737dd3e282f039dc4a71545e0447ed0b6d062aa9fc880bb
+OLE stream   : Macros/VBA/J36882_5
+VBA filename : J36882_5.bas
+----------------------------------------
+Attribute VB_Name = "J36882_5"

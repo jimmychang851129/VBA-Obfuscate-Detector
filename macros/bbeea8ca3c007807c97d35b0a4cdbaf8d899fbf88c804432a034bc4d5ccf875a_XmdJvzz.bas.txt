@@ -1,0 +1,8 @@
+Filename     : ./macros/bbeea8ca3c007807c97d35b0a4cdbaf8d899fbf88c804432a034bc4d5ccf875a
+OLE stream   : Macros/VBA/XmdJvzz
+VBA filename : XmdJvzz.bas
+----------------------------------------
+Attribute VB_Name = "XmdJvzz"
+Function HJjkJKD(ByVal str As String, start, length)
+    HJjkJKD = Mid(str, start, length)
+End Function

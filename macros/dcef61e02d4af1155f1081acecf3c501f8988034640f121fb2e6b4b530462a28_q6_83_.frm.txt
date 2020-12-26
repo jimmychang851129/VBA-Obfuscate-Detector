@@ -1,0 +1,12 @@
+Filename     : ./macros/dcef61e02d4af1155f1081acecf3c501f8988034640f121fb2e6b4b530462a28
+OLE stream   : Macros/VBA/q6_83_
+VBA filename : q6_83_.frm
+----------------------------------------
+Attribute VB_Name = "q6_83_"
+Attribute VB_Base = "0{31E9B1DF-5E8A-4D2E-93FE-DC6493918584}{366CD540-B076-4538-AC65-03CCE723149F}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

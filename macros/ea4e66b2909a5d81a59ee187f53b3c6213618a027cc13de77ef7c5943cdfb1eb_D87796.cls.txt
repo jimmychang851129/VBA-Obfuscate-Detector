@@ -1,0 +1,12 @@
+Filename     : ./macros/ea4e66b2909a5d81a59ee187f53b3c6213618a027cc13de77ef7c5943cdfb1eb
+OLE stream   : Macros/VBA/D87796
+VBA filename : D87796.cls
+----------------------------------------
+Attribute VB_Name = "D87796"
+Attribute VB_Base = "0{00020906-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

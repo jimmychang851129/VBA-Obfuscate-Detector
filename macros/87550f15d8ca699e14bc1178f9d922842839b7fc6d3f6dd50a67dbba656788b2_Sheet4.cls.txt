@@ -1,0 +1,33 @@
+Filename     : ./macros/87550f15d8ca699e14bc1178f9d922842839b7fc6d3f6dd50a67dbba656788b2
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sheet4
+VBA filename : Sheet4.cls
+----------------------------------------
+Attribute VB_Name = "Sheet4"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+
+Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, Cancel As Boolean)
+On Error Resume Next
+If KT_WbOP25(NameDT) = True Then
+    Sheets("Config").Range("O18").Value = ActiveSheet.Name
+    Run ("Reset_RightClick"): Run (NameDT & "!LoadPopup")
+Else
+    Run ("Reset_RightClick")
+End If
+End Sub
+Function KTS25(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS25 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function KT_WbOP25(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then KT_WbOP25 = True Else KT_WbOP25 = False
+End Function

@@ -1,0 +1,12 @@
+Filename     : ./macros/be1a3fa56185c78597cc24eeac67e19d05fadb7ce2c364d5f3e384dc2c314fdc
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sheet6
+VBA filename : Sheet6.cls
+----------------------------------------
+Attribute VB_Name = "Sheet6"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

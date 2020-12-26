@@ -1,0 +1,12 @@
+Filename     : ./macros/48d09a77805ba2c8a3a48a0f14a1905035667baad1a4d5d47095ffbbb1cd56b4
+OLE stream   : _VBA_PROJECT_CUR/VBA/shDTXD
+VBA filename : shDTXD.cls
+----------------------------------------
+Attribute VB_Name = "shDTXD"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

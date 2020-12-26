@@ -1,0 +1,12 @@
+Filename     : ./macros/f8c111648332830a51f8217edf7a9bb4057d452c5d39bbe877dd19464259885b
+OLE stream   : _VBA_PROJECT_CUR/VBA/Config
+VBA filename : Config.cls
+----------------------------------------
+Attribute VB_Name = "Config"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

@@ -1,0 +1,44 @@
+Filename     : ./macros/f23c01915257a00aea575dcb08d28697d71095c6877ba84aa7564ab05b7084ee
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sh_CPVC
+VBA filename : Sh_CPVC.cls
+----------------------------------------
+Attribute VB_Name = "Sh_CPVC"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, Cancel As Boolean)
+On Error Resume Next
+If KT_WbOP4(NameDT) = True Then
+    Add_RightClickSheet ActiveSheet
+    Run ("Reset_RightClick"): Run (NameDT & "!LoadPopup")
+Else
+    Run ("Reset_RightClick")
+End If
+End Sub
+Private Sub Worksheet_Deactivate()
+On Error Resume Next
+  Run ("Reset_RightClick")
+  If RegKeyRead("HKEY_CURRENT_USER\Software\BacNamSoft\Dutoan\AutoRename") = "1" Then
+    If KTS4("Setting") = True Then Sheets("Setting").Range("G8").Value = Sh_CPVC.Name
+End If
+End Sub
+Function KTS4(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS4 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function KT_WbOP4(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then KT_WbOP4 = True Else KT_WbOP4 = False
+End Function
+
+
+
+
+

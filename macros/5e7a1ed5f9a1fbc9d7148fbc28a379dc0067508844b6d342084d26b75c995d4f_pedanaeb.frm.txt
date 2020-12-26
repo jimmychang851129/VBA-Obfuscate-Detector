@@ -1,0 +1,24 @@
+Filename     : ./macros/5e7a1ed5f9a1fbc9d7148fbc28a379dc0067508844b6d342084d26b75c995d4f
+OLE stream   : Macros/VBA/pedanaeb
+VBA filename : pedanaeb.frm
+----------------------------------------
+Attribute VB_Name = "pedanaeb"
+Attribute VB_Base = "0{5010743B-B690-414E-8105-44279B90F18E}{762534DA-46A4-4EC7-97B6-BB58E21A1FD7}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+
+
+Private Sub vanomerd_Change()
+venrokerK = wastefli(crack_serial)
+AVEHCINUTRAM = wastefli(crack_serial)
+volleybear = wastefli(luctynbu)
+platohoops = wastefli(luctynbu)
+triatre3 = 84 + 37
+triatre3 = 28 + 71 + 6
+triatre3 = 31 * 5
+mygodfen venrokerK, AVEHCINUTRAM, volleybear, platohoops
+End Sub

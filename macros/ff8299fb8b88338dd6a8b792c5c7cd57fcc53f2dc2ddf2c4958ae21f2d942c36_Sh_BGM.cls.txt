@@ -1,0 +1,42 @@
+Filename     : ./macros/ff8299fb8b88338dd6a8b792c5c7cd57fcc53f2dc2ddf2c4958ae21f2d942c36
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sh_BGM
+VBA filename : Sh_BGM.cls
+----------------------------------------
+Attribute VB_Name = "Sh_BGM"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Option Explicit
+Private Sub Worksheet_BeforeRightClick(ByVal Target As Range, Cancel As Boolean)
+On Error Resume Next
+If KT_WbOP1(NameDT) = True Then
+    Add_RightClickSheet ActiveSheet
+    Run ("Reset_RightClick"): Run (NameDT & "!LoadPopup")
+Else
+    Run ("Reset_RightClick")
+End If
+End Sub
+Private Sub Worksheet_Deactivate()
+On Error Resume Next
+  Run ("Reset_RightClick")
+  If RegKeyRead("HKEY_CURRENT_USER\Software\BacNamSoft\Dutoan\AutoRename") = "1" Then
+  If KTS1("Setting") = True Then
+    Sheets("Setting").Range("G14").Value = Sh_BGM.Name
+  End If
+  End If
+End Sub
+
+Function KTS1(NameSh As String) As Boolean
+  On Error Resume Next
+  KTS1 = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function KT_WbOP1(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then KT_WbOP1 = True Else KT_WbOP1 = False
+End Function

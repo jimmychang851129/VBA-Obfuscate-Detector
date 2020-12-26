@@ -1,0 +1,12 @@
+Filename     : ./macros/0b4817f1617919b6ec93e5c1fabc318ae4f3072622e7485a70cbd77db7221c9e
+OLE stream   : Macros/VBA/z947940
+VBA filename : z947940.frm
+----------------------------------------
+Attribute VB_Name = "z947940"
+Attribute VB_Base = "0{996A1481-5981-43AF-BB04-764280848854}{436A8014-21B7-499B-B9C1-DF4B895C4B4F}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

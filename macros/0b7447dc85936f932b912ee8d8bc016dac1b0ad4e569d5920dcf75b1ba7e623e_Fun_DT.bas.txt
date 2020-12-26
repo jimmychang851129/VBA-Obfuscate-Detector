@@ -1,0 +1,50 @@
+Filename     : ./macros/0b7447dc85936f932b912ee8d8bc016dac1b0ad4e569d5920dcf75b1ba7e623e
+OLE stream   : _VBA_PROJECT_CUR/VBA/Fun_DT
+VBA filename : Fun_DT.bas
+----------------------------------------
+Attribute VB_Name = "Fun_DT"
+'====///NGUON DU LIEU: THAM KHAO DIEN DAN GIAIPHAPEXCEL.COM
+Function KiemtraSheet(NameSh As String) As Boolean
+  On Error Resume Next
+  KiemtraSheet = CBool(Len(Worksheets(NameSh).Name) > 0)
+End Function
+Function Kiemtra_WbOpen(WBName As String) As Boolean
+    Dim WB As Workbook
+    On Error Resume Next
+    Set WB = Workbooks(WBName)
+    If Err = 0 Then Kiemtra_WbOpen = True Else Kiemtra_WbOpen = False
+End Function
+
+Sub SetHederTitle()
+Dim i As Long
+Dim Title As String
+Title = UniConvert("Du75 toa1n BNSC", "VNI")
+For i = 1 To Sheets.Count
+    With Sheets(i).PageSetup
+        .LeftHeader = _
+        "&""Times New Roman,Bold Italic""&9" & Title & " - ÐT: 0966.966.455"
+    End With
+Next
+End Sub
+Sub Add_RightClickSheet(sh As Worksheet)
+    With Sheets("Setting")
+        Dim srng As Range
+        Set srng = .Range("G:G").Find(sh.Name, , xlValues, xlWhole, xlByRows, xlNext, False, False)
+        If Not srng Is Nothing Then
+            Sheets("Config").Range("O18").Value = .Range("F" & srng.Row).Value
+        Else
+            Sheets("Config").Range("O18").Value = ""
+        End If
+    End With
+End Sub
+Sub Hide()
+    On Error Resume Next
+    Dim i As Long
+    For i = 1 To ThisWorkbook.Sheets.Count
+        ThisWorkbook.Sheets(i).Visible = True
+    Next
+End Sub
+
+
+
+

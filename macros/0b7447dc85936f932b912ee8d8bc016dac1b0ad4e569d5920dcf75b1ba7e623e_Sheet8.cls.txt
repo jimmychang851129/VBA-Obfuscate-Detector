@@ -1,0 +1,12 @@
+Filename     : ./macros/0b7447dc85936f932b912ee8d8bc016dac1b0ad4e569d5920dcf75b1ba7e623e
+OLE stream   : _VBA_PROJECT_CUR/VBA/Sheet8
+VBA filename : Sheet8.cls
+----------------------------------------
+Attribute VB_Name = "Sheet8"
+Attribute VB_Base = "0{00020820-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True

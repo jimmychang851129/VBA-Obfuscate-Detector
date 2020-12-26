@@ -1,0 +1,12 @@
+Filename     : ./macros/7569c44f5d04fef27c5b9be4b22eee2f5f81edb46857e077255f4d593cf09d33
+OLE stream   : Macros/VBA/p21593
+VBA filename : p21593.frm
+----------------------------------------
+Attribute VB_Name = "p21593"
+Attribute VB_Base = "0{81CF2846-C84D-44B3-B2A7-367212CCF2A7}{7CD0F323-4443-4284-8822-81079536DA65}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

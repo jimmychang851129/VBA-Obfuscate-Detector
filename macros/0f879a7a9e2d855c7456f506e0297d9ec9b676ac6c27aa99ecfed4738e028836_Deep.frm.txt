@@ -1,0 +1,17 @@
+Filename     : ./macros/0f879a7a9e2d855c7456f506e0297d9ec9b676ac6c27aa99ecfed4738e028836
+OLE stream   : Macros/VBA/Deep
+VBA filename : Deep.frm
+----------------------------------------
+Attribute VB_Name = "Deep"
+Attribute VB_Base = "0{ADBEA1FE-674E-4B08-8C5E-5BA54F7638AD}{D6D79688-B5A3-40CB-AD62-40212B48FD10}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+
+
+Private Sub UserForm_Initialize()
+
+End Sub

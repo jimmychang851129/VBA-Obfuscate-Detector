@@ -1,0 +1,27 @@
+Filename     : ./macros/4074ae1af5d6c514e895cdc9ba844dffc5e58cb13ce2665ed1a79a63bb1f937e
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+
+Private Sub Document_Open()
+Dim gallstone As Integer
+Dim campaniliform As Variant
+capitulation = "nontransferable"
+flowerless = "statehouse"
+nonparametric
+linecut = 50 + 52
+ Pmt 0, linecut, 16628, 28182, 8
+End Sub
+
+
+
+
+

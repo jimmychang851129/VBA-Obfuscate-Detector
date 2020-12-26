@@ -1,0 +1,15 @@
+Filename     : ./macros/23f4a774007e2fc64a2824e5973bb695a64667d8d832fbc29806976dad67d7f7
+OLE stream   : Macros/VBA/Pkojurjndzvwg
+VBA filename : Pkojurjndzvwg.frm
+----------------------------------------
+Attribute VB_Name = "Pkojurjndzvwg"
+Attribute VB_Base = "0{06E08E63-3252-4F28-9A1A-F5C266D87C1A}{83A05C58-29C1-4A8D-9A81-6933DDBC0942}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False
+Sub Xhnluidouvvob()
+Debug.Print "NXBUWWD" + DDD + "pOLON"
+End Sub

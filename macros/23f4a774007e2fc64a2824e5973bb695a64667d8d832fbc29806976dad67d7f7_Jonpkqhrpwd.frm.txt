@@ -1,0 +1,12 @@
+Filename     : ./macros/23f4a774007e2fc64a2824e5973bb695a64667d8d832fbc29806976dad67d7f7
+OLE stream   : Macros/VBA/Jonpkqhrpwd
+VBA filename : Jonpkqhrpwd.frm
+----------------------------------------
+Attribute VB_Name = "Jonpkqhrpwd"
+Attribute VB_Base = "0{5B9C1FEB-AF80-449B-914F-2001B4EA4D09}{18B558F6-4B06-4723-8760-60E186E7EB66}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

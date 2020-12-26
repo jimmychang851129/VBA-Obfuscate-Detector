@@ -1,0 +1,12 @@
+Filename     : ./macros/139cbc96d5b04d68b2093ec38913bd874eb8aac98ba77bb8c477d674397e2630
+OLE stream   : Macros/VBA/v40503
+VBA filename : v40503.frm
+----------------------------------------
+Attribute VB_Name = "v40503"
+Attribute VB_Base = "0{A469A894-A152-48DE-BCA7-6AFA796BB894}{259606F5-800C-42CD-A3D8-AC923731E1CA}"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Attribute VB_TemplateDerived = False
+Attribute VB_Customizable = False

