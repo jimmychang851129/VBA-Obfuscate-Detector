@@ -1,5 +1,0 @@
-Filename     : ./macros/dd0496cf5a8bd0744f5cd64c3b886458d8f04839942ec6fae00fd3e8caffbc76
-OLE stream   : Macros/VBA/Z_7790_1
-VBA filename : Z_7790_1.bas
-----------------------------------------
-Attribute VB_Name = "Z_7790_1"

@@ -1,5 +1,0 @@
-Filename     : ./macros/46c8ae00e30728dc11848c82882f580ac6dbf9c3a9a3926fae9888a8887ed540
-OLE stream   : VBA/Module1
-VBA filename : Module1.bas
-----------------------------------------
-Attribute VB_Name = "Module1"

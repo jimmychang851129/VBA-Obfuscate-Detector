@@ -1,8 +1,0 @@
-Filename     : ./macros/bfe75f173a6a2cc8b181717ae2576fba09d816c0366b2930e8e627895689838f
-OLE stream   : VBA/Module1
-VBA filename : Module1.bas
-----------------------------------------
-Attribute VB_Name = "Module1"
-Sub asdasdasd()
-
-End Sub
