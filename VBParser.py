@@ -20,5 +20,12 @@ def SimpleTokenParser(source_code: str) -> list:
     return myFormatter.token_list
 
 if __name__ == "__main__":
-    code = 'Sub AAA()\nMsgbox("Fake + Sub")\nDim GG\nGG = 2+2\nEnd Sub'
-    print(SimpleTokenParser(code))
+    code = '''
+    Sub AAA():
+        A = Array(1,2,3,4,5, Chr(123), ChrB(234), ChrW(3453))
+    End Sub
+    '''
+    code = code.strip().split('\n')
+    print(code)
+    for c in code:
+        print(SimpleTokenParser(c))
