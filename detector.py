@@ -54,14 +54,24 @@ def CountArray(token_list: list):
         arr_count += c1
         ascii_arr_count += c2
     print('Array Count: {}, ASCII Array Count: {}'.format(arr_count, ascii_arr_count))
-
+def CheckChr(token_list: list):
+    use_chr, use_chrB, use_chrW = False, False, False
+    for tokens in token_list:
+        for token in tokens:
+            if token[0] == Token.Name.Builtin:
+                t_name = token[1].lower()
+                if  t_name == 'chr':
+                    use_chr = True
+                elif t_name == 'chrb':
+                    use_chrB = True
+                elif t_name == 'chrw':
+                    use_chrW = True
+    print('Using Chr: {}, Using ChrB: {}, Using ChrW: {}'.format(use_chr, use_chrB, use_chrW))
 def StringConcatDetect(src: str):
     token_list = _getTokens(src)
     CountArray(token_list)
-    #TODO: Chr, ChrW, ChrB
+    CheckChr(token_list)
     #TODO: +, &, XOR
-    #TODO: case sensitive?
-    pass
 if __name__ == "__main__":
     with open('test_cases/test_array_detect.txt', 'r') as f:
         code = f.read()
