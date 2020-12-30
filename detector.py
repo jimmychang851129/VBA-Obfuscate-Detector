@@ -67,17 +67,28 @@ def CheckChr(token_list: list):
                 elif t_name == 'chrw':
                     use_chrW = True
     print('Using Chr: {}, Using ChrB: {}, Using ChrW: {}'.format(use_chr, use_chrB, use_chrW))
+def CountConcatOperator(token_list: list, operator: str):
+    op_count, str_op_count = 0, 0
+    for tokens in token_list:
+        for i, token in enumerate(tokens):
+            if token[0] == Token.Operator:
+                if token[1] == operator:
+                    op_count += 1
+                    if (i - 1 >= 0 and tokens[i-1][0] == Token.Literal.String.Double) or\
+                        (i + 1 < len(tokens) and tokens[i+1][0] == Token.Literal.String.Double):
+                        str_op_count += 1
+    print('Operator \'{}\' Count: {}, String Concat Operator \'{}\' Count: {}'.format(operator, op_count, operator, str_op_count))
 def StringConcatDetect(src: str):
     token_list = _getTokens(src)
     CountArray(token_list)
     CheckChr(token_list)
-    #TODO: +, &, XOR
+    CountConcatOperator(token_list, '+')
+    CountConcatOperator(token_list, '&')
 if __name__ == "__main__":
     with open('test_cases/test_array_detect.txt', 'r') as f:
         code = f.read()
     StringConcatDetect(code)
-    '''
-    with open('test_cases/test_array_detect_2.txt', 'r') as f:
+    print('==========================')
+    with open('test_cases/test_string_operator.txt', 'r') as f:
         code = f.read()
     StringConcatDetect(code)
-    '''
