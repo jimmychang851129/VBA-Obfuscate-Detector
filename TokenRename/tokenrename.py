@@ -6,6 +6,7 @@ import math, os, sys
 import argparse
 sys.path.append("../")
 from VBParser import SimpleTokenParser
+from ysj_io import printResult
 
 charlist = " 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~"
 
@@ -97,8 +98,7 @@ def writeFile(filelist,EntropyList,outputdir):
             out = ",".join([str(x) for x in EntropyList[i]])
             fw.write(filelist[i]+","+out+"\n")
 
-def CalculateSingleEntropy(filepath):
-    code = open(filepath,'r').read()
+def CalculateSingleEntropy(code):
     tokenlist = getToken(code)
     tokenlist = getVar(tokenlist)
     return Entropy(tokenlist)
@@ -112,7 +112,7 @@ def ParseArg():
     args = parser.parse_args()
     return args
 
-def PrintResult(ret):
+def printEntropy(ret):
     entropyName = ["Overall Entropy","Variable Name Entropy","Function Name Entropy","Strings Entropy"]
     Threshold = [3.5,3.31,2.6,2.18]
     cnt = 0
@@ -128,8 +128,15 @@ def PrintResult(ret):
 
 def main(args):
     if args.test == True:
-        ret = CalculateSingleEntropy(args.file)
-        PrintResult(ret)
+        code = open(args.file,'r').read()
+        ret = CalculateSingleEntropy(code)
+        outputio = dict()
+        entropyName = ["Overall Entropy","Variable Name Entropy","Function Name Entropy","Strings Entropy"]
+        Threshold = [3.5,3.31,2.6,2.18]
+        for i in range(4):
+            outputio[entropyName[i]] = (ret[i],Threshold[i])
+        printResult("String Replacement",outputio)
+        printEntropy(ret)
     else:
         entrolist, filelist = getEntropy(args.inputdir)
         writeFile(filelist,entrolist,args.outputdir)
