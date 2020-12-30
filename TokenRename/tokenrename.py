@@ -2,26 +2,12 @@ from pygments import highlight
 from pygments.lexers import VBScriptLexer
 from pygments.formatter import Formatter
 from pygments.token import Token
-import math, os
+import math, os, sys
 import argparse
+sys.path.append("../")
+from VBParser import SimpleTokenParser
 
 charlist = " 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~"
-
-class MyFormatter(Formatter):
-    def __init__(self, **options):
-        super().__init__(**options)
-        self.token_list = list()
-    def format(self, tokensource, outfile):
-        for type, value in tokensource:
-            if type != Token.Text.Whitespace:
-                self.token_list.append((type, value))
-
-def SimpleTokenParser(source_code: str) -> list:
-    """Tokenize the source code to pygments.token.Token.Return a list of (type, value) tuples.
-    """
-    myFormatter = MyFormatter()
-    highlight(source_code, VBScriptLexer(), myFormatter)
-    return myFormatter.token_list
 
 def countEntropy(chardict,cnt):
     entropy = 0
@@ -128,9 +114,13 @@ def ParseArg():
 
 def PrintResult(ret):
     entropyName = ["Overall Entropy","Variable Name Entropy","Function Name Entropy","Strings Entropy"]
+    Threshold = [3.5,3.31,2.6,2.18]
+    cnt = 0
     for i in range(len(ret)):
-        print("%s ... %f"%(entropyName[i],ret[i]))
-    if ret[0] > 3.5:
+        print("%s ... %f / %f ... %s"%(entropyName[i],ret[i],Threshold[i]))
+        if ret[i] > Threshold[i]:
+            cnt += 1
+    if cnt >= 2:
         print("Token Renaming Detection ... True")
     else:
         print("Token Renaming Detection ... False")
