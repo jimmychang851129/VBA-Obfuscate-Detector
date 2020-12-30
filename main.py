@@ -1,144 +1,53 @@
 #!/usr/bin/env python
 import os
-import re
 import argparse
-import subprocess
-import pcode2code
-from oletools.olevba import VBA_Parser
-from ysj_io import printResult
-
-class VBAObject():
-    def __init__(self, ioc, dir=""):
-        self.ioc = ioc
-        self.rev_codes = None # Should be a dic {stream: []}
-        self.src_codes = None # Should be a dic {stream: []}
-
-    def set_rev_codes(self, obj):
-        self.rev_codes = obj
-
-    def set_src_codes(self, obj):
-        self.src_codes = obj
-
-    def print_rev_codes(self):
-        for k, v in self.rev_codes.items():
-            print(f"Stream: {k}\n{v}\n{'-' * 20}")
-
-    def print_src_codes(self):
-        for k, v in self.src_codes.items():
-            print(f"Stream: {k}\n{v}\n{'-' * 20}")
-
-def get_code_diff(src, rev):
-    get_code_diff = 0
-    total = len(rev.strip().split("\n")) + len(src.strip().split("\n"))
-    with open("rev", "w") as outfile:
-        outfile.write(rev)
-    with open("src", "w") as outfile:
-        outfile.write(src)
-    try:
-        cmd = "diff -biB rev src | wc -l"
-        ps = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-        output = ps.communicate()[0].decode("utf-8")
-        output = int(output.strip())
-        code_diff = (output / total)
-    except:
-        print("Fail to compare source code and reversed code in ", k)
-    os.remove("rev")
-    os.remove("src")
-
-    result = {"source and reverse code diff": (code_diff, 0.5)}
-    printResult("P-Code Stomping", result)
-
-def extract_src_codes(file):
-    dic = {}
-    parser = VBA_Parser(file)
-    for (_, sname, _, code) in parser.extract_macros():
-        sname = sname.split("/")[-1]
-        if sname not in dic:
-            lines = code.split("\n")[1: ]
-            dic[sname] = "\n".join(lines) # remove the first line
-        else:
-            print(f"Error in src_codes: repeat {sname}")
-    return dic
-
-
-def extract_rev_codes(raw):
-    dic = {}
-    for rev in raw.split("stream : "):
-        lines = [l for l in rev.split("\n") if l != ""]
-        if len(lines) == 0:
-            continue
-        stream_name = None
-        for i, l in enumerate(lines):
-            # Extract Stream Name
-            if i == 0:
-                stream_name = l.split(" ")[0].split("/")[-1]
-                if stream_name not in dic:
-                    dic[stream_name] = []
-                else:
-                    print(f"Error in rev_codes: repeat {stream_name}")
-            elif i > 1: # b/c i == 1 is "=" * 40
-                l = re.sub(r"[0-9]*: ", "", l)
-                dic[stream_name].append(l)
-
-        dic[stream_name] = "\n".join(dic[stream_name])
-    return dic
-
-
-def process(file):
-    # Extract pcodes and Reverse into source codes
-    temp_file = "temp_for_pcode"
-    temp_code = "temp_for_reverse_VBA"
-    try:
-        subprocess.run(["python3", "pcodedmp.py", "-d", file, "-o", temp_file])
-    except:
-        print("Fail to execute the pcodedump library.")
-    try:
-        pcode2code.process(temp_file, temp_code, ispcodedump=True)
-    except:
-        print("Fail to process pcode to source code.")
-    raw = open(temp_code, "r").read()
-
-    # Remove the temporary file used to store the cache pcodes
-    if os.path.isfile(temp_file):
-        os.remove(temp_file)
-    if os.path.isfile(temp_code):
-        os.remove(temp_code)
-    return raw
+from tqdm                    import tqdm
+from VBAParse.VBAObject      import VBAObject
+from VBAParse.utils          import process, extract_src_codes, extract_rev_codes
+from PcodeCompare.detector   import CodeDiffDetect
+from TokenConcat.detector    import StringConcatDetect
+from TokenRename.tokenrename import CalculateSingleEntropy
 
 def main():
-
     parser = argparse.ArgumentParser(description="Analyzing VBA.")
     parser.add_argument("-f", "--file", action="store", type=str,
                         help="specify a valid Office .doc file.")
-    parser.add_argument("-d", "--dir", action="store", type=str, default=os.getcwd(),
-                        help="specify a existing folder to store output (optional).")
     args = parser.parse_args()
 
     # Prepare the arguments
-    file, folder = args.file, args.dir
+    file = args.file
     assert os.path.isfile(file)
-    assert os.path.isdir(folder)
 
     # Process file content into VBAObject
-    vbaobj = VBAObject(ioc=file, dir=folder) # ioc is used to name the output file
     src_codes_dic = extract_src_codes(file)
-    vbaobj.set_src_codes(src_codes_dic)
-    
-    # Process raw reverse source codes into one or more code sections 
     raw_rev_codes = process(file)
     rev_codes_dic = extract_rev_codes(raw_rev_codes)
-    vbaobj.set_rev_codes(rev_codes_dic)
+    vbaobj = VBAObject(
+        ioc=file,
+        rev_codes=rev_codes_dic,
+        src_codes=src_codes_dic
+    )
     
     # Compare two kind of source codes
     if vbaobj.src_codes is not None:
-        for k in vbaobj.src_codes.keys():
+        for k in tqdm(vbaobj.src_codes.keys()):
             if k == "ThisDocument":
                 continue
-            elif k not in vbaobj.rev_codes:
-                continue
-            else:
-                get_code_diff(vbaobj.src_codes[k],
-                              vbaobj.rev_codes[k])
+            print(k)
+            src = vbaobj.src_codes[k]
+            rev = vbaobj.rev_codes[k] if k in vbaobj.rev_codes else src
+            try: # Tag 1.
+                CodeDiffDetect(src, rev)
+            except:
+                pass
+            try: # Tag 2.
+                StringConcatDetect(rev)
+            except:
+                pass
+            try: # Tag 3.
+                CalculateSingleEntropy(rev)
+            except:
+                pass
 
 if __name__ == '__main__':
     main()
