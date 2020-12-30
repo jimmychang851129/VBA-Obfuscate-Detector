@@ -117,7 +117,8 @@ def PrintResult(ret):
     Threshold = [3.5,3.31,2.6,2.18]
     cnt = 0
     for i in range(len(ret)):
-        print("%s ... %f / %f ... %s"%(entropyName[i],ret[i],Threshold[i]))
+        ans = "True" if ret[i] > Threshold[i] else "False"
+        print("%s ... %f / %f ... %s"%(entropyName[i],ret[i],Threshold[i],ans))
         if ret[i] > Threshold[i]:
             cnt += 1
     if cnt >= 2:
