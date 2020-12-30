@@ -1,5 +1,6 @@
 
 .DS_Store
-macros/.DS_Store
+macros/
 test_cases/.DS_Store
 __pycache__/*.pyc
+*.pyc
