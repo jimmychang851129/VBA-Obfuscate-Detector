@@ -11,7 +11,7 @@ def _getTokens(src: str):
         if s != '':
             token_list.append(SimpleTokenParser(s))
     return token_list
-def FunctionChain(src: str):
+def FunctionChainDetect(src: str):
     token_list = _getTokens(src)
     class FuncNode:
         def __init__(self, name):
@@ -83,4 +83,4 @@ if __name__ == "__main__":
     print('==========================')
     with open('test_cases/test_array_detect_2.txt', 'r') as f:
         code = f.read()
-    print(FunctionChain(code))
+    print(FunctionChainDetect(code))

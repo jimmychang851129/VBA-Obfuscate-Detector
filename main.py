@@ -7,6 +7,7 @@ from VBAParse.utils          import process, extract_src_codes, extract_rev_code
 from PcodeCompare.detector   import CodeDiffDetect
 from TokenConcat.detector    import StringConcatDetect
 from TokenRename.tokenrename import CalculateSingleEntropy
+from JumpControlFlow.detector import FunctionChainDetect
 
 def main():
     parser = argparse.ArgumentParser(description="Analyzing VBA.")
@@ -48,6 +49,11 @@ def main():
                 CalculateSingleEntropy(rev)
             except:
                 pass
+            try: # Tag 4.??
+                FunctionChainDetect(rev)
+            except:
+                pass
+
 
 if __name__ == '__main__':
     main()
