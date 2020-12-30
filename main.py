@@ -5,7 +5,7 @@ import argparse
 import subprocess
 import pcode2code
 from oletools.olevba import VBA_Parser
-
+from ysj_io import printResult
 
 class VBAObject():
     def __init__(self, ioc, dir=""):
@@ -28,36 +28,25 @@ class VBAObject():
             print(f"Stream: {k}\n{v}\n{'-' * 20}")
 
 def get_code_diff(src, rev):
-    code_diff = {}
+    get_code_diff = 0
+    total = len(rev.strip().split("\n")) + len(src.strip().split("\n"))
+    with open("rev", "w") as outfile:
+        outfile.write(rev)
+    with open("src", "w") as outfile:
+        outfile.write(src)
+    try:
+        cmd = "diff -biB rev src | wc -l"
+        ps = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        output = ps.communicate()[0].decode("utf-8")
+        output = int(output.strip())
+        code_diff = (output / total)
+    except:
+        print("Fail to compare source code and reversed code in ", k)
+    os.remove("rev")
+    os.remove("src")
 
-    if rev is None or src is None:
-        return code_diff
-
-    for k in rev.keys():
-        if k == "ThisDocument":
-            continue
-
-        code_diff[k] = 0
-        if k not in src:
-            continue
-        else:
-            total = len(rev[k].strip().split("\n")) + len(src[k].strip().split("\n"))
-            with open("rev", "w") as outfile:
-                outfile.write(rev[k])
-            with open("src", "w") as outfile:
-                outfile.write(src[k])
-            try:
-                cmd = "diff -biB rev src | wc -l"
-                ps = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-                output = ps.communicate()[0].decode("utf-8")
-                output = int(output.strip())
-                code_diff[k] = (output / total)
-            except:
-                print("Fail to compare source code and reversed code in ", k)
-            os.remove("rev")
-            os.remove("src")
-    return code_diff
-
+    result = {"source and reverse code diff": (code_diff, 0.5)}
+    printResult("P-Code Stomping", result)
 
 def extract_src_codes(file):
     dic = {}
@@ -116,7 +105,6 @@ def process(file):
         os.remove(temp_code)
     return raw
 
-
 def main():
 
     parser = argparse.ArgumentParser(description="Analyzing VBA.")
@@ -142,8 +130,15 @@ def main():
     vbaobj.set_rev_codes(rev_codes_dic)
     
     # Compare two kind of source codes
-    diff = get_code_diff(vbaobj.src_codes, vbaobj.rev_codes)
-
+    if vbaobj.src_codes is not None:
+        for k in vbaobj.src_codes.keys():
+            if k == "ThisDocument":
+                continue
+            elif k not in vbaobj.rev_codes:
+                continue
+            else:
+                get_code_diff(vbaobj.src_codes[k],
+                              vbaobj.rev_codes[k])
 
 if __name__ == '__main__':
     main()
