@@ -2,3 +2,4 @@
 .DS_Store
 macros/.DS_Store
 test_cases/.DS_Store
+__pycache__/*.pyc

@@ -27,26 +27,36 @@ class VBAObject():
         for k, v in self.src_codes.items():
             print(f"Stream: {k}\n{v}\n{'-' * 20}")
 
-    def get_code_diff(self):
-        src, rev = self.src_codes, self.rev_codes
-        if rev is None or src is None:
-            return
-        for k in rev.keys():
-            print("-" * 30)
-            if k not in src:
-                print(k)
-            # else:
-            #     with open("rev", "w") as outfile:
-            #         outfile.write(rev[k])
-            #     with open("src", "w") as outfile:
-            #         outfile.write(src[k])
-            #     subprocess.run([
-            #         "diff",
-            #         "rev",
-            #         "src"
-            #     ])
-            #     os.remove("rev")
-            #     os.remove("src")
+def get_code_diff(src, rev):
+    code_diff = {}
+
+    if rev is None or src is None:
+        return code_diff
+
+    for k in rev.keys():
+        if k == "ThisDocument":
+            continue
+
+        code_diff[k] = 0
+        if k not in src:
+            continue
+        else:
+            total = len(rev[k].strip().split("\n")) + len(src[k].strip().split("\n"))
+            with open("rev", "w") as outfile:
+                outfile.write(rev[k])
+            with open("src", "w") as outfile:
+                outfile.write(src[k])
+            try:
+                cmd = "diff -biB rev src | wc -l"
+                ps = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+                output = ps.communicate()[0].decode("utf-8")
+                output = int(output.strip())
+                code_diff[k] = (output / total)
+            except:
+                print("Fail to compare source code and reversed code in ", k)
+            os.remove("rev")
+            os.remove("src")
+    return code_diff
 
 
 def extract_src_codes(file):
@@ -88,7 +98,7 @@ def extract_rev_codes(raw):
 def process(file):
     # Extract pcodes and Reverse into source codes
     temp_file = "temp_for_pcode"
-    temp_code = "temp_for_source_VBA"
+    temp_code = "temp_for_reverse_VBA"
     try:
         subprocess.run(["python3", "pcodedmp.py", "-d", file, "-o", temp_file])
     except:
@@ -132,7 +142,7 @@ def main():
     vbaobj.set_rev_codes(rev_codes_dic)
     
     # Compare two kind of source codes
-    # vbaobj.get_code_diff()
+    diff = get_code_diff(vbaobj.src_codes, vbaobj.rev_codes)
 
 
 if __name__ == '__main__':
