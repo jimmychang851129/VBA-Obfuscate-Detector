@@ -101,7 +101,13 @@ def writeFile(filelist,EntropyList,outputdir):
 def CalculateSingleEntropy(code):
     tokenlist = getToken(code)
     tokenlist = getVar(tokenlist)
-    return Entropy(tokenlist)
+    ret = Entropy(tokenlist)
+    outputio = dict()
+    entropyName = ["Overall Entropy","Variable Name Entropy","Function Name Entropy","Strings Entropy"]
+    Threshold = [3.5,3.31,2.6,2.18]
+    for i in range(4):
+        outputio[entropyName[i]] = (ret[i],Threshold[i])
+    printResult("String Replacement",outputio)
 
 def ParseArg():
     parser = argparse.ArgumentParser()
@@ -130,12 +136,6 @@ def main(args):
     if args.test == True:
         code = open(args.file,'r').read()
         ret = CalculateSingleEntropy(code)
-        outputio = dict()
-        entropyName = ["Overall Entropy","Variable Name Entropy","Function Name Entropy","Strings Entropy"]
-        Threshold = [3.5,3.31,2.6,2.18]
-        for i in range(4):
-            outputio[entropyName[i]] = (ret[i],Threshold[i])
-        printResult("String Replacement",outputio)
         printEntropy(ret)
     else:
         entrolist, filelist = getEntropy(args.inputdir)
