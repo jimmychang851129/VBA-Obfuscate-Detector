@@ -1,6 +1,6 @@
 from VBParser import SimpleTokenParser
 from pygments.token import Token
-
+from ysj_io import printResult
 def _getTokens(src: str):
     # remove underline '_'
     src = src.replace('_\n', '')
@@ -53,7 +53,11 @@ def CountArray(token_list: list):
         c1, c2, _ = _doCountArray(tokens, 0)
         arr_count += c1
         ascii_arr_count += c2
-    print('Array Count: {}, ASCII Array Count: {}'.format(arr_count, ascii_arr_count))
+    #print('Array Count: {}, ASCII Array Count: {}'.format(arr_count, ascii_arr_count))
+    ret_val = 0
+    if arr_count != 0:
+        ret_val = ascii_arr_count/arr_count
+    return 'ASCII Array Rate', ret_val
 def CheckChr(token_list: list):
     use_chr, use_chrB, use_chrW = False, False, False
     for tokens in token_list:
@@ -66,7 +70,8 @@ def CheckChr(token_list: list):
                     use_chrB = True
                 elif t_name == 'chrw':
                     use_chrW = True
-    print('Using Chr: {}, Using ChrB: {}, Using ChrW: {}'.format(use_chr, use_chrB, use_chrW))
+    #print('Using Chr: {}, Using ChrB: {}, Using ChrW: {}'.format(use_chr, use_chrB, use_chrW))
+    return 'Used Chr()', use_chr or use_chrB or use_chrW
 def CountConcatOperator(token_list: list, operator: str):
     op_count, str_op_count = 0, 0
     for tokens in token_list:
@@ -77,18 +82,29 @@ def CountConcatOperator(token_list: list, operator: str):
                     if (i - 1 >= 0 and tokens[i-1][0] == Token.Literal.String.Double) or\
                         (i + 1 < len(tokens) and tokens[i+1][0] == Token.Literal.String.Double):
                         str_op_count += 1
-    print('Operator \'{}\' Count: {}, String Concat Operator \'{}\' Count: {}'.format(operator, op_count, operator, str_op_count))
+    #('Operator \'{}\' Count: {}, String Concat Operator \'{}\' Count: {}'.format(operator, op_count, operator, str_op_count))
+    ret_val = 0
+    if op_count != 0:
+        ret_val = str_op_count/op_count
+    return 'String Concatenation Operator \'{}\''.format(operator), ret_val
 def StringConcatDetect(src: str):
     token_list = _getTokens(src)
-    CountArray(token_list)
-    CheckChr(token_list)
-    CountConcatOperator(token_list, '+')
-    CountConcatOperator(token_list, '&')
+    io_data = dict()
+    item, score = CountArray(token_list)
+    io_data[item] = (score, 0.5)
+    item, score = CheckChr(token_list)
+    io_data[item] = (score, None)
+    item, score = CountConcatOperator(token_list, '+')
+    io_data[item] = (score, 0.5)
+    item, score = CountConcatOperator(token_list, '&')
+    io_data[item] = (score, 0.5)
+    printResult('String Concatenation Detection', io_data)
+    return io_data
 if __name__ == "__main__":
     with open('test_cases/test_array_detect.txt', 'r') as f:
         code = f.read()
-    StringConcatDetect(code)
+    print(StringConcatDetect(code))
     print('==========================')
     with open('test_cases/test_string_operator.txt', 'r') as f:
         code = f.read()
-    StringConcatDetect(code)
+    print(StringConcatDetect(code))
