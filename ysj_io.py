@@ -35,7 +35,8 @@ def printResult(title: str, data: dict):
 			
 		else:
 			print_condi = getPrintCondi(score)
-			print_score = colored("Yes" if score else "No")
+			print_score = colored("Yes" if score else "No", "red" if score else None)
+			subtitle = colored(key, "red" if score else "grey", attrs=["bold"])
 
 
 		print(
