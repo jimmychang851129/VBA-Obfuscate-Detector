@@ -38,17 +38,20 @@ def FunctionChainDetect(src: str):
             return ret_node
         def GetNodeCount(self):
             return len(self.nodes)
-        def _doTraverse(self, root: FuncNode, now: FuncNode):
+        def _doTraverse(self, now: FuncNode, stack: list):
             assert self.traversed is not None
-            if self.traversed[now.GetName()] and now.GetName() == root.GetName():
+            if now not in stack:
+                stack.append(now)
+            else:
                 # Avoid recursion
                 return 0
             self.traversed[now.GetName()] = True
             max_child_count = 0
             for node in now.next:
-                child_count = self._doTraverse(root, node)
+                child_count = self._doTraverse(node, stack)
                 if child_count > max_child_count:
                     max_child_count = child_count
+            stack.pop(stack.index(now))
             return max_child_count + 1 # self
         def CalculateMaxLength(self):
             self.traversed = dict()
@@ -57,7 +60,7 @@ def FunctionChainDetect(src: str):
             max_len = 0
             for node in self.nodes.values():
                 if not self.traversed[node.GetName()]:
-                    now_len = self._doTraverse(node, node)
+                    now_len = self._doTraverse(node, [])
                     if now_len > max_len:
                         max_len = now_len
             return max_len
