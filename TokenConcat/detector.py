@@ -3,6 +3,7 @@ from pygments.token import Token
 from ysj_io import printResult
 def _getTokens(src: str):
     # remove underline '_'
+    src = src.replace('\r\n', '\n')
     src = src.replace('_\n', '')
     src = src.strip().split('\n')
     token_list = []
@@ -20,31 +21,32 @@ def _doCountArray(tokens, idx):
     parent_stack = 0
     i = idx
     while i < len(tokens):
-        if tokens[i] == (Token.Name.Builtin, 'Array'):
-            if in_array:
+        if in_array:
+            if tokens[i] == (Token.Name.Builtin, 'Array'):
                 arr_c, ascii_c, new_idx = _doCountArray(tokens, i)
                 arr_count += arr_c
                 ascii_arr_count += ascii_c
-                i = new_idx
+                i = new_idx + 1
                 continue
-            else:
-                in_array = True
-                arr_count += 1
-        elif tokens[i] == (Token.Punctuation, '('):
-            if in_array:
+            elif tokens[i] == (Token.Punctuation, '('):
                 parent_stack += 1
-        elif tokens[i] == (Token.Punctuation, ')'):
-            if in_array:
+            elif tokens[i] == (Token.Punctuation, ')'):
                 parent_stack -= 1
                 if parent_stack == 0:
                     if is_ascii:
                         ascii_arr_count += 1
                     in_array = False
-        elif parent_stack > 0:
-            if tokens[i][0] == Token.Literal.Number.Integer:
-                val = int(tokens[i][1])
-                if val < 0 and val > 255:
-                    is_ascii = False
+                    if idx != 0:
+                        break
+            if parent_stack == 1:
+                if tokens[i][0] == Token.Literal.Number.Integer:
+                    val = int(tokens[i][1])
+                    if val < 0 and val > 255:
+                        is_ascii = False
+        else:
+            if tokens[i] == (Token.Name.Builtin, 'Array'):
+                in_array = True
+                arr_count += 1
         i += 1
     return arr_count, ascii_arr_count, i
 def CountArray(token_list: list):
