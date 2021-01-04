@@ -55,20 +55,23 @@ def main():
             printTitle(k)
             src = vbaobj.src_codes[k]
             rev = vbaobj.rev_codes[k] if k in vbaobj.rev_codes else src
+            target = rev
+            if len(src) != len(rev):
+                target = src
             try: # Tag 1.
                 CodeDiffDetect(src, rev)
             except:
                 pass
             try: # Tag 2.
-                StringConcatDetect(rev)
+                StringConcatDetect(target)
             except:
                 pass
             try: # Tag 3.
-                CalculateSingleEntropy(rev)
+                CalculateSingleEntropy(target)
             except:
                 pass
-            try: # Tag 4.??
-                FunctionChainDetect(rev)
+            try: # Tag 4.
+                FunctionChainDetect(target)
             except:
                 pass
 
@@ -85,5 +88,5 @@ if __name__ == '__main__':
     By @Yvonne, @Shupo, @Jimmy
     ''')
 
-    while True:
-        main()
+    # while True:
+    main()

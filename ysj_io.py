@@ -17,7 +17,7 @@ def printTitle(title: str):
 
 def printResult(title: str, data: dict):
 	indent = "  "
-	cprint("\n" + indent + title, "white")
+	cprint("\n" + indent + title, "grey")
 
 	for key, value in data.items():
 		score, thres = value

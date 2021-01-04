@@ -3,4 +3,8 @@
 macros/
 test_cases/.DS_Store
 __pycache__/*.pyc
+demo_cases/
+*.DS_Store
 *.pyc
+rev
+src
