@@ -2,7 +2,7 @@
 
 ![](https://github.com/jimmychang851129/VBA-Deobfuscator/blob/main/image/logo.png?raw=true)
 
-SYJDetector is the final project in the Malware Malware Reverse Engineering and Analysis, National Taiwan University.
+SYJDetector is the final project of the course CommE 5059, the Malware Malware Reverse Engineering and Analysis in National Taiwan University.
 
 SYJ Detector aims to detect the vba obfuscation techniques used in microsoft CFB files.
 
@@ -16,23 +16,6 @@ This project is developed by [tpainting](https://github.com/tpainting), [yuyuanh
 $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
-
-## Dataset
-
-The Dataset is a credit to VirusTotal.
-:warning: PLEASE BE CAREFUL AS THEY ARE MALWARE SAMPLES.
-
-[Dataset (Dropbox) ](https://www.dropbox.com/s/papk5xt0shalsv0/macros.tar.gz?dl=0)
-
-`macros`: macros extracted from VirusTotal Academic Malware Samples (a sample may contain multiple VBA modules, using the IoC to identify them).
-```
-Filename     : {filename}
-OLE stream   : {olestream}
-VBA filename : {vba_filename}
-----------------------------------------
-{VBA code}
-```
-
 ## Methodology
 
 ### Common VBA obfuscation Methods
